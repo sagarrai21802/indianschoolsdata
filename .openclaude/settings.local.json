@@ -4,7 +4,8 @@
       "Bash(printf '\\\\n---\\\\n')",
       "Bash(python3:*)",
       "Bash(rm -rf \"/Users/apple/Desktop/new/scraped_data\")",
-      "Bash(rm -f \"/Users/apple/Desktop/new\"/*.backup \"/Users/apple/Desktop/new\"/*.bak \"/Users/apple/Desktop/new\"/*.log \"/Users/apple/Desktop/new\"/checkpoint*.json \"/Users/apple/Desktop/new\"/mumbai_test.json \"/Users/apple/Desktop/new\"/next_data.json \"/Users/apple/Desktop/new\"/scraped_schools.json \"/Users/apple/Desktop/new\"/test_results.json \"/Users/apple/Desktop/new\"/all_schools_combined.csv \"/Users/apple/Desktop/new\"/all_schools_combined.json)"
+      "Bash(rm -f \"/Users/apple/Desktop/new\"/*.backup \"/Users/apple/Desktop/new\"/*.bak \"/Users/apple/Desktop/new\"/*.log \"/Users/apple/Desktop/new\"/checkpoint*.json \"/Users/apple/Desktop/new\"/mumbai_test.json \"/Users/apple/Desktop/new\"/next_data.json \"/Users/apple/Desktop/new\"/scraped_schools.json \"/Users/apple/Desktop/new\"/test_results.json \"/Users/apple/Desktop/new\"/all_schools_combined.csv \"/Users/apple/Desktop/new\"/all_schools_combined.json)",
+      "WebFetch(domain:yellowslate.com)"
     ]
   }
 }

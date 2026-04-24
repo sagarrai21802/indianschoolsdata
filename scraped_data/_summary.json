@@ -2,18 +2,18 @@
   "statistics": {
     "total_cities": 1,
     "processed_cities": 1,
-    "total_schools": 939,
-    "total_pages": 80,
-    "start_time": "2026-04-24T23:00:57.722784",
-    "end_time": "2026-04-24T23:06:26.383347"
+    "total_schools": 37,
+    "total_pages": 3,
+    "start_time": "2026-04-24T23:55:24.993094",
+    "end_time": "2026-04-24T23:55:56.609774"
   },
   "cities": {
     "delhi": {
       "city": "delhi",
-      "total_schools": 939,
-      "pages_scraped": 80,
+      "total_schools": 37,
+      "pages_scraped": 3,
       "listing_only": true,
-      "scraped_at": "2026-04-24T23:06:26.382719"
+      "scraped_at": "2026-04-24T23:55:56.609407"
     }
   }
 }

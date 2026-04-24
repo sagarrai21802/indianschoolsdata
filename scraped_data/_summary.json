@@ -1,0 +1,19 @@
+{
+  "statistics": {
+    "total_cities": 1,
+    "processed_cities": 1,
+    "total_schools": 810,
+    "total_pages": 69,
+    "start_time": "2026-04-24T21:22:49.135271",
+    "end_time": "2026-04-24T21:27:37.435726"
+  },
+  "cities": {
+    "delhi": {
+      "city": "delhi",
+      "total_schools": 810,
+      "pages_scraped": 69,
+      "listing_only": true,
+      "scraped_at": "2026-04-24T21:27:37.430793"
+    }
+  }
+}

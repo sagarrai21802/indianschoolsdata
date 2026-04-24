@@ -209,29 +209,15 @@ class YellowScraper:
 
     async def _go_to_next_page(self, page, current_page: int) -> bool:
         next_page = current_page + 1
-        clicked = await page.evaluate(
-            """
-            (nextPage) => {
-              const pageLinks = Array.from(document.querySelectorAll('.pagination .page-link'));
-              const numericLink = pageLinks.find((el) => el.textContent.trim() === String(nextPage));
-              if (numericLink && numericLink.tagName === 'A') {
-                numericLink.click();
-                return true;
-              }
 
-              const lastLink = document.querySelector('.pagination .page-item:last-child .page-link');
-              if (lastLink && lastLink.tagName === 'A') {
-                lastLink.click();
-                return true;
-              }
-
-              return false;
-            }
-            """,
-            next_page,
-        )
-        if not clicked:
-            return False
+        numeric_link = page.locator(".pagination .page-link", has_text=str(next_page))
+        if await numeric_link.count() > 0:
+            await numeric_link.first.click()
+        else:
+            next_arrow = page.locator(".pagination .page-item:last-child .page-link")
+            if await next_arrow.count() == 0:
+                return False
+            await next_arrow.first.click()
 
         try:
             await page.wait_for_function(
@@ -242,7 +228,7 @@ class YellowScraper:
                   return active && Number(active.textContent.trim()) !== previousPage;
                 }
                 """,
-                current_page,
+                arg=current_page,
                 timeout=60000,
             )
         except Exception:

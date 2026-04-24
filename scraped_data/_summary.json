@@ -4,8 +4,8 @@
     "processed_cities": 1,
     "total_schools": 37,
     "total_pages": 3,
-    "start_time": "2026-04-24T23:55:24.993094",
-    "end_time": "2026-04-24T23:55:56.609774"
+    "start_time": "2026-04-25T00:46:01.410026",
+    "end_time": "2026-04-25T00:46:14.990273"
   },
   "cities": {
     "delhi": {
@@ -13,7 +13,72 @@
       "total_schools": 37,
       "pages_scraped": 3,
       "listing_only": true,
-      "scraped_at": "2026-04-24T23:55:56.609407"
+      "scraped_at": "2026-04-25T00:46:14.989874",
+      "stop_reason": "max_pages_reached",
+      "completed": false,
+      "max_pages_limited": true,
+      "validation_passed": true,
+      "validation_errors": [],
+      "pages_visited": [
+        1,
+        2,
+        3
+      ],
+      "highest_visible_page_seen": 145,
+      "pages_with_zero_new_schools": [],
+      "duplicate_hits": 0,
+      "saved_school_folders": 37,
+      "page_stats": [
+        {
+          "page": 1,
+          "cards_found": 20,
+          "unique_schools_found": 12,
+          "new_schools_saved": 12,
+          "duplicate_hits": 0,
+          "visible_numbers": [
+            1,
+            2,
+            3,
+            145
+          ],
+          "visible_last_page": 145,
+          "has_exact_next": true,
+          "signature_seen_on_page": null
+        },
+        {
+          "page": 2,
+          "cards_found": 21,
+          "unique_schools_found": 13,
+          "new_schools_saved": 13,
+          "duplicate_hits": 0,
+          "visible_numbers": [
+            1,
+            2,
+            3,
+            145
+          ],
+          "visible_last_page": 145,
+          "has_exact_next": true,
+          "signature_seen_on_page": null
+        },
+        {
+          "page": 3,
+          "cards_found": 20,
+          "unique_schools_found": 12,
+          "new_schools_saved": 12,
+          "duplicate_hits": 0,
+          "visible_numbers": [
+            1,
+            2,
+            3,
+            4,
+            145
+          ],
+          "visible_last_page": 145,
+          "has_exact_next": true,
+          "signature_seen_on_page": null
+        }
+      ]
     }
   }
 }

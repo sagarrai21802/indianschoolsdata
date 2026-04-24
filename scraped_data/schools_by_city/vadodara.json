@@ -1,0 +1,140 @@
+{
+  "city": "vadodara",
+  "total_schools": 4,
+  "schools": [
+    {
+      "id": "navrachana-international-school-bhayli",
+      "name": "Navrachana International School",
+      "slug": "/school/vadodara/navrachana-international-school-bhayli",
+      "city": "vadodara",
+      "locality": "Bhayli",
+      "address": "Bhayli",
+      "board": "CBSE/IB",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:25:45.107196",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "gujarat-public-school-atladara",
+      "name": "GUJARAT PUBLIC SCHOOL",
+      "slug": "/school/vadodara/gujarat-public-school-atladara",
+      "city": "vadodara",
+      "locality": "Atladara",
+      "address": "Atladara",
+      "board": "CBSE/State Board",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:25:48.082066",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "manav-kendra-gyan-mandir-school-karjan",
+      "name": "MANAV KENDRA GYAN MANDIR SCHOOL",
+      "slug": "/school/vadodara/manav-kendra-gyan-mandir-school-karjan",
+      "city": "vadodara",
+      "locality": "Karjan",
+      "address": "Karjan",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:25:50.735954",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "techmero-atladara",
+      "name": "Techmero",
+      "slug": "/school/vadodara/techmero-atladara",
+      "city": "vadodara",
+      "locality": "Atladara",
+      "address": "Atladara",
+      "board": "To be affiliated to STATE/OTHER BOARD",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Class Eligibility Checker",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fschools%2Fthumb.png"
+      ],
+      "scraped_at": "2026-04-24T19:25:53.157803",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    }
+  ]
+}

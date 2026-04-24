@@ -1,0 +1,72 @@
+{
+  "city": "rajahmundry",
+  "total_schools": 2,
+  "schools": [
+    {
+      "id": "sri-satya-sai-gurukulam-english-medium-school-navabharat-nagar",
+      "name": "Sri Satya Sai Gurukulam English Medium School",
+      "slug": "/school/rajahmundry/sri-satya-sai-gurukulam-english-medium-school-navabharat-nagar",
+      "city": "rajahmundry",
+      "locality": "Navabharat Nagar",
+      "address": "Navabharat Nagar",
+      "board": "ICSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Class 1 - Class 10",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:33:04.536472",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "bharatiya-vidya-bhavans-residentional-public-school-namavaram",
+      "name": "Bharatiya Vidya Bhavans Residentional Public School",
+      "slug": "/school/rajahmundry/bharatiya-vidya-bhavans-residentional-public-school-namavaram",
+      "city": "rajahmundry",
+      "locality": "Namavaram",
+      "address": "Namavaram",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "LKG - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:33:07.833935",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    }
+  ]
+}

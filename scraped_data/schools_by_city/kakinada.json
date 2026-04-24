@@ -1,0 +1,39 @@
+{
+  "city": "kakinada",
+  "total_schools": 1,
+  "schools": [
+    {
+      "id": "green-field-international-school-pedakothuru",
+      "name": "Green Field International School",
+      "slug": "/school/kakinada/green-field-international-school-pedakothuru",
+      "city": "kakinada",
+      "locality": "Pedakothuru",
+      "address": "Pedakothuru",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:33:43.927007",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    }
+  ]
+}

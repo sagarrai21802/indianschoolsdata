@@ -1,0 +1,208 @@
+{
+  "city": "sirsa",
+  "total_schools": 6,
+  "schools": [
+    {
+      "id": "gdgoenka-global-school-hisar",
+      "name": "G.D.GOENKA GLOBAL SCHOOL",
+      "slug": "/school/sirsa/gdgoenka-global-school-hisar",
+      "city": "sirsa",
+      "locality": "Hisar",
+      "address": "Hisar",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fschools%2Fthumb.png"
+      ],
+      "scraped_at": "2026-04-24T19:37:41.436648",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "shah-satnam-ji-boys-school-shri-gurusar-modia",
+      "name": "Shah Satnam Ji Boys School",
+      "slug": "/school/sirsa/shah-satnam-ji-boys-school-shri-gurusar-modia",
+      "city": "sirsa",
+      "locality": "Shri Gurusar Modia",
+      "address": "Shri Gurusar Modia",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "LKG - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:37:44.741245",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "saint-msg-glorious-international-school-begu",
+      "name": "Saint MSG Glorious International School",
+      "slug": "/school/sirsa/saint-msg-glorious-international-school-begu",
+      "city": "sirsa",
+      "locality": "Begu",
+      "address": "Begu",
+      "board": "IGCSE",
+      "medium": "English",
+      "school_type": "Private",
+      "established": "2009",
+      "grades": "Class 1 - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:37:47.969955",
+      "pincode": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "satluj-public-school-ellenabad",
+      "name": "Satluj Public School",
+      "slug": "/school/sirsa/satluj-public-school-ellenabad",
+      "city": "sirsa",
+      "locality": "Ellenabad",
+      "address": "Ellenabad",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "principal": "of the prestigious Satluj Public School",
+      "images": [],
+      "scraped_at": "2026-04-24T19:37:51.100755",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null
+    },
+    {
+      "id": "northern-international-school-hisar",
+      "name": "Northern International School",
+      "slug": "/school/sirsa/northern-international-school-hisar",
+      "city": "sirsa",
+      "locality": "Hisar",
+      "address": "Hisar",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "established": "2008",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fschools%2Fthumb.png"
+      ],
+      "scraped_at": "2026-04-24T19:37:54.217250",
+      "pincode": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "shah-satnam-ji-girls-school-sukh-sagar-colony",
+      "name": "Shah Satnam Ji Girls School",
+      "slug": "/school/sirsa/shah-satnam-ji-girls-school-sukh-sagar-colony",
+      "city": "sirsa",
+      "locality": "Sukh Sagar Colony",
+      "address": "Sukh Sagar Colony",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:37:56.779230",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    }
+  ]
+}

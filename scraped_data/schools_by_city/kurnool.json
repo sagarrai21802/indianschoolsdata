@@ -1,0 +1,109 @@
+{
+  "city": "kurnool",
+  "total_schools": 3,
+  "schools": [
+    {
+      "id": "nandi-academy-international-school-nandyal",
+      "name": "Nandi Academy International school",
+      "slug": "/school/kurnool/nandi-academy-international-school-nandyal",
+      "city": "kurnool",
+      "locality": "Nandyal",
+      "address": "Nandyal",
+      "board": "IGCSE/CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 10",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:33:58.250134",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "montessori-indus-em-high-school-gooty",
+      "name": "Montessori Indus E.M High School",
+      "slug": "/school/kurnool/montessori-indus-em-high-school-gooty",
+      "city": "kurnool",
+      "locality": "Gooty",
+      "address": "Gooty",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Class 1 - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1744444473606-2w5wu7ze.svg"
+      ],
+      "scraped_at": "2026-04-24T19:34:01.134342",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "edify-world-school-kurnool-gooty",
+      "name": "Edify World School Kurnool",
+      "slug": "/school/kurnool/edify-world-school-kurnool-gooty",
+      "city": "kurnool",
+      "locality": "Gooty",
+      "address": "Gooty",
+      "board": "CBSE/IGCSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Class Eligibility Checker",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fschools%2Fthumb.png"
+      ],
+      "scraped_at": "2026-04-24T19:34:03.735947",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    }
+  ]
+}

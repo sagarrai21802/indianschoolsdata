@@ -1,0 +1,1682 @@
+Script started
+Loaded 122 cities from cities_to_scrape.txt
+============================================================
+ YellowSlate Full Hierarchical Crawler
+============================================================
+
+==================================================
+ Scraping: MUMBAI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: mumbai
+  [collect_city_slugs] Found 12 slugs for mumbai
+    Found 12 unique school pages
+    Already scraped: 12 | Pending: 0
+  DONE: mumbai -> 12 schools
+
+==================================================
+ Scraping: DELHI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: delhi
+  [collect_city_slugs] Found 12 slugs for delhi
+    Found 12 unique school pages
+    Already scraped: 12 | Pending: 0
+  DONE: delhi -> 12 schools
+
+==================================================
+ Scraping: BANGALORE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: bangalore
+  [collect_city_slugs] Found 0 slugs for bangalore
+    Found 0 unique school pages
+  DONE: bangalore -> 0 schools
+
+==================================================
+ Scraping: HYDERABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: hyderabad
+  [collect_city_slugs] Found 12 slugs for hyderabad
+    Found 12 unique school pages
+    Already scraped: 12 | Pending: 0
+  DONE: hyderabad -> 12 schools
+
+==================================================
+ Scraping: CHENNAI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: chennai
+  [collect_city_slugs] Found 12 slugs for chennai
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Aachi Global school - AYANAMBAKKAM 
+      [2/12] Aachi Global School - Thangam Colony,Ann
+      [3/12] Casagrand International School - Kelamba
+      [4/12] Casagrand international school (Thiruvan
+      [5/12] Casagrand international school - Thirumu
+      [6/12] Good Earth School - Naduvirappattu 
+      [7/12] Alwin International Public School - Pada
+      [8/12] Chennai Public School - Anna Nagar 
+      [9/12] Alpha International School - Sembakkam 
+      [10/12] Chettinad Vidyashram - Raja Annamalai Pu
+      [11/12] The Indian Public School - Perungudi 
+      [12/12] APL Global School - Oggiyamduraipakkam 
+  [chennai] saved 12 schools
+  DONE: chennai -> 12 schools
+
+==================================================
+ Scraping: KOLKATA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kolkata
+  [collect_city_slugs] Found 12 slugs for kolkata
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] The Newtown School - Newtown 
+      [2/12] Loreto House - Park Street area 
+      [3/12] Don Bosco School - Beniapukur 
+      [4/12] Calcutta Boys School - Taltala 
+      [5/12] Orchids International School - Newtown 
+      [6/12] South Point High School - Ballygunge 
+      [7/12] Pratt Memorial School - Beniapukur 
+      [8/12] Delhi Public School - Newtown 
+      [9/12] Hariyana Vidya Mandir - Bidhannagar 
+      [10/12] Mahadevi Birla World Academy - Beniapuku
+      [11/12] Birla High School Mukundapur - Mukundapu
+      [12/12] Adamas International School - Belghoria 
+  [kolkata] saved 12 schools
+  DONE: kolkata -> 12 schools
+
+==================================================
+ Scraping: PUNE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: pune
+  [collect_city_slugs] Found 12 slugs for pune
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Vishwashanti Gurukul World School - Loni
+      [2/12] Mahindra International School - Pune 
+      [3/12] Symbiosis International School - Airport
+      [4/12] The Lexicon International School - Wagho
+      [5/12] The Kalyani School - Amanora Park Town,H
+      [6/12] St. Arnold's Central School - Wadgaon Sh
+      [7/12] MIT Vishwashanti Gurukul - Hadapsar 
+      [8/12] Sahyadri School - Pimpri-Chinchwad 
+      [9/12] Podar International School - Chinchwad E
+      [10/12] Go School - Airport Road 
+      [11/12] EuroSchool Kharadi - Kharadi 
+      [12/12] Global Indian International School (GIIS
+  [pune] saved 12 schools
+  DONE: pune -> 12 schools
+
+==================================================
+ Scraping: AHMEDABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ahmedabad
+  [collect_city_slugs] Found 12 slugs for ahmedabad
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Swaminarayan Dham International School -
+      [2/12] Global Mission International School - Ah
+      [3/12] SGVP International School - Chharodi 
+      [4/12] Khyati World School - Gandhinagar 
+      [5/12] Mother Teresa World School - Gandhinagar
+      [6/12] Green Valley School for Children - Lekaw
+      [7/12] JG. International School - Ahmedabad 
+      [8/12] Sattva Vikas School - Gandhinagar 
+      [9/12] Calorx Olive International School - Gand
+      [10/12] Shree Swaminarayan Gurukul - Ahmedabad 
+      [11/12] Satyameva Jayate International School - 
+      [12/12] PODAR INTERNATIONAL SCHOOL, AHMEDABAD - 
+  [ahmedabad] saved 12 schools
+  DONE: ahmedabad -> 12 schools
+
+==================================================
+ Scraping: SURAT
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: surat
+  [collect_city_slugs] Found 12 slugs for surat
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Shri Swaminarayan Mission School - Valak
+      [2/12] Seventh Day Adventist High School - Tich
+      [3/12] TAPOVAN SANSKARDHAM VIDYALAYA - NATIONAL
+      [4/12] Tapti Valley International School - Gang
+      [5/12] VISHWA BHARTI GIRLS INTERNATIONAL SCHOOL
+      [6/12] SDJ INTERNATIONAL SCHOOL - Palsana 
+      [7/12] Vishwa Bharti Girls International School
+      [8/12] P P Savani Cambridge International Schoo
+      [9/12] P P SAVANI CHAITANYA VIDYA - Mota Varach
+      [10/12] G. D. Goenka International School - City
+      [11/12] G.D. Goenka International School - City 
+      [12/12] Podar international school - City Light 
+  FAILED surat: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: JAIPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: jaipur
+  [collect_city_slugs] Found 11 slugs for jaipur
+    Found 11 unique school pages
+    Already scraped: 0 | Pending: 11
+  [2/2] Scraping 11 schools...
+      [1/11] Paras International English School - Bag
+      [2/11] THE RAJASTHAN SCHOOL - KOTPUTLI 
+      [3/11] Cambridge Court World School - Mansarova
+      [4/11] Jayshree Periwal High School - Chitrakoo
+      [5/11] Neerja Modi School - Shanthi Nagar,Mansa
+      [6/11] SRN International School - Ramnagariya 
+      [7/11] VIVEK TECHNO SCHOOL - Nagaur 
+      [8/11] Neerja Modi School - Mansarovar 
+      [9/11] Discovery International School - Pragpur
+      [10/11] Jayshree Periwal International School - 
+      [11/11] Orchids International School - Pragpura 
+  [jaipur] saved 11 schools
+  DONE: jaipur -> 11 schools
+
+==================================================
+ Scraping: LUCKNOW
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: lucknow
+  [collect_city_slugs] Found 12 slugs for lucknow
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Modern school - Lucknow 
+      [2/12] The Lucknow Public Collegiate - Ruchi Kh
+      [3/12] Jagran Public School - Viraj Khand,Gomti
+      [4/12] La Martiniere College - Martin Purva 
+      [5/12] La martiniere Girls College - Hazratganj
+      [6/12] G D Goenka Public School - Muzaffar Naga
+      [7/12] THE AVADH SCHOOL - Gomti Nagar 
+      [8/12] Buddha Public School - Hemariya 
+      [9/12] Shri Ramswaroop Memorial Public School -
+      [10/12] The Atoz Classes - Gomti Nagar 
+      [11/12] The Millennium School - Bargadi Magath 
+      [12/12] Vishwanath Academy - Lucknow 
+  [lucknow] saved 12 schools
+  DONE: lucknow -> 12 schools
+
+==================================================
+ Scraping: KANPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kanpur
+  [collect_city_slugs] Found 3 slugs for kanpur
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] THE JAIN INTERNATIONAL SCHOOL - Kalyanpu
+      [2/3] DAYANAND DINANATH EDUCATION CENTRE - RAM
+      [3/3] Footprints: Play School & Day Care Crech
+  [kanpur] saved 3 schools
+  DONE: kanpur -> 3 schools
+
+==================================================
+ Scraping: NAGPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: nagpur
+  [collect_city_slugs] Found 12 slugs for nagpur
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Bhonsala Military School - Nagpur 
+      [2/12] Shree Swaminarayan Gurukul International
+      [3/12] Edify School Nagpur - Nagpur 
+      [4/12] Orchids The International School Besa Ro
+      [5/12] Orchids The International School Koradi 
+      [6/12] Podar International School Besa Nagpur -
+      [7/12] Podar international school katol road - 
+      [8/12] Podar international school koradi - Nagp
+      [9/12] S N sahu - Nagpur 
+      [10/12] Podar International School Binaki Nagpur
+      [11/12] Podar International School-Bhandara - Na
+      [12/12] MDN FUTURE SCHOOL LAKHANI - Nagpur 
+  [nagpur] saved 12 schools
+  DONE: nagpur -> 12 schools
+
+==================================================
+ Scraping: INDORE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: indore
+  [collect_city_slugs] Found 12 slugs for indore
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] The Emerald Heights International School
+      [2/12] Columbia Convent School - Indore 
+      [3/12] THE NEW DIGAMBER PUBLIC SCHOOL - Khandwa
+      [4/12] PRAGYA GIRLS SCHOOL - Mardana Road 
+      [5/12] Vidyasagar School - Bicholi Mardana,Prag
+      [6/12] Daly College - Daly College Campus,Musak
+      [7/12] Delhi Public School - Indore 
+      [8/12] VEDAANT VIDHYAKULUM - Khandiya Road 
+      [9/12] Shri Ram Centennial School - Vasant Viha
+      [10/12] CHOITHRAM SCHOOL - Raj Township 
+      [11/12] Choithram International - Ashoka Colony,
+      [12/12] Agarwal Public School - Sector B,Greater
+  FAILED indore: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: THANE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: thane
+  [collect_city_slugs] Found 0 slugs for thane
+    Found 0 unique school pages
+  DONE: thane -> 0 schools
+
+==================================================
+ Scraping: BHOPAL
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: bhopal
+  [collect_city_slugs] Found 11 slugs for bhopal
+    Found 11 unique school pages
+    Already scraped: 0 | Pending: 11
+  [2/2] Scraping 11 schools...
+      [1/11] The Sanskaar Valley School - Chandanpura
+      [2/11] Arera Convent Higher Secondary School - 
+      [3/11] International Public School - Mandideep 
+      [4/11] Delhi Public School - Bhopal 
+      [5/11] St. Joseph International School For Exce
+      [6/11] Peoples Public School - Peoples Campus,B
+      [7/11] Raj Heights-The Global School - Mandidee
+      [8/11] Orchids International School - Bhopal 
+      [9/11] Wonder Kidz - Bhopal 
+      [10/11] Sagar Public School - Bhopal 
+      [11/11] NRI Global Discovery School - Bhopal 
+  [bhopal] saved 11 schools
+  DONE: bhopal -> 11 schools
+
+==================================================
+ Scraping: PATNA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: patna
+  [collect_city_slugs] Found 12 slugs for patna
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Usha Martin World School - Sohgi 
+      [2/12] Gyan Niketan - DANAPUR 
+      [3/12] Dony Polo Public School - Rasulpur Bijai
+      [4/12] ANNIE BESANT INTERNATIONAL SCHOOL - Hull
+      [5/12] PARK MOUNT PUBLIC SCHOOL - TEHSIL DANAPU
+      [6/12] BALDWIN ACADEMY - DHAWALPURA 
+      [7/12] KRISHNA NIKETAN KRISHNA VIHAR - JAKARIAP
+      [8/12] TRINITY GLOBAL SCHOOL - Near Zero Mile, 
+      [9/12] Gandhi Memorial English Boarding School 
+      [10/12] Trinity Global School - East Lakshmi Nag
+      [11/12] St. Michaels High School - Digha 
+      [12/12] R P S Residential Public School - Kalike
+  FAILED patna: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: VADODARA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: vadodara
+  [collect_city_slugs] Found 4 slugs for vadodara
+    Found 4 unique school pages
+    Already scraped: 0 | Pending: 4
+  [2/2] Scraping 4 schools...
+      [1/4] Navrachana International School - Bhayli
+      [2/4] GUJARAT PUBLIC SCHOOL - Atladara 
+      [3/4] MANAV KENDRA GYAN MANDIR SCHOOL - Karjan
+      [4/4] Techmero - Atladara 
+  FAILED vadodara: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: GHAZIABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ghaziabad
+  [collect_city_slugs] Found 12 slugs for ghaziabad
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] K.R. Mangalam World School - Vaishali 
+      [2/12] Amity International School - Sector 1,Va
+      [3/12] Indus Valley Public School - Khora Colon
+      [4/12] St. Joseph Academy - Marium Nagar,Ghukna
+      [5/12] Allen House Public School - Sector 2A,Va
+      [6/12] Swami Vivekanand Saraswati Vidyamandir -
+      [7/12] Platinum valley International School - C
+      [8/12] SUN VALLEY INTERNATIONAL SCHOOL - Vaisha
+      [9/12] S G PUBLIC SCHOOL - Sector 15,Vasundhara
+      [10/12] Dehradun Public School - Sector 23,Sanja
+      [11/12] Bal Bharati Public School - Brij Vihar,S
+      [12/12] Green Field Public School - Sector 23,Sa
+  [ghaziabad] saved 12 schools
+  DONE: ghaziabad -> 12 schools
+
+==================================================
+ Scraping: LUDHIANA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ludhiana
+  [collect_city_slugs] Found 2 slugs for ludhiana
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] Harvest International School - Jassowal 
+      [2/2] GURU RAM DASS ACADEMY - Hambran 
+  FAILED ludhiana: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: AGRA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: agra
+  [collect_city_slugs] Found 8 slugs for agra
+    Found 8 unique school pages
+    Already scraped: 0 | Pending: 8
+  [2/2] Scraping 8 schools...
+      [1/8] Sharda World School - Keetham 
+      [2/8] Mahi International School - Tehra 
+      [3/8] Agra public School - Artauni 
+      [4/8] Dr Maria Residential Public School - Sul
+      [5/8] Avenues International School, Firozabad 
+      [6/8] Edify World School Firozabad - Firozabad
+      [7/8] Crimson World School Agra - Tehra 
+      [8/8] Footprints: Play School & Day Care Crech
+  FAILED agra: dict contains fields not in fieldnames: 'gender', 'category', 'established'
+
+==================================================
+ Scraping: NASHIK
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: nashik
+  [collect_city_slugs] Found 6 slugs for nashik
+    Found 6 unique school pages
+    Already scraped: 0 | Pending: 6
+  [2/2] Scraping 6 schools...
+      [1/6] Wisdom High International School - Anand
+      [2/6] Orchid International School - Anjaneri 
+      [3/6] Sharad Pawar International School - Manu
+      [4/6] Kishor Suryawanshi International School 
+      [5/6] SKD INTERNATIONAL SCHOOL - Bhawade 
+      [6/6] Podar International School Gangapur Road
+  FAILED nashik: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: RAJKOT
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: rajkot
+  [collect_city_slugs] Found 12 slugs for rajkot
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Gangotri International School - Gondal 
+      [2/12] The Rajkumar College - Sadar 
+      [3/12] KRISHNA INTERNATIONAL SCHOOL - Tramba 
+      [4/12] Shree Swaminarayan Gurukul International
+      [5/12] NALANDA VIDYALAYA - Virpar 
+      [6/12] Sarvodaya school - Gondal 
+      [7/12] Podar International School - Haripar Pal
+      [8/12] Delhi World Public School - Haripar Pal 
+      [9/12] Podar International School, - Haripar Pa
+      [10/12] New Era School - Gulab Nagar 
+      [11/12] Nirmala Convent School - Kailash Nagar 
+      [12/12] Kendriya Vidyalaya - Ram Park 
+  [rajkot] saved 12 schools
+  DONE: rajkot -> 12 schools
+
+==================================================
+ Scraping: FARIDABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: faridabad
+  [collect_city_slugs] Found 12 slugs for faridabad
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Modern Delhi International School - Sect
+      [2/12] Jiva Public School - Sector 21A 
+      [3/12] Manav Rachna International School - Char
+      [4/12] Holy Child Public School - Sector 75 
+      [5/12] Carmel Convent School - Sector 6 
+      [6/12] Aravali International School - Sector 43
+      [7/12] Ryan International School - Sector 21A 
+      [8/12] Shiv Nadar School - Sector 82 
+      [9/12] St. Marys Convent Sr. Sec. School - Sect
+      [10/12] Dynasty International School - Sector 28
+      [11/12] Manav Rachna International School - Sect
+      [12/12] Grand Columbus International School - Fa
+  [faridabad] saved 12 schools
+  DONE: faridabad -> 12 schools
+
+==================================================
+ Scraping: GURUGRAM
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: gurugram
+  [collect_city_slugs] Found 12 slugs for gurugram
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] KIIT World School Gurugram - Badshahpur 
+      [2/12] Satya School, Gurugram - Sector 49 
+      [3/12] Manav Rachna International School, Secto
+      [4/12] Excelsior American School - Sector 43 
+      [5/12] Manav Rachna International School, Secto
+      [6/12] Lancers International School - Sector 53
+      [7/12] Scottish High International School - Sec
+      [8/12] The Shri Ram School - DLF Phase IV 
+      [9/12] Kunskapsskolan International School - Se
+      [10/12] Pathways World School - Bhondsi 
+      [11/12] G D Goenka Global School - DLF Phase 3 
+      [12/12] Shiv Nadar School - Sector 26A 
+  [gurugram] saved 12 schools
+  DONE: gurugram -> 12 schools
+
+==================================================
+ Scraping: NOIDA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: noida
+  [collect_city_slugs] Found 11 slugs for noida
+    Found 11 unique school pages
+    Already scraped: 0 | Pending: 11
+  [2/2] Scraping 11 schools...
+      [1/11] Heritage Xperiential Learning School, No
+      [2/11] Shiv Nadar School - Sector 168 
+      [3/11] Pathways school Noida - Block C,Sector 1
+      [4/11] Delhi Public School - Section 30 
+      [5/11] The Shriram Millenium School - Section 1
+      [6/11] Delhi public School - Sector 122 
+      [7/11] Raghav Global School - Sector 122 
+      [8/11] Step by Step School - Block B,Sector 132
+      [9/11] Lotus Valley International School - Sect
+      [10/11] The Khaitan School - Sector 40 
+      [11/11] St. Joseph School - Sector Alpha II 
+  [noida] saved 11 schools
+  DONE: noida -> 11 schools
+
+==================================================
+ Scraping: VIZAG
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: vizag
+  [collect_city_slugs] Found 11 slugs for vizag
+    Found 11 unique school pages
+    Already scraped: 0 | Pending: 11
+  [2/2] Scraping 11 schools...
+      [1/11] Sanskriti Global Pre School - Lawsons Ba
+      [2/11] Silver Oaks International School - Komma
+      [3/11] Silver Oaks International School - Rushi
+      [4/11] Little Angels School - MVP Colony 
+      [5/11] Bhashyam High School - Pendurthi 
+      [6/11] Ralla Bella International School - MVP C
+      [7/11] Kakatiya Public School - Gajuwaka 
+      [8/11] The Presidential School - Seethammadhara
+      [9/11] Visakha Valley School - Madhurawada 
+      [10/11] Delhi Public School - Steel Plant 
+      [11/11] Delhi Public School - Anandapuram 
+  FAILED vizag: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: COIMBATORE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: coimbatore
+  [collect_city_slugs] Found 12 slugs for coimbatore
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Bridgewoods International School - Kanna
+      [2/12] Vividh International Residential School 
+      [3/12] VIDYAA VIKAS INTERNATIONAL SCHOOL - Kara
+      [4/12] NAVA BHARATH NATIONAL SCHOOL - ANNUR 
+      [5/12] S J N INTERNATIONAL SCHOOL - VILLAGE PAN
+      [6/12] KOVAI VIDYASHRAM - Kovilpalayam 
+      [7/12] Isha Home School - Velliangiri Foothills
+      [8/12] Sainik School - Andigoundanur 
+      [9/12] THE UNITED PUBLIC SCHOOL - PERIYANAIKENP
+      [10/12] RATHINAM INTERNATIONAL PUBLIC SCHOOL - N
+      [11/12] Kaumaram Sushila International Residenti
+      [12/12] Disha A Life School - Achipatti 
+  [coimbatore] saved 12 schools
+  DONE: coimbatore -> 12 schools
+
+==================================================
+ Scraping: KOCHI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kochi
+  [collect_city_slugs] Found 12 slugs for kochi
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] The Choice School - Karingachira,Ambalam
+      [2/12] Toc H Public school - Vyttila 
+      [3/12] Prabhath Residential Public School - Pal
+      [4/12] Global Public School - Thiruvankulam 
+      [5/12] Aspire Residential Public School - Thiru
+      [6/12] Assisi Vidyaniketan Public School - Vytt
+      [7/12] Chinmaya Vidyalaya - Kannamaly 
+      [8/12] Campion School - Edapally 
+      [9/12] TIPS Globeducate Kochi - Edapally 
+      [10/12] Rajagiri Public School - Kalamassery 
+      [11/12] Vidyodaya School - Thevakkal 
+      [12/12] Footprints: Play School & Day Care Crech
+  FAILED kochi: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: CHANDIGARH
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: chandigarh
+  [collect_city_slugs] Found 12 slugs for chandigarh
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] St. Stephens School - Togan 
+      [2/12] Guru Nanak Public School - Sector 36-D,S
+      [3/12] The New Public School - Chandigarh 
+      [4/12] St. Josephs Senior Secondary School - Ch
+      [5/12] Ikidz Preschool - Chandigarh 
+      [6/12] Amity International School - Sahibzada A
+      [7/12] Xavier's Senior Secondary School - Chand
+      [8/12] Tender Heart High School - Chandigarh 
+      [9/12] C L Aggarwal D.A.V Model School - Chandi
+      [10/12] Kundan International School - Chandigarh
+      [11/12] Smart Wonders School - Sahibzada Ajit Si
+      [12/12] Mount Carmel School- Sector 47B - Chandi
+  [chandigarh] saved 12 schools
+  DONE: chandigarh -> 12 schools
+
+==================================================
+ Scraping: MYSORE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: mysore
+  [collect_city_slugs] Found 11 slugs for mysore
+    Found 11 unique school pages
+    Already scraped: 0 | Pending: 11
+  [2/2] Scraping 11 schools...
+      [1/11] Sri Ramakrishna Vidyashala - Yadavagiri 
+      [2/11] St Thomas Central School - Vishweshwaran
+      [3/11] De Paul International Residential School
+      [4/11] Pramati Hill View Academy - Kuvempunagar
+      [5/11] St. Joseph&apos;s Public School - Mysuru
+      [6/11] Jnanasarovara International Residential 
+      [7/11] Parivarthana School &amp; PU College - S
+      [8/11] SUPREME PUBLIC SCHOOL CA - Kanakadasa Na
+      [9/11] PODAR INTERNATIONAL SCHOOL - Mysuru 
+      [10/11] Kautilya Vidyalaya - Kanakadasa Nagar 
+      [11/11] GNANODAYA PUBLIC SCHOOL - Srirangapatna 
+  [mysore] saved 11 schools
+  DONE: mysore -> 11 schools
+
+==================================================
+ Scraping: VIZIANAGARAM
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: vizianagaram
+  [collect_city_slugs] Found 6 slugs for vizianagaram
+    Found 6 unique school pages
+    Already scraped: 0 | Pending: 6
+  [2/2] Scraping 6 schools...
+      [1/6] Sanskriti Global Pre School vizianagaram
+      [2/6] Sainik School - Vizianagaram 
+      [3/6] The Vizag International School - Vishakh
+      [4/6] Cambridge Montessori Preschool & Daycare
+      [5/6] EuroKids PreSchool - Vizianagaram 
+      [6/6] Kidzee Pre school - Bhagawan Nagar 
+  FAILED vizianagaram: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: VIJAYAWADA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: vijayawada
+  [collect_city_slugs] Found 7 slugs for vijayawada
+    Found 7 unique school pages
+    Already scraped: 0 | Pending: 7
+  [2/2] Scraping 7 schools...
+      [1/7] Delhi Public School - Nidamanuru 
+      [2/7] VISWABHARATHI WISEWOODS INTERNATIONAL SC
+      [3/7] Shree Swaminarayan Gurukul International
+      [4/7] Chigurupati Shri KrishnaVeni CBSE School
+      [5/7] K.C.P. Siddhartha Adarsh Residential Pub
+      [6/7] Slate The School- Vijayawada - Vishnupur
+      [7/7] Slate The School - Gannavaram - Gannavar
+  [vijayawada] saved 7 schools
+  DONE: vijayawada -> 7 schools
+
+==================================================
+ Scraping: RAJAHMUNDRY
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: rajahmundry
+  [collect_city_slugs] Found 2 slugs for rajahmundry
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] Sri Satya Sai Gurukulam English Medium S
+      [2/2] Bharatiya Vidya Bhavans Residentional Pu
+  FAILED rajahmundry: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: TIRUPATI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: tirupati
+  [collect_city_slugs] Found 8 slugs for tirupati
+    Found 8 unique school pages
+    Already scraped: 0 | Pending: 8
+  [2/2] Scraping 8 schools...
+      [1/8] Bhashyam Educational Institutions - New 
+      [2/8] EDIFY SCHOOL - TIRUPATI CHITTOOR 
+      [3/8] CANDOR NATIONAL PUBLIC SCHOOL - Ithepall
+      [4/8] SLATE - THE SCHOOL - Ramachandra Puram M
+      [5/8] Accord School - CHITTOOR 
+      [6/8] Sree Vidyanikethan International School 
+      [7/8] Podar International School - TIRUPATI CH
+      [8/8] Tiny Cherubs Pre School - TIRUPATI CHITT
+  FAILED tirupati: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: NELLORE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: nellore
+  [collect_city_slugs] Found 3 slugs for nellore
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] Akshara Vidyalaya - Venkatachalam 
+      [2/3] Simhapuri Public School - Mulumudi 
+      [3/3] Rainbow School - Dhanalakshmipuram 
+  [nellore] saved 3 schools
+  DONE: nellore -> 3 schools
+
+==================================================
+ Scraping: KAKINADA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kakinada
+  [collect_city_slugs] Found 1 slugs for kakinada
+    Found 1 unique school pages
+    Already scraped: 0 | Pending: 1
+  [2/2] Scraping 1 schools...
+      [1/1] Green Field International School - Pedak
+  [kakinada] saved 1 schools
+  DONE: kakinada -> 1 schools
+
+==================================================
+ Scraping: GUNTUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: guntur
+  [collect_city_slugs] Found 4 slugs for guntur
+    Found 4 unique school pages
+    Already scraped: 0 | Pending: 4
+  [2/2] Scraping 4 schools...
+      [1/4] Loyola Public School - Nallapadu Rural 
+      [2/4] VIVA THE SCHOOL - Gollamudi 
+      [3/4] Sri Rama Rural Academy - Eepuru 
+      [4/4] Bhashyam Educational Institutions - Gunt
+  [guntur] saved 4 schools
+  DONE: guntur -> 4 schools
+
+==================================================
+ Scraping: KURNOOL
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kurnool
+  [collect_city_slugs] Found 3 slugs for kurnool
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] Nandi Academy International school - Nan
+      [2/3] Montessori Indus E.M High School - Gooty
+      [3/3] Edify World School Kurnool - Gooty 
+  FAILED kurnool: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: ANANTAPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: anantapur
+  [collect_city_slugs] Found 0 slugs for anantapur
+    Found 0 unique school pages
+  DONE: anantapur -> 0 schools
+
+==================================================
+ Scraping: MEERUT
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: meerut
+  [collect_city_slugs] Found 3 slugs for meerut
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] St. Xaviers Girls School - Salarpur Jala
+      [2/3] Shantiniketan Vidyapeeth - Salarpur Jala
+      [3/3] JP Academy - RAJPURA 
+  FAILED meerut: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: ALIGARH
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: aligarh
+  [collect_city_slugs] Found 1 slugs for aligarh
+    Found 1 unique school pages
+    Already scraped: 0 | Pending: 1
+  [2/2] Scraping 1 schools...
+      [1/1] AL-BARAKAAT PUBLIC SCHOOL - Near Jamalpu
+  [aligarh] saved 1 schools
+  DONE: aligarh -> 1 schools
+
+==================================================
+ Scraping: BAREILLY
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: bareilly
+  [collect_city_slugs] Found 2 slugs for bareilly
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] Delhi Public School - PARSAKHERA 
+      [2/2] Manas Sthali Residential School - FARIDP
+  [bareilly] saved 2 schools
+  DONE: bareilly -> 2 schools
+
+==================================================
+ Scraping: MORADABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: moradabad
+  [collect_city_slugs] Found 0 slugs for moradabad
+    Found 0 unique school pages
+  DONE: moradabad -> 0 schools
+
+==================================================
+ Scraping: SAHARANPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: saharanpur
+  [collect_city_slugs] Found 1 slugs for saharanpur
+    Found 1 unique school pages
+    Already scraped: 0 | Pending: 1
+  [2/2] Scraping 1 schools...
+      [1/1] St. Joseph&apos;s School Saharanpur - Sa
+  [saharanpur] saved 1 schools
+  DONE: saharanpur -> 1 schools
+
+==================================================
+ Scraping: JAMMU
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: jammu
+  [collect_city_slugs] Found 5 slugs for jammu
+    Found 5 unique school pages
+    Already scraped: 0 | Pending: 5
+  [2/2] Scraping 5 schools...
+      [1/5] Sainik School - Jammu 
+      [2/5] KC Public School - Akhnoor Road 
+      [3/5] J&amp;k Police Public School - Suzadpu 
+      [4/5] Maharaja Harisingh Agricultural Collegia
+      [5/5] Footprints: Play School & Day Care Crech
+  FAILED jammu: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: SRINAGAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: srinagar
+  [collect_city_slugs] Found 0 slugs for srinagar
+    Found 0 unique school pages
+  DONE: srinagar -> 0 schools
+
+==================================================
+ Scraping: DEHRADUN
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: dehradun
+  [collect_city_slugs] Found 12 slugs for dehradun
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] The Doon School - Dehradun 
+      [2/12] St. Judes School - PNB Vihar,Majra 
+      [3/12] Doon International School Riverside Camp
+      [4/12] Doon International School - Dalanwala 
+      [5/12] Shri Ram Centennial School - Sherpur 
+      [6/12] Dehradun Hills Academy - Doiwala 
+      [7/12] Welham Girls School - Dalanwala 
+      [8/12] Kasiga School - Dehradun 
+      [9/12] Viverly Public School - Dobhalwala,Chukk
+      [10/12] Hopetown Girls School - Selakui 
+      [11/12] OAK GROVE SCHOOL - Jharipani 
+      [12/12] Touch Wood School - Chironwali 
+  [dehradun] saved 12 schools
+  DONE: dehradun -> 12 schools
+
+==================================================
+ Scraping: HARIDWAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: haridwar
+  [collect_city_slugs] Found 2 slugs for haridwar
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] Acharyakulam - Panchayanpur 
+      [2/2] Nirmal Ashram Deepmala Pagarani Public s
+  [haridwar] saved 2 schools
+  DONE: haridwar -> 2 schools
+
+==================================================
+ Scraping: ROORKEE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: roorkee
+  [collect_city_slugs] Found 0 slugs for roorkee
+    Found 0 unique school pages
+  DONE: roorkee -> 0 schools
+
+==================================================
+ Scraping: HALDWANI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: haldwani
+  [collect_city_slugs] Found 8 slugs for haldwani
+    Found 8 unique school pages
+    Already scraped: 0 | Pending: 8
+  [2/2] Scraping 8 schools...
+      [1/8] Siddharth Public School - Anandpur 
+      [2/8] The Bishops Heritage School - Anandpur 
+      [3/8] Gurukul International School - Himmatpur
+      [4/8] Gurukul International School - Bhagwanpu
+      [5/8] Nirmala Convent Senior Secondary School 
+      [6/8] St. Paul's Senior Secondary School - Kat
+      [7/8] St. Theresa Senior Secondary School  - K
+      [8/8] Naini Valley Sr. Secondary School - Kath
+  FAILED haldwani: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: AMRITSAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: amritsar
+  [collect_city_slugs] Found 6 slugs for amritsar
+    Found 6 unique school pages
+    Already scraped: 0 | Pending: 6
+  [2/2] Scraping 6 schools...
+      [1/6] Miri Piri Academy - Amritsar 
+      [2/6] DELHI PUBLIC SCHOOL - MANAWALA 
+      [3/6] Mamta Niketan Convent School - Tarn Tara
+      [4/6] International Fateh Academy - Jandiala R
+      [5/6] Podar International School - Amritsar 
+      [6/6] Young Star Defence Academy - Amritsar 
+  FAILED amritsar: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: JALANDHAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: jalandhar
+  [collect_city_slugs] Found 2 slugs for jalandhar
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] CT Public School - Greater Kailash,Moti 
+      [2/2] Podar International School Jalandhar - G
+  FAILED jalandhar: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: PATIALA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: patiala
+  [collect_city_slugs] Found 5 slugs for patiala
+    Found 5 unique school pages
+    Already scraped: 0 | Pending: 5
+  [2/2] Scraping 5 schools...
+      [1/5] Career Defence School - Rakhra 
+      [2/5] Yadavindra Public School - New Lal Bagh 
+      [3/5] The Helix Oxford Smart School - Patran 
+      [4/5] Apollo Public School - New Lal Bagh Colo
+      [5/5] Podar International School Patiala - Rak
+  FAILED patiala: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: BATHINDA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: bathinda
+  [collect_city_slugs] Found 0 slugs for bathinda
+    Found 0 unique school pages
+  DONE: bathinda -> 0 schools
+
+==================================================
+ Scraping: RAJPURA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: rajpura
+  [collect_city_slugs] Found 0 slugs for rajpura
+    Found 0 unique school pages
+  DONE: rajpura -> 0 schools
+
+==================================================
+ Scraping: HISSAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: hissar
+  [collect_city_slugs] Found 0 slugs for hissar
+    Found 0 unique school pages
+  DONE: hissar -> 0 schools
+
+==================================================
+ Scraping: SIRSA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sirsa
+  [collect_city_slugs] Found 6 slugs for sirsa
+    Found 6 unique school pages
+    Already scraped: 0 | Pending: 6
+  [2/2] Scraping 6 schools...
+      [1/6] G.D.GOENKA GLOBAL SCHOOL - Hisar 
+      [2/6] Shah Satnam Ji Boys School - Shri Gurusa
+      [3/6] Saint MSG Glorious International School 
+      [4/6] Satluj Public School - Ellenabad 
+      [5/6] Northern International School - Hisar 
+      [6/6] Shah Satnam Ji Girls School - Sukh Sagar
+  [sirsa] saved 6 schools
+  DONE: sirsa -> 6 schools
+
+==================================================
+ Scraping: FATHEHABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: fathehabad
+  [collect_city_slugs] Found 0 slugs for fathehabad
+    Found 0 unique school pages
+  DONE: fathehabad -> 0 schools
+
+==================================================
+ Scraping: BHIWANI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: bhiwani
+  [collect_city_slugs] Found 0 slugs for bhiwani
+    Found 0 unique school pages
+  DONE: bhiwani -> 0 schools
+
+==================================================
+ Scraping: REHARI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: rehari
+  [collect_city_slugs] Found 0 slugs for rehari
+    Found 0 unique school pages
+  DONE: rehari -> 0 schools
+
+==================================================
+ Scraping: NARNAUL
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: narnaul
+  [collect_city_slugs] Found 0 slugs for narnaul
+    Found 0 unique school pages
+  DONE: narnaul -> 0 schools
+
+==================================================
+ Scraping: MAHENDRAGARH
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: mahendragarh
+  [collect_city_slugs] Found 0 slugs for mahendragarh
+    Found 0 unique school pages
+  DONE: mahendragarh -> 0 schools
+
+==================================================
+ Scraping: REWWARI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: rewwari
+  [collect_city_slugs] Found 0 slugs for rewwari
+    Found 0 unique school pages
+  DONE: rewwari -> 0 schools
+
+==================================================
+ Scraping: PATAUDI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: pataudi
+  [collect_city_slugs] Found 0 slugs for pataudi
+    Found 0 unique school pages
+  DONE: pataudi -> 0 schools
+
+==================================================
+ Scraping: MANESAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: manesar
+  [collect_city_slugs] Found 0 slugs for manesar
+    Found 0 unique school pages
+  DONE: manesar -> 0 schools
+
+==================================================
+ Scraping: FARRUKHNAGAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: farrukhnagar
+  [collect_city_slugs] Found 0 slugs for farrukhnagar
+    Found 0 unique school pages
+  DONE: farrukhnagar -> 0 schools
+
+==================================================
+ Scraping: SOHNA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sohna
+  [collect_city_slugs] Found 0 slugs for sohna
+    Found 0 unique school pages
+  DONE: sohna -> 0 schools
+
+==================================================
+ Scraping: PALWAL
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: palwal
+  [collect_city_slugs] Found 0 slugs for palwal
+    Found 0 unique school pages
+  DONE: palwal -> 0 schools
+
+==================================================
+ Scraping: HATHIN
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: hathin
+  [collect_city_slugs] Found 0 slugs for hathin
+    Found 0 unique school pages
+  DONE: hathin -> 0 schools
+
+==================================================
+ Scraping: HODEL
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: hodel
+  [collect_city_slugs] Found 0 slugs for hodel
+    Found 0 unique school pages
+  DONE: hodel -> 0 schools
+
+==================================================
+ Scraping: NUH
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: nuh
+  [collect_city_slugs] Found 0 slugs for nuh
+    Found 0 unique school pages
+  DONE: nuh -> 0 schools
+
+==================================================
+ Scraping: TAORU
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: taoru
+  [collect_city_slugs] Found 0 slugs for taoru
+    Found 0 unique school pages
+  DONE: taoru -> 0 schools
+
+==================================================
+ Scraping: FPJHIRKA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: fpjhirka
+  [collect_city_slugs] Found 0 slugs for fpjhirka
+    Found 0 unique school pages
+  DONE: fpjhirka -> 0 schools
+
+==================================================
+ Scraping: PUNHANA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: punhana
+  [collect_city_slugs] Found 0 slugs for punhana
+    Found 0 unique school pages
+  DONE: punhana -> 0 schools
+
+==================================================
+ Scraping: NUHA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: nuha
+  [collect_city_slugs] Found 0 slugs for nuha
+    Found 0 unique school pages
+  DONE: nuha -> 0 schools
+
+==================================================
+ Scraping: GURGAON
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: gurgaon
+  [collect_city_slugs] Found 0 slugs for gurgaon
+    Found 0 unique school pages
+  DONE: gurgaon -> 0 schools
+
+==================================================
+ Scraping: BALLABGARH
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ballabgarh
+  [collect_city_slugs] Found 0 slugs for ballabgarh
+    Found 0 unique school pages
+  DONE: ballabgarh -> 0 schools
+
+==================================================
+ Scraping: PANCHKULA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: panchkula
+  [collect_city_slugs] Found 9 slugs for panchkula
+    Found 9 unique school pages
+    Already scraped: 0 | Pending: 9
+  [2/2] Scraping 9 schools...
+      [1/9] HANSRAJ PUBLIC SCHOOL - SECTOR-6 
+      [2/9] Kimberley The International School - Amb
+      [3/9] SHEMFORD Futuristic School - Abdullapur,
+      [4/9] Darshan Academy - Kalka 
+      [5/9] Sophia Convent School - Kalka 
+      [6/9] Roots Country School - Kalka 
+      [7/9] Aravali International School - Kalka 
+      [8/9] Unison International School - Kalka 
+      [9/9] Giggle and Grow Pre School - Kalka 
+  [panchkula] saved 9 schools
+  DONE: panchkula -> 9 schools
+
+==================================================
+ Scraping: AMBALA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ambala
+  [collect_city_slugs] Found 3 slugs for ambala
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] M.M.INTERNATIONAL SCHOOL - Mullana 
+      [2/3] Chaman Vatika Gurukul - Lohgarh 
+      [3/3] Springfield Public School - Patti Rangra
+  [ambala] saved 3 schools
+  DONE: ambala -> 3 schools
+
+==================================================
+ Scraping: KURUKSHETRA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kurukshetra
+  [collect_city_slugs] Found 3 slugs for kurukshetra
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] Gita Niketan Awasiya Vidyalaya - Vishnu 
+      [2/3] Gurukul Kurukshetra - Canal Colony 
+      [3/3] SKS INTERNATIONAL GURUKUL - Kirmach Road
+  FAILED kurukshetra: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: KARNAL
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: karnal
+  [collect_city_slugs] Found 2 slugs for karnal
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] THE GURUKUL NILOKHERI - PO SIDHPUR 
+      [2/2] Nishan Public School - Danialpur 
+  [karnal] saved 2 schools
+  DONE: karnal -> 2 schools
+
+==================================================
+ Scraping: PANIPAT
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: panipat
+  [collect_city_slugs] Found 2 slugs for panipat
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] Siddhartha International School - Samalk
+      [2/2] Delhi Public School - Karhans 
+  [panipat] saved 2 schools
+  DONE: panipat -> 2 schools
+
+==================================================
+ Scraping: SONIPAT
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sonipat
+  [collect_city_slugs] Found 8 slugs for sonipat
+    Found 8 unique school pages
+    Already scraped: 0 | Pending: 8
+  [2/2] Scraping 8 schools...
+      [1/8] Shri Ram Modern Senior Secondary School 
+      [2/8] Motilal Nehru School of Sports - Rai 
+      [3/8] LANDMARK INTERNATIONAL SCHOOL - Gohana 
+      [4/8] J P JAIN SENIOR SECONDRY SCHOOL - ShivCo
+      [5/8] Delhi Public School - Palri Kalan 
+      [6/8] Bal Bhavan International School - Gannau
+      [7/8] GEETANJALI SENIOR SECONDARY SCHOOL - Bar
+      [8/8] GD Goenka - Palri Kalan 
+  [sonipat] saved 8 schools
+  DONE: sonipat -> 8 schools
+
+==================================================
+ Scraping: ROHTAK
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: rohtak
+  [collect_city_slugs] Found 8 slugs for rohtak
+    Found 8 unique school pages
+    Already scraped: 0 | Pending: 8
+  [2/2] Scraping 8 schools...
+      [1/8] King&apos;s College India - Sector-5 
+      [2/8] DELHI PUBLIC SCHOOL - JINDROAD 
+      [3/8] G.D Goenka International School - Sonipa
+      [4/8] International Bharti School - 5thMileSto
+      [5/8] GURUKUL HIGH SCHOOL BHAIYAPUR LADHOUT - 
+      [6/8] DUHAN PUBLIC SCHOOL - JASSIA 
+      [7/8] Model School Haryana - Ambedkar Chowk 
+      [8/8] Orchids The International l Rohtak - Goh
+  [rohtak] saved 8 schools
+  DONE: rohtak -> 8 schools
+
+==================================================
+ Scraping: CHARKHIDHARI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: charkhidhari
+  [collect_city_slugs] Found 0 slugs for charkhidhari
+    Found 0 unique school pages
+  DONE: charkhidhari -> 0 schools
+
+==================================================
+ Scraping: GOA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: goa
+  [collect_city_slugs] Found 0 slugs for goa
+    Found 0 unique school pages
+  DONE: goa -> 0 schools
+
+==================================================
+ Scraping: PANAJI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: panaji
+  [collect_city_slugs] Found 0 slugs for panaji
+    Found 0 unique school pages
+  DONE: panaji -> 0 schools
+
+==================================================
+ Scraping: MARGAO
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: margao
+  [collect_city_slugs] Found 0 slugs for margao
+    Found 0 unique school pages
+  DONE: margao -> 0 schools
+
+==================================================
+ Scraping: VASCO
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: vasco
+  [collect_city_slugs] Found 0 slugs for vasco
+    Found 0 unique school pages
+  DONE: vasco -> 0 schools
+
+==================================================
+ Scraping: MAPUSA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: mapusa
+  [collect_city_slugs] Found 0 slugs for mapusa
+    Found 0 unique school pages
+  DONE: mapusa -> 0 schools
+
+==================================================
+ Scraping: PARDESI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: pardesi
+  [collect_city_slugs] Found 0 slugs for pardesi
+    Found 0 unique school pages
+  DONE: pardesi -> 0 schools
+
+==================================================
+ Scraping: CALANGUTE
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: calangute
+  [collect_city_slugs] Found 0 slugs for calangute
+    Found 0 unique school pages
+  DONE: calangute -> 0 schools
+
+==================================================
+ Scraping: BAGA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: baga
+  [collect_city_slugs] Found 0 slugs for baga
+    Found 0 unique school pages
+  DONE: baga -> 0 schools
+
+==================================================
+ Scraping: ANJUNA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: anjuna
+  [collect_city_slugs] Found 0 slugs for anjuna
+    Found 0 unique school pages
+  DONE: anjuna -> 0 schools
+
+==================================================
+ Scraping: VAGATOR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: vagator
+  [collect_city_slugs] Found 0 slugs for vagator
+    Found 0 unique school pages
+  DONE: vagator -> 0 schools
+
+==================================================
+ Scraping: PORVORIM
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: porvorim
+  [collect_city_slugs] Found 0 slugs for porvorim
+    Found 0 unique school pages
+  DONE: porvorim -> 0 schools
+
+==================================================
+ Scraping: PUDUCHERRY
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: puducherry
+  [collect_city_slugs] Found 0 slugs for puducherry
+    Found 0 unique school pages
+  DONE: puducherry -> 0 schools
+
+==================================================
+ Scraping: VARANASI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: varanasi
+  [collect_city_slugs] Found 12 slugs for varanasi
+    Found 12 unique school pages
+    Already scraped: 0 | Pending: 12
+  [2/2] Scraping 12 schools...
+      [1/12] Jagran Public School - Darekhu 
+      [2/12] Sunbeam School - LAHARTARA 
+      [3/12] SUNBEAM SUNCITY - KARSANA 
+      [4/12] THE ARYAN INTERNATIONAL SCHOOL - AmaraBy
+      [5/12] Sant Atulanand Convent School - Koirajpu
+      [6/12] Rajghat Besant School, a J Krishnamurti 
+      [7/12] RS Convent Sainik School &amp; Hostel - 
+      [8/12] SUNBEAM ENGLISH SCHOOL - VARANASI 
+      [9/12] MOUNT LITERA ZEE SCHOOL - Mohansarai Byp
+      [10/12] SUBHASH CHANDRA ACADEMY - Chakarama 
+      [11/12] GURU NANAK ENGLISH SCHOOL - Chhataripur 
+      [12/12] Glenhill School - Maheshpur 
+  [varanasi] saved 12 schools
+  DONE: varanasi -> 12 schools
+
+==================================================
+ Scraping: ALLAHABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: allahabad
+  [collect_city_slugs] Found 3 slugs for allahabad
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] Vishnu Bhagwan Public School - PRAYAGRAJ
+      [2/3] KhelGaon Public School - Kathula Gospur 
+      [3/3] Saint Johns Academy - Bajaha 
+  FAILED allahabad: dict contains fields not in fieldnames: 'classes'
+
+==================================================
+ Scraping: KANPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: kanpur
+  [collect_city_slugs] Found 3 slugs for kanpur
+    Found 3 unique school pages
+    Already scraped: 3 | Pending: 0
+  DONE: kanpur -> 3 schools
+
+==================================================
+ Scraping: AGRA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: agra
+  [collect_city_slugs] Found 8 slugs for agra
+    Found 8 unique school pages
+    Already scraped: 8 | Pending: 0
+  DONE: agra -> 8 schools
+
+==================================================
+ Scraping: LUCKNOW
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: lucknow
+  [collect_city_slugs] Found 12 slugs for lucknow
+    Found 12 unique school pages
+    Already scraped: 12 | Pending: 0
+  DONE: lucknow -> 12 schools
+
+==================================================
+ Scraping: VARANASI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: varanasi
+  [collect_city_slugs] Found 12 slugs for varanasi
+    Found 12 unique school pages
+    Already scraped: 12 | Pending: 0
+  DONE: varanasi -> 12 schools
+
+==================================================
+ Scraping: GORAKHPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: gorakhpur
+  [collect_city_slugs] Found 2 slugs for gorakhpur
+    Found 2 unique school pages
+    Already scraped: 0 | Pending: 2
+  [2/2] Scraping 2 schools...
+      [1/2] Vikas Bharti School - Tinkonia 
+      [2/2] GD GOENKA PUBLIC SCHOOL - DEORIA 
+  [gorakhpur] saved 2 schools
+  DONE: gorakhpur -> 2 schools
+
+==================================================
+ Scraping: JAUNPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: jaunpur
+  [collect_city_slugs] Found 0 slugs for jaunpur
+    Found 0 unique school pages
+  DONE: jaunpur -> 0 schools
+
+==================================================
+ Scraping: SULTANPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sultanpur
+  [collect_city_slugs] Found 0 slugs for sultanpur
+    Found 0 unique school pages
+  DONE: sultanpur -> 0 schools
+
+==================================================
+ Scraping: RAEBARELI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: raebareli
+  [collect_city_slugs] Found 0 slugs for raebareli
+    Found 0 unique school pages
+  DONE: raebareli -> 0 schools
+
+==================================================
+ Scraping: AMBEDKARNAGAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ambedkarnagar
+  [collect_city_slugs] Found 0 slugs for ambedkarnagar
+    Found 0 unique school pages
+  DONE: ambedkarnagar -> 0 schools
+
+==================================================
+ Scraping: FAIZABAD
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: faizabad
+  [collect_city_slugs] Found 0 slugs for faizabad
+    Found 0 unique school pages
+  DONE: faizabad -> 0 schools
+
+==================================================
+ Scraping: SULTANPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sultanpur
+  [collect_city_slugs] Found 0 slugs for sultanpur
+    Found 0 unique school pages
+  DONE: sultanpur -> 0 schools
+
+==================================================
+ Scraping: JAUNPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: jaunpur
+  [collect_city_slugs] Found 0 slugs for jaunpur
+    Found 0 unique school pages
+  DONE: jaunpur -> 0 schools
+
+==================================================
+ Scraping: MAU
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: mau
+  [collect_city_slugs] Found 0 slugs for mau
+    Found 0 unique school pages
+  DONE: mau -> 0 schools
+
+==================================================
+ Scraping: BALLIA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ballia
+  [collect_city_slugs] Found 1 slugs for ballia
+    Found 1 unique school pages
+    Already scraped: 0 | Pending: 1
+  [2/2] Scraping 1 schools...
+      [1/1] Devasthaly Vidyapeeth - PO CHILKAHAR 
+  [ballia] saved 1 schools
+  DONE: ballia -> 1 schools
+
+==================================================
+ Scraping: GHAZIPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: ghazipur
+  [collect_city_slugs] Found 0 slugs for ghazipur
+    Found 0 unique school pages
+  DONE: ghazipur -> 0 schools
+
+==================================================
+ Scraping: CHANDAULI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: chandauli
+  [collect_city_slugs] Found 0 slugs for chandauli
+    Found 0 unique school pages
+  DONE: chandauli -> 0 schools
+
+==================================================
+ Scraping: SONBHADRA
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sonbhadra
+  [collect_city_slugs] Found 0 slugs for sonbhadra
+    Found 0 unique school pages
+  DONE: sonbhadra -> 0 schools
+
+==================================================
+ Scraping: MIRZAPUR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: mirzapur
+  [collect_city_slugs] Found 3 slugs for mirzapur
+    Found 3 unique school pages
+    Already scraped: 0 | Pending: 3
+  [2/2] Scraping 3 schools...
+      [1/3] Burdwan Model School - Mirzapur 
+      [2/3] Burdwan Model School - Dewandighi 
+      [3/3] Kirpal Sagar Academy - Dariapur 
+  FAILED mirzapur: dict contains fields not in fieldnames: 'established'
+
+==================================================
+ Scraping: BHADOHI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: bhadohi
+  [collect_city_slugs] Found 0 slugs for bhadohi
+    Found 0 unique school pages
+  DONE: bhadohi -> 0 schools
+
+==================================================
+ Scraping: SANT RAVIDAS NAGAR
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: sant ravidas nagar
+  [collect_city_slugs] Found 0 slugs for sant ravidas nagar
+    Found 0 unique school pages
+  DONE: sant ravidas nagar -> 0 schools
+
+==================================================
+ Scraping: CHANDAULI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: chandauli
+  [collect_city_slugs] Found 0 slugs for chandauli
+    Found 0 unique school pages
+  DONE: chandauli -> 0 schools
+
+==================================================
+ Scraping: VARANASI
+==================================================
+  [1/2] Collecting school slugs...
+  [collect_city_slugs] Starting for city: varanasi
+  [collect_city_slugs] Found 12 slugs for varanasi
+    Found 12 unique school pages
+    Already scraped: 12 | Pending: 0
+  DONE: varanasi -> 12 schools
+
+============================================================
+ TOTAL SCHOOLS SCRAPED: 321
+ JSON: scraped_data/all_20260424_193839.json
+ CSV:  scraped_data/all_20260424_193839.csv
+============================================================

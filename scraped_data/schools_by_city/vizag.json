@@ -1,0 +1,521 @@
+{
+  "city": "vizag",
+  "total_schools": 12,
+  "schools": [
+    {
+      "id": "sanskriti-global-pre-school-lawsons-bay-colony",
+      "name": "Sanskriti Global Pre School",
+      "slug": "/school/vizag/sanskriti-global-pre-school-lawsons-bay-colony",
+      "city": "vizag",
+      "locality": "Lawsons Bay Colony",
+      "address": "Lawsons Bay Colony",
+      "board": "Other Boards",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "(Grade Pre-school - UKG)",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1774417642598gc81srjulo5.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417659160ze1boon45x.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417658904tjpienkqr4m.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417658647m9i8lz7e9lf.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417658358javd8z5sxz.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F17744176581022c4dawm8uzl.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417657828tt2qo4ondfa.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417657539fuzor7tgdu9.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F17744176572728i7zn6rzsxb.jpeg",
+        "https%3A%2F%2Fyellowslate.sgp1.digitaloceanspaces.com%2Fgallery%2F1774417656938sq2yl3dbaz.jpeg"
+      ],
+      "scraped_at": "2026-04-24T19:29:35.268186",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "oakridge-international-school-cherakupalle",
+      "name": "Oakridge International School",
+      "slug": "/school/visakhapatnam/oakridge-international-school-cherakupalle",
+      "city": "vizag",
+      "locality": "Cherakupalle",
+      "address": "Cherakupalle",
+      "board": "IGCSE/CBSE/IB",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Nursery - Class 12",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [],
+      "scraped_at": "2026-04-24T19:29:37.898582",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "silver-oaks-international-school-kommadi",
+      "name": "Silver Oaks International School",
+      "slug": "/school/vizag/silver-oaks-international-school-kommadi",
+      "city": "vizag",
+      "locality": "Kommadi",
+      "address": "Kommadi",
+      "board": "CBSE/IB",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "(Grade Nursery - 12)",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "principal": "Interaction",
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1704871966549590998659e481e5888e1704871966.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F17048719431383163848659e4807672001704871943.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F17048719121610690965659e47e83de101704871912.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1704871856550137997659e47b0b51681704871857.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1704871845353403488659e47a5a6b781704871846.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F17048716761792445166659e46fc0f8b61704871676.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F17048716621125502314659e46eeb70831704871663.webp",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FYoga.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FVolleyball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FThrowball.png"
+      ],
+      "scraped_at": "2026-04-24T19:29:40.829863",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null
+    },
+    {
+      "id": "silver-oaks-international-school-rushikonda-campus-rushikonda",
+      "name": "Silver Oaks International SchoolRushikonda Campus",
+      "slug": "/school/vizag/silver-oaks-international-school-rushikonda-campus-rushikonda",
+      "city": "vizag",
+      "locality": "Rushikonda",
+      "address": "Rushikonda",
+      "board": "IB",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "(Grade LKG - 10)",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "principal": "Y Sunitha",
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FYoga.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FTennis.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FSwimming.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FSkating.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FFootball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBasketball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBadminton.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FAthletics.png",
+        "https%3A%2F%2Fyellowslate-blog.blr1.digitaloceanspaces.com%2F2024%2F01%2F79.jpg"
+      ],
+      "scraped_at": "2026-04-24T19:29:43.310033",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null
+    },
+    {
+      "id": "little-angels-school-mvp-colony",
+      "name": "Little Angels School",
+      "slug": "/school/vizag/little-angels-school-mvp-colony",
+      "city": "vizag",
+      "locality": "MVP Colony",
+      "address": "MVP Colony",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Smart Classrooms",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FVolleyball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FThrowball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FTennis.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKarate.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FFootball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FChess.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCarroms.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBasketball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBadminton.png"
+      ],
+      "scraped_at": "2026-04-24T19:29:45.794282",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "bhashyam-high-school-pendurthi",
+      "name": "Bhashyam High School",
+      "slug": "/school/vizag/bhashyam-high-school-pendurthi",
+      "city": "vizag",
+      "locality": "Pendurthi",
+      "address": "Pendurthi",
+      "board": "State Board",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Smart Classrooms",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FVolleyball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FThrowball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FTennikoit.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FSkating.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKho-Kho.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKarate.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKabaddi.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FChess.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCarroms.png"
+      ],
+      "scraped_at": "2026-04-24T19:29:49.185435",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "ralla-bella-international-school-mvp-colony",
+      "name": "Ralla Bella International School",
+      "slug": "/school/vizag/ralla-bella-international-school-mvp-colony",
+      "city": "vizag",
+      "locality": "MVP Colony",
+      "address": "MVP Colony",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Smart Classrooms",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FYoga.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FTennis.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FSwimming.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FFootball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBadminton.png",
+        "https%3A%2F%2Fyellowslate-blog.blr1.digitaloceanspaces.com%2F2024%2F01%2F79.jpg",
+        "https%3A%2F%2Fyellowslate-blog.blr1.digitaloceanspaces.com%2F2024%2F02%2FBulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg"
+      ],
+      "scraped_at": "2026-04-24T19:29:52.586248",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "kakatiya-public-school-gajuwaka",
+      "name": "Kakatiya Public School",
+      "slug": "/school/vizag/kakatiya-public-school-gajuwaka",
+      "city": "vizag",
+      "locality": "Gajuwaka",
+      "address": "Gajuwaka",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Smart Classrooms",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FVolleyball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FThrowball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FTennis.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKho-Kho.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKabaddi.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FFootball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FChess.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCarroms.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FAthletics.png",
+        "https%3A%2F%2Fyellowslate-blog.blr1.digitaloceanspaces.com%2F2024%2F01%2F79.jpg"
+      ],
+      "scraped_at": "2026-04-24T19:29:55.933142",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "the-presidential-school-seethammadara",
+      "name": "The Presidential School",
+      "slug": "/school/vizag/the-presidential-school-seethammadara",
+      "city": "vizag",
+      "locality": "Seethammadhara",
+      "address": "Seethammadhara",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "(Grade LKG - 10)",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FYoga.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FVolleyball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FTennis.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FLawn-Tennis.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKarate.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKabaddi.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FFootball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FChess.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCarroms.png"
+      ],
+      "scraped_at": "2026-04-24T19:29:57.998073",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "visakha-valley-school-madhurawada",
+      "name": "Visakha Valley School",
+      "slug": "/school/vizag/visakha-valley-school-madhurawada",
+      "city": "vizag",
+      "locality": "Madhurawada",
+      "address": "Madhurawada",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "established": "1968",
+      "grades": "(Grade LKG - 12)",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FYoga.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKarate.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FGymnastics.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FFootball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FChess.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCarroms.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBasketball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FBadminton.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FAthletics.png"
+      ],
+      "scraped_at": "2026-04-24T19:30:00.340304",
+      "pincode": "",
+      "fees_text": "",
+      "rating": null,
+      "principal": ""
+    },
+    {
+      "id": "delhi-public-school-steel-plant",
+      "name": "Delhi Public School",
+      "slug": "/school/vizag/delhi-public-school-steel-plant",
+      "city": "vizag",
+      "locality": "Steel Plant",
+      "address": "Steel Plant",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "grades": "Smart Classrooms",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "principal": "",
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F167411664014169247163c8fe209b4831674116641.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fteam%2F1533576052_member.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FYoga.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FVolleyball.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FSwimming.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FKarate.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FHorseback-Riding.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FCricket.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FChess.png",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fsports%2FAthletics.png"
+      ],
+      "scraped_at": "2026-04-24T19:30:03.052706",
+      "pincode": "",
+      "established": "",
+      "fees_text": "",
+      "rating": null
+    },
+    {
+      "id": "delhi-public-school-anandapuram",
+      "name": "Delhi Public School",
+      "slug": "/school/vizag/delhi-public-school-anandapuram",
+      "city": "vizag",
+      "locality": "Anandapuram",
+      "address": "Anandapuram",
+      "board": "CBSE",
+      "medium": "English",
+      "school_type": "Private",
+      "established": "2014",
+      "grades": "Smart Classrooms",
+      "fees": {
+        "min": null,
+        "max": null,
+        "currency": "INR",
+        "period": "annually"
+      },
+      "contact": {
+        "phone": "+919513238818"
+      },
+      "facilities": [],
+      "admission": {
+        "status": "open"
+      },
+      "reviews_count": 5,
+      "principal": "",
+      "images": [
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886824.643.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886824.5978.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886824.5186.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886824.3893.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886823.7573.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886823.6611.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886823.6203.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886823.4349.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886823.209.jpg",
+        "https%3A%2F%2Fyellowslate.sgp1.cdn.digitaloceanspaces.com%2Fgallery%2F1533886822.4435.jpg"
+      ],
+      "scraped_at": "2026-04-24T19:30:05.612783",
+      "pincode": "",
+      "fees_text": "",
+      "rating": null
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Bholakpur,Kavadiguda",
+      "url": "https://yellowslate.com/schools/hyderabad/bholakpur-kavadiguda"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/bholakpur-kavadiguda/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Radiant School",
+      "url": "https://yellowslate.com/school/hyderabad/radiant-school-bholakpur-kavadiguda"
+    }
+  ],
+  "local_business": {
+    "name": "Radiant School - Bholakpur,Kavadiguda",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/radiant-school-bholakpur-kavadiguda",
+    "telephone": "+91 9618696212",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "1-6-174/15, Musheerabad, Bharathnagar, Hyderabad, Telangana 500020, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.40694,
+      "longitude": 78.5078489
+    }
+  },
+  "reviews": {
+    "number_of_items": 4,
+    "reviews": [
+      {
+        "school_name": "Radiant School - Bholakpur,Kavadiguda",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1-6-174/15, Musheerabad, Bharathnagar, Hyderabad, Telangana 500020, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/radiant-school-bholakpur-kavadiguda-bholakpur-kavadiguda-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "4"
+        },
+        "author": "Asmath Banu",
+        "date_published": "2023-06-05",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Only 500",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Radiant School - Bholakpur,Kavadiguda",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Shams Tabrez",
+        "date_published": "2023-04-05",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Radiant School - Bholakpur,Kavadiguda",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "MR RIZWAN",
+        "date_published": "2022-11-10",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Wow",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Radiant School - Bholakpur,Kavadiguda",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mr Suri",
+        "date_published": "2020-10-27",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It is my school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/radiant-school-bholakpur-kavadiguda",
+  "scraped_at": "2026-04-26T00:28:34.478079"
+}

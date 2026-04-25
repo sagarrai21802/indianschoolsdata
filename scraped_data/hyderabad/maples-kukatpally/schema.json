@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Kukatpally",
+      "url": "https://yellowslate.com/schools/hyderabad/kukatpally"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/kukatpally/cbse"
+    },
+    {
+      "position": 5,
+      "name": "MAPLES",
+      "url": "https://yellowslate.com/school/hyderabad/maples-kukatpally"
+    }
+  ],
+  "local_business": {
+    "name": "MAPLES - Kukatpally",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/maples-kukatpally",
+    "telephone": "+91 9885069399",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "FCW7+27R, Chaitanya Nagar, Vivekananda Nagar, Kukatpally, Hyderabad, Telangana 500072, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4951125,
+      "longitude": 78.4131406
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/maples-kukatpally",
+  "scraped_at": "2026-04-26T00:28:27.990687"
+}

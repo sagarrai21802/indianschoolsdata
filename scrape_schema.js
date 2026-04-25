@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+const { chromium } = require('playwright');
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -182,7 +182,7 @@ async function run(args = {}) {
     console.log(`Limited to ${limit} schools`);
   }
   
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await chromium.launch({ headless: true });
   
   let processed = 0;
   let failed = 0;

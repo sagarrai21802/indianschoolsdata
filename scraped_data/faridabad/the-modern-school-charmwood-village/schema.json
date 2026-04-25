@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Charmwood Village",
+      "url": "https://yellowslate.com/schools/faridabad/charmwood-village"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/charmwood-village/cbse"
+    },
+    {
+      "position": 5,
+      "name": "The Modern School",
+      "url": "https://yellowslate.com/school/faridabad/the-modern-school-charmwood-village"
+    }
+  ],
+  "local_business": {
+    "name": "The Modern School - Charmwood Village",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/the-modern-school-charmwood-village",
+    "telephone": "+91 9540028315",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Eros Garden, Charmwood Village, Surajkund, Faridabad, Haryana",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4937228,
+      "longitude": 77.2915205
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/faridabad/the-modern-school-charmwood-village",
+  "scraped_at": "2026-04-25T22:56:48.295831"
+}

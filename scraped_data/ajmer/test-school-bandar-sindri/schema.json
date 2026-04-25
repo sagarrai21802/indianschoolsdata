@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Ajmer",
+      "url": "https://yellowslate.com/schools/ajmer"
+    },
+    {
+      "position": 3,
+      "name": "Bandar Sindri",
+      "url": "https://yellowslate.com/schools/ajmer/bandar-sindri"
+    },
+    {
+      "position": 4,
+      "name": "ICSE",
+      "url": "https://yellowslate.com/schools/ajmer/bandar-sindri/icse"
+    },
+    {
+      "position": 5,
+      "name": "Test School",
+      "url": "https://yellowslate.com/school/ajmer/test-school-bandar-sindri"
+    }
+  ],
+  "local_business": {
+    "name": "test school - Bandar Sindri",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/ajmer/test-school-bandar-sindri",
+    "telephone": "8976545678",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": null,
+      "addressLocality": "Ajmer",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/ajmer/test-school-bandar-sindri",
+  "scraped_at": "2026-04-25T22:32:33.099381"
+}

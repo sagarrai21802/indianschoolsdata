@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Ooty",
+      "url": "https://yellowslate.com/schools/ooty"
+    },
+    {
+      "position": 3,
+      "name": "Pudumund",
+      "url": "https://yellowslate.com/schools/ooty/pudumund"
+    },
+    {
+      "position": 4,
+      "name": "ICSE",
+      "url": "https://yellowslate.com/schools/ooty/pudumund/icse"
+    },
+    {
+      "position": 5,
+      "name": "St Hildas Higher Secondary School",
+      "url": "https://yellowslate.com/school/ooty/st-hildas-higher-secondary-school-pudumund"
+    }
+  ],
+  "local_business": {
+    "name": "St Hildas Higher Secondary School - Pudumund",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/ooty/st-hildas-higher-secondary-school-pudumund",
+    "telephone": "+91 423 244 2540",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Sheddon Rd, Pudumund, Ooty, Tamil Nadu",
+      "addressLocality": "Ooty",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 11.4183705,
+      "longitude": 76.7037481
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/ooty/st-hildas-higher-secondary-school-pudumund",
+  "scraped_at": "2026-04-25T22:35:30.673586"
+}

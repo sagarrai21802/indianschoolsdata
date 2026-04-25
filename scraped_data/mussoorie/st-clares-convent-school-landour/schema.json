@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Mussoorie",
+      "url": "https://yellowslate.com/schools/mussoorie"
+    },
+    {
+      "position": 3,
+      "name": "Landour",
+      "url": "https://yellowslate.com/schools/mussoorie/landour"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/mussoorie/landour/cbse"
+    },
+    {
+      "position": 5,
+      "name": "St Clare'S Convent School",
+      "url": "https://yellowslate.com/school/mussoorie/st-clares-convent-school-landour"
+    }
+  ],
+  "local_business": {
+    "name": "St Clare's Convent School - Landour",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/mussoorie/st-clares-convent-school-landour",
+    "telephone": "9999999999",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "F442+5WJ, Landour, Mussoorie, Uttarakhand 248179",
+      "addressLocality": "Mussoorie",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 30.4554625,
+      "longitude": 78.1022656
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/mussoorie/st-clares-convent-school-landour",
+  "scraped_at": "2026-04-25T22:34:22.235496"
+}

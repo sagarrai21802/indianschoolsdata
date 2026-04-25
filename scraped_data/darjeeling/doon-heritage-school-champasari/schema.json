@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Darjeeling",
+      "url": "https://yellowslate.com/schools/darjeeling"
+    },
+    {
+      "position": 3,
+      "name": "Champasari",
+      "url": "https://yellowslate.com/schools/darjeeling/champasari"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/darjeeling/champasari/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Doon Heritage School",
+      "url": "https://yellowslate.com/school/darjeeling/doon-heritage-school-champasari"
+    }
+  ],
+  "local_business": {
+    "name": "Doon Heritage School - Champasari",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/darjeeling/doon-heritage-school-champasari",
+    "telephone": "+91 859 707 5889",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Kolabari Rd, Champasari, Siliguri, Darjeeling, West Bengal",
+      "addressLocality": "Darjeeling",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 26.774275,
+      "longitude": 88.419338
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/darjeeling/doon-heritage-school-champasari",
+  "scraped_at": "2026-04-25T22:36:48.240616"
+}

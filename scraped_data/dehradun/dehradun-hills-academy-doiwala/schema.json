@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Dehradun",
+      "url": "https://yellowslate.com/schools/dehradun"
+    },
+    {
+      "position": 3,
+      "name": "Doiwala",
+      "url": "https://yellowslate.com/schools/dehradun/doiwala"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/dehradun/doiwala/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Dehradun Hills Academy",
+      "url": "https://yellowslate.com/school/dehradun/dehradun-hills-academy-doiwala"
+    }
+  ],
+  "local_business": {
+    "name": "Dehradun Hills Academy - Doiwala",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/dehradun/dehradun-hills-academy-doiwala",
+    "telephone": "+91 901 237 7773",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "No..1 Jaswant Singh Marg, Doodhli Road, Ambala-Dehradun-Haridwar Rd, Doiwala, Dehradun, Uttarakhand",
+      "addressLocality": "Dehradun",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 30.1940853,
+      "longitude": 78.1288684
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/dehradun/dehradun-hills-academy-doiwala",
+  "scraped_at": "2026-04-25T22:48:06.873198"
+}

@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Dehradun",
+      "url": "https://yellowslate.com/schools/dehradun"
+    },
+    {
+      "position": 3,
+      "name": "Lakkhi Bagh",
+      "url": "https://yellowslate.com/schools/dehradun/lakkhi-bagh"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/dehradun/lakkhi-bagh/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Summerfield School",
+      "url": "https://yellowslate.com/school/dehradun/summerfield-school-lakkhi-bagh"
+    }
+  ],
+  "local_business": {
+    "name": "Summerfield School - Lakkhi Bagh",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/dehradun/summerfield-school-lakkhi-bagh",
+    "telephone": "+91 971 914 6108",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Edon Bagh, West Hope Town, Herbertpur, Dehradun, Uttarakhand",
+      "addressLocality": "Dehradun",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 30.4382863,
+      "longitude": 77.7366242
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/dehradun/summerfield-school-lakkhi-bagh",
+  "scraped_at": "2026-04-25T22:48:11.299426"
+}

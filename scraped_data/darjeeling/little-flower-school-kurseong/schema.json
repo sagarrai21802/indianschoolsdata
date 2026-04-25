@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Darjeeling",
+      "url": "https://yellowslate.com/schools/darjeeling"
+    },
+    {
+      "position": 3,
+      "name": "Kurseong",
+      "url": "https://yellowslate.com/schools/darjeeling/kurseong"
+    },
+    {
+      "position": 4,
+      "name": "ICSE",
+      "url": "https://yellowslate.com/schools/darjeeling/kurseong/icse"
+    },
+    {
+      "position": 5,
+      "name": "Little Flower School",
+      "url": "https://yellowslate.com/school/darjeeling/little-flower-school-kurseong"
+    }
+  ],
+  "local_business": {
+    "name": "Little Flower School - Kurseong",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/darjeeling/little-flower-school-kurseong",
+    "telephone": "+91 354 234 4450",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Monteviot Road , P.O. Kurseong, Darjeeling, West Bengal",
+      "addressLocality": "Darjeeling",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 26.8783225,
+      "longitude": 88.2784989
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/darjeeling/little-flower-school-kurseong",
+  "scraped_at": "2026-04-25T22:36:59.361721"
+}

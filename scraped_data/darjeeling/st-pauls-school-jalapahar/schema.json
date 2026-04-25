@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Darjeeling",
+      "url": "https://yellowslate.com/schools/darjeeling"
+    },
+    {
+      "position": 3,
+      "name": "Jalapahar",
+      "url": "https://yellowslate.com/schools/darjeeling/jalapahar"
+    },
+    {
+      "position": 4,
+      "name": "ICSE",
+      "url": "https://yellowslate.com/schools/darjeeling/jalapahar/icse"
+    },
+    {
+      "position": 5,
+      "name": "St. Pauls School",
+      "url": "https://yellowslate.com/school/darjeeling/st-pauls-school-jalapahar"
+    }
+  ],
+  "local_business": {
+    "name": "St. Pauls School - Jalapahar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/darjeeling/st-pauls-school-jalapahar",
+    "telephone": "+91 354 225 2334",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Jalapahar, Darjeeling, West Bengal",
+      "addressLocality": "Darjeeling",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 27.0201271,
+      "longitude": 88.2570691
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/darjeeling/st-pauls-school-jalapahar",
+  "scraped_at": "2026-04-25T22:37:21.084911"
+}

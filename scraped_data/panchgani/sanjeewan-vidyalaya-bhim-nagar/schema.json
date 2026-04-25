@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Panchgani",
+      "url": "https://yellowslate.com/schools/panchgani"
+    },
+    {
+      "position": 3,
+      "name": "Bhim Nagar",
+      "url": "https://yellowslate.com/schools/panchgani/bhim-nagar"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/panchgani/bhim-nagar/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Sanjeewan Vidyalaya",
+      "url": "https://yellowslate.com/school/panchgani/sanjeewan-vidyalaya-bhim-nagar"
+    }
+  ],
+  "local_business": {
+    "name": "Sanjeewan Vidyalaya - Bhim Nagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/panchgani/sanjeewan-vidyalaya-bhim-nagar",
+    "telephone": "+91 216 824 4216",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Panchgani, Satara, Panchgani, Maharashtra",
+      "addressLocality": "Panchgani",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.9234131,
+      "longitude": 73.7977464
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "Sanjeewan Vidyalaya - Bhim Nagar",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Panchgani, Satara, Panchgani, Maharashtra",
+          "addressLocality": "Panchgani",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/panchgani/sanjeewan-vidyalaya-bhim-nagar-bhim-nagar-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "3"
+        },
+        "author": "divakar kate",
+        "date_published": "2025-03-02",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Best school in pachgani . They have Big ground for sports n takes activities consistently",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Sanjeewan Vidyalaya - Bhim Nagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "jyoti kate",
+        "date_published": "2024-10-18",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Best school in Panchgani. My child got addmission in school and is always happy about it.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Sanjeewan Vidyalaya - Bhim Nagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Rushikesh R",
+        "date_published": "2024-07-15",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Sanjeewan in its days was one of the best schools within Panchgani. I would say it maintained their reputation for quite a long time however as days passed, the staff left due to poor management and the story continues.\n\nI remember 700-800 students in all and yet it was managed very well. Day Scholars weren't valued from the beginning but they were encouraged by the staff very much.\n\nStill things can change if few necessary steps are taken and well managed as Sanjeewan has a different legacy in all.\n\nI'm proud Sanjeewanite as my Grandfather, My Father and I have all studied and educated from Sanjeewan.\n\nRegards,\nRushikesh",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/panchgani/sanjeewan-vidyalaya-bhim-nagar",
+  "scraped_at": "2026-04-25T22:39:11.825325"
+}

@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Khor",
+      "url": "https://yellowslate.com/schools/faridabad/khor"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/khor/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Aishly Public School",
+      "url": "https://yellowslate.com/school/faridabad/aishly-public-school-khor"
+    }
+  ],
+  "local_business": {
+    "name": "Aishly Public School - Khor",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/aishly-public-school-khor",
+    "telephone": "+91 905 032 9953",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "1 Km. Ateli Mandi Road Ateli Mandi, Narnaul, Mahendargarh, Faridabad, Haryana",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.1056118,
+      "longitude": 76.254604
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/faridabad/aishly-public-school-khor",
+  "scraped_at": "2026-04-25T22:57:47.403340"
+}

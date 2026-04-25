@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Coimbatore",
+      "url": "https://yellowslate.com/schools/coimbatore"
+    },
+    {
+      "position": 3,
+      "name": "Vadavalli-Thondamuthur Rd",
+      "url": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Narayana E-Techno School",
+      "url": "https://yellowslate.com/school/coimbatore/narayana-e-techno-school-shanthini-nagar"
+    }
+  ],
+  "local_business": {
+    "name": "Narayana e-techno school - Vadavalli-Thondamuthur Rd",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/coimbatore/narayana-e-techno-school-shanthini-nagar",
+    "telephone": " 1800 102 3344",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "142, 144/2, Lakshmi Garden, Santhini Nagar, Ganapathy, Coimbatore, Tamil Nadu 641006",
+      "addressLocality": "Coimbatore",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 11.0506364,
+      "longitude": 76.9122447
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "Narayana e-techno school - Vadavalli-Thondamuthur Rd",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "142, 144/2, Lakshmi Garden, Santhini Nagar, Ganapathy, Coimbatore, Tamil Nadu 641006",
+          "addressLocality": "Coimbatore",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/coimbatore/narayana-e-techno-school-shanthini-nagar-vadavalli-thondamuthur-rd-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "3"
+        },
+        "author": "Ramya",
+        "date_published": "2026-02-13",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Super school with all the targets the parents have in their mind.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Narayana e-techno school - Vadavalli-Thondamuthur Rd",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "SAURABH KUMAR THAKUR",
+        "date_published": "2024-10-27",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "This is going to be Rankers spot ✌️😎",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/coimbatore/narayana-e-techno-school-shanthini-nagar",
+  "scraped_at": "2026-04-25T22:52:46.948776"
+}

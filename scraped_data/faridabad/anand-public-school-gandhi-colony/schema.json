@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Gandhi Colony",
+      "url": "https://yellowslate.com/schools/faridabad/gandhi-colony"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/gandhi-colony/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Anand Public School",
+      "url": "https://yellowslate.com/school/faridabad/anand-public-school-gandhi-colony"
+    }
+  ],
+  "local_business": {
+    "name": "Anand Public School - Gandhi Colony",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/anand-public-school-gandhi-colony",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "C844+654, Railway Colony, New Industrial Township, Faridabad, Haryana 121013, India",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4055125,
+      "longitude": 77.3054531
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/faridabad/anand-public-school-gandhi-colony",
+  "scraped_at": "2026-04-25T23:03:42.481182"
+}

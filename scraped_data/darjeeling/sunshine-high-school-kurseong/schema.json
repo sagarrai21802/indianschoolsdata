@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Darjeeling",
+      "url": "https://yellowslate.com/schools/darjeeling"
+    },
+    {
+      "position": 3,
+      "name": "Kurseong",
+      "url": "https://yellowslate.com/schools/darjeeling/kurseong"
+    },
+    {
+      "position": 4,
+      "name": "ICSE",
+      "url": "https://yellowslate.com/schools/darjeeling/kurseong/icse"
+    },
+    {
+      "position": 5,
+      "name": "Sunshine High School",
+      "url": "https://yellowslate.com/school/darjeeling/sunshine-high-school-kurseong"
+    }
+  ],
+  "local_business": {
+    "name": "Sunshine High School - Kurseong",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/darjeeling/sunshine-high-school-kurseong",
+    "telephone": "+91 779 796 5318",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Sunshine High School, Naya Bazar, Kurseong, West Bengal",
+      "addressLocality": "Darjeeling",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 26.88275,
+      "longitude": 88.278967
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/darjeeling/sunshine-high-school-kurseong",
+  "scraped_at": "2026-04-25T22:36:37.666739"
+}

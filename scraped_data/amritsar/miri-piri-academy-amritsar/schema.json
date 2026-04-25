@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Amritsar",
+      "url": "https://yellowslate.com/schools/amritsar"
+    },
+    {
+      "position": 3,
+      "name": "Amritsar",
+      "url": "https://yellowslate.com/schools/amritsar/amritsar"
+    },
+    {
+      "position": 4,
+      "name": "IGCSE",
+      "url": "https://yellowslate.com/schools/amritsar/amritsar/igcse"
+    },
+    {
+      "position": 5,
+      "name": "Miri Piri Academy",
+      "url": "https://yellowslate.com/school/amritsar/miri-piri-academy-amritsar"
+    }
+  ],
+  "local_business": {
+    "name": "Miri Piri Academy - Amritsar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/amritsar/miri-piri-academy-amritsar",
+    "telephone": "+91 805 401 8906",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Guru Ki Wadali, Chheharta, Amritsar, Punjab",
+      "addressLocality": "Amritsar",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.6171306,
+      "longitude": 74.798139
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/amritsar/miri-piri-academy-amritsar",
+  "scraped_at": "2026-04-25T22:33:20.415192"
+}

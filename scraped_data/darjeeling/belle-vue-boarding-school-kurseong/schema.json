@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Darjeeling",
+      "url": "https://yellowslate.com/schools/darjeeling"
+    },
+    {
+      "position": 3,
+      "name": "Kurseong",
+      "url": "https://yellowslate.com/schools/darjeeling/kurseong"
+    },
+    {
+      "position": 4,
+      "name": "ICSE",
+      "url": "https://yellowslate.com/schools/darjeeling/kurseong/icse"
+    },
+    {
+      "position": 5,
+      "name": "Belle Vue Boarding School",
+      "url": "https://yellowslate.com/school/darjeeling/belle-vue-boarding-school-kurseong"
+    }
+  ],
+  "local_business": {
+    "name": "Belle Vue Boarding School - Kurseong",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/darjeeling/belle-vue-boarding-school-kurseong",
+    "telephone": "+91 943 487 2743",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "128, A. K. Mukherjee Road, Darjeeling, West Bengal",
+      "addressLocality": "Darjeeling",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 27.0416271,
+      "longitude": 88.2664349
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/darjeeling/belle-vue-boarding-school-kurseong",
+  "scraped_at": "2026-04-25T22:37:54.810073"
+}

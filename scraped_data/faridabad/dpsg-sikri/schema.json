@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Sikri",
+      "url": "https://yellowslate.com/schools/faridabad/sikri"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/sikri/cbse"
+    },
+    {
+      "position": 5,
+      "name": "DPSG",
+      "url": "https://yellowslate.com/school/faridabad/dpsg-sikri"
+    }
+  ],
+  "local_business": {
+    "name": "DPSG - Sikri",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/dpsg-sikri",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "42.5 Kms Milestone, Delhi-Mathura Road, NH2, Sikri, Delhi NCR, Faridabad, Haryana 121004",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.2750319,
+      "longitude": 77.288508
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/faridabad/dpsg-sikri",
+  "scraped_at": "2026-04-25T22:56:27.052750"
+}

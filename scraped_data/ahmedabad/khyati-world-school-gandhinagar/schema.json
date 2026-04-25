@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Ahmedabad",
+      "url": "https://yellowslate.com/schools/ahmedabad"
+    },
+    {
+      "position": 3,
+      "name": "Gandhinagar",
+      "url": "https://yellowslate.com/schools/ahmedabad/gandhinagar"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/ahmedabad/gandhinagar/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Khyati World School",
+      "url": "https://yellowslate.com/school/ahmedabad/khyati-world-school-gandhinagar"
+    }
+  ],
+  "local_business": {
+    "name": "Khyati World School - Gandhinagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/ahmedabad/khyati-world-school-gandhinagar",
+    "telephone": "+91 909 927 3000",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Thaltej - Shilaj- Rancharda Road, Nandoli, At &amp; Post. Rancharda, Ahmedabad, Gujarat",
+      "addressLocality": "Ahmedabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 23.0515379,
+      "longitude": 72.4927787
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/ahmedabad/khyati-world-school-gandhinagar",
+  "scraped_at": "2026-04-25T22:26:24.823451"
+}

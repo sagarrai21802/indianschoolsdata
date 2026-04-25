@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Chennai",
+      "url": "https://yellowslate.com/schools/chennai"
+    },
+    {
+      "position": 3,
+      "name": "Anna Nagar West",
+      "url": "https://yellowslate.com/schools/chennai/anna-nagar-west"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/chennai/anna-nagar-west/state-board"
+    },
+    {
+      "position": 5,
+      "name": "VIGNESWHWARA VIDHYALAYA SCHOOL",
+      "url": "https://yellowslate.com/school/chennai/vigneswhwara-vidhyalaya-school-anna-nagar-west"
+    }
+  ],
+  "local_business": {
+    "name": "VIGNESWHWARA VIDHYALAYA SCHOOL - Anna Nagar West",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/chennai/vigneswhwara-vidhyalaya-school-anna-nagar-west",
+    "telephone": "+91 9840199959",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "235 & 236, Dr, Ambedkar St, Oragadam, Thillaiyadi Valliammai Nagar, Anna Nagar West, Chennai, Tamil Nadu 600040, India",
+      "addressLocality": "Chennai",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 13.0861736,
+      "longitude": 80.1913514
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "VIGNESWHWARA VIDHYALAYA SCHOOL - Anna Nagar West",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "235 & 236, Dr, Ambedkar St, Oragadam, Thillaiyadi Valliammai Nagar, Anna Nagar West, Chennai, Tamil Nadu 600040, India",
+          "addressLocality": "Chennai",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/chennai/vigneswhwara-vidhyalaya-school-anna-nagar-west-anna-nagar-west-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "3"
+        },
+        "author": "R Sasikala",
+        "date_published": "2023-03-13",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "R.Tejasree",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "VIGNESWHWARA VIDHYALAYA SCHOOL - Anna Nagar West",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "K Rajiv Gandhi",
+        "date_published": "2023-03-13",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "R.Hemachandran",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "VIGNESWHWARA VIDHYALAYA SCHOOL - Anna Nagar West",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Adaikalam Adaikalam",
+        "date_published": "2020-09-07",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Supper\n\nK",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/chennai/vigneswhwara-vidhyalaya-school-anna-nagar-west",
+  "scraped_at": "2026-04-25T22:26:58.955741"
+}

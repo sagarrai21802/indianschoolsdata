@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Sector 21A",
+      "url": "https://yellowslate.com/schools/faridabad/sector-21a"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/sector-21a/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Apeejay School",
+      "url": "https://yellowslate.com/school/faridabad/apeejay-school-sector-21a"
+    }
+  ],
+  "local_business": {
+    "name": "Apeejay School - Sector 21A",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/apeejay-school-sector-21a",
+    "telephone": "073030 96826",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Plot No. 445, Bidhuri Road, Sector 21A, Faridabad, Haryana 121001, India",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5253831,
+      "longitude": 77.2819127
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/faridabad/apeejay-school-sector-21a",
+  "scraped_at": "2026-04-25T23:03:50.440453"
+}

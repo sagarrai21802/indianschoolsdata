@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Darjeeling",
+      "url": "https://yellowslate.com/schools/darjeeling"
+    },
+    {
+      "position": 3,
+      "name": "Alipurduar",
+      "url": "https://yellowslate.com/schools/darjeeling/alipurduar"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/darjeeling/alipurduar/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Little Flowers English School",
+      "url": "https://yellowslate.com/school/darjeeling/little-flowers-english-school-alipurduar"
+    }
+  ],
+  "local_business": {
+    "name": "Little Flowers English School - Alipurduar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/darjeeling/little-flowers-english-school-alipurduar",
+    "telephone": "+91 943 406 0940",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Pararpar, Alipurduar, Dist. - Alipurduar, Darjeeling, West Bengal",
+      "addressLocality": "Darjeeling",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 26.4980931,
+      "longitude": 89.4765807
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/darjeeling/little-flowers-english-school-alipurduar",
+  "scraped_at": "2026-04-25T22:37:25.373106"
+}

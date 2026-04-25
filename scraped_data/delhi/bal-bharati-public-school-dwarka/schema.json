@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Delhi",
+      "url": "https://yellowslate.com/schools/delhi"
+    },
+    {
+      "position": 3,
+      "name": "Dwarka",
+      "url": "https://yellowslate.com/schools/delhi/dwarka"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/delhi/dwarka/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Bal Bharati Public School",
+      "url": "https://yellowslate.com/school/delhi/bal-bharati-public-school-dwarka"
+    }
+  ],
+  "local_business": {
+    "name": "Bal Bharati Public school - Dwarka",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168779368415994272436499b014c9e441687793685.jpg",
+    "url": "https://yellowslate.com/school/delhi/bal-bharati-public-school-dwarka",
+    "telephone": "+91 (011) 2803 1970, 2803 1955, 4242 7855, 4278 5972",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Rd Number 203, opp. ICICI Bank, Sector 12 Dwarka, Dwarka, New Delhi, Delhi 110078",
+      "addressLocality": "Delhi",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5947887,
+      "longitude": 77.0422651
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/delhi/bal-bharati-public-school-dwarka",
+  "scraped_at": "2026-04-25T21:38:32.716876"
+}

@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Amritsar",
+      "url": "https://yellowslate.com/schools/amritsar"
+    },
+    {
+      "position": 3,
+      "name": "Tarn Taran",
+      "url": "https://yellowslate.com/schools/amritsar/tarn-taran"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/amritsar/tarn-taran/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Mamta Niketan Convent School",
+      "url": "https://yellowslate.com/school/amritsar/mamta-niketan-convent-school-tarn-taran"
+    }
+  ],
+  "local_business": {
+    "name": "Mamta Niketan Convent School - Tarn Taran",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/amritsar/mamta-niketan-convent-school-tarn-taran",
+    "telephone": "+91 985 540 8301",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Near Police Colony, Tarn Taran - Amritsar Road, Amritsar, Punjab",
+      "addressLocality": "Amritsar",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 31.450909,
+      "longitude": 74.9406641
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/amritsar/mamta-niketan-convent-school-tarn-taran",
+  "scraped_at": "2026-04-25T22:33:07.613258"
+}

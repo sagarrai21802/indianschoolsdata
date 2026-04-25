@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Sector 9",
+      "url": "https://yellowslate.com/schools/faridabad/sector-9"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/sector-9/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Gyan Devi Montessori School",
+      "url": "https://yellowslate.com/school/faridabad/gyan-devi-montessori-school-sector-9"
+    }
+  ],
+  "local_business": {
+    "name": "Gyan Devi Montessori School - Sector 9",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/gyan-devi-montessori-school-sector-9",
+    "telephone": "+91 124 428 1101",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "FX7X+R37, Sector 9, Gurugram, Haryana 122001, India",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4645375,
+      "longitude": 76.9976719
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "Gyan Devi Montessori School - Sector 9",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "FX7X+R37, Sector 9, Gurugram, Haryana 122001, India",
+          "addressLocality": "Faridabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/faridabad/gyan-devi-montessori-school-sector-9-sector-9-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "reviewCount": "5"
+        },
+        "author": "Abhishek Saini",
+        "date_published": "2023-01-17",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Beautiful",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan Devi Montessori School - Sector 9",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "sanjay Bisht",
+        "date_published": "2020-02-26",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Teacher do not pay attention to children aspecially in the fourth class",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan Devi Montessori School - Sector 9",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Parvesh Kumar",
+        "date_published": "2017-10-25",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Best think and process",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan Devi Montessori School - Sector 9",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Vaibhav Dangra",
+        "date_published": "2017-04-13",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice school for little kids",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan Devi Montessori School - Sector 9",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Vandana Verma",
+        "date_published": "2015-06-21",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Can to be compared with other",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/faridabad/gyan-devi-montessori-school-sector-9",
+  "scraped_at": "2026-04-25T22:57:07.273159"
+}

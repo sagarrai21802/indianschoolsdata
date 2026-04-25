@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Faridabad",
+      "url": "https://yellowslate.com/schools/faridabad"
+    },
+    {
+      "position": 3,
+      "name": "Sector 19",
+      "url": "https://yellowslate.com/schools/faridabad/sector-19"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/faridabad/sector-19/cbse"
+    },
+    {
+      "position": 5,
+      "name": "DELHI PUBLIC SCHOOL",
+      "url": "https://yellowslate.com/school/faridabad/delhi-public-school-sector-19"
+    }
+  ],
+  "local_business": {
+    "name": "DELHI PUBLIC SCHOOL - Sector 19",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/faridabad/delhi-public-school-sector-19",
+    "telephone": "+91 874 407 8548",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "SECTOR-19 C , Faridabad, Haryana",
+      "addressLocality": "Faridabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4230735,
+      "longitude": 77.3122676
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/faridabad/delhi-public-school-sector-19",
+  "scraped_at": "2026-04-25T22:58:49.901864"
+}

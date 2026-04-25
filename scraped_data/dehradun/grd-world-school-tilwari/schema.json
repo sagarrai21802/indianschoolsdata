@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Dehradun",
+      "url": "https://yellowslate.com/schools/dehradun"
+    },
+    {
+      "position": 3,
+      "name": "Tilwari",
+      "url": "https://yellowslate.com/schools/dehradun/tilwari"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/dehradun/tilwari/cbse"
+    },
+    {
+      "position": 5,
+      "name": "GRD World School",
+      "url": "https://yellowslate.com/school/dehradun/grd-world-school-tilwari"
+    }
+  ],
+  "local_business": {
+    "name": "GRD World School - Tilwari",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/dehradun/grd-world-school-tilwari",
+    "telephone": "+91 1352694847",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Bhagwanpur, Near Bhauwala, Dehradun, Uttarakhand",
+      "addressLocality": "Dehradun",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 30.3972299,
+      "longitude": 77.918174
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/dehradun/grd-world-school-tilwari",
+  "scraped_at": "2026-04-25T22:47:03.508993"
+}

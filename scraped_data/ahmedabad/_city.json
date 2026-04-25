@@ -1,0 +1,56 @@
+{
+  "city": "ahmedabad",
+  "total_schools": 16,
+  "pages_scraped": 2,
+  "listing_only": true,
+  "scraped_at": "2026-04-25T10:30:57.851799",
+  "stop_reason": "reached_end",
+  "completed": true,
+  "max_pages_limited": false,
+  "validation_passed": true,
+  "validation_errors": [],
+  "pages_visited": [
+    1,
+    2
+  ],
+  "highest_visible_page_seen": 2,
+  "pages_with_zero_new_schools": [],
+  "duplicate_hits": 0,
+  "cross_city_skips": 1,
+  "missing_slug_skips": 0,
+  "saved_school_folders": 16,
+  "page_stats": [
+    {
+      "page": 1,
+      "cards_found": 12,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2
+      ],
+      "visible_last_page": 2,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 2,
+      "cards_found": 5,
+      "unique_schools_found": 4,
+      "new_schools_saved": 4,
+      "duplicate_hits": 0,
+      "cross_city_skips": 1,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2
+      ],
+      "visible_last_page": 2,
+      "has_exact_next": false,
+      "signature_seen_on_page": null
+    }
+  ]
+}

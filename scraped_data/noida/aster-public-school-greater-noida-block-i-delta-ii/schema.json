@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Block I,Delta II",
+      "url": "https://yellowslate.com/schools/noida/block-i-delta-ii"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/block-i-delta-ii/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Aster Public School Greater Noida",
+      "url": "https://yellowslate.com/school/noida/aster-public-school-greater-noida-block-i-delta-ii"
+    }
+  ],
+  "local_business": {
+    "name": "Aster Public School Greater Noida - Block I,Delta II",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/aster-public-school-greater-noida-block-i-delta-ii",
+    "telephone": "+91 9582801550",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "ASTER PUBLIC SCHOOL, Delta II, Greater Noida, Uttar Pradesh, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4917061,
+      "longitude": 77.522171
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/noida/aster-public-school-greater-noida-block-i-delta-ii",
+  "scraped_at": "2026-04-25T23:14:58.785075"
+}

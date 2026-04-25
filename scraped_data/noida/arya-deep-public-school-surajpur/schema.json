@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Surajpur",
+      "url": "https://yellowslate.com/schools/noida/surajpur"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/surajpur/cbse"
+    },
+    {
+      "position": 5,
+      "name": "ARYA DEEP PUBLIC SCHOOL",
+      "url": "https://yellowslate.com/school/noida/arya-deep-public-school-surajpur"
+    }
+  ],
+  "local_business": {
+    "name": "ARYA DEEP PUBLIC SCHOOL - Surajpur",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/arya-deep-public-school-surajpur",
+    "telephone": "+91 1202569000",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "GF6H+XHR, Surajpur, Noida, Greater Noida, Uttar Pradesh 201308, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4814686,
+      "longitude": 77.5135471
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "ARYA DEEP PUBLIC SCHOOL - Surajpur",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "GF6H+XHR, Surajpur, Noida, Greater Noida, Uttar Pradesh 201308, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/arya-deep-public-school-surajpur-surajpur-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.2",
+          "reviewCount": "5"
+        },
+        "author": "Milan Rajput",
+        "date_published": "2023-06-19",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "This place is good for education",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "ARYA DEEP PUBLIC SCHOOL - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Deepak Parashar",
+        "date_published": "2023-05-10",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "I really hated the experience there... All the teachers are strict except Bhavna Mam. The school website has great English written but Shivani Mam,THE G.K and Moral Value teacher writes really bad English. She wrote Hammar instead of hammer. Don't waste money in school!",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "ARYA DEEP PUBLIC SCHOOL - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "rinku bhati",
+        "date_published": "2023-02-10",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "ARYA DEEP PUBLIC SCHOOL - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Aakash kumar 7011379009",
+        "date_published": "2023-02-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "ARYA DEEP PUBLIC SCHOOL - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "khushi goyal",
+        "date_published": "2021-12-02",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "this is amazing school i am studing in this school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/arya-deep-public-school-surajpur",
+  "scraped_at": "2026-04-25T23:14:40.951045"
+}

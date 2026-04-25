@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Tigri,Nai Basti Dundahera",
+      "url": "https://yellowslate.com/schools/noida/tigri-nai-basti-dundahera"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/tigri-nai-basti-dundahera/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Cityshine Public School",
+      "url": "https://yellowslate.com/school/noida/cityshine-public-school-tigri-nai-basti-dundahera"
+    }
+  ],
+  "local_business": {
+    "name": "Cityshine Public School - Tigri,Nai Basti Dundahera",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/cityshine-public-school-tigri-nai-basti-dundahera",
+    "telephone": "+91 9899525415",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Som bazar TIGRI Chipyana Khurd, Tigri, Nai Basti Dundahera, Greater Noida, Chipyana Khurd Urf Tigri, Uttar Pradesh 201308, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.6272139,
+      "longitude": 77.403875
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Cityshine Public School - Tigri,Nai Basti Dundahera",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Som bazar TIGRI Chipyana Khurd, Tigri, Nai Basti Dundahera, Greater Noida, Chipyana Khurd Urf Tigri, Uttar Pradesh 201308, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/cityshine-public-school-tigri-nai-basti-dundahera-tigri-nai-basti-dundahera-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "1"
+        },
+        "author": "Premchand Kumar",
+        "date_published": "2021-04-07",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Study very good",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/cityshine-public-school-tigri-nai-basti-dundahera",
+  "scraped_at": "2026-04-25T23:13:40.796295"
+}

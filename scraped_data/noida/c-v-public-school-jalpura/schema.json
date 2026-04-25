@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Jalpura",
+      "url": "https://yellowslate.com/schools/noida/jalpura"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/jalpura/cbse"
+    },
+    {
+      "position": 5,
+      "name": "C V Public School",
+      "url": "https://yellowslate.com/school/noida/c-v-public-school-jalpura"
+    }
+  ],
+  "local_business": {
+    "name": "C V Public School - Jalpura",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/c-v-public-school-jalpura",
+    "telephone": "+91 9910253880",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "GCWQ+J85, Jalpura, Greater Noida, Uttar Pradesh 201306, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5465125,
+      "longitude": 77.4383594
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "C V Public School - Jalpura",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "GCWQ+J85, Jalpura, Greater Noida, Uttar Pradesh 201306, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/c-v-public-school-jalpura-jalpura-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.4",
+          "reviewCount": "5"
+        },
+        "author": "Anurag Pandit",
+        "date_published": "2022-11-07",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good school !  I studied in this school from class 1st to 12th",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "C V Public School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Lakshya Technical",
+        "date_published": "2019-11-25",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Kafi accha school h\nSttaf bhi accha h",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "C V Public School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mayank Saxena",
+        "date_published": "2019-07-17",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Bad school here result so much bad",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "C V Public School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Sanjay Madan",
+        "date_published": "2018-01-10",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Not good facility.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "C V Public School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Aaditya Tanwer",
+        "date_published": "2016-01-15",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/c-v-public-school-jalpura",
+  "scraped_at": "2026-04-25T23:16:23.714199"
+}

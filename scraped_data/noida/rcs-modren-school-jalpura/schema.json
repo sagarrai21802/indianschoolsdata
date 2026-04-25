@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Jalpura",
+      "url": "https://yellowslate.com/schools/noida/jalpura"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/jalpura/cbse"
+    },
+    {
+      "position": 5,
+      "name": "RCS Modren School",
+      "url": "https://yellowslate.com/school/noida/rcs-modren-school-jalpura"
+    }
+  ],
+  "local_business": {
+    "name": "RCS Modren School - Jalpura",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/rcs-modren-school-jalpura",
+    "telephone": "+91 9899908913",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "GCPP+5M9, Kulesara, Noida, Greater Noida, Uttar Pradesh 201306, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5354125,
+      "longitude": 77.4367344
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "RCS Modren School - Jalpura",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "GCPP+5M9, Kulesara, Noida, Greater Noida, Uttar Pradesh 201306, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/rcs-modren-school-jalpura-jalpura-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "5"
+        },
+        "author": "Mukesh Shukla",
+        "date_published": "2023-03-30",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very nice school, so professional teacher and team.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "RCS Modren School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Krishna Tiwari",
+        "date_published": "2022-08-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very nice School in the haldoni",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "RCS Modren School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "JAKIR Hossain",
+        "date_published": "2020-03-04",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "This school is very best school in the noida",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "RCS Modren School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "CLASSIC NOOB",
+        "date_published": "2018-02-27",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Chaman class 6th",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "RCS Modren School - Jalpura",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mahaveer Mishra",
+        "date_published": "2017-09-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Chapman",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/rcs-modren-school-jalpura",
+  "scraped_at": "2026-04-25T23:09:34.978544"
+}

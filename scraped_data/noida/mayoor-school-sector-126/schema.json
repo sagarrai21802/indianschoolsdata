@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Sector 126",
+      "url": "https://yellowslate.com/schools/noida/sector-126"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/sector-126/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Mayoor School",
+      "url": "https://yellowslate.com/school/noida/mayoor-school-sector-126"
+    }
+  ],
+  "local_business": {
+    "name": "Mayoor School - Sector 126",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/noida/mayoor-school-sector-126",
+    "telephone": "0120 461 8301",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "next to Amity University, Expressway, Sector 126, Noida, Uttar Pradesh 201313",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5438247,
+      "longitude": 77.2550404
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Mayoor School - Sector 126",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "next to Amity University, Expressway, Sector 126, Noida, Uttar Pradesh 201313",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/mayoor-school-sector-126-sector-126-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "1"
+        },
+        "author": "Apoorv Raghuvanshi",
+        "date_published": "2024-07-01",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "As a parent of an 8th grader, I am incredibly impressed with Mayoor School. The teachers here are exceptional, combining expertise with a genuine passion for teaching, ensuring that each student receives personalized attention and guidance. The school offers outstanding student facilities, including state-of-the-art classrooms, well-equipped laboratories, and a vast library that nurtures a love for learning.\n\nWhat sets Mayoor School apart is its innovative teaching approach, which seamlessly integrates traditional methods with modern techniques, fostering critical thinking and creativity. I highly recommend Mayoor School for any parent looking for a holistic and progressive education for their child.",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/mayoor-school-sector-126",
+  "scraped_at": "2026-04-25T23:15:44.551469"
+}

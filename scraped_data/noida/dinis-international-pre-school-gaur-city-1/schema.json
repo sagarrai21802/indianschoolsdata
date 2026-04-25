@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Gaur City 1",
+      "url": "https://yellowslate.com/schools/noida/gaur-city-1"
+    },
+    {
+      "position": 4,
+      "name": "MONTESSORI",
+      "url": "https://yellowslate.com/schools/noida/gaur-city-1/montessori"
+    },
+    {
+      "position": 5,
+      "name": "Dinis International Pre School",
+      "url": "https://yellowslate.com/school/noida/dinis-international-pre-school-gaur-city-1"
+    }
+  ],
+  "local_business": {
+    "name": "Dinis International Pre School - Gaur City 1",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1731501053173450362967349bfdbe7911731501054.jpeg",
+    "url": "https://yellowslate.com/school/noida/dinis-international-pre-school-gaur-city-1",
+    "telephone": "8586877736",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Gaur Saundaryam Society, Near High Street Market, Greater Noida, Uttar Pradesh.",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.616472,
+      "longitude": 77.430079
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "Dinis International Pre School - Gaur City 1",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Gaur Saundaryam Society, Near High Street Market, Greater Noida, Uttar Pradesh.",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/dinis-international-pre-school-gaur-city-1-gaur-city-1-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "4"
+        },
+        "author": "Shivani",
+        "date_published": "2025-02-12",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Excellent Infrastructure",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Dinis International Pre School - Gaur City 1",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Sahil",
+        "date_published": "2024-12-12",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Extraordinary infrastructure ",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/dinis-international-pre-school-gaur-city-1",
+  "scraped_at": "2026-04-25T23:08:40.729575"
+}

@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Block B,Sector 132",
+      "url": "https://yellowslate.com/schools/noida/block-b-sector-132"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/block-b-sector-132/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Step By Step School",
+      "url": "https://yellowslate.com/school/noida/step-by-step-school-block-b-sector-132"
+    }
+  ],
+  "local_business": {
+    "name": "Step by Step School - Block B,Sector 132",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1673892612201202669763c593047532e1673892612.jpg",
+    "url": "https://yellowslate.com/school/noida/step-by-step-school-block-b-sector-132",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": null,
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Step by Step School - Block B,Sector 132",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": null,
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/step-by-step-school-block-b-sector-132-block-b-sector-132-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "reviewCount": "2"
+        },
+        "author": "Ashish",
+        "date_published": "2024-04-26",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "I really recommend Step by Step School in Noida! My siblings have done great there with the help of teachers who've been there for years. The school teaches well and offers lots of activities outside of class. This has helped my siblings get better at learning and feel more confident. Thanks, Step by Step School!",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/step-by-step-school-block-b-sector-132",
+  "scraped_at": "2026-04-25T23:09:24.537600"
+}

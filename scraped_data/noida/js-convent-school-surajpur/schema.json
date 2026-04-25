@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Surajpur",
+      "url": "https://yellowslate.com/schools/noida/surajpur"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/surajpur/cbse"
+    },
+    {
+      "position": 5,
+      "name": "J.S. Convent School",
+      "url": "https://yellowslate.com/school/noida/js-convent-school-surajpur"
+    }
+  ],
+  "local_business": {
+    "name": "J.S. Convent School - Surajpur",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/js-convent-school-surajpur",
+    "telephone": "+91 9990094916",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Surajpur, Greater Noida, Uttar Pradesh 201306, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5126976,
+      "longitude": 77.4841858
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "J.S. Convent School - Surajpur",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Surajpur, Greater Noida, Uttar Pradesh 201306, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/js-convent-school-surajpur-surajpur-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "2.6",
+          "reviewCount": "5"
+        },
+        "author": "Nitin Kumar",
+        "date_published": "2023-01-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good place",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "J.S. Convent School - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Akash Kholi",
+        "date_published": "2022-11-16",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It is good school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "J.S. Convent School - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "BHAGWAT PRASAD TIWARI",
+        "date_published": "2020-06-25",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Worst school in Surajpur.\nTHERE IS NO FACILITY FOR STUDENTS.\nTHE LEVEL OF EDUCATION IS \"DULL\" AND THE TEACHERS ARE NOT WELL QUALIFIED.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "J.S. Convent School - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Veervati Convent School",
+        "date_published": "2019-11-30",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It was not recognized by government",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "J.S. Convent School - Surajpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Ashish Mishra",
+        "date_published": "2019-11-24",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Teachers is not good.\nStudents English knowledge is not good.",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/js-convent-school-surajpur",
+  "scraped_at": "2026-04-25T23:14:24.415547"
+}

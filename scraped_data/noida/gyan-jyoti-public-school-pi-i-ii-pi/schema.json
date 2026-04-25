@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Pi I & II,PI",
+      "url": "https://yellowslate.com/schools/noida/pi-i-ii-pi"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/pi-i-ii-pi/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Gyan Jyoti Public School",
+      "url": "https://yellowslate.com/school/noida/gyan-jyoti-public-school-pi-i-ii-pi"
+    }
+  ],
+  "local_business": {
+    "name": "Gyan jyoti Public School - Pi I & II,PI",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/gyan-jyoti-public-school-pi-i-ii-pi",
+    "telephone": "+91 9350727128",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "FGHV+V5R, Pi 2, Pi I & II, Greater Noida, Uttar Pradesh 201310, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4797375,
+      "longitude": 77.5428906
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "Gyan jyoti Public School - Pi I & II,PI",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "FGHV+V5R, Pi 2, Pi I & II, Greater Noida, Uttar Pradesh 201310, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/gyan-jyoti-public-school-pi-i-ii-pi-pi-i-ii-pi-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "reviewCount": "5"
+        },
+        "author": "Padhan Kartar Singh Mavi",
+        "date_published": "2023-01-27",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "GOOD",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan jyoti Public School - Pi I & II,PI",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mr pirance Mathur",
+        "date_published": "2022-06-19",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good education facilities and positive atmosphere",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan jyoti Public School - Pi I & II,PI",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Shyam Sunder Adv",
+        "date_published": "2021-03-29",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "The school has motivational learning skills for students",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan jyoti Public School - Pi I & II,PI",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Private Gurjar 999",
+        "date_published": "2019-03-02",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very nice school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Gyan jyoti Public School - Pi I & II,PI",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Rahul Bhattacharya",
+        "date_published": "2017-06-18",
+        "rating_value": "3",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Decent below middle.class school with basic facilities",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/gyan-jyoti-public-school-pi-i-ii-pi",
+  "scraped_at": "2026-04-25T23:13:53.841073"
+}

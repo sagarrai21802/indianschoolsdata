@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "DADRI",
+      "url": "https://yellowslate.com/schools/noida/dadri"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/dadri/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Spring Dale School",
+      "url": "https://yellowslate.com/school/noida/spring-dale-school-dadri"
+    }
+  ],
+  "local_business": {
+    "name": "Spring Dale School - DADRI",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/noida/spring-dale-school-dadri",
+    "telephone": "na",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Deri Skaner, Dadri, Greater Noida, Uttar Pradesh 203207",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5692266,
+      "longitude": 77.5251765
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/noida/spring-dale-school-dadri",
+  "scraped_at": "2026-04-25T23:10:18.328611"
+}

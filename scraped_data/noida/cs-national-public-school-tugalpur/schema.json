@@ -1,0 +1,114 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Tugalpur",
+      "url": "https://yellowslate.com/schools/noida/tugalpur"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/tugalpur/cbse"
+    },
+    {
+      "position": 5,
+      "name": "CS National Public School",
+      "url": "https://yellowslate.com/school/noida/cs-national-public-school-tugalpur"
+    }
+  ],
+  "local_business": {
+    "name": "CS National Public School - Tugalpur",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/cs-national-public-school-tugalpur",
+    "telephone": "+91 120 652 8119",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Tugalpur, FG74+RP6, Tugalpur, Greater Noida, Uttar Pradesh 201310, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.4645375,
+      "longitude": 77.5067656
+    }
+  },
+  "reviews": {
+    "number_of_items": 4,
+    "reviews": [
+      {
+        "school_name": "CS National Public School - Tugalpur",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Tugalpur, FG74+RP6, Tugalpur, Greater Noida, Uttar Pradesh 201310, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/cs-national-public-school-tugalpur-tugalpur-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "4"
+        },
+        "author": "Renu vr",
+        "date_published": "2022-11-23",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Wrong telephone number given.  Just wanted to know if the school is recognised and teachers qualified and teaching civic sense before sending a child.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "CS National Public School - Tugalpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Lalu Kumar",
+        "date_published": "2022-06-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Tugalpur का best school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "CS National Public School - Tugalpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Punam Queen",
+        "date_published": "2020-11-16",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice school for education",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "CS National Public School - Tugalpur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "ANUP ROUT",
+        "date_published": "2017-03-03",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice school with good qualified teacher",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/cs-national-public-school-tugalpur",
+  "scraped_at": "2026-04-25T23:09:13.505584"
+}

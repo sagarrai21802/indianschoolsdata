@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/noida"
+    },
+    {
+      "position": 3,
+      "name": "Beta-1",
+      "url": "https://yellowslate.com/schools/noida/beta-1"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/noida/beta-1/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Queens Carmel School",
+      "url": "https://yellowslate.com/school/noida/queens-carmel-school-beta-1"
+    }
+  ],
+  "local_business": {
+    "name": "Queens Carmel School - Beta-1",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/noida/queens-carmel-school-beta-1",
+    "telephone": "+91 120 422 5090",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Hs-05, Block D, Beta I, Greater Noida, Uttar Pradesh 201308, India",
+      "addressLocality": "Noida",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.484062,
+      "longitude": 77.507786
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "Queens Carmel School - Beta-1",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Hs-05, Block D, Beta I, Greater Noida, Uttar Pradesh 201308, India",
+          "addressLocality": "Noida",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/noida/queens-carmel-school-beta-1-beta-1-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "reviewCount": "5"
+        },
+        "author": "Dev Jat 315",
+        "date_published": "2023-04-17",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It is the only girls school in Greater Noida",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Queens Carmel School - Beta-1",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Rishikesh Tripathi",
+        "date_published": "2022-09-07",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Really this Queen’s Carmel School is one of the best School in Greater Noida for the Queen’s. (GIRLS)",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Queens Carmel School - Beta-1",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Rajesh Kashyap",
+        "date_published": "2022-01-22",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Exclusive Girls only school only one of its kind in Greater Noida. It boasts is a sincere and committed team of teachers who  personally strive to imbibe/inculcate excellence in every child.\nExcellent facilities for extracurricular activities as well.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Queens Carmel School - Beta-1",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Satish Kumar",
+        "date_published": "2022-01-22",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "i request to everyone visit this school and see how fantastic school building for students and there is  helpful school staff spacially front seat staff. and most important thing is this school only for Girls.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Queens Carmel School - Beta-1",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Sheeba Sardana",
+        "date_published": "2022-01-21",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It is the only girls school in Greater Noida. The infrastructure of the school is admirable and is well maintained. They refer to their students as 'Queens' and make a constant effort to enhance their inner abilities, inculcate good manners and etiquettes while providing quality education. The atmosphere of the school is very good.",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/noida/queens-carmel-school-beta-1",
+  "scraped_at": "2026-04-25T23:13:07.601268"
+}

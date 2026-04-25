@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Delhi",
+      "url": "https://yellowslate.com/schools/delhi"
+    },
+    {
+      "position": 3,
+      "name": "Lodhi Estate",
+      "url": "https://yellowslate.com/schools/delhi/lodhi-estate"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/delhi/lodhi-estate/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Chinmaya Vidyalaya",
+      "url": "https://yellowslate.com/school/delhi/chinmaya-vidyalaya-lodhi-estate"
+    }
+  ],
+  "local_business": {
+    "name": "Chinmaya Vidyalaya - Lodhi Estate",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159427587115769720375f06b81f9d4481594275872.PNG",
+    "url": "https://yellowslate.com/school/delhi/chinmaya-vidyalaya-lodhi-estate",
+    "telephone": "+91 11 2614 7020, 2614 2958, 2614 2756",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Near Priya Cinema, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057 ",
+      "addressLocality": "Delhi",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5529505,
+      "longitude": 77.1557063
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Chinmaya Vidyalaya - Lodhi Estate",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Near Priya Cinema, Indian Air Lines & Air India Estate, Vasant Vihar, New Delhi, Delhi 110057 ",
+          "addressLocality": "Delhi",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/delhi/chinmaya-vidyalaya-lodhi-estate-lodhi-estate-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "1"
+        },
+        "author": "pawan vats",
+        "date_published": "2022-12-07",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nursery section of the school is amazing children get good exposure teacher's are very supportive",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/delhi/chinmaya-vidyalaya-lodhi-estate",
+  "scraped_at": "2026-04-25T16:06:26.181349"
+}

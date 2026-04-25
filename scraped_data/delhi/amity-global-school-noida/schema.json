@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Delhi",
+      "url": "https://yellowslate.com/schools/delhi"
+    },
+    {
+      "position": 3,
+      "name": "Noida",
+      "url": "https://yellowslate.com/schools/delhi/noida"
+    },
+    {
+      "position": 4,
+      "name": "IGCSE",
+      "url": "https://yellowslate.com/schools/delhi/noida/igcse"
+    },
+    {
+      "position": 5,
+      "name": "Amity Global School",
+      "url": "https://yellowslate.com/school/delhi/amity-global-school-noida"
+    }
+  ],
+  "local_business": {
+    "name": "Amity Global School - Noida",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159497101415463575805f115386481ef1594971014.PNG",
+    "url": "https://yellowslate.com/school/delhi/amity-global-school-noida",
+    "telephone": "92667 53121",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Amity Global School, A Block, C Block, Sector 44, Noida, Uttar Pradesh 201301",
+      "addressLocality": "Delhi",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.5355161,
+      "longitude": 77.3910265
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/delhi/amity-global-school-noida",
+  "scraped_at": "2026-04-25T16:06:11.882569"
+}

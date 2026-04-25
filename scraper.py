@@ -3,6 +3,7 @@ import asyncio
 import json
 import re
 import shutil
+import subprocess
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -18,11 +19,13 @@ class YellowScraper:
         cities: Optional[List[str]] = None,
         cities_file: str = "cities_to_scrape.txt",
         max_pages: Optional[int] = None,
+        with_details: bool = False,
     ):
         self.base_url = "https://yellowslate.com"
         self.output_dir = Path(output_dir)
         self.cities = cities or self._load_cities(cities_file)
         self.max_pages = max_pages
+        self.with_details = with_details
         self.stats = {
             "total_cities": len(self.cities),
             "processed_cities": 0,
@@ -303,6 +306,17 @@ class YellowScraper:
         }
         (self.output_dir / "_summary.json").write_text(json.dumps(summary, indent=2, ensure_ascii=False))
 
+    def _run_detail_backfill(self, city_slug: str) -> None:
+        command = [
+            "node",
+            str(Path(__file__).with_name("scraper.js")),
+            "--details",
+            f"--city={city_slug}",
+            f"--output-dir={self.output_dir.resolve()}",
+            "--fail-on-errors",
+        ]
+        subprocess.run(command, check=True)
+
     def _validate_city_run(
         self,
         city_slug: str,
@@ -579,6 +593,8 @@ class YellowScraper:
                 if not city_results[city].get("validation_passed", False):
                     first_error = city_results[city].get("validation_errors", ["unknown validation failure"])[0]
                     raise RuntimeError(f"{city} scrape failed validation: {first_error}")
+                if self.with_details:
+                    self._run_detail_backfill(city)
             return city_results
         finally:
             self.stats["end_time"] = datetime.now().isoformat()
@@ -599,12 +615,18 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--cities", nargs="+", help="Cities to scrape. Defaults to cities_to_scrape.txt")
     parser.add_argument("--output-dir", default="scraped_data", help="Directory to save scraped output")
     parser.add_argument("--max-pages", type=int, help="Optional page limit for testing")
+    parser.add_argument("--with-details", action="store_true", help="Backfill details.json after each successful city scrape")
     return parser.parse_args()
 
 
 async def main() -> None:
     args = parse_args()
-    scraper = YellowScraper(output_dir=args.output_dir, cities=args.cities, max_pages=args.max_pages)
+    scraper = YellowScraper(
+        output_dir=args.output_dir,
+        cities=args.cities,
+        max_pages=args.max_pages,
+        with_details=args.with_details,
+    )
     await scraper.run()
 
 

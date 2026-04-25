@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Delhi",
+      "url": "https://yellowslate.com/schools/delhi"
+    },
+    {
+      "position": 3,
+      "name": "Punjabi Bagh",
+      "url": "https://yellowslate.com/schools/delhi/punjabi-bagh"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/delhi/punjabi-bagh/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Hansraj Model School",
+      "url": "https://yellowslate.com/school/delhi/hansraj-model-school-punjabi-bagh"
+    }
+  ],
+  "local_business": {
+    "name": "Hansraj Model School - Punjabi Bagh",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159480748813842606645f0ed4c037aa31594807488.PNG",
+    "url": "https://yellowslate.com/school/delhi/hansraj-model-school-punjabi-bagh",
+    "telephone": "011-45911500",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Rd Number 73, Punjabi Bagh, New Delhi, Delhi 110026",
+      "addressLocality": "Delhi",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 28.6634962,
+      "longitude": 77.1241631
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/delhi/hansraj-model-school-punjabi-bagh",
+  "scraped_at": "2026-04-25T16:05:56.125313"
+}

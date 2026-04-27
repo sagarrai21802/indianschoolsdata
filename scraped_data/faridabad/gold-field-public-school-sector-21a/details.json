@@ -1,0 +1,379 @@
+{
+  "slug": "/school/faridabad/gold-field-public-school-sector-21a",
+  "url": "https://yellowslate.com/school/faridabad/gold-field-public-school-sector-21a",
+  "city": "faridabad",
+  "name": "Gold field public school - Sector 21A ",
+  "scraped_at": "2026-04-27T23:53:58.780570",
+  "html_length": 354082,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 21A",
+          "item": "https://yellowslate.com/schools/faridabad/sector-21a"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-21a/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Gold Field Public School",
+          "item": "https://yellowslate.com/school/faridabad/gold-field-public-school-sector-21a"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Gold field public school - Sector 21A",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692954152130502102464e86e28e69621692954153.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/gold-field-public-school-sector-21a",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Gold Field Public School, 239, Sector 21A, Faridabad, Haryana 121001, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4205033,
+        "longitude": 77.3054673
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Gold Field Public School, 239, Sector 21A, Faridabad, Haryana 121001, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/gold-field-public-school-sector-21a-sector-21a-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "53"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sahil Mehra"
+          },
+          "datePublished": "2021-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Near to Women Police Station Sec 21 A",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ekjot Singh"
+          },
+          "datePublished": "2021-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Shreeram model school is one of the best school in our neighbourhood",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SHILAM MANDAL"
+          },
+          "datePublished": "2020-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is average school\nQUALITY :\n1.Support students to compete competetive exam\n2.principle always ready for the students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vansh Sharma"
+          },
+          "datePublished": "2019-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school\nSR. Shreeram model school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Komal Gunsola"
+          },
+          "datePublished": "2019-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Senior Shreeram model school is a  very good school for children's bright future",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Payal ratra"
+          },
+          "datePublished": "2019-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Kumar"
+          },
+          "datePublished": "2019-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school they doesn't give practical knowledge.this school give much stress on theoritical knowledge.students feel like jail in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rakesh kumar Goyal"
+          },
+          "datePublished": "2019-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is not gold field school it is a senior shree ram model school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit"
+          },
+          "datePublished": "2019-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a student of the school i should be in favour of it but i truly say that this school focuses only on study no frequent games , extra curricular activities , and do nothing to take a break from studies .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gold field public school - Sector 21A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satya Prakash Mishra"
+          },
+          "datePublished": "2019-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is now Shree ram modelling school with very good and disciplined  teachers and management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003egfpschhainsa@rediffmail.com"
+  ],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692954152130502102464e86e28e69621692954153.jpg",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692954152130502102464e86e28e69621692954153.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693985300134981611164f82a14620cd1693985300.jpeg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168665536960073366964885189d0c021686655370.jfif\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692954152130502102464e86e28e69621692954153.jpg\\\\\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16837082981595479790645b598ad38531683708299.jpg\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64n0"
+  ],
+  "rating": "3.5",
+  "views": "586",
+  "reviews_count": "53",
+  "phone": "+919513238818",
+  "locality": "Sector 21A",
+  "board": "CBSE\n\nCo",
+  "established": "2005",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692954152130502102464e86e28e69621692954153.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693985300134981611164f82a14620cd1693985300.jpeg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16837082981595479790645b598ad38531683708299.jpg"
+  ]
+}

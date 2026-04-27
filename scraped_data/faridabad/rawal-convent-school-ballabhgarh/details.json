@@ -1,0 +1,371 @@
+{
+  "slug": "/school/faridabad/rawal-convent-school-ballabhgarh",
+  "url": "https://yellowslate.com/school/faridabad/rawal-convent-school-ballabhgarh",
+  "city": "faridabad",
+  "name": "Rawal Convent School - Ballabhgarh ",
+  "scraped_at": "2026-04-27T23:56:35.987983",
+  "html_length": 387549,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballabhgarh",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rawal Convent School",
+          "item": "https://yellowslate.com/school/faridabad/rawal-convent-school-ballabhgarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rawal Convent School - Ballabhgarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/rawal-convent-school-ballabhgarh",
+      "telephone": "098912 79902",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Friends Colony, Sohna Rd, Ballabhgarh, Faridabad, Haryana 121004, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.2422647,
+        "longitude": 77.0756044
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Friends Colony, Sohna Rd, Ballabhgarh, Faridabad, Haryana 121004, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/rawal-convent-school-ballabhgarh-ballabhgarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "64"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is totally for showoff\nTeachers sleep in mid of the period \nPrincipal’s behaviour is very rude towards parents and students \nPrincipal is just a statue of attitude \nEspecially some new teachers are so much chape with boys and they dgaf to girls ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Panchal ji"
+          },
+          "datePublished": "2023-11-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ram    Ram",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NEERAJ MANCHANDA"
+          },
+          "datePublished": "2022-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Daughters are studying in this school. All Teachers & All staff are very Intelligent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Singh"
+          },
+          "datePublished": "2022-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Faridabad all facilities are available and teacher or student are well mannered",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Richa Rajput"
+          },
+          "datePublished": "2022-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tej pal attri"
+          },
+          "datePublished": "2022-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Faridabad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aryan Nahar YT"
+          },
+          "datePublished": "2021-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shashi kant Singh"
+          },
+          "datePublished": "2021-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a best school at ever my three childrens are studing",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neeraj Kanoliya (Helpo)"
+          },
+          "datePublished": "2020-11-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This place is very conjusted and there is a very high risk for the students due to traffic there are no rules and regulations for the safety of students thank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Adarsh Pandey Faridabad"
+          },
+          "datePublished": "2020-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school in terms of education there teacher are really awesome they know weakness of student and they attack on it to clear the weak point and the students overcome there weakness  i am passout from rawal convent school this year I got 84% in my 12th boards really .\nIf you are the guy who actually want to study and with different method thus school is for you . The teachers are really helping nature there humble nature and effective methods help the students .\n(Medical student )\nBest part is this there is a teacher who is awesome in terms of giving education he gave you aware about society thanks manoj sir for helping us .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://8views.com/"
+  ],
+  "rating": "4.1",
+  "views": "877",
+  "reviews_count": "64",
+  "phone": "+919513238818",
+  "locality": "Ballabhgarh",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Rawal Convent School ?\nAsk a Question\nRawal Convent School Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

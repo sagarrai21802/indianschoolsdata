@@ -1,0 +1,416 @@
+{
+  "slug": "/school/faridabad/millennium-world-school-sector-85",
+  "url": "https://yellowslate.com/school/faridabad/millennium-world-school-sector-85",
+  "city": "faridabad",
+  "name": "Millennium World School - Sector 85 ",
+  "scraped_at": "2026-04-27T23:56:42.880796",
+  "html_length": 475849,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 85",
+          "item": "https://yellowslate.com/schools/faridabad/sector-85"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-85/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Millennium World School",
+          "item": "https://yellowslate.com/school/faridabad/millennium-world-school-sector-85"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Millennium World School - Sector 85",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867463426545697096489b4e61fd831686746342.JPG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/millennium-world-school-sector-85",
+      "telephone": " +91-9599286620",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector 85, Faridabad, Haryana 121002",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4047816,
+        "longitude": 77.3559795
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector 85, Faridabad, Haryana 121002",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/millennium-world-school-sector-85-sector-85-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "144"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Rai"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Everything is perfect there .... Teacher's r very supportive n caring ....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepesh kumar singh"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school and teachers are very much involved with students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shala khatun Qureshi"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "chahat sherawat"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was amazing event .Appreciated",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhya Singh"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Everything is good but washroom are not clean",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rekha bhardwaj"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a best school for your child's development",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anuradha Priyadarshini"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Millennium school is very good in every field because all the teachers are very cooperative and very much caring and all other staff like accounts and others are also good even principal maam is also connected with parents.Recently they celebrate dandiya which was  fabulous like students performances, arrangements overall m  so satisfied and wish good luck",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Randheer Dalal"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is one of the best school in the city. They have always encouraged children to learn something new or become better in the future. My son's confidence increased a lot boosted by the conversation and curriculum performed and organised by school. I am thankful to millenium mentors, faculties\nAll teachers very good behaviour with Ward's & parents\nRegards",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ekta arora"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is studied in rtf , they are giving attention to each students in class . Teachers are very cooperative.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium World School - Sector 85"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "LAKHAN PAL"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Academically Good but have some issues regarding front desk , administration and admission section. These sections need improvement.\nSchool needs to be more parent friendly and shoud adopt the practice of resolution  of parents' grievance.\n\nTop management should take regular feedback of parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003einfo.faridabad@millenniumschools.co.in"
+  ],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.youtube.com/embed/SRQKDGWYFBM\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867463426545697096489b4e61fd831686746342.JPG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://www.youtube.com/embed/_V2xZK93EHM\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867463426545697096489b4e61fd831686746342.JPG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270204392930779564e4955b60b751692702043.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867463426545697096489b4e61fd831686746342.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://8views.com/",
+    "https://www.youtube.com/embed/GvMuvQl3jCo\\"
+  ],
+  "rating": "4.4",
+  "views": "964",
+  "reviews_count": "144",
+  "phone": "+919513238818",
+  "locality": "Sector 85",
+  "board": "CBSE\n\nCo",
+  "established": "2019",
+  "category": "Public Schools",
+  "classes": "Nursery - 9",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270204392930779564e4955b60b751692702043.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://img.youtube.com/vi/GvMuvQl3jCo/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867465161162718176489b594ef37a1686746517.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674646220764502096489b55e450041686746462.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674651719825058596489b5953e19b1686746517.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674638020068776066489b50c4fd211686746380.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674650310114858716489b587096f51686746503.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867465029637392616489b5862b0ef1686746502.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867464154332349486489b52f87aad1686746416.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686746435146979456489b543847001686746436.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://img.youtube.com/vi/_V2xZK93EHM/hqdefault.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867463426545697096489b4e61fd831686746342.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867464168196686056489b530d2a681686746417.JPG",
+    "https://img.youtube.com/vi/SRQKDGWYFBM/hqdefault.jpg"
+  ]
+}

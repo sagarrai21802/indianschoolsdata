@@ -1,0 +1,415 @@
+{
+  "slug": "/school/faridabad/holy-child-public-school-sector-75",
+  "url": "https://yellowslate.com/school/faridabad/holy-child-public-school-sector-75",
+  "city": "faridabad",
+  "name": "Holy Child Public School - Sector 75 ",
+  "scraped_at": "2026-04-28T00:08:27.657819",
+  "html_length": 459055,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 75",
+          "item": "https://yellowslate.com/schools/faridabad/sector-75"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-75/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Holy Child Public School",
+          "item": "https://yellowslate.com/school/faridabad/holy-child-public-school-sector-75"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Holy Child Public School - Sector 75",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168675185819565797436489ca72a63641686751859.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/holy-child-public-school-sector-75",
+      "telephone": "+91-8901014444, 9540324545, 9540234545",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Holy Child Public School, Block S, Sector 75, Faridabad, Haryana 121004",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3729107,
+        "longitude": 77.3476411
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Holy Child Public School, Block S, Sector 75, Faridabad, Haryana 121004",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/holy-child-public-school-sector-75-sector-75-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "98"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitin Sharma Moni"
+          },
+          "datePublished": "2024-08-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rude behaviour, staff is not supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritu Arora"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice curriculum and activities are hands on learning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A. K"
+          },
+          "datePublished": "2024-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good service and management is very poor have same increments",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nitin kumar sharma"
+          },
+          "datePublished": "2024-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Poor service",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ASHWANI KUMAR GULATI"
+          },
+          "datePublished": "2024-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice place. Good teaching staff",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jitendra verma"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "why you put contact number on google, while you don't pick it?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandeep Maurya"
+          },
+          "datePublished": "2024-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in faridabad 👍🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhirendra Mohan"
+          },
+          "datePublished": "2024-04-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst nightmare when I visited the school, receptionist told to wait for admission counselling, after waiting for 45 mins she said to meet counselor in 15 mins. Within this 1 hour waiting time I saw 1 by 1, 3 parents shouting at management at reception and asking to change school. I thanked God and silently came out of the mess.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SINGH ENTERPRISES"
+          },
+          "datePublished": "2024-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Poor management, unexperienced staff taking care admission procedure\nParents was searching reception person but saying she is coming with in 5 min from 1 hours\nThis is government school in face of private school building",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Child Public School - Sector 75"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anant"
+          },
+          "datePublished": "2024-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school for children 👌👌",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168675185819565797436489ca72a63641686751859.jpg",
+    "https://twitter.com/yellow_slate",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168675185819565797436489ca72a63641686751859.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://www.youtube.com/embed/MWu5FrnkRfc\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168675185819565797436489ca72a63641686751859.jpg\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\"
+  ],
+  "rating": "4.3",
+  "views": "1324",
+  "reviews_count": "98",
+  "phone": "+919513238818",
+  "locality": "Sector 75",
+  "board": "CBSE\n\nCo",
+  "established": "1976",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675194819306444556489cacc8ddaa1686751949.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867519986856531736489cafe5ffdd1686751998.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867518811453964176489ca8968f071686751881.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675188115295356946489ca89e56511686751882.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867519322941194926489cabc4fb661686751932.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168675185819565797436489ca72a63641686751859.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867519124446289086489caa8974151686751913.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675198110747227756489caeda73621686751982.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867519464117742306489caca8eb781686751947.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867519805877861296489caec6d7ee1686751980.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675202417789539956489cb188847b1686752025.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://img.youtube.com/vi/MWu5FrnkRfc/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675196420255317426489cadc4724b1686751964.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675191320988883576489caa90bcf11686751913.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867520121661598046489cb0c0b5dc1686752012.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686751932566150626489cabc18ba51686751932.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867520126787784266489cb0c43c821686752012.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168675199911252629446489caff45e2e1686751999.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867518977170372876489ca991b9cc1686751897.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867518964876539246489ca98bbf391686751897.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867520257367217276489cb19004a71686752025.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686751964151496726489cadcaec151686751965.jpeg"
+  ]
+}

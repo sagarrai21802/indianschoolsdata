@@ -1,0 +1,375 @@
+{
+  "slug": "/school/faridabad/vidhya-mandir-school-sector-15a",
+  "url": "https://yellowslate.com/school/faridabad/vidhya-mandir-school-sector-15a",
+  "city": "faridabad",
+  "name": "Vidhya Mandir School - Sector 15A ",
+  "scraped_at": "2026-04-27T23:54:55.207025",
+  "html_length": 385727,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 15A",
+          "item": "https://yellowslate.com/schools/faridabad/sector-15a"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-15a/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vidhya Mandir School",
+          "item": "https://yellowslate.com/school/faridabad/vidhya-mandir-school-sector-15a"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vidhya Mandir School - Sector 15A",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203143121029534964ec3ac7466aa1693203143.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/vidhya-mandir-school-sector-15a",
+      "telephone": "0129 410 0781",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "98VF+WJ5, Sector 15A, Faridabad, Haryana 121007, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3947625,
+        "longitude": 77.3241094
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "98VF+WJ5, Sector 15A, Faridabad, Haryana 121007, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/vidhya-mandir-school-sector-15a-sector-15a-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "183"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ishika"
+          },
+          "datePublished": "2024-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This place is just like HEAVEN 😭🫶🏻❤️\nI'm so lucky to be the part of VMPS♡",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhash chander"
+          },
+          "datePublished": "2024-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Students of 9_10th class cannot express their thoughts either in Hindi or English as their basic grammar is very poor some students can't translate in to English any tense, some students even can't devide/multiply,add,subtract in seconds, they take minutes ,in cbse exams,so please improve the methods of teachings. 90% Students  of Vidya Mandir school attend private  tuitions after school and yet cannot compare other English Medium schools.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanishka Setia"
+          },
+          "datePublished": "2024-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hardworking teachers, disciplined environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neeta Sharma"
+          },
+          "datePublished": "2024-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are proud to be a part of Vidya Mandir Public School. We assure the institute to work with complete dedication and loyalty.Its great opportunity to work with this community.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jitender Singh"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good Sports Activities offered by School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rita Devi"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school's infrastructure is modern and well-maintained, providing a conducive learning environment. The administration is approachable and responsive to feedback.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Komal Yadav"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nicely planned and organized Academic programme and it creates a safe and secure environment for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sarika Paelia"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Have remarkable experience with this school. Good  infrastructure  and excellent  sports related  activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Pal (CW)"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good Environment with supportive staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Mandir School - Sector 15A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Pal"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692703276187490318364e49a2c8a7101692703277.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203143121029534964ec3ac7466aa1693203143.jpg\\\\\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203143121029534964ec3ac7466aa1693203143.jpg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203143121029534964ec3ac7466aa1693203143.jpg\\",
+    "https://8views.com/"
+  ],
+  "rating": "4.5",
+  "views": "604",
+  "reviews_count": "183",
+  "phone": "+919513238818",
+  "locality": "Sector 15A",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Vidhya Mandir School ?\nAsk a Question\nVidhya Mandir School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692703276187490318364e49a2c8a7101692703277.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203143121029534964ec3ac7466aa1693203143.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

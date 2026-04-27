@@ -1,0 +1,258 @@
+{
+  "slug": "/school/faridabad/open-sky-school-sector-5",
+  "url": "https://yellowslate.com/school/faridabad/open-sky-school-sector-5",
+  "city": "faridabad",
+  "name": "Open Sky School - Sector 5 ",
+  "scraped_at": "2026-04-27T23:59:55.268035",
+  "html_length": 352734,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 5",
+          "item": "https://yellowslate.com/schools/faridabad/sector-5"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-5/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Open Sky School",
+          "item": "https://yellowslate.com/school/faridabad/open-sky-school-sector-5"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Open Sky School - Sector 5",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/open-sky-school-sector-5",
+      "telephone": "+91 1242255794",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Part- 6, Gurgaon Village, Sector 5, Gurugram, Haryana 122006, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4799929,
+        "longitude": 77.0233415
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Open Sky School - Sector 5",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Part- 6, Gurgaon Village, Sector 5, Gurugram, Haryana 122006, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/open-sky-school-sector-5-sector-5-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bheemsingh Bora"
+          },
+          "datePublished": "2023-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My children are studying since nursery. School has made them confident and independent enough. Good cooperation till date.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Open Sky School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MANYA KAUSHIK"
+          },
+          "datePublished": "2023-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely happy with the kind of activities organised in school for children’s physical, social and intellectual development and I appreciate all that the school does for the success of its students.\n\nHighly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Open Sky School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Adamya soni Eneur"
+          },
+          "datePublished": "2023-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school with better learning environment for students. Teachers and staff are polite. Highly recommended",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Open Sky School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neerupama Bhatnagar"
+          },
+          "datePublished": "2023-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The bus drivers are extremely rash, risking the lives of students on board. One of the drivers' kept honking without any reason and drove dangerously. I would encourage the school authorities to look into this, since numerous parents send their kids through school buses.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Open Sky School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vajid Gavandi"
+          },
+          "datePublished": "2023-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very bad 👎 experience...my husband and me thought to enquire for admission of my daughter....and went ther at exact 12:58 pm today and called at reception and told them we standing outside and said as there I can check on school notice board that admission enquiry is till 1 pm ....so please allow us to visit and enquire about admission...but the lady on reception took 15 minute of hold and didn't allow.\nPathetic\nis already 1:15  now",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://8views.com/"
+  ],
+  "rating": "3.4",
+  "views": "494",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 5",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "600 - 57",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

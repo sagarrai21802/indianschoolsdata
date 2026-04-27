@@ -1,0 +1,375 @@
+{
+  "slug": "/school/faridabad/tagore-academy-public-school-ballabhgarh",
+  "url": "https://yellowslate.com/school/faridabad/tagore-academy-public-school-ballabhgarh",
+  "city": "faridabad",
+  "name": "Tagore Academy Public School - Ballabhgarh ",
+  "scraped_at": "2026-04-28T00:07:22.876010",
+  "html_length": 390000,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballabhgarh",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Tagore Academy Public School",
+          "item": "https://yellowslate.com/school/faridabad/tagore-academy-public-school-ballabhgarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Tagore Academy Public School - Ballabhgarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693226715102225622564ec96db00f4b1693226715.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/tagore-academy-public-school-ballabhgarh",
+      "telephone": "0129 224 1521",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector 3, Ballabhgarh, Faridabad, Haryana 121004, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3454036,
+        "longitude": 77.3297913
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector 3, Ballabhgarh, Faridabad, Haryana 121004, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/tagore-academy-public-school-ballabhgarh-ballabhgarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "95"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajat Batra"
+          },
+          "datePublished": "2024-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Their ideology of cramming and no sports period from 5th class onwards. Extra classes from 5th onwards even during summer holidays extra classes, will definitely going to depress your child. Had a severe trauma so much under confidence here. They never emphasize on extra curricular activities. That's why they are not growing as per other good schools in FBD.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashutosh Kaushik"
+          },
+          "datePublished": "2024-10-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school with great location in sec 3..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gamer Boy"
+          },
+          "datePublished": "2024-10-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They don't support any kind of  sports and just focus on studies. Even if some how students get 1 period for games there is nothing to play with . There is no school ground it's a parking lot where the students are left to play . Not a single class at a time 3 to 4 classes.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Maan"
+          },
+          "datePublished": "2024-10-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I think this is not a worst school  but good nowadays they are also focusing in competition in othe school also  we have even got many prices the teachers\nare very friendly",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ALYY GAMING"
+          },
+          "datePublished": "2024-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school, They just focus on study only not on any other curriculum activities. Zero efforts from the staff, teachers don't know how to interact with students, basically it's 👎",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhruv Somani"
+          },
+          "datePublished": "2024-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Academic wise it is a good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "diksha malik"
+          },
+          "datePublished": "2024-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The vice principal is not an understanding person and Exaggerate things. Cheap thinking. This schl is only good(average) till 10. And 11,12 commerce. That's it. Other streams teachers are also good but they have shortage of physics teachers. For about 2 years we didn't get a particular physics teacher. There are no extra curricular activities. No entertainment for students except study. You child will only be cursing this schl if he/she is taking admission in it. Your child will feel left out from other good school students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "usha singla"
+          },
+          "datePublished": "2024-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "very much pressure on students and less activities in the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fire Kick GAMING"
+          },
+          "datePublished": "2024-05-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "So aggresive coce principal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tagore Academy Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reena Das"
+          },
+          "datePublished": "2024-05-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad experience very cruel school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693226715102225622564ec96db00f4b1693226715.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693226715102225622564ec96db00f4b1693226715.jpg\\\\\\",
+    "https://schema.org\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693226715102225622564ec96db00f4b1693226715.jpg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203654134228354964ec3cc61fc5d1693203654.jpg\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "3.5",
+  "views": "573",
+  "reviews_count": "95",
+  "phone": "+919513238818",
+  "locality": "Ballabhgarh",
+  "board": "CBSE\n\nCo",
+  "established": "1995",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Tagore Academy Public School ?\nAsk a Question\nTagore Academy Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203654134228354964ec3cc61fc5d1693203654.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693226715102225622564ec96db00f4b1693226715.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

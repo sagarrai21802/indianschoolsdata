@@ -1,0 +1,375 @@
+{
+  "slug": "/school/faridabad/aravali-international-school-sector-81-sector-81",
+  "url": "https://yellowslate.com/school/faridabad/aravali-international-school-sector-81-sector-81",
+  "city": "faridabad",
+  "name": "Aravali International School Sector 81 - Sector 81 ",
+  "scraped_at": "2026-04-28T00:02:38.936490",
+  "html_length": 391234,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 81",
+          "item": "https://yellowslate.com/schools/faridabad/sector-81"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-81/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Aravali International School Sector 81",
+          "item": "https://yellowslate.com/school/faridabad/aravali-international-school-sector-81-sector-81"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Aravali International School Sector 81 - Sector 81",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169415665290224695164fac76c044851694156652.JPG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/aravali-international-school-sector-81-sector-81",
+      "telephone": "01292982081",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Greater, Block D, Sector- 81, Neharpar Faridabad, Faridabad, Haryana 121001",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3916882,
+        "longitude": 77.3467996
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Greater, Block D, Sector- 81, Neharpar Faridabad, Faridabad, Haryana 121001",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/aravali-international-school-sector-81-sector-81-sector-81-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "71"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rituparna kundu"
+          },
+          "datePublished": "2024-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school for young kids. Lots of exposure to multiple activities and good curriculum.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Chaubey"
+          },
+          "datePublished": "2024-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Aravali International school is one of the best school in the region. Teachers are very supportive and provide a friendly environment for kids to learn and grow. Support staff are also very helpful.My kid has shown a lot of improvement in study as well as other activities. I strongly recommends Aravali International school to all Parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CHIRAG KAUSHIK"
+          },
+          "datePublished": "2024-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has state of the art infrastructure, competent staff and focuses on foundational domain to make students responsible citizens of the future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Chatterjee"
+          },
+          "datePublished": "2024-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Aravali International School Sec 81 is a really good school with experience based learning curriculum. The school staff is also very professional and ample opportunities are available for kids to participate in co-curricular activities. My 6 years daughter loves to go to school..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manaswini"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is one of the best school in Faridabad, All teachers are helping and gives best education. Proud Parents of AIS  Faridabad.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Geetika Ahuja"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really appreciate all teachers for their efforts and support.The way of learning is too good.The school is a trendsetter in providing equality education through the latest in educational aids and providing facilities to create the ambience for studies.They encourage the students in all curricular activities.Thank you for your support",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Majid Junnedi"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Aravali International School excels in providing a holistic education with a strong focus on both academics and extracurricular activities. The dedicated faculty and state-of-the-art facilities create an inspiring and nurturing environment for students.Thank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nanu Bisht"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very much satisfied to be the parents of this school. 🤝",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shitu Kamboj"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I m very happy that my child is studying in this school. Great school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School Sector 81 - Sector 81"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shrishti maini"
+          },
+          "datePublished": "2024-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I've been impressed with Aravali International School since my child started attending last year. The teachers are dedicated and enthusiastic, and the curriculum is well-rounded and challenging. The school also has a strong sense of community, with many opportunities for parents to get involved. Overall, I'm grateful for the education and experience my child is receiving at school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692943442190602996864e844528a7011692943443.jpg\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169415665290224695164fac76c044851694156652.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692702517106289337864e49735997b41692702518.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169415665290224695164fac76c044851694156652.JPG\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169415665290224695164fac76c044851694156652.JPG\\",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://8views.com/"
+  ],
+  "rating": "4.8",
+  "views": "712",
+  "reviews_count": "71",
+  "phone": "+919513238818",
+  "locality": "Sector 81",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Aravali International School Sector 81 ?\nAsk a Question\nAravali International School Sector 81 Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692702517106289337864e49735997b41692702518.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692943442190602996864e844528a7011692943443.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169415665290224695164fac76c044851694156652.JPG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

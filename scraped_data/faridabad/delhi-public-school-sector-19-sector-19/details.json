@@ -1,0 +1,376 @@
+{
+  "slug": "/school/faridabad/delhi-public-school-sector-19-sector-19",
+  "url": "https://yellowslate.com/school/faridabad/delhi-public-school-sector-19-sector-19",
+  "city": "faridabad",
+  "name": "Delhi Public School Sector 19 - Sector 19 ",
+  "scraped_at": "2026-04-28T00:04:47.732849",
+  "html_length": 416578,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 19",
+          "item": "https://yellowslate.com/schools/faridabad/sector-19"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-19/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School Sector 19",
+          "item": "https://yellowslate.com/school/faridabad/delhi-public-school-sector-19-sector-19"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School Sector 19 - Sector 19",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270197775067686064e49519ae1ef1692701978.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/delhi-public-school-sector-19-sector-19",
+      "telephone": "0129 228 0522",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "111, NH-19, Sector 19, Faridabad, Haryana 121002, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4201066,
+        "longitude": 77.3101977
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "111, NH-19, Sector 19, Faridabad, Haryana 121002, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/delhi-public-school-sector-19-sector-19-sector-19-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "146"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ANONYMOUS"
+          },
+          "datePublished": "2025-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I will not recommended this school especially for the kids studying in 2-5. \n1. The strenghth is too much high and teachers are not able to focus on each and every child\n2. There is a fashion of unethical evaluation of kids grading them on A, B, C ....etc making them to hate the studies\n3. So called Yogyata khoj are organized just to showcase NEP that they are just doing it\n4. No sports activity as kids school time starts at 08 AM and closes at 11 AM making it roughly 3 hrs of time where most of the kids remain ignored\n5. SUPW classess are taken by maths or science teachers- so that part is also for showcasing\n6. My kid class work copies are mostly marked with incomplete work and most of the pages are colored fully in red colored with heavy notes. The teachers will put all burden on you to teach and complete their work.\n7. Huge fee structure that does not match anywhere with the quality of the education provided to the kids\n8. Music, sports, dance classes are mere jokes and students dont even know who are the teachers attending them\n\n5. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "drrakhi pareek"
+          },
+          "datePublished": "2023-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good skool",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ri Bee"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A lot of the teachers are rude and pressurize us students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rizza Fatima"
+          },
+          "datePublished": "2023-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best education!!\n👍🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shobhit Garg"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Male Teachers in this school beat boy students, specially in class 11& 12.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ak Venom"
+          },
+          "datePublished": "2023-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Such a bad school, the management is very bad like Literally no. Of students get admission there for only dieing I don't know what's wrong with the school I wonder if it is a school or death camps I feel so sorry for those childrens studying over there  Heartbreaking*",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mervin Abhinav"
+          },
+          "datePublished": "2023-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Only admit your kids in this college if you want him to get bullied have no support from the staff screw his happiness and eventually might even end his life. So yeah only admit ur kids if you want them to end their lives",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ishu Kalra"
+          },
+          "datePublished": "2023-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "1 year on and no justice. These are the charlatans that act as if they care about the students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maan singh"
+          },
+          "datePublished": "2023-06-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good service",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Sector 19 - Sector 19"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pushkar Chaudhari"
+          },
+          "datePublished": "2023-05-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They are building bullies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003einfo@dpsfsis.com"
+  ],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270197775067686064e49519ae1ef1692701978.jpg",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270197775067686064e49519ae1ef1692701978.jpg\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270197775067686064e49519ae1ef1692701978.jpg\\\\\\",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2022-03-24-1.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2020-05-26-1.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "3.4",
+  "views": "938",
+  "reviews_count": "146",
+  "phone": "+919513238818",
+  "locality": "Sector 19",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270197775067686064e49519ae1ef1692701978.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2020-05-26-1.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/169259832660231664664e30036220901692598326.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2022-03-24-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

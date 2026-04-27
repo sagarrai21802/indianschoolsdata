@@ -1,0 +1,408 @@
+{
+  "slug": "/school/faridabad/aravali-international-school-sector-43",
+  "url": "https://yellowslate.com/school/faridabad/aravali-international-school-sector-43",
+  "city": "faridabad",
+  "name": "Aravali International School - Sector 43 ",
+  "scraped_at": "2026-04-27T23:58:44.391624",
+  "html_length": 447908,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 43",
+          "item": "https://yellowslate.com/schools/faridabad/sector-43"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-43/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Aravali International School",
+          "item": "https://yellowslate.com/school/faridabad/aravali-international-school-sector-43"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Aravali International School - Sector 43",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168667117064247210864888f4211fb71686671170.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/aravali-international-school-sector-43",
+      "telephone": "+91 8287104808, 9873567122",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Aravali International School, Suraj Kund Badkhal Rd, Gadakhor Basti Village, Sector 43, Faridabad, Haryana 121003",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.446171,
+        "longitude": 77.282084
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Aravali International School, Suraj Kund Badkhal Rd, Gadakhor Basti Village, Sector 43, Faridabad, Haryana 121003",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/aravali-international-school-sector-43-sector-43-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "129"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sanjay singh"
+          },
+          "datePublished": "2024-05-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No1 school in faridabad because it has natural beauty 😍, mother like teachers, and many skill build activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ANUPAM SINGH"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kindly provide bus tracking system for the parents",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "roma NARULA"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is undoubtedly a great choice by parents bit only bottleneck is the lack of GPS tracking system in the school transport for children...request the authorities to accommodate same asap.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul singh Gusain"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Request you to implement a bus tracking system for parents. Due to traffic congestion, it often takes a significant amount of time for the bus to reach its destination",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PIYUSH KISHOR"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please provide bus tracking facility to the parents ASAP",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Piyush Thukral"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please offer a bus tracking service for parents. We often find ourselves waiting at the bus stop due to unpredictable traffic conditions. It's my humble request, kindly look into this.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Laksh Mathur"
+          },
+          "datePublished": "2024-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Terrible school never go there. My friend jumped off the roof from this school. He is now dead.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MUSKAN CHAUHAN"
+          },
+          "datePublished": "2023-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the great school of faridabad. Wonderful staff and good curriculum",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Garg"
+          },
+          "datePublished": "2023-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Aravali International School is one of the best schools of Faridabad. Focus on holistic development of child makes it a complete package.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Aravali International School - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonakshi Swami"
+          },
+          "datePublished": "2023-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best environment to learn, grow and educate.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003einfo.ais@aravali.edu.in"
+  ],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168667117064247210864888f4211fb71686671170.jpg\\",
+    "https://www.youtube.com/embed/Taj-qePZlLY\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168667117064247210864888f4211fb71686671170.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168667117064247210864888f4211fb71686671170.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270352528928675564e49b25806811692703526.jpg\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://8views.com/"
+  ],
+  "rating": "4.1",
+  "views": "1213",
+  "reviews_count": "129",
+  "phone": "+919513238818",
+  "locality": "Sector 43",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16866711928035073064888f581fe3b1686671192.jpg",
+    "https://img.youtube.com/vi/Taj-qePZlLY/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686671236189314434764888f849ff4d1686671237.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686671206104672003564888f663b2791686671206.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168667122241017041364888f7679edd1686671222.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168667117064247210864888f4211fb71686671170.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168667118836874591364888f541a37a1686671188.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169270352528928675564e49b25806811692703526.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168667123890794977764888f866d2491686671238.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168667120677902429264888f665da3b1686671206.jfif",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168667122239665576264888f76535e91686671222.jfif",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

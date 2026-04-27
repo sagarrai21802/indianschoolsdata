@@ -1,0 +1,371 @@
+{
+  "slug": "/school/faridabad/delhi-public-school-mathura-road",
+  "url": "https://yellowslate.com/school/faridabad/delhi-public-school-mathura-road",
+  "city": "faridabad",
+  "name": "Delhi Public School - Mathura Road ",
+  "scraped_at": "2026-04-28T00:04:30.468098",
+  "html_length": 337315,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mathura Road",
+          "item": "https://yellowslate.com/schools/faridabad/mathura-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/mathura-road/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/faridabad/delhi-public-school-mathura-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Mathura Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/delhi-public-school-mathura-road",
+      "telephone": "+91 114 339 9200",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "H6WR+VWJ, Mathura Rd, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110003, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5959142,
+        "longitude": 77.2418553
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "H6WR+VWJ, Mathura Rd, National Zoological Park, Sundar Nagar, New Delhi, Delhi 110003, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/delhi-public-school-mathura-road-mathura-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "155"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek Khali"
+          },
+          "datePublished": "2024-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school and teachers and staff members.Well disciplined students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "purnima jain"
+          },
+          "datePublished": "2024-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the world",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anoop"
+          },
+          "datePublished": "2024-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had to take my ward to hospital as he was not well and has gone to school just to write the exam. As a guardian I have to wait outside the school for 1 hour in hot sun. I had called reception and concerned teachers several times but all calls went unanswered. When spoken to reception to kindly connect to principal since no one else is answering the calls the request was outrightly dismissed.\nSchool Management needs to wake up. Even the Information to the child was not passed.\n\nThe child was denied medical treatment also in the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "YASHIKA PRABHAKAR"
+          },
+          "datePublished": "2024-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been a student of this school from Nursery uptil class XII. Loved the overall curriculum and teachers. The overall infrastructure and facilities are also very good. They encourage students to take part in activities and competitions that help nurture their soft skills such as confidence. They also help students excel in studies by giving personal attention to points they are weak at. One of the best for your child in Delhi NCR.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ali Murtuza"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ahzam"
+          },
+          "datePublished": "2024-05-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "can do better",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meta Moda"
+          },
+          "datePublished": "2024-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been studying in this school for 7+ years and with experience I can tell that this school is the worst school in the world it gives so much of work and if you don't do it you get extreme punishment if you cry the teacher does nothing and ignores it the school is good for junior but senior is pathetic and stressful if you want your child to be depressed then join this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "natasha tanwar"
+          },
+          "datePublished": "2024-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very good school!Talented teachers!Updates well on time !One of my dream school !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CA RUPINDER KAUR"
+          },
+          "datePublished": "2024-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not at all satisfied with the way school operates.\n\nMy child is going to this school since more than 2 years.\nThere are no extra curricular activities at all, no sports, no indoor games, no playtime with a never ending excuses of weather is hot, cold, polluted etc. , a swimming pool which is never used, weekly music classes but none of the students have learned anything about music in past 2 years.\n\nThis school is not at all living up to its brand names and years long legacy",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Mathura Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shiv Shankar Maurya"
+          },
+          "datePublished": "2024-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good study material",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.0",
+  "views": "633",
+  "reviews_count": "155",
+  "phone": "+919513238818",
+  "locality": "Mathura Road",
+  "board": "CBSE\n\nCo",
+  "established": "1949",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

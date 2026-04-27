@@ -1,0 +1,256 @@
+{
+  "slug": "/school/faridabad/surana-vidyalaya-agwanpur",
+  "url": "https://yellowslate.com/school/faridabad/surana-vidyalaya-agwanpur",
+  "city": "faridabad",
+  "name": "SURANA VIDYALAYA - Agwanpur ",
+  "scraped_at": "2026-04-28T00:00:47.371306",
+  "html_length": 346351,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Agwanpur",
+          "item": "https://yellowslate.com/schools/faridabad/agwanpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/agwanpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SURANA VIDYALAYA",
+          "item": "https://yellowslate.com/school/faridabad/surana-vidyalaya-agwanpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SURANA VIDYALAYA - Agwanpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/surana-vidyalaya-agwanpur",
+      "telephone": "+91 910 843 3632",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Chandapura - Anekal Rd, Suryanagar Phase I, Chandapura, Bengaluru, Iggalur, Karnataka 560081, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.7919244,
+        "longitude": 77.7059241
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SURANA VIDYALAYA - Agwanpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Chandapura - Anekal Rd, Suryanagar Phase I, Chandapura, Bengaluru, Iggalur, Karnataka 560081, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/surana-vidyalaya-agwanpur-agwanpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raja Raman"
+          },
+          "datePublished": "2023-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome CBSE school with lot of activities for kids. Teachers, coordinators and Principal are extremely friendly and cooperative. Happy with my kids progress.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SURANA VIDYALAYA - Agwanpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hardik Sai"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school in the vicinity for my Kid.\nVery affordable fees for the facility they are providing, the faculty are very knowledgeable and good at academics.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SURANA VIDYALAYA - Agwanpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Balu S REDDY"
+          },
+          "datePublished": "2022-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good infrastructure and management, but I heard about Hitler rules i never seen physically, now seeing directly from the surana principal, wrost behavior he won't give chance to speak parents, what he says thats the rule. No good schools nearby so they are getting lots of admissions due to that they are sitting in the sky. My dear principal change your attitude and recrute qualified & experience teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SURANA VIDYALAYA - Agwanpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa Anjali"
+          },
+          "datePublished": "2019-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The educational system followed in the scool is really good.  Kids are happy studying here.  Every subject is explained  giving good examples and showing practically.\n\nKids are encouraged to participate in extracurricular activities like,  music, dance, sports, yoga etc.  They make sure all the kids get equal opportunity in everything.\n\nInfrastructure of the school is also good.  So overall experience with this school is excellent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SURANA VIDYALAYA - Agwanpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nishin Goyal"
+          },
+          "datePublished": "2018-10-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Infrastructure wise it is a one of best school in Bangalore, and school fees in also affordable for the middle class. syllabus is good, in the syllabus they have covered almost all the activities (dance, drama, music, skating etc.) along with academics. But it is not sufficient, they should work on the child development, The small kids needs a lots of personal care, whatever they learn from the school environment impacts on their personal atiquete and attitude. Students fight, comments each other and make complaints. They need to stop and taught immediately with personal attention of every child, Teaching methodology also needs improvement to increase the child interest.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://8views.com/"
+  ],
+  "rating": "4.0",
+  "views": "273",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Agwanpur",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "000 - 60",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SURANA VIDYALAYA ?\nAsk a Question\nSURANA VIDYALAYA Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

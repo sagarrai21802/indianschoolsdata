@@ -1,0 +1,375 @@
+{
+  "slug": "/school/faridabad/st-peter-convent-school-sector-88",
+  "url": "https://yellowslate.com/school/faridabad/st-peter-convent-school-sector-88",
+  "city": "faridabad",
+  "name": "St. Peter Convent School - Sector 88 ",
+  "scraped_at": "2026-04-28T00:10:14.610800",
+  "html_length": 354958,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 88",
+          "item": "https://yellowslate.com/schools/faridabad/sector-88"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-88/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Peter Convent School",
+          "item": "https://yellowslate.com/school/faridabad/st-peter-convent-school-sector-88"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Peter Convent School - Sector 88",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16929473691897976564e853a9dc9121692947370.JPG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/st-peter-convent-school-sector-88",
+      "telephone": "095603 56167",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sec-88, Greater, RPS City, Sector 88, Faridabad, Haryana 121002, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4136225,
+        "longitude": 77.3531602
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sec-88, Greater, RPS City, Sector 88, Faridabad, Haryana 121002, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/st-peter-convent-school-sector-88-sector-88-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "41"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hitesh yadav"
+          },
+          "datePublished": "2024-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a good school but some time I feel they teach good acting in it now my small bro work in Hollywood",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandan Jha"
+          },
+          "datePublished": "2024-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good for nothing",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suman Singh"
+          },
+          "datePublished": "2024-05-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a good school for children's education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anupama Srivastava"
+          },
+          "datePublished": "2023-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good  school  with discipline  and moral values  , making Good  effort for personality grooming , as well as studies ,  according to my view,complete package for child's development, keep up the good work.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prince Kumar"
+          },
+          "datePublished": "2023-09-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikash"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a dance school not good for study. They are playing Bollywood songs with very huge sound daily don't know the purpose. They are mainly focusing on extra curricular activities in school not in study. I really worried how they are playing with student carrier. Even student and their parents know everything but don't know why they are not escalating to school management. Even Admin department\\Security is completely worthless and unprofessional. Daily traffic get choked completely outside gate during school off time. Security are very un professional they don't know how to manage traffic.  They keep stand hand in hand and people staying near school suffer. I am also living near by and lots of people suggested me to get your son admission in this school as it is very near to my residence and transport is not required for this school. But as i saw what is happening daily in this school, I completely denied. I am just suggesting  to other parents.. you are paying money for your child to school with some expectation. So please keep your eyes open, monitor and discuss with your child what is happening. If required highlight your concern to school management it's a matter of your child carrier.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ancy Thomas"
+          },
+          "datePublished": "2023-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a best school in Faridabad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saurabh Mitra"
+          },
+          "datePublished": "2023-05-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If you're doing your ward admission because of less fees, think thrice before taking the decision. In two years, this school destroyed my child self confidence. They just want the students to become book worms, hell lot of school homework, no creativity, no such functions/occasions where parents can do meaningful interaction with teachers or management. Very very outdated conventional teaching approach. Overstressed teachers who are not trained enough to conduct effective PTMs. I discontinued after 2 years and will never ever recommend anyone to get admission here.  Don't compromise with quality as it will cost huge in future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Charanjeet Bajaj"
+          },
+          "datePublished": "2023-05-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "3rd class management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter Convent School - Sector 88"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neeraj Sharma"
+          },
+          "datePublished": "2023-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very disappointed Today with this school. My daughter has forgotten her lunch box at home so I myself has gone to school to give her lunchbox. The guards, school reception everybody denied to take the lunch box from me and give her. I am really worried as how my daughter will survive till 2.20 pm. I requested multiple times but my request got in vain and really feeling painful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003espetercsfbd@gmail.com"
+  ],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16929473691897976564e853a9dc9121692947370.JPG\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16929473691897976564e853a9dc9121692947370.JPG\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16929473691897976564e853a9dc9121692947370.JPG",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "3.5",
+  "views": "781",
+  "reviews_count": "41",
+  "phone": "+919513238818",
+  "locality": "Sector 88",
+  "board": "CBSE\n\nCo",
+  "established": "2013",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16929473691897976564e853a9dc9121692947370.JPG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "slug": "/school/faridabad/dav-public-school-sector-37-sector-37",
+  "url": "https://yellowslate.com/school/faridabad/dav-public-school-sector-37-sector-37",
+  "city": "faridabad",
+  "name": "DAV public School Sector 37 - Sector 37 ",
+  "scraped_at": "2026-04-27T23:54:22.123611",
+  "html_length": 406699,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 37",
+          "item": "https://yellowslate.com/schools/faridabad/sector-37"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-37/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DAV Public School Sector 37",
+          "item": "https://yellowslate.com/school/faridabad/dav-public-school-sector-37-sector-37"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DAV public School Sector 37 - Sector 37",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692704300204202264564e49e2cc2dfb1692704301.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/dav-public-school-sector-37-sector-37",
+      "telephone": "0129 427 9200",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "F8H6+6W4, Ashoka Enclave Part II, Sector 37, Faridabad, Haryana 121003, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4780125,
+        "longitude": 77.3123281
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "F8H6+6W4, Ashoka Enclave Part II, Sector 37, Faridabad, Haryana 121003, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/dav-public-school-sector-37-sector-37-sector-37-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "130"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-10-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a 6th grader,  this is my experience.(Im currently in 6th grade)\n\nAllegedly, the principal is very rude and lacks manners when dealing with parents. My mum told me about her raised voice during our TC collection meeting, which got personal. Another incident involved my friend A, who was scolded for taking a book from the teacher's almirah (which was teacher-instructed). The principal allegedly grabbed A's shoulder forcefully and asked her to take her to A's class teacher. As a student in the school, I've noticed the sports activities are good, and some teachers, like my English teacher, explain concepts really well. Overall, the principal's behavior is concerning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sarita jha"
+          },
+          "datePublished": "2024-09-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school I have ever seen 🤮🤮 but about 5 km in Jaitpur panchsheel public schools that school is amazing and if want to join new school join that",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sneha Malik"
+          },
+          "datePublished": "2024-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school very disappointed",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayush Jha"
+          },
+          "datePublished": "2024-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dilip Paswan"
+          },
+          "datePublished": "2024-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a very good school 🎒🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rashmi Kumari"
+          },
+          "datePublished": "2024-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are amazing and students are very disciplined.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harpreet Kaur"
+          },
+          "datePublished": "2023-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school no sports at all",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A_K GAMING 1654"
+          },
+          "datePublished": "2023-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My students also study in this school . They are performing very well . Their teachers are also very good . Teachers are very calm and co - operative . They also organise so many competitions and programs",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "garima pandey"
+          },
+          "datePublished": "2023-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Professionals teaching",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV public School Sector 37 - Sector 37"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atharv Pandey"
+          },
+          "datePublished": "2023-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the area. Very good school. The children are very well mannered.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003edavpssec37fbd@gmail.com"
+  ],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692704300204202264564e49e2cc2dfb1692704301.jpg",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2022-03-24-1.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692704300204202264564e49e2cc2dfb1692704301.jpg\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692704300204202264564e49e2cc2dfb1692704301.jpg\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://8views.com/"
+  ],
+  "rating": "3.4",
+  "views": "797",
+  "reviews_count": "130",
+  "phone": "+919513238818",
+  "locality": "Sector 37",
+  "board": "CBSE\n\nCo",
+  "established": "1997",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692704300204202264564e49e2cc2dfb1692704301.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2022-03-24-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16926029909758596364e3126ed690c1692602991.jpg"
+  ]
+}

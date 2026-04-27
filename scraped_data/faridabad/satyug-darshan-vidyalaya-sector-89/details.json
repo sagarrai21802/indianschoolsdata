@@ -1,0 +1,404 @@
+{
+  "slug": "/school/faridabad/satyug-darshan-vidyalaya-sector-89",
+  "url": "https://yellowslate.com/school/faridabad/satyug-darshan-vidyalaya-sector-89",
+  "city": "faridabad",
+  "name": "Satyug Darshan Vidyalaya - Sector 89 ",
+  "scraped_at": "2026-04-28T00:07:28.757298",
+  "html_length": 449496,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 89",
+          "item": "https://yellowslate.com/schools/faridabad/sector-89"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/sector-89/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Satyug Darshan Vidyalaya",
+          "item": "https://yellowslate.com/school/faridabad/satyug-darshan-vidyalaya-sector-89"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Satyug Darshan Vidyalaya - Sector 89",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867490404107223886489bf70333d71686749040.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/satyug-darshan-vidyalaya-sector-89",
+      "telephone": "8588833030/40",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Vasundhara, Sector 89, Bhupani- Lalpur, Road, Faridabad, Haryana 121002",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4497458,
+        "longitude": 77.4022844
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Vasundhara, Sector 89, Bhupani- Lalpur, Road, Faridabad, Haryana 121002",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/satyug-darshan-vidyalaya-sector-89-sector-89-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "64"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "UNWRAP THE TRUTH"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The organization Unwrap the Truth has been actively conducting workshops to educate individuals on how to read food labels and understand PCOD/PCOS, contributing significantly to dietary habit changes and health improvements. While internal politics may present challenges, the overall impact of the organization's work appears to be positive, reflecting a commitment to enhancing well-being through education and awareness.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gargi Tyagi"
+          },
+          "datePublished": "2024-01-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikhil Ranjan Jha"
+          },
+          "datePublished": "2023-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best boarding and day care school in Faridabad.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Purnima Mehta"
+          },
+          "datePublished": "2023-10-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No boarding school can be better that SDV, the type of care they give to children is amazing, the mess food, facilities everything is perfect.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hardik Chhabra"
+          },
+          "datePublished": "2023-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best boarding nd day boarding school in delhi NCR and all teacher's are  very helpful and my first ptm is great mrs.Neetu ma'am, vice principal mrs. Puri and maths teacher sourabh sir .👍😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amaru Ji"
+          },
+          "datePublished": "2023-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "i love this hostel..jst bcos af my child is studing here..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akashhind 1312"
+          },
+          "datePublished": "2023-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have visited this place.  Excellent place to peace and meditation 🚩🚩🚩🚩🚩",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeev Yadav"
+          },
+          "datePublished": "2023-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best boarding school in Delhi NCR with modern facilities and deep roots of Humanity,Culture and Moral Values.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Panchal"
+          },
+          "datePublished": "2022-11-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In this school no holidays for events... Like 14 Nov... Guru purnima....lots of bleady rule...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Satyug Darshan Vidyalaya - Sector 89"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shiv Charan"
+          },
+          "datePublished": "2022-07-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I want to share my experience with this School. At first instance, you will find this school, a very large institute with good sports facilities. My meeting with the Previous Principal Mr.Puri was great. He is a true Gentleman, very supportive and visionary. Sports teachers are professional. The Chairman is very polite and humble.\nNow the main issue that stopped me from admitting my son to this school was their INTERNAL POLITICS  due to which the good staff left this school including the Principal Mr.Puri. Some of the staff ask us to come for admission and some of the senior staff were refusing, it seems that they all are not having any synergies. I got strong negative vibes about the environment of the school.\nI don't know what other people think about this school but this could be the reason that despite such a large facility the strength of the school is very less.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867490404107223886489bf70333d71686749040.jpg\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://schema.org\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867490404107223886489bf70333d71686749040.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://www.youtube.com/embed/bvBrIoE8sDs\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867490404107223886489bf70333d71686749040.jpg",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.3",
+  "views": "1013",
+  "reviews_count": "64",
+  "phone": "+919513238818",
+  "locality": "Sector 89",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nSports\nReviews",
+  "images": [
+    "https://img.youtube.com/vi/bvBrIoE8sDs/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674906018425519346489bf84824311686749061.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674907512021864216489bf936c4b91686749075.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674905918466266106489bf83c18a21686749060.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867491058549920056489bfb1422361686749105.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674911718415991756489bfbd9ab391686749118.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867491042801086166489bfb07d4bf1686749105.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674913518086863006489bfcf5551d1686749135.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168674907419561464516489bf92d82631686749075.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867490918495902626489bfa37e0021686749092.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16867490404107223886489bf70333d71686749040.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867490912208398696489bfa33292d1686749091.JPG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16867491178600049996489bfbdd89241686749118.jpeg"
+  ]
+}

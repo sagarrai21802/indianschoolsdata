@@ -1,0 +1,377 @@
+{
+  "slug": "/school/faridabad/rawal-interntional-school-ballabhgarh",
+  "url": "https://yellowslate.com/school/faridabad/rawal-interntional-school-ballabhgarh",
+  "city": "faridabad",
+  "name": "Rawal Interntional School - Ballabhgarh ",
+  "scraped_at": "2026-04-28T00:03:46.069538",
+  "html_length": 396051,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballabhgarh",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rawal Interntional School",
+          "item": "https://yellowslate.com/school/faridabad/rawal-interntional-school-ballabhgarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rawal Interntional School - Ballabhgarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693201113206049902064ec32d9c5ed31693201114.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/rawal-interntional-school-ballabhgarh",
+      "telephone": "083758 20889",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Nangla, 9767+962, Sohna Rd, Sarurpur Industrial Area, Ballabhgarh, Faridabad, Haryana 121004, India",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.30984,
+        "longitude": 77.1756651
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nangla, 9767+962, Sohna Rd, Sarurpur Industrial Area, Ballabhgarh, Faridabad, Haryana 121004, India",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/rawal-interntional-school-ballabhgarh-ballabhgarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "108"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kavita Jain"
+          },
+          "datePublished": "2024-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great leadership, kind and helpful office staff and very nice and brilliant teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Kumari"
+          },
+          "datePublished": "2024-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The curriculum is well-structured and teachers are knowledgeable, supportive, and enthusiastic.Excellent resources for students with learning.Teachers genuinely care about students success.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa Tanwar"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rawal International School provides quality education with dedicated teachers, modern facilities, and a focus on overall student development. A great place for holistic learning!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "neeti sharma"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the Faridabad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "swati Chopra"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Exceptional academic standards and a nurturing environment make this school an outstanding choice for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aanchal madaan"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent academic environment, supportive teachers, and amazing extracurricular opportunities. specially thanks to principal sir and headmistress  ma'am they are very supportive and cooperative .  I was a student in this school and now  I am teacher here this is a big opportunity  for me.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa Sharma"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has a positive atmosphere and the students are enthusiastic about learning.Teachers are hardworking  and caring, and the principal is committed to providing a nurturing environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preeti Pawar"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Impressive facilities, innovative programs, and a commitment to excellence in every aspect.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AASHRIYA SANGHI"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had the opportunity to experience Rawal International School, and overall, I am impressed with the quality of education and support provided. The school offers a well-rounded curriculum that balances academics, extracurricular activities, and personal development.\n\nAcademics\nThe teaching staff is knowledgeable and dedicated, ensuring students understand the material. The school promotes critical thinking and problem-solving, with a variety of courses tailored to different student needs and interests.\n\nFacilities\nThe campus is well-maintained, with modern facilities that support learning and extracurricular activities. Classrooms are equipped with the latest technology, and there are ample resources in libraries and labs for hands-on learning.\n\nExtracurriculars\nThere are numerous clubs and activities available for students to explore their passions outside the classroom. From sports teams to arts programs, the school fosters an environment where students can grow holistically.\n\nStudent Support\nThe school provides robust support systems, including guidance counselors and mentorship programs. Mental health resources are also available, which is crucial for student well-being.\n\nOverall Experience\nRawal International School is a great environment for academic and personal growth. The sense of community, coupled with strong educational programs, makes it a solid choice for students seeking a comprehensive school experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rawal Interntional School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikita bhatia"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Inspiring principal, dedicated to student success 😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693201113206049902064ec32d9c5ed31693201114.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693201113206049902064ec32d9c5ed31693201114.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203654134228354964ec3cc61fc5d1693203654.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693201113206049902064ec32d9c5ed31693201114.jpg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169322671494414108964ec96daa77791693226715.jpg\\"
+  ],
+  "rating": "4.3",
+  "views": "756",
+  "reviews_count": "108",
+  "phone": "+919513238818",
+  "locality": "Ballabhgarh",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Rawal Interntional School ?\nAsk a Question\nRawal Interntional School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693203654134228354964ec3cc61fc5d1693203654.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169322671494414108964ec96daa77791693226715.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16932010794530966864ec32b7b5c811693201080.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693201113206049902064ec32d9c5ed31693201114.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

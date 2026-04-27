@@ -1,0 +1,303 @@
+{
+  "slug": "/school/faridabad/royal-convent-school-ballabhgarh",
+  "url": "https://yellowslate.com/school/faridabad/royal-convent-school-ballabhgarh",
+  "city": "faridabad",
+  "name": "Royal Convent School - Ballabhgarh ",
+  "scraped_at": "2026-04-28T00:01:41.471741",
+  "html_length": 358228,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballabhgarh",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Royal Convent School",
+          "item": "https://yellowslate.com/school/faridabad/royal-convent-school-ballabhgarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Royal Convent School - Ballabhgarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/royal-convent-school-ballabhgarh",
+      "telephone": "083681 56065",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Street Number 4, near MTNL Tower, Bhagat Singh Colony, Sector 4, Ballabhgarh, Ballabgarh, Faridabad, Haryana 121004",
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3454619,
+        "longitude": 77.2443415
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Street Number 4, near MTNL Tower, Bhagat Singh Colony, Sector 4, Ballabhgarh, Ballabgarh, Faridabad, Haryana 121004",
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/royal-convent-school-ballabhgarh-ballabhgarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Seeta Vishwakarma"
+          },
+          "datePublished": "2024-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Acha school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Puneeta Vishwakarma"
+          },
+          "datePublished": "2024-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good envirenment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ankit sharma"
+          },
+          "datePublished": "2024-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Farhan Khan"
+          },
+          "datePublished": "2024-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school have a good infrastructure and the way of teaching is fully modernised. My children's are also study in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pami Devi"
+          },
+          "datePublished": "2024-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Acha school hai bhagat Singh colony ballabgarh me",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ramesh kumar"
+          },
+          "datePublished": "2024-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really appreciate Royal Convent School Bhagat Singh Colony, Ballabgarh for its speechless effort in enhancing my child's development.\nMy child has become independent and confident.\nThey are very supportive and friendly.\nCommitment to student well beings is outstanding.\nMajor change is being seen in my child's speaking skills with all the different activities happening in school.\nNot only academically, it provides so many options in sports as well.Extra classes are provided for the same.\nOverall highly satisfied with the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Royal Convent School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandan Paswan"
+          },
+          "datePublished": "2024-06-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am so grateful for the quality education my child has received at Royal Convent School. The teachers are dedicated and caring, and my child has grown so much academically and personally.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169322671494414108964ec96daa77791693226715.jpg\\"
+  ],
+  "rating": "5.0",
+  "views": "28",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Ballabhgarh",
+  "board": "Other Boards\n\nCo",
+  "established": "1995",
+  "category": "Other Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Royal Convent School ?\nAsk a Question\nRoyal Convent School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169322671494414108964ec96daa77791693226715.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg"
+  ]
+}

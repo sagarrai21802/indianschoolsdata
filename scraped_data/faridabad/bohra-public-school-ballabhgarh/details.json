@@ -1,0 +1,365 @@
+{
+  "slug": "/school/faridabad/bohra-public-school-ballabhgarh",
+  "url": "https://yellowslate.com/school/faridabad/bohra-public-school-ballabhgarh",
+  "city": "faridabad",
+  "name": "Bohra Public School - Ballabhgarh ",
+  "scraped_at": "2026-04-28T00:05:02.060180",
+  "html_length": 384273,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Faridabad",
+          "item": "https://yellowslate.com/schools/faridabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballabhgarh",
+          "item": "https://yellowslate.com/schools/faridabad/ballabhgarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Bohra Public School",
+          "item": "https://yellowslate.com/school/faridabad/bohra-public-school-ballabhgarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bohra Public School - Ballabhgarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/faridabad/bohra-public-school-ballabhgarh",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": null,
+        "addressLocality": "Faridabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3461547,
+        "longitude": 77.242155
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": null,
+              "addressLocality": "Faridabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/faridabad/bohra-public-school-ballabhgarh-ballabhgarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "22"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Muskan Pasha"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My favourite school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pankaj singh Kandwal"
+          },
+          "datePublished": "2024-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent knowledge",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PrabhuNath chaudhary"
+          },
+          "datePublished": "2024-01-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever,,, student council annoys you in every possible way\nMy child was crying due to headgirl's ill behaviour\nShe is not appropriate for this position I don't know why is she  headgirl\nI would recommend to stay away from such schools.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mr. Singh"
+          },
+          "datePublished": "2023-08-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nyc school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rashi pujari"
+          },
+          "datePublished": "2023-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a student of bohra schl.i want to tell u all that this is the good schl and teachers is very nice...\nI'm proud of myself that I'm a student of bohra school 🏫 ❤",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitish Kumar"
+          },
+          "datePublished": "2022-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bohra public school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Om Yadav"
+          },
+          "datePublished": "2022-09-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parul Langoo"
+          },
+          "datePublished": "2022-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "New Principal , Mr. Rohan Sir is very nice principal , he has raised standard of school , Good management skills , and clear in his thoughts",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sudha Dubey"
+          },
+          "datePublished": "2022-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the most beautiful and responsible school I love it and I miss my this school 😌",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bohra Public School - Ballabhgarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Puja Tyagi"
+          },
+          "datePublished": "2022-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice School have great  environment and  experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.0",
+  "views": "24",
+  "reviews_count": "22",
+  "phone": "+919513238818",
+  "locality": "Ballabhgarh",
+  "board": "CBSE, ICSE, IB, or Cambridge",
+  "established": null,
+  "category": null,
+  "classes": "2026-27",
+  "gender": null,
+  "fees_range": null,
+  "about": "Bohra Public School ?\nAsk a Question\nBohra Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/7-4.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/6-5.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

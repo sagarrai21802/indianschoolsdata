@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Nizampet",
+      "url": "https://yellowslate.com/schools/hyderabad/nizampet"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/nizampet/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Maples",
+      "url": "https://yellowslate.com/school/hyderabad/maples-nizampet"
+    }
+  ],
+  "local_business": {
+    "name": "Maples - Nizampet",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1523965688_cover.jpg",
+    "url": "https://yellowslate.com/school/hyderabad/maples-nizampet",
+    "telephone": "040 6535 2203",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "No.2-38/3, Gouthami Nagar, Opp. Kolan Raghava Reddy Function Hall,, Behind Green Court Apts, Nizampet, Nizampet, Hyderabad, Telangana 500090, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.5067689,
+      "longitude": 78.3853818
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/maples-nizampet",
+  "scraped_at": "2026-04-26T00:47:46.948491"
+}

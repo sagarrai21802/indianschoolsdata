@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "RTC Colony,LB Nagar",
+      "url": "https://yellowslate.com/schools/hyderabad/rtc-colony-lb-nagar"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/rtc-colony-lb-nagar/state-board"
+    },
+    {
+      "position": 5,
+      "name": "ST ANTHONY CONVENT SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/st-anthony-convent-school-rtc-colony-lb-nagar"
+    }
+  ],
+  "local_business": {
+    "name": "ST ANTHONY CONVENT SCHOOL - RTC Colony,LB Nagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/st-anthony-convent-school-rtc-colony-lb-nagar",
+    "telephone": "9246360498",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "R.N. Colony, Kanchan Bagh, 9H23+VF6, Sri Shankar Colony, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500058, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.353872,
+      "longitude": 78.551179
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "ST ANTHONY CONVENT SCHOOL - RTC Colony,LB Nagar",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "R.N. Colony, Kanchan Bagh, 9H23+VF6, Sri Shankar Colony, RTC Colony, L. B. Nagar, Hyderabad, Telangana 500058, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/st-anthony-convent-school-rtc-colony-lb-nagar-rtc-colony-lb-nagar-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "2.3",
+          "reviewCount": "3"
+        },
+        "author": "Second Drive 2",
+        "date_published": "2019-03-11",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Chith app hai ek dum",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "ST ANTHONY CONVENT SCHOOL - RTC Colony,LB Nagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "gudapati vamshi",
+        "date_published": "2018-03-03",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Waste school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "ST ANTHONY CONVENT SCHOOL - RTC Colony,LB Nagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mohammed Bintayyab",
+        "date_published": "2017-03-18",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Yes",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/st-anthony-convent-school-rtc-colony-lb-nagar",
+  "scraped_at": "2026-04-26T00:46:22.934473"
+}

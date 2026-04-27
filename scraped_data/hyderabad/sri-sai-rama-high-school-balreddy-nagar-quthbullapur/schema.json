@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Balreddy Nagar,Quthbullapur",
+      "url": "https://yellowslate.com/schools/hyderabad/balreddy-nagar-quthbullapur"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/balreddy-nagar-quthbullapur/state-board"
+    },
+    {
+      "position": 5,
+      "name": "SRI SAI RAMA HIGH SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/sri-sai-rama-high-school-balreddy-nagar-quthbullapur"
+    }
+  ],
+  "local_business": {
+    "name": "SRI SAI RAMA HIGH SCHOOL - Balreddy Nagar,Quthbullapur",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/sri-sai-rama-high-school-balreddy-nagar-quthbullapur",
+    "telephone": "+91 9866160707",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "FFV5+3VG, Balreddy Nagar, Quthbullapur, Hyderabad, Telangana 500055, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4926875,
+      "longitude": 78.4597031
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "SRI SAI RAMA HIGH SCHOOL - Balreddy Nagar,Quthbullapur",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "FFV5+3VG, Balreddy Nagar, Quthbullapur, Hyderabad, Telangana 500055, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/sri-sai-rama-high-school-balreddy-nagar-quthbullapur-balreddy-nagar-quthbullapur-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "3"
+        },
+        "author": "Varaprasad Reddy B",
+        "date_published": "2023-07-27",
+        "rating_value": "2",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "English communication needs to be improve for the kids",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "SRI SAI RAMA HIGH SCHOOL - Balreddy Nagar,Quthbullapur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Gutti Venkata lakshmi",
+        "date_published": "2023-05-03",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "This is the right place for overall development of the child.\nThe school can fulfill the dreams of the children as well as parents.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "SRI SAI RAMA HIGH SCHOOL - Balreddy Nagar,Quthbullapur",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "gopala madhavi",
+        "date_published": "2023-05-03",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Excellent 👍",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/sri-sai-rama-high-school-balreddy-nagar-quthbullapur",
+  "scraped_at": "2026-04-26T00:39:57.953517"
+}

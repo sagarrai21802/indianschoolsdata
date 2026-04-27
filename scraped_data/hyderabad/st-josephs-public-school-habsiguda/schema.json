@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Habsiguda",
+      "url": "https://yellowslate.com/schools/hyderabad/habsiguda"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/habsiguda/cbse"
+    },
+    {
+      "position": 5,
+      "name": "St. Joseph'S Public School",
+      "url": "https://yellowslate.com/school/hyderabad/st-josephs-public-school-habsiguda"
+    }
+  ],
+  "local_business": {
+    "name": "St. Joseph's Public School - Habsiguda",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1524726228_cover.png",
+    "url": "https://yellowslate.com/school/hyderabad/st-josephs-public-school-habsiguda",
+    "telephone": "04027175835",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "8-11, Ravindra Nagar, Habsiguda, Hyderabad, Telangana 500013, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4036437,
+      "longitude": 78.5393726
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "St. Joseph's Public School - Habsiguda",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8-11, Ravindra Nagar, Habsiguda, Hyderabad, Telangana 500013, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/st-josephs-public-school-habsiguda-habsiguda-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "1"
+        },
+        "author": "blade babji",
+        "date_published": "2023-01-20",
+        "rating_value": "0",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "pedda moddala school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/st-josephs-public-school-habsiguda",
+  "scraped_at": "2026-04-26T00:37:13.695520"
+}

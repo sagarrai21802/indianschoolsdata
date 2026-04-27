@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Bahadurpura",
+      "url": "https://yellowslate.com/schools/hyderabad/bahadurpura"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/bahadurpura/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Teja School Warangal",
+      "url": "https://yellowslate.com/school/hyderabad/teja-school-warangal-bahadurpura"
+    }
+  ],
+  "local_business": {
+    "name": "Teja School Warangal - Bahadurpura",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/hyderabad/teja-school-warangal-bahadurpura",
+    "telephone": "7306077370",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Teja address",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/teja-school-warangal-bahadurpura",
+  "scraped_at": "2026-04-26T00:36:56.996879"
+}

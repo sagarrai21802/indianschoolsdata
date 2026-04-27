@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Dr.Krishna Nagar,Moula Ali",
+      "url": "https://yellowslate.com/schools/hyderabad/drkrishna-nagar-moula-ali"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/drkrishna-nagar-moula-ali/state-board"
+    },
+    {
+      "position": 5,
+      "name": "VMR Grammar School",
+      "url": "https://yellowslate.com/school/hyderabad/vmr-grammar-school-drkrishna-nagar-moula-ali"
+    }
+  ],
+  "local_business": {
+    "name": "VMR Grammar School - Dr.Krishna Nagar,Moula Ali",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/vmr-grammar-school-drkrishna-nagar-moula-ali",
+    "telephone": "4027222993",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "500040, FH72+QV8, Bharat Nagar, R.T.C. Colony, Moula Ali, Secunderabad, Telangana 500040, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4644125,
+      "longitude": 78.5522031
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "VMR Grammar School - Dr.Krishna Nagar,Moula Ali",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "500040, FH72+QV8, Bharat Nagar, R.T.C. Colony, Moula Ali, Secunderabad, Telangana 500040, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/vmr-grammar-school-drkrishna-nagar-moula-ali-drkrishna-nagar-moula-ali-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.7",
+          "reviewCount": "3"
+        },
+        "author": "ATTITUDE BOY",
+        "date_published": "2023-02-20",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Best education",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "VMR Grammar School - Dr.Krishna Nagar,Moula Ali",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "rizwan md",
+        "date_published": "2021-02-13",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Best school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "VMR Grammar School - Dr.Krishna Nagar,Moula Ali",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "sana samreen",
+        "date_published": "2018-08-01",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Poor education quality",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/vmr-grammar-school-drkrishna-nagar-moula-ali",
+  "scraped_at": "2026-04-26T00:49:30.458067"
+}

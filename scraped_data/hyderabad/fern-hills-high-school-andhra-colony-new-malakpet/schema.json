@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "New Malakpet",
+      "url": "https://yellowslate.com/schools/hyderabad/new-malakpet"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/new-malakpet/state-board"
+    },
+    {
+      "position": 5,
+      "name": "FERN HILLS HIGH SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/fern-hills-high-school-andhra-colony-new-malakpet"
+    }
+  ],
+  "local_business": {
+    "name": "FERN HILLS HIGH SCHOOL - New Malakpet",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/fern-hills-high-school-andhra-colony-new-malakpet",
+    "telephone": "4027732937",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "9G97+H56, Asmangarh, Andhra Colony, Malakpet, Hyderabad, Telangana 500036, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3689125,
+      "longitude": 78.5128906
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "FERN HILLS HIGH SCHOOL - New Malakpet",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "9G97+H56, Asmangarh, Andhra Colony, Malakpet, Hyderabad, Telangana 500036, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/fern-hills-high-school-andhra-colony-new-malakpet-new-malakpet-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.5",
+          "reviewCount": "2"
+        },
+        "author": "Yogesh M",
+        "date_published": "2023-06-19",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Happy",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "FERN HILLS HIGH SCHOOL - New Malakpet",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "GAYATHRI SIRIVELLA",
+        "date_published": "2023-03-21",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice school with good thoughts of the director",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/fern-hills-high-school-andhra-colony-new-malakpet",
+  "scraped_at": "2026-04-26T00:48:09.385659"
+}

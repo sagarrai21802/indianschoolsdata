@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Mahendra Hills",
+      "url": "https://yellowslate.com/schools/hyderabad/mahendra-hills"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/mahendra-hills/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Amrita Vidyalayam",
+      "url": "https://yellowslate.com/school/hyderabad/amrita-vidyalayam-mahendra-hills"
+    }
+  ],
+  "local_business": {
+    "name": "Amrita Vidyalayam - Mahendra Hills",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1523338256_cover.PNG",
+    "url": "https://yellowslate.com/school/hyderabad/amrita-vidyalayam-mahendra-hills",
+    "telephone": "040 27739898",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "844/1 Mahindra Hills, East Marredpally,  Mahendra Hills,  Malkajgiri,  Secunderabad, Telangana 500026, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4486761,
+      "longitude": 78.5205309
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/amrita-vidyalayam-mahendra-hills",
+  "scraped_at": "2026-04-26T00:42:45.474368"
+}

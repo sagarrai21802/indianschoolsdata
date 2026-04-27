@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Himayatnagar",
+      "url": "https://yellowslate.com/schools/hyderabad/himayatnagar"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/himayatnagar/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Gurunanak High School",
+      "url": "https://yellowslate.com/school/hyderabad/gurunanak-high-school-himayatnagar"
+    }
+  ],
+  "local_business": {
+    "name": "Gurunanak high School - Himayatnagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/gurunanak-high-school-himayatnagar",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Venkata swamy Nagar, Narayanguda, Hyderabad, Telangana 500029, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3993712,
+      "longitude": 78.488336
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Gurunanak high School - Himayatnagar",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Venkata swamy Nagar, Narayanguda, Hyderabad, Telangana 500029, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/gurunanak-high-school-himayatnagar-himayatnagar-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "1"
+        },
+        "author": "Mohammed Ibrahim Sohail",
+        "date_published": "2018-04-22",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It's a Narayana Sikh building",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/gurunanak-high-school-himayatnagar",
+  "scraped_at": "2026-04-26T00:35:23.707675"
+}

@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "TADBUND",
+      "url": "https://yellowslate.com/schools/hyderabad/tadbund"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/tadbund/state-board"
+    },
+    {
+      "position": 5,
+      "name": "AL-SUFFA MODEL HIGH SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/al-suffa-model-high-school-tadbund"
+    }
+  ],
+  "local_business": {
+    "name": "AL-SUFFA MODEL HIGH SCHOOL - TADBUND",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/al-suffa-model-high-school-tadbund",
+    "telephone": "+91 9848559288",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "19-2-97, Tar Bund, Hyderabad, Telangana 500064, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4577248,
+      "longitude": 78.4834914
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "AL-SUFFA MODEL HIGH SCHOOL - TADBUND",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "19-2-97, Tar Bund, Hyderabad, Telangana 500064, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/al-suffa-model-high-school-tadbund-tadbund-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "2"
+        },
+        "author": "MD FEROZ",
+        "date_published": "2021-10-23",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "I did my schooling from Al suffa model high school. Highly educated and experienced teachers are available in this school. Management is also well educated,polite sincere,punctual. This is perfect place for every child to make bright future.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "AL-SUFFA MODEL HIGH SCHOOL - TADBUND",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Ibrahim Faiz",
+        "date_published": "2017-12-11",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very nice school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/al-suffa-model-high-school-tadbund",
+  "scraped_at": "2026-04-26T00:47:40.917770"
+}

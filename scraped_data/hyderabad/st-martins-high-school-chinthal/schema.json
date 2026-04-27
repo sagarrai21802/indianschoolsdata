@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Chinthal",
+      "url": "https://yellowslate.com/schools/hyderabad/chinthal"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/chinthal/cbse"
+    },
+    {
+      "position": 5,
+      "name": "St. Martin'S High School",
+      "url": "https://yellowslate.com/school/hyderabad/st-martins-high-school-chinthal"
+    }
+  ],
+  "local_business": {
+    "name": "St. Martin's High School - Chinthal",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1524733195_cover.png",
+    "url": "https://yellowslate.com/school/hyderabad/st-martins-high-school-chinthal",
+    "telephone": "040 2308 2365",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Sri Sai Colony, Chintal, Balanagar, Hyderabad, Telangana 500037, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4921648,
+      "longitude": 78.4503274
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/st-martins-high-school-chinthal",
+  "scraped_at": "2026-04-26T00:42:49.132220"
+}

@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Moula Ali",
+      "url": "https://yellowslate.com/schools/hyderabad/moula-ali"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/moula-ali/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Anand Sai High School",
+      "url": "https://yellowslate.com/school/hyderabad/anand-sai-high-school-moula-ali"
+    }
+  ],
+  "local_business": {
+    "name": "Anand Sai High School - Moula Ali",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1521620923_cover.jpg",
+    "url": "https://yellowslate.com/school/hyderabad/anand-sai-high-school-moula-ali",
+    "telephone": "914027243261",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Tirumala Nagar, Moula Ali, Secunderabad, Telangana 500040, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4574267,
+      "longitude": 78.5540184
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Anand Sai High School - Moula Ali",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Tirumala Nagar, Moula Ali, Secunderabad, Telangana 500040, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/anand-sai-high-school-moula-ali-moula-ali-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "reviewCount": "2"
+        },
+        "author": "Revan Snajay",
+        "date_published": "2024-07-08",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "it is a Good School",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/anand-sai-high-school-moula-ali",
+  "scraped_at": "2026-04-26T00:38:57.631775"
+}

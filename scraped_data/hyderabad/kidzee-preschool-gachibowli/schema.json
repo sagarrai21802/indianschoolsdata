@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Gachibowli",
+      "url": "https://yellowslate.com/schools/hyderabad/gachibowli"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/gachibowli/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Kidzee Preschool",
+      "url": "https://yellowslate.com/school/hyderabad/kidzee-preschool-gachibowli"
+    }
+  ],
+  "local_business": {
+    "name": "Kidzee Preschool - Gachibowli",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1523884395_cover.jpg",
+    "url": "https://yellowslate.com/school/hyderabad/kidzee-preschool-gachibowli",
+    "telephone": "09949326558",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "House No. HIGA 54, Door No. 4-46-P4/54, APHB Colony, Gachibowli, Hyderabad, Telangana 500072",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4477014,
+      "longitude": 78.3580376
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/kidzee-preschool-gachibowli",
+  "scraped_at": "2026-04-26T00:39:08.002483"
+}

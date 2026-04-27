@@ -1,0 +1,44 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Kothapet",
+      "url": "https://yellowslate.com/schools/hyderabad/kothapet"
+    },
+    {
+      "position": 4,
+      "name": "Sreenidhi Global School",
+      "url": "https://yellowslate.com/school/hyderabad/sreenidhi-global-school-kothapet"
+    }
+  ],
+  "local_business": {
+    "name": "Sreenidhi Global School - Kothapet",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/hyderabad/sreenidhi-global-school-kothapet",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": null,
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3700393,
+      "longitude": 78.5487866
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/sreenidhi-global-school-kothapet",
+  "scraped_at": "2026-04-26T00:34:42.800994"
+}

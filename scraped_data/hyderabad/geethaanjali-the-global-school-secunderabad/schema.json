@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Secunderabad",
+      "url": "https://yellowslate.com/schools/hyderabad/secunderabad"
+    },
+    {
+      "position": 4,
+      "name": "IB",
+      "url": "https://yellowslate.com/schools/hyderabad/secunderabad/ib"
+    },
+    {
+      "position": 5,
+      "name": "Geethaanjali The Global School",
+      "url": "https://yellowslate.com/school/hyderabad/geethaanjali-the-global-school-secunderabad"
+    }
+  ],
+  "local_business": {
+    "name": "Geethaanjali The Global School - Secunderabad",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/geethaanjali-the-global-school-secunderabad",
+    "telephone": "+91 733 077 7735",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Survey No 88, Gundla Pochampally Village , Kompally, Hyderabad, Telangana",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.5648009,
+      "longitude": 78.4867781
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/geethaanjali-the-global-school-secunderabad",
+  "scraped_at": "2026-04-26T00:47:21.848856"
+}

@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "NGO Colony,Vanasthalipuram",
+      "url": "https://yellowslate.com/schools/hyderabad/ngo-colony-vanasthalipuram"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/ngo-colony-vanasthalipuram/cbse"
+    },
+    {
+      "position": 5,
+      "name": "SRI VAGDEVI TALENT SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/sri-vagdevi-talent-school-ngo-colony-vanasthalipuram"
+    }
+  ],
+  "local_business": {
+    "name": "SRI VAGDEVI TALENT SCHOOL - NGO Colony,Vanasthalipuram",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/sri-vagdevi-talent-school-ngo-colony-vanasthalipuram",
+    "telephone": "+91 9948737793",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "N.G.O's Colony, Hyderabad, Rss Grounds, BN Reddy Rd, N.G.O's Colony, NGO Colony, Vanasthalipuram, Hyderabad, Telangana 500070, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3247181,
+      "longitude": 78.5647543
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "SRI VAGDEVI TALENT SCHOOL - NGO Colony,Vanasthalipuram",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "N.G.O's Colony, Hyderabad, Rss Grounds, BN Reddy Rd, N.G.O's Colony, NGO Colony, Vanasthalipuram, Hyderabad, Telangana 500070, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/sri-vagdevi-talent-school-ngo-colony-vanasthalipuram-ngo-colony-vanasthalipuram-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "3"
+        },
+        "author": "MaheshBabuBanda",
+        "date_published": "2022-11-16",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "SRI VAGDEVI TALENT SCHOOL - NGO Colony,Vanasthalipuram",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "B Subramanyam",
+        "date_published": "2022-10-14",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Goog nd excellent.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "SRI VAGDEVI TALENT SCHOOL - NGO Colony,Vanasthalipuram",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "VEMULA DHANUSH",
+        "date_published": "2021-05-24",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Excellent Education in Sri Vagdevi Talent School Best Educational School",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/sri-vagdevi-talent-school-ngo-colony-vanasthalipuram",
+  "scraped_at": "2026-04-26T00:36:47.437505"
+}

@@ -1,0 +1,44 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Asif Nagar",
+      "url": "https://yellowslate.com/schools/hyderabad/asif-nagar"
+    },
+    {
+      "position": 4,
+      "name": "Daffodils High School",
+      "url": "https://yellowslate.com/school/hyderabad/daffodils-high-school-asif-nagar"
+    }
+  ],
+  "local_business": {
+    "name": "Daffodils High School - Asif Nagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "url": "https://yellowslate.com/school/hyderabad/daffodils-high-school-asif-nagar",
+    "telephone": "",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": null,
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.393187,
+      "longitude": 78.4455247
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/daffodils-high-school-asif-nagar",
+  "scraped_at": "2026-04-26T00:46:55.280295"
+}

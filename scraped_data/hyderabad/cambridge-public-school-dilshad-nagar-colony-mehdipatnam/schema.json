@@ -1,0 +1,114 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Mehdipatnam",
+      "url": "https://yellowslate.com/schools/hyderabad/mehdipatnam"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/mehdipatnam/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Cambridge Public School",
+      "url": "https://yellowslate.com/school/hyderabad/cambridge-public-school-dilshad-nagar-colony-mehdipatnam"
+    }
+  ],
+  "local_business": {
+    "name": "Cambridge Public School - Mehdipatnam",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/cambridge-public-school-dilshad-nagar-colony-mehdipatnam",
+    "telephone": "+91 8801154220",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "12-2-800/53-54, Rethi Bowli Rd, Dilshad Nagar Colony, Mehdipatnam, Hyderabad, Telangana 500028, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3921624,
+      "longitude": 78.4327829
+    }
+  },
+  "reviews": {
+    "number_of_items": 4,
+    "reviews": [
+      {
+        "school_name": "Cambridge Public School - Mehdipatnam",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "12-2-800/53-54, Rethi Bowli Rd, Dilshad Nagar Colony, Mehdipatnam, Hyderabad, Telangana 500028, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/cambridge-public-school-dilshad-nagar-colony-mehdipatnam-mehdipatnam-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "4"
+        },
+        "author": "Rameez Ay",
+        "date_published": "2022-09-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good standard school.Nice management and teachers. Very caring and makes kids study well. They are following combined ICSE CBSE pattern. Overall good.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Cambridge Public School - Mehdipatnam",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Divya",
+        "date_published": "2019-05-24",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "The worst school in twin cities spoiled my child standard for one year\nWaste management nd teachers\nKindly don't spoil ur kids future",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Cambridge Public School - Mehdipatnam",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Bhargav Matcha",
+        "date_published": "2018-03-11",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It's is very nice school in that school education is very very nice and it is so much nice school in Hyderabad.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Cambridge Public School - Mehdipatnam",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "waheed zaib",
+        "date_published": "2017-04-18",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "That is my sweet home",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/cambridge-public-school-dilshad-nagar-colony-mehdipatnam",
+  "scraped_at": "2026-04-26T00:46:07.021545"
+}

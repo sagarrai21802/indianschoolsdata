@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Punjagutta",
+      "url": "https://yellowslate.com/schools/hyderabad/punjagutta"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/punjagutta/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Kaushalya Global School",
+      "url": "https://yellowslate.com/school/hyderabad/kaushalya-global-school-punjagutta"
+    }
+  ],
+  "local_business": {
+    "name": "Kaushalya global school - Punjagutta",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/kaushalya-global-school-punjagutta",
+    "telephone": "+91 4023353011",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "8-2-401/C/7, Road Number 5, Banjara Hills, Green Valley, Banjara Hills, Hyderabad, Telangana 500034, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4251022,
+      "longitude": 78.438685
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "Kaushalya global school - Punjagutta",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8-2-401/C/7, Road Number 5, Banjara Hills, Green Valley, Banjara Hills, Hyderabad, Telangana 500034, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/kaushalya-global-school-punjagutta-punjagutta-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "5"
+        },
+        "author": "Kamran Ahmed Arsalan",
+        "date_published": "2020-01-20",
+        "rating_value": "3",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Hope good education",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Kaushalya global school - Punjagutta",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Pawan Gupta",
+        "date_published": "2018-12-10",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "That is the great place to learn everything",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Kaushalya global school - Punjagutta",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Tender hearts",
+        "date_published": "2018-10-06",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very good school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Kaushalya global school - Punjagutta",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Rawi Kiran Redde",
+        "date_published": "2018-09-22",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "DMIT",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Kaushalya global school - Punjagutta",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "rayees rehaman",
+        "date_published": "2018-05-20",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/kaushalya-global-school-punjagutta",
+  "scraped_at": "2026-04-26T00:41:08.693659"
+}

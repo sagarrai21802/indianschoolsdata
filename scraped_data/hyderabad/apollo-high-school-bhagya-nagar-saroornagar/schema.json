@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Saroornagar",
+      "url": "https://yellowslate.com/schools/hyderabad/saroornagar"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/saroornagar/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Apollo High School",
+      "url": "https://yellowslate.com/school/hyderabad/apollo-high-school-bhagya-nagar-saroornagar"
+    }
+  ],
+  "local_business": {
+    "name": "Apollo High school - Saroornagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/apollo-high-school-bhagya-nagar-saroornagar",
+    "telephone": "+91 4024034737",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "9G2R+822, Saroor Nagar Rd, Srinivasa Colony, Sri Venkateshwara Colony, Lingojiguda, Saroornagar, Telangana 500035, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3523157,
+      "longitude": 78.536663
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "Apollo High school - Saroornagar",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "9G2R+822, Saroor Nagar Rd, Srinivasa Colony, Sri Venkateshwara Colony, Lingojiguda, Saroornagar, Telangana 500035, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/apollo-high-school-bhagya-nagar-saroornagar-saroornagar-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "5"
+        },
+        "author": "Asha Nair",
+        "date_published": "2023-04-14",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Apollo High School is located in Saroornagar road, Lingojiguda. Established some two decades back.\nIt is a State Board English medium school. Co-educational.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Apollo High school - Saroornagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Indraja kommu",
+        "date_published": "2021-03-02",
+        "rating_value": "3",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It is good .",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Apollo High school - Saroornagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "harish palasa",
+        "date_published": "2018-01-11",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Apollo High school - Saroornagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "suresh reddy",
+        "date_published": "2016-03-04",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "My home",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Apollo High school - Saroornagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Nomadic Naresh",
+        "date_published": "2015-09-05",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very good",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/apollo-high-school-bhagya-nagar-saroornagar",
+  "scraped_at": "2026-04-26T00:46:45.626618"
+}

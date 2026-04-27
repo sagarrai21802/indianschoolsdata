@@ -1,0 +1,101 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Vanasthalipuram",
+      "url": "https://yellowslate.com/schools/hyderabad/vanasthalipuram"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/vanasthalipuram/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Thayal Grammar High School",
+      "url": "https://yellowslate.com/school/hyderabad/thayal-grammar-high-school-phase-i-vanasthalipuram"
+    }
+  ],
+  "local_business": {
+    "name": "Thayal Grammar High School - Vanasthalipuram",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/thayal-grammar-high-school-phase-i-vanasthalipuram",
+    "telephone": "+91 9963084020",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "H. No. 2033, Phase- 1, MIG Colony, B. H. E. L, Phase II, Hyderabad, Telangana 500032, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4796905,
+      "longitude": 78.3005374
+    }
+  },
+  "reviews": {
+    "number_of_items": 3,
+    "reviews": [
+      {
+        "school_name": "Thayal Grammar High School - Vanasthalipuram",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "H. No. 2033, Phase- 1, MIG Colony, B. H. E. L, Phase II, Hyderabad, Telangana 500032, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/thayal-grammar-high-school-phase-i-vanasthalipuram-vanasthalipuram-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "3"
+        },
+        "author": "Bapanpally Mahesh",
+        "date_published": "2018-11-18",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Number one school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Thayal Grammar High School - Vanasthalipuram",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "sahil events",
+        "date_published": "2017-06-06",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nissan teaching   of the class teacher",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Thayal Grammar High School - Vanasthalipuram",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Prabhudas talluri",
+        "date_published": "2017-05-06",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "VERY GOOD SCHOOL",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/thayal-grammar-high-school-phase-i-vanasthalipuram",
+  "scraped_at": "2026-04-26T00:48:06.035815"
+}

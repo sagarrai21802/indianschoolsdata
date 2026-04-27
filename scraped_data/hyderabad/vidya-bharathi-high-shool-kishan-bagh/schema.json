@@ -1,0 +1,114 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Kishan Bagh",
+      "url": "https://yellowslate.com/schools/hyderabad/kishan-bagh"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/kishan-bagh/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Vidya Bharathi High Shool",
+      "url": "https://yellowslate.com/school/hyderabad/vidya-bharathi-high-shool-kishan-bagh"
+    }
+  ],
+  "local_business": {
+    "name": "Vidya Bharathi High Shool - Kishan Bagh",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/vidya-bharathi-high-shool-kishan-bagh",
+    "telephone": "+91 9291653304",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "9C6R+HV8, Asad Baba Nagar, N.M Gudda, Hyderabad, Telangana 500264, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3614125,
+      "longitude": 78.4422031
+    }
+  },
+  "reviews": {
+    "number_of_items": 4,
+    "reviews": [
+      {
+        "school_name": "Vidya Bharathi High Shool - Kishan Bagh",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "9C6R+HV8, Asad Baba Nagar, N.M Gudda, Hyderabad, Telangana 500264, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/vidya-bharathi-high-shool-kishan-bagh-kishan-bagh-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.0",
+          "reviewCount": "4"
+        },
+        "author": "tad a",
+        "date_published": "2021-08-29",
+        "rating_value": "2",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Management just focus on scoring of students they have least interest in upgrading skills of students, which I felt as a student. The skills are very important in getting job and in different aspects of life which students can only learn in his schooling life",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Vidya Bharathi High Shool - Kishan Bagh",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Taj Uddin",
+        "date_published": "2019-12-06",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Twinkle twinkle little star vidya bharathi is super is star",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Vidya Bharathi High Shool - Kishan Bagh",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Ajmeri Begum",
+        "date_published": "2019-08-04",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "One Of The Best School",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Vidya Bharathi High Shool - Kishan Bagh",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "creative ideas",
+        "date_published": "2019-07-17",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Very good management and experienced teachers",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/vidya-bharathi-high-shool-kishan-bagh",
+  "scraped_at": "2026-04-26T00:37:43.950518"
+}

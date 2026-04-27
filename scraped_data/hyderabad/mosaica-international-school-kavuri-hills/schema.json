@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Kavuri Hills",
+      "url": "https://yellowslate.com/schools/hyderabad/kavuri-hills"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/kavuri-hills/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Mosaica International School",
+      "url": "https://yellowslate.com/school/hyderabad/mosaica-international-school-kavuri-hills"
+    }
+  ],
+  "local_business": {
+    "name": "Mosaica International School - Kavuri Hills",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1514459545_cover.jpg",
+    "url": "https://yellowslate.com/school/hyderabad/mosaica-international-school-kavuri-hills",
+    "telephone": "+91-40-49101699",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Plot No.16, Kavuri Hills (extension Of Rd.no.36 Of Jubilee Hills) Hyderabad-500081",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4451529,
+      "longitude": 78.397405
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/mosaica-international-school-kavuri-hills",
+  "scraped_at": "2026-04-26T00:45:01.359137"
+}

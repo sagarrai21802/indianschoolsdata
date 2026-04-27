@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Nagole",
+      "url": "https://yellowslate.com/schools/hyderabad/nagole"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/nagole/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Unicent School",
+      "url": "https://yellowslate.com/school/hyderabad/unicent-school-nagole"
+    }
+  ],
+  "local_business": {
+    "name": "Unicent school - Nagole",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1525065171_cover.png",
+    "url": "https://yellowslate.com/school/hyderabad/unicent-school-nagole",
+    "telephone": "+91 8500 600 404",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "H.No-2-54/4, Tatianaram, Hyderabad, Telangana 500068, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3611033,
+      "longitude": 78.5959423
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/unicent-school-nagole",
+  "scraped_at": "2026-04-26T00:41:02.171162"
+}

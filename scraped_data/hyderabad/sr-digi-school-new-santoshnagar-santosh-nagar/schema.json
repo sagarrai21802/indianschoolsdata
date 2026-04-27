@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "New Santoshnagar,Santosh Nagar",
+      "url": "https://yellowslate.com/schools/hyderabad/new-santoshnagar-santosh-nagar"
+    },
+    {
+      "position": 4,
+      "name": "IGCSE",
+      "url": "https://yellowslate.com/schools/hyderabad/new-santoshnagar-santosh-nagar/igcse"
+    },
+    {
+      "position": 5,
+      "name": "SR DIGI SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/sr-digi-school-new-santoshnagar-santosh-nagar"
+    }
+  ],
+  "local_business": {
+    "name": "SR DIGI SCHOOL - New Santoshnagar,Santosh Nagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/sr-digi-school-new-santoshnagar-santosh-nagar",
+    "telephone": "+91 8886330002",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "No 120, Santosh Nagar Main Rd, Bhavani Nagar Colony, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.345541,
+      "longitude": 78.5080522
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "SR DIGI SCHOOL - New Santoshnagar,Santosh Nagar",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "No 120, Santosh Nagar Main Rd, Bhavani Nagar Colony, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/sr-digi-school-new-santoshnagar-santosh-nagar-new-santoshnagar-santosh-nagar-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "1"
+        },
+        "author": "Atherullah Khan",
+        "date_published": "2022-02-11",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Experience a new joy of Learning....! SR Digi school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/sr-digi-school-new-santoshnagar-santosh-nagar",
+  "scraped_at": "2026-04-26T00:42:35.350948"
+}

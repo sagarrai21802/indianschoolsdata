@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Nagarjuna Sagar Road",
+      "url": "https://yellowslate.com/schools/hyderabad/nagarjuna-sagar-road"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/nagarjuna-sagar-road/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Iris Florets World School",
+      "url": "https://yellowslate.com/school/hyderabad/iris-florets-world-school-nagarjuna-sagar-road"
+    }
+  ],
+  "local_business": {
+    "name": "Iris Florets World School - Nagarjuna Sagar Road",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/1774243373218bc833rpkrz.blob",
+    "url": "https://yellowslate.com/school/hyderabad/iris-florets-world-school-nagarjuna-sagar-road",
+    "telephone": "9429693711",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "ORR Exit 12, Sagar Road, Survey No. 244/I, 245/AA, 245 E,  Mangalpally Village,  Ibrahimpatnam Mandal, Ranga Reddy District,",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.5427917,
+      "longitude": 78.429791
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Iris Florets World School - Nagarjuna Sagar Road",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "ORR Exit 12, Sagar Road, Survey No. 244/I, 245/AA, 245 E,  Mangalpally Village,  Ibrahimpatnam Mandal, Ranga Reddy District,",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/iris-florets-world-school-nagarjuna-sagar-road-nagarjuna-sagar-road-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "2"
+        },
+        "author": "Akhil",
+        "date_published": "2026-03-24",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good school and healthy atmosphere",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/iris-florets-world-school-nagarjuna-sagar-road",
+  "scraped_at": "2026-04-26T00:38:37.765040"
+}

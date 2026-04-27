@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Near Chutneys Restaurant",
+      "url": "https://yellowslate.com/schools/hyderabad/near-chutneys-restaurant"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/near-chutneys-restaurant/state-board"
+    },
+    {
+      "position": 5,
+      "name": "SRI POOJITHA SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/sri-poojitha-school-near-chutneys-restaurant"
+    }
+  ],
+  "local_business": {
+    "name": "SRI POOJITHA SCHOOL - Near chutneys restaurant",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/sri-poojitha-school-near-chutneys-restaurant",
+    "telephone": "+91 4023541398",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Park View Enclave, Jubilee Hills, Hyderabad, Telangana",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4264333,
+      "longitude": 78.4219005
+    }
+  },
+  "reviews": null,
+  "url": "https://yellowslate.com/school/hyderabad/sri-poojitha-school-near-chutneys-restaurant",
+  "scraped_at": "2026-04-26T00:35:17.033194"
+}

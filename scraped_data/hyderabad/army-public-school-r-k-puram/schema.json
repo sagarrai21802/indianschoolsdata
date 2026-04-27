@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "R K Puram",
+      "url": "https://yellowslate.com/schools/hyderabad/r-k-puram"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/r-k-puram/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Army Public School",
+      "url": "https://yellowslate.com/school/hyderabad/army-public-school-r-k-puram"
+    }
+  ],
+  "local_business": {
+    "name": "Army Public School - R K Puram",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1522731216_cover.PNG",
+    "url": "https://yellowslate.com/school/hyderabad/army-public-school-r-k-puram",
+    "telephone": "+91-040-27794729",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Ramakrishna Puram\r\nSecunderabad\r\nPIN : 5000 56\r\nTelangana, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4725012,
+      "longitude": 78.5332979
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "Army Public School - R K Puram",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ramakrishna Puram\r\nSecunderabad\r\nPIN : 5000 56\r\nTelangana, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/army-public-school-r-k-puram-r-k-puram-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "4"
+        },
+        "author": "Anonymous",
+        "date_published": "2026-01-24",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Best school for holistic development of a child ",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Army Public School - R K Puram",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Anonymous",
+        "date_published": "2025-05-08",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "best school in town",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/army-public-school-r-k-puram",
+  "scraped_at": "2026-04-26T00:44:53.667354"
+}

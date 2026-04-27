@@ -1,0 +1,75 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Gachibowli",
+      "url": "https://yellowslate.com/schools/hyderabad/gachibowli"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/gachibowli/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Chirec International School",
+      "url": "https://yellowslate.com/school/hyderabad/chirec-international-school-gachibowli"
+    }
+  ],
+  "local_business": {
+    "name": "Chirec International School - Gachibowli",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1523355019_cover.jpg",
+    "url": "https://yellowslate.com/school/hyderabad/chirec-international-school-gachibowli",
+    "telephone": "+91-40-8790990498,+91-8790990498",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Plot No: 277 to 282, Gachibowli Road, Telecom Officers Colony, Bhaghyalakshmi Nagar, Phase II, Serilingampally, Hyderabad, Telangana 500019",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.4736385,
+      "longitude": 78.3267942
+    }
+  },
+  "reviews": {
+    "number_of_items": 1,
+    "reviews": [
+      {
+        "school_name": "Chirec International School - Gachibowli",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Plot No: 277 to 282, Gachibowli Road, Telecom Officers Colony, Bhaghyalakshmi Nagar, Phase II, Serilingampally, Hyderabad, Telangana 500019",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/chirec-international-school-gachibowli-gachibowli-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "reviewCount": "1"
+        },
+        "author": "srinivas reddy",
+        "date_published": "2022-07-30",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Transportation  is very bad",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/chirec-international-school-gachibowli",
+  "scraped_at": "2026-04-26T00:40:14.427491"
+}

@@ -1,0 +1,114 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "TELANGANA",
+      "url": "https://yellowslate.com/schools/hyderabad/telangana"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/telangana/cbse"
+    },
+    {
+      "position": 5,
+      "name": "BHASHYAM HIGH SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/bhashyam-high-school-telangana"
+    }
+  ],
+  "local_business": {
+    "name": "BHASHYAM HIGH SCHOOL - TELANGANA",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/bhashyam-high-school-telangana",
+    "telephone": "+91 9848536960",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "M.I.G. - A6, A.S. RAO NAGAR, A S Rao Nagar Road, opposite Society Office, Swamik Nagar, A. S. Rao Nagar, Secunderabad, Telangana 500062, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.479032,
+      "longitude": 78.55731
+    }
+  },
+  "reviews": {
+    "number_of_items": 4,
+    "reviews": [
+      {
+        "school_name": "BHASHYAM HIGH SCHOOL - TELANGANA",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "M.I.G. - A6, A.S. RAO NAGAR, A S Rao Nagar Road, opposite Society Office, Swamik Nagar, A. S. Rao Nagar, Secunderabad, Telangana 500062, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/bhashyam-high-school-telangana-telangana-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.8",
+          "reviewCount": "4"
+        },
+        "author": "MR: DINESH NAYAK",
+        "date_published": "2023-08-25",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHASHYAM HIGH SCHOOL - TELANGANA",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "May Man",
+        "date_published": "2018-03-28",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "a lousy school, teachers are harassed, staff workers are ill treated, but the management is super rich, the school environment is very bad, only pigs join the school. The owner of the school sits on big pile of cash. now they are in real estate also to fleece public",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHASHYAM HIGH SCHOOL - TELANGANA",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Rakesh Kumar",
+        "date_published": "2017-12-17",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHASHYAM HIGH SCHOOL - TELANGANA",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Keertana Konduri",
+        "date_published": "2016-10-20",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "This was my school where I both enjoyed and studied. Nice faculty and management.",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/bhashyam-high-school-telangana",
+  "scraped_at": "2026-04-26T00:42:56.037214"
+}

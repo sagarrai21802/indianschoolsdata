@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Aghapura,Nampally",
+      "url": "https://yellowslate.com/schools/hyderabad/aghapura-nampally"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/aghapura-nampally/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Golden Rose High School",
+      "url": "https://yellowslate.com/school/hyderabad/golden-rose-high-school-aghapura-nampally"
+    }
+  ],
+  "local_business": {
+    "name": "Golden Rose High School - Aghapura,Nampally",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/golden-rose-high-school-aghapura-nampally",
+    "telephone": "+91 9030722000",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "5-9-163, Chapel Road, Opp. Methodist Church, Nampally, Bharat Nagar, Aghapura, Nampally, Hyderabad, Telangana 500001, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3952335,
+      "longitude": 78.4716565
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "Golden Rose High School - Aghapura,Nampally",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "5-9-163, Chapel Road, Opp. Methodist Church, Nampally, Bharat Nagar, Aghapura, Nampally, Hyderabad, Telangana 500001, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/golden-rose-high-school-aghapura-nampally-aghapura-nampally-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "2"
+        },
+        "author": "Nikunj Dugar",
+        "date_published": "2019-05-18",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "The Teachers interact with the child in a very health manner and encourage the child to speak in English. The Principal takes special attention towards the needs of the children. They have a huge playground where they offer all kinds of sporting activities for the overall growth of the Child.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Golden Rose High School - Aghapura,Nampally",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "sanjay reddy Tangirala",
+        "date_published": "2019-05-18",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "The teachers take great care of the kids. The kids have access to the playground and can be seen regularly playing around. The teachers give at most importance to developing the communications skills from a young age with a special focus on English.",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/golden-rose-high-school-aghapura-nampally",
+  "scraped_at": "2026-04-26T00:47:31.276688"
+}

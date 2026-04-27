@@ -1,0 +1,114 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Kothapet",
+      "url": "https://yellowslate.com/schools/hyderabad/kothapet"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/kothapet/state-board"
+    },
+    {
+      "position": 5,
+      "name": "St Martins School",
+      "url": "https://yellowslate.com/school/hyderabad/st-martins-school-sbi-colony-kothapet"
+    }
+  ],
+  "local_business": {
+    "name": "St Martins School - Kothapet",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/st-martins-school-sbi-colony-kothapet",
+    "telephone": "4024047302",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Road Number 2, RK Puram, Vijaypuri Colony, Kothapet, Gayatri Vihar, SBI Colony, Kothapet, Hyderabad, Telangana 500035, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.368593,
+      "longitude": 78.5470233
+    }
+  },
+  "reviews": {
+    "number_of_items": 4,
+    "reviews": [
+      {
+        "school_name": "St Martins School - Kothapet",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Road Number 2, RK Puram, Vijaypuri Colony, Kothapet, Gayatri Vihar, SBI Colony, Kothapet, Hyderabad, Telangana 500035, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/st-martins-school-sbi-colony-kothapet-kothapet-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.3",
+          "reviewCount": "4"
+        },
+        "author": "Sreya Reddy",
+        "date_published": "2018-03-11",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "It's wonderful.You can reach this place through navigation easily.😊",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "St Martins School - Kothapet",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Revanth Pulipati",
+        "date_published": "2018-03-09",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "I want to know about infrastructure of this school??? Plz... Anybody help me",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "St Martins School - Kothapet",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "kotla Abhinay",
+        "date_published": "2017-08-25",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good for standards up to 5",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "St Martins School - Kothapet",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Muragundla Srinivas",
+        "date_published": "2015-12-31",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "it is nice school . and i learnt in  that school",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/st-martins-school-sbi-colony-kothapet",
+  "scraped_at": "2026-04-26T00:48:15.733032"
+}

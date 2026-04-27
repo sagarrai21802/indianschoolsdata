@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Bachupally",
+      "url": "https://yellowslate.com/schools/hyderabad/bachupally"
+    },
+    {
+      "position": 4,
+      "name": "CBSE",
+      "url": "https://yellowslate.com/schools/hyderabad/bachupally/cbse"
+    },
+    {
+      "position": 5,
+      "name": "Unicent School",
+      "url": "https://yellowslate.com/school/hyderabad/unicent-school-bachupally"
+    }
+  ],
+  "local_business": {
+    "name": "Unicent School - Bachupally",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1525027440_cover.jpg",
+    "url": "https://yellowslate.com/school/hyderabad/unicent-school-bachupally",
+    "telephone": "+91 8019 000 441",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Survey No. 506-510, Bowrampet Village, RR District, Bachupally, Hyderabad, Telangana 500043, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.406498,
+      "longitude": 78.4772439
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "Unicent School - Bachupally",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Survey No. 506-510, Bowrampet Village, RR District, Bachupally, Hyderabad, Telangana 500043, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/unicent-school-bachupally-bachupally-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "1.0",
+          "reviewCount": "4"
+        },
+        "author": "B.V.Raju",
+        "date_published": "2023-12-13",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Safety is a top priority at Unicent. As a parent of 4-year old. I know my child is in good hands and is always showered with love and care. Special thanks to the Mother teachers of Pre-Primary.",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Unicent School - Bachupally",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mahesh",
+        "date_published": "2023-10-09",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Excellent infrastructure with well-ventilated classrooms. I appreciate Unicent's commitment to both academics and character development. The teachers not only educate but also nurture our kids.\"",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/unicent-school-bachupally",
+  "scraped_at": "2026-04-26T00:37:57.533603"
+}

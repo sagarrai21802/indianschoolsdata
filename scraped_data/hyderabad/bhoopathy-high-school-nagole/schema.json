@@ -1,0 +1,127 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Nagole",
+      "url": "https://yellowslate.com/schools/hyderabad/nagole"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/nagole/state-board"
+    },
+    {
+      "position": 5,
+      "name": "BHOOPATHY HIGH SCHOOL",
+      "url": "https://yellowslate.com/school/hyderabad/bhoopathy-high-school-nagole"
+    }
+  ],
+  "local_business": {
+    "name": "BHOOPATHY HIGH SCHOOL - Nagole",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/bhoopathy-high-school-nagole",
+    "telephone": "+91 9866075381",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "4A, Mamatha Nagar Colony, Nagole, Hyderabad, Telangana 500068, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3795777,
+      "longitude": 78.5593366
+    }
+  },
+  "reviews": {
+    "number_of_items": 5,
+    "reviews": [
+      {
+        "school_name": "BHOOPATHY HIGH SCHOOL - Nagole",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4A, Mamatha Nagar Colony, Nagole, Hyderabad, Telangana 500068, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/bhoopathy-high-school-nagole-nagole-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "3.2",
+          "reviewCount": "5"
+        },
+        "author": "Pushpa Raj",
+        "date_published": "2023-07-15",
+        "rating_value": "4",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "nice",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHOOPATHY HIGH SCHOOL - Nagole",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "P Aakash",
+        "date_published": "2023-07-04",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Nice",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHOOPATHY HIGH SCHOOL - Nagole",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Ane gaming",
+        "date_published": "2023-04-26",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Just don't come here u will cry",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHOOPATHY HIGH SCHOOL - Nagole",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Suresh B",
+        "date_published": "2023-02-28",
+        "rating_value": "1",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "School correspondent name plz",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "BHOOPATHY HIGH SCHOOL - Nagole",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Pradeepjulayi Babblu",
+        "date_published": "2022-07-02",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Iam a staff here",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/bhoopathy-high-school-nagole",
+  "scraped_at": "2026-04-26T00:38:00.718492"
+}

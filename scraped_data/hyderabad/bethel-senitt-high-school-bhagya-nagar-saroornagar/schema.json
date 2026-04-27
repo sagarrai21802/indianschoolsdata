@@ -1,0 +1,88 @@
+{
+  "breadcrumbs": [
+    {
+      "position": 1,
+      "name": "Home",
+      "url": "https://yellowslate.com/"
+    },
+    {
+      "position": 2,
+      "name": "Hyderabad",
+      "url": "https://yellowslate.com/schools/hyderabad"
+    },
+    {
+      "position": 3,
+      "name": "Saroornagar",
+      "url": "https://yellowslate.com/schools/hyderabad/saroornagar"
+    },
+    {
+      "position": 4,
+      "name": "STATE BOARD",
+      "url": "https://yellowslate.com/schools/hyderabad/saroornagar/state-board"
+    },
+    {
+      "position": 5,
+      "name": "Bethel Senitt High School",
+      "url": "https://yellowslate.com/school/hyderabad/bethel-senitt-high-school-bhagya-nagar-saroornagar"
+    }
+  ],
+  "local_business": {
+    "name": "Bethel Senitt High School - Saroornagar",
+    "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "url": "https://yellowslate.com/school/hyderabad/bethel-senitt-high-school-bhagya-nagar-saroornagar",
+    "telephone": "+91 9848089958",
+    "address": {
+      "@type": "PostalAddress",
+      "Address": "Rd Number 1, Mythri Nagar Colony, Krishna Nagar Colony, Bahadurguda, Saroornagar, Telangana 500035, India",
+      "addressLocality": "Hyderabad",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 17.3478158,
+      "longitude": 78.5431427
+    }
+  },
+  "reviews": {
+    "number_of_items": 2,
+    "reviews": [
+      {
+        "school_name": "Bethel Senitt High School - Saroornagar",
+        "school_address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Rd Number 1, Mythri Nagar Colony, Krishna Nagar Colony, Bahadurguda, Saroornagar, Telangana 500035, India",
+          "addressLocality": "Hyderabad",
+          "addressCountry": "IN"
+        },
+        "school_url": "https://yellowslate.com/hyderabad/bethel-senitt-high-school-bhagya-nagar-saroornagar-saroornagar-reviews",
+        "aggregate_rating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "reviewCount": "2"
+        },
+        "author": "Padmi D",
+        "date_published": "2023-06-04",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Good future oriented school",
+        "publisher": "Yellow Slate"
+      },
+      {
+        "school_name": "Bethel Senitt High School - Saroornagar",
+        "school_address": null,
+        "school_url": null,
+        "aggregate_rating": null,
+        "author": "Mohammed Ismail",
+        "date_published": "2019-12-03",
+        "rating_value": "5",
+        "best_rating": "5",
+        "worst_rating": "1",
+        "review_body": "Education is very good",
+        "publisher": "Yellow Slate"
+      }
+    ]
+  },
+  "url": "https://yellowslate.com/school/hyderabad/bethel-senitt-high-school-bhagya-nagar-saroornagar",
+  "scraped_at": "2026-04-26T00:41:31.023700"
+}

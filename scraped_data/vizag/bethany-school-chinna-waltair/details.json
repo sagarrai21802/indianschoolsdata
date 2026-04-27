@@ -1,0 +1,340 @@
+{
+  "slug": "/school/vizag/bethany-school-chinna-waltair",
+  "url": "https://yellowslate.com/school/vizag/bethany-school-chinna-waltair",
+  "city": "vizag",
+  "name": "Bethany School - Chinna Waltair ",
+  "scraped_at": "2026-04-27T23:43:35.546934",
+  "html_length": 376424,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chinna Waltair",
+          "item": "https://yellowslate.com/schools/vizag/chinna-waltair"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/chinna-waltair/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bethany School",
+          "item": "https://yellowslate.com/school/vizag/bethany-school-chinna-waltair"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bethany School - Chinna Waltair",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532522942_cover.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/bethany-school-chinna-waltair",
+      "telephone": "(O) 2562255/ 5562687 (R)",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Door No.10-50-29, Waltair Main Rd, Opposite Care Hospital, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.7200222,
+        "longitude": 83.3126085
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Door No.10-50-29, Waltair Main Rd, Opposite Care Hospital, Ram Nagar, Visakhapatnam, Andhra Pradesh 530002, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/bethany-school-chinna-waltair-chinna-waltair-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "8"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Challa Jaya"
+          },
+          "datePublished": "2023-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the best school I have ever seen\nin the AP and and the studies are good and everything is good teachers on well experience and the Assembly are so good and they teach us nice manner .\n\nIn three words\nI love the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijai Injeti"
+          },
+          "datePublished": "2022-09-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Quality education. Anglo Indian Teacher's",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhu Babu Isukapatla"
+          },
+          "datePublished": "2022-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in AP , not in AP in India.This school accredited to British council as a Global school,  Frankly few teachers are not that much good but many teachers well experienced, goal oriented , this credit goes to founder Anita Mam and her contemporaries…..\nI love this school….",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "R ROHAN ADITHYA"
+          },
+          "datePublished": "2021-08-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in Vizag!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srinivasa rao"
+          },
+          "datePublished": "2020-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teaching",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SriRAM MURTHY sri ram murthy"
+          },
+          "datePublished": "2020-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lakshminarayana S"
+          },
+          "datePublished": "2019-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Website is not working ????????????????",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bethany School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kancharla Ruthwik"
+          },
+          "datePublished": "2013-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Veryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy Gud Skul !!!!!\nI like it a lot!!! :)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532522942_cover.png",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532522942_cover.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532801787_proile.PNG\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532525313_proile.png\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532522942_cover.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\"
+  ],
+  "rating": "4.5",
+  "views": "1011",
+  "reviews_count": "8",
+  "phone": "+919513238818",
+  "locality": "Chinna Waltair",
+  "board": "CBSE\n\nCo",
+  "established": "1995",
+  "category": "Public Schools",
+  "classes": "10-50",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Bethany School ?\nAsk a Question\nBethany School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532522942_cover.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532801787_proile.PNG"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/vizag/sri-chaitanya-techno-school-madhurawada",
+  "url": "https://yellowslate.com/school/vizag/sri-chaitanya-techno-school-madhurawada",
+  "city": "vizag",
+  "name": "Sri Chaitanya Techno School - Madhurawada ",
+  "scraped_at": "2026-04-27T23:46:27.718181",
+  "html_length": 395113,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhurawada",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sri Chaitanya Techno School",
+          "item": "https://yellowslate.com/school/vizag/sri-chaitanya-techno-school-madhurawada"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sri Chaitanya Techno School - Madhurawada",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/sri-chaitanya-techno-school-madhurawada",
+      "telephone": "89787 78436",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Srinivasa Nagar, Madhurawada, Visakhapatnam, Andhra Pradesh 530041",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.8106616,
+        "longitude": 83.3608983
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Srinivasa Nagar, Madhurawada, Visakhapatnam, Andhra Pradesh 530041",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/sri-chaitanya-techno-school-madhurawada-madhurawada-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "54"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hari M"
+          },
+          "datePublished": "2024-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "krishnaveni chokkaku"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohammed abubakar Siddik"
+          },
+          "datePublished": "2024-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My friends studied here but didn’t passed but he passed away",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "JAMMILU SABBAVARAPU"
+          },
+          "datePublished": "2024-01-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suryaprakasa rao"
+          },
+          "datePublished": "2023-12-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent School in AP",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Kumar"
+          },
+          "datePublished": "2023-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Forever Favourite palace , Our Temple of Goddess Maa Saraswati. I have learnt Every Diamond priced Words , lines, thoughts, Culture, nature how to be a Best Eco Friendly Human . Thanks Srichaitnaya For the wonderful Hostel Life .2017-2019 .and Thanks to our Respected Principal sir Suryanarayan sir (Pradhu Ramesh). Becz of him We enjoyed alot of things and Learnt Every moment.(Specially Sun Ray Resort).",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reddy SN"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lavanya Srinivas"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "But can still inform some other things.  .....,,,,,,,.    ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subbu Venkata"
+          },
+          "datePublished": "2022-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Beside the road, good education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya Techno School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tekis Teki"
+          },
+          "datePublished": "2021-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sri chaitanya Madurawada -2 is one of the worst school. No ethics with zero values. Mainly for Principal he will not stand on his words. while getting admission he will commit for something and after admission he will kick you out simply. so be careful because you can not shift your kid in middle of academic.\n\nIn my case same thing happened and now he told if you are not able to drop your kid then simply leave the school..(After paying school bus fees.. that too double of the regular fee.) when we went for admission he said their bus will pick our kid at my society since one kid already usingtheir bus at same location and after admission he said that we never collected kids from my society. (Simply lying... if school principal it self lying then what their school teaching to children? )\n\nPreviously only one kid used to go from my society and bus used to pic her daily infront of society and now 3 kids and asking us to collect them from high way... who will responsible for kids if he drops children at highway? why we have opted for school bus?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.2",
+  "views": "418",
+  "reviews_count": "54",
+  "phone": "+919513238818",
+  "locality": "Madhurawada",
+  "board": "CBSE, State Board\n\nCo",
+  "established": "1986",
+  "category": "Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

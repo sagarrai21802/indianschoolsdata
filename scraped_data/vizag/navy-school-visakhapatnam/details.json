@@ -1,0 +1,387 @@
+{
+  "slug": "/school/vizag/navy-school-visakhapatnam",
+  "url": "https://yellowslate.com/school/vizag/navy-school-visakhapatnam",
+  "city": "vizag",
+  "name": "Navy School - Visakhapatnam ",
+  "scraped_at": "2026-04-27T23:41:53.019909",
+  "html_length": 412210,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Visakhapatnam",
+          "item": "https://yellowslate.com/schools/vizag/visakhapatnam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/visakhapatnam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Navy School",
+          "item": "https://yellowslate.com/school/vizag/navy-school-visakhapatnam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Navy School - Visakhapatnam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531934080_cover.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/navy-school-visakhapatnam",
+      "telephone": "0891-2559575",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "530018, Shri Vijaynagar Naval Colony, Kancharapalem, Visakhapatnam, Andhra Pradesh 530018, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.7375071,
+        "longitude": 83.2579604
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "530018, Shri Vijaynagar Naval Colony, Kancharapalem, Visakhapatnam, Andhra Pradesh 530018, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/navy-school-visakhapatnam-visakhapatnam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "17"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AK_THE_GR8"
+          },
+          "datePublished": "2024-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The existence of this school is a crime. Abdul my friend, do it💥💥👹",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aak Kumar"
+          },
+          "datePublished": "2024-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In terms of everything it's the worst school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "P . Das"
+          },
+          "datePublished": "2023-12-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "1.Very casual teaching faculty,  2.Educatio totally based on online app (Tata classedge) .\n3.Most of time class teachers are missing from classes\n4. Fee structure too high\n5. Local language used most of time inside class which deficult to understand others.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nutan Roy"
+          },
+          "datePublished": "2023-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "... Good ok alright...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pramod yadav"
+          },
+          "datePublished": "2023-10-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Too High fee structure",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KorryKatti"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Spent 5 years of my life from ukg to class 5th in this school (2010-2015) and man I gotta say they were the best years of my life. The teachers , the friends and everything else was perfect. Still remember standing outside the line for not polishing my shoes and students of those years might remember the guy Tarun Sagar ( I am not him ). How I wish I could have spent atleast 5 more years in that school but who can change the inevitable. I cherish those memories and I have to say that even tho I might not be as academically good as I was at that time , the core principles and discipline is still ingrained in me and it's all thanks to this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "JANGAREDDY ABHISHEK"
+          },
+          "datePublished": "2023-05-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Every thing is very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harsh Vardhan Rai"
+          },
+          "datePublished": "2022-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NAGESWARA RAO"
+          },
+          "datePublished": "2022-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school 🏫 in world 🌎 👌",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy School - Visakhapatnam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mutyala Maheswararao"
+          },
+          "datePublished": "2022-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531934080_cover.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531934080_cover.jpg\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532452718_proile.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531934080_cover.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "3.8",
+  "views": "871",
+  "reviews_count": "17",
+  "phone": "+919513238818",
+  "locality": "Visakhapatnam",
+  "board": "CBSE\n\nCo",
+  "established": "1978",
+  "category": "Public Schools",
+  "classes": "000 - 21",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Navy School ?\nAsk a Question\nNavy School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531934080_cover.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532452718_proile.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png"
+  ]
+}

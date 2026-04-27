@@ -1,0 +1,400 @@
+{
+  "slug": "/school/vizag/delhi-public-school-anandapuram",
+  "url": "https://yellowslate.com/school/vizag/delhi-public-school-anandapuram",
+  "city": "vizag",
+  "name": "Delhi Public School - Anandapuram ",
+  "scraped_at": "2026-04-27T23:38:37.029191",
+  "html_length": 429586,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Anandapuram",
+          "item": "https://yellowslate.com/schools/vizag/anandapuram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/anandapuram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/vizag/delhi-public-school-anandapuram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Anandapuram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1530640423_cover.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/delhi-public-school-anandapuram",
+      "telephone": "08886512233",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Chennai - Srikakulam Highway, Visakhapatnam District, Anandapuram, Andhra Pradesh 531163, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.9020588,
+        "longitude": 83.3987134
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Chennai - Srikakulam Highway, Visakhapatnam District, Anandapuram, Andhra Pradesh 531163, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/delhi-public-school-anandapuram-anandapuram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "42"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayan Khan"
+          },
+          "datePublished": "2024-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Phone no. Doesn't work",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhasuru Jayalaxmi"
+          },
+          "datePublished": "2024-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "the worst school in my history\nI am a student of 4 a\nthis school still I am in 6th class but this school hasn't still give n my report card of 4th class .they literally  have changed their management to vishavanadha trust\nit was good when ishwari was there",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "N R Ramesh"
+          },
+          "datePublished": "2023-10-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sowmya saluru"
+          },
+          "datePublished": "2023-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS for me is the home that nurtured my personality, the reason i’m being able to perform well in my higher education is completely because of the strong fundamentals which were taught in DPS. I personally believe that Schooling is way beyond a rat race, it’s the time when personalities are moulded and I’m glad to acknowledge that DPS has provided me with the best environment to learn and grow. It has given me numerous opportunities to develop my speaking skills, leadership qualities, unleash the potential and also the courage to face the real world , I’m Sowmya Saluru, batch of 2018-19 and this is my story.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sanak chandra"
+          },
+          "datePublished": "2023-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kudos to all the students who've passed their 10th board this year. These results take me back in time when I was a student in this school.\nHaving studied in DPS Anandapuram I feel privileged to have passed out from one of the top schools in Visakhapatnam. My experience has been nothing but amazing. I made some of the best memories and friends for this lifetime.\nWhen you are considering about DPS, I'm sure you want a holistic development of your kid. DPS has 100% did exactly that. Be it academics, co-curricular, sports or extra-curricular, DPS has the best academicians and mentors to do just that.\nI can certainly say their brand value also adds up in life. I highly recommend anyone to join as they still are one of the best in the city. As a matter of fact I know a handful of my family friends who have joined and are extremely happy.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sumee ireen"
+          },
+          "datePublished": "2023-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First of all congratulations to all the students who have passed their boards this year. I am an alumni from the 2018 th batch ( first batch). Honestly, now that I am in Kolkata pursuing Bpharm in Eminent College of Pharmaceutical Technology and I see the schools here and the only thing that comes to my mind is that how grateful I was to study in Dps Anandapuram. The teachers there , they make you their own child and treat you like their kid. They are so helpful, kind and supportive that it's hard not to form a close bond with them . The kind of education that we recieved is incomparable. Since we were the first batch a lot things were not in place but yet the management and the teachers left no stone unturned to give us the best , to make sure that everything was in place. I'm still in touch with my teachers and it gives me immense joy to know that the school has only grown since then . The school has developed to be one of the best schools in Visakhapatnam. If I'm given the chance to rewind the time then I would definitely go back to those old good days.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoj Nagalla"
+          },
+          "datePublished": "2023-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wa",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Azeez Basha"
+          },
+          "datePublished": "2022-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First off all please arrange Boards on the highway to know which direction is the 🏫 school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sriharsha talabhaktula"
+          },
+          "datePublished": "2022-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school\nDependable\nI liked the teachers\nPrincipal also is a nice person\nHappily one can join the kids for education\nNot much pressure also\nHave a nice schooling",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Anandapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hotel Mvp Check Inn"
+          },
+          "datePublished": "2022-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever\nMy son studying 7th grade right now and he's very well and good\nThe ambience is excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1530640423_cover.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1530640423_cover.png\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/1533886229_member.jpg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/10/2020-11-17-3.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1530640423_cover.png\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Horseback-Riding.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "3.5",
+  "views": "1612",
+  "reviews_count": "42",
+  "phone": "+919513238818",
+  "locality": "Anandapuram",
+  "board": "CBSE\n\nCo",
+  "established": "2013",
+  "category": "Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1530640423_cover.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886824.3893.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886822.4435.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886823.4349.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886824.5186.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886823.6203.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886823.7573.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886824.643.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/1533886229_member.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886824.5978.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886823.209.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/10/2020-11-17-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1533886823.6611.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png"
+  ]
+}

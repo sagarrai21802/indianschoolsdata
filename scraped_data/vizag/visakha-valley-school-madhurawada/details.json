@@ -1,0 +1,393 @@
+{
+  "slug": "/school/vizag/visakha-valley-school-madhurawada",
+  "url": "https://yellowslate.com/school/vizag/visakha-valley-school-madhurawada",
+  "city": "vizag",
+  "name": "Visakha Valley School - Madhurawada ",
+  "scraped_at": "2026-04-27T23:49:37.062223",
+  "html_length": 418634,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhurawada",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Visakha Valley School",
+          "item": "https://yellowslate.com/school/vizag/visakha-valley-school-madhurawada"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Visakha Valley School - Madhurawada",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_cover.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/visakha-valley-school-madhurawada",
+      "telephone": "0891-2552177 0891-2799889",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "China Gadili Old Dairy Farm Madhurawada, Vishalakshi Nagar, Visakhapatnam, Andhra Pradesh 530040, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.759826,
+        "longitude": 83.33391
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "China Gadili Old Dairy Farm Madhurawada, Vishalakshi Nagar, Visakhapatnam, Andhra Pradesh 530040, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/visakha-valley-school-madhurawada-madhurawada-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "114"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jemima682706"
+          },
+          "datePublished": "2025-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Going the reviews I found overall the views expressed are positive .Apart ,it is very important we take cognizance of the negatives .they are the arrogance of the Reception staff.thay must learn telephone manners \n2. The toilets are next area which must be kept dry and clean. This is the place where children especially the LKG ,UKG AND 1ST GRADE KIDS NEED TO BE ESCORTED AND TAKEN CARE OF WITH MOTHERLY CARE\nHOPE THE B3HAVIOUR ON THE BUSES IS ALSO MONITORED \nMrs Thomas\n\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "రాజా వేంకటేశ్వర రావు"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vanapalli krishna"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent for children study not byharting so they will create their own talent to become good life",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mudunuru Tiruraju"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "teachers are over confident they are no proper gudience directly they are telling put the tuition then only ur kid wil improve no take care govt schools much better than this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parthiv Venkata Krishna"
+          },
+          "datePublished": "2024-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is an EPIC school which transforms the society into a wonderful place to live.\n\nIt believes for \"STRIVE TO EXCELLENCE\".",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sirisetti Hema"
+          },
+          "datePublished": "2023-12-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best schoo",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohith Koyyani"
+          },
+          "datePublished": "2023-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school for your kids it has everything from football ground, volleyball,basketball courts best faculty and mainly the best education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kedar Kona"
+          },
+          "datePublished": "2023-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My cousin studies here, but the school is not as it appears. Their study methods are absolutely flawed; all they do is make the students memorize the study materials. The students lack basic knowledge, their fundamentals are unclear, and they are completely confused about the concepts. I hope the school changes its teaching methods and improves the quality of education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MJ PK"
+          },
+          "datePublished": "2023-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Don't join your kids here. Very unprofessional staff/faculty. Washrooms are worst. No one bothered even if complained. Thought it was some trust who opened this school and maintaining. But no, its a semi govt school. Hence it gets No.1 award mostly. Bcos its compared/competed with govt schools. Also faculty has no interest to have a hold on +1,+2 children. Moreover partiality will be delivered among the children according to their background. Don't join your kids here. Hopeless school. infrastructure may show you sweets but it's hell bitter in every aspect inside.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Visakha Valley School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mallikharjuna Jampani"
+          },
+          "datePublished": "2023-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school for overall development of the kids!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532803707_proile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_cover.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/10/2020-11-17-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_cover.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_cover.jpg\\\\\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533232430_proile.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.2",
+  "views": "1864",
+  "reviews_count": "114",
+  "phone": "+919513238818",
+  "locality": "Madhurawada",
+  "board": "CBSE\n\nCo",
+  "established": "1967",
+  "category": "Play Schools",
+  "classes": "000 - 90",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_cover.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532803707_proile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533232430_proile.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/10/2020-11-17-3.jpg"
+  ]
+}

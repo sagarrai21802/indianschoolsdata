@@ -1,0 +1,392 @@
+{
+  "slug": "/school/vizag/drkkrs-gowtham-international-school-pendurthi",
+  "url": "https://yellowslate.com/school/vizag/drkkrs-gowtham-international-school-pendurthi",
+  "city": "vizag",
+  "name": "Dr.K.K.R's Gowtham International School - Pendurthi ",
+  "scraped_at": "2026-04-27T23:45:00.817303",
+  "html_length": 409049,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pendurthi",
+          "item": "https://yellowslate.com/schools/vizag/pendurthi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/pendurthi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dr.K.K.R'S Gowtham International School",
+          "item": "https://yellowslate.com/school/vizag/drkkrs-gowtham-international-school-pendurthi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dr.K.K.R's Gowtham International School - Pendurthi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531162889_cover.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/drkkrs-gowtham-international-school-pendurthi",
+      "telephone": "9160100211, 9160100212,9160444004",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "SVPC Gardens, Gambheeram Village, Mandal, Pendurthi-Anandapuram Rd, Anandapuram, Andhra Pradesh 530052, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.8905299,
+        "longitude": 83.3613071
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "SVPC Gardens, Gambheeram Village, Mandal, Pendurthi-Anandapuram Rd, Anandapuram, Andhra Pradesh 530052, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/drkkrs-gowtham-international-school-pendurthi-pendurthi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "60"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kinjarapu Renuka Devi"
+          },
+          "datePublished": "2023-12-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying in KKR Gowtham",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravi kumar gudla"
+          },
+          "datePublished": "2023-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The contact number is wrong..no one lifts",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Damu Kumar"
+          },
+          "datePublished": "2023-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst behaviour of faculty",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KAUSHIK Thorati"
+          },
+          "datePublished": "2023-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bokka hostel",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srinivas Rao"
+          },
+          "datePublished": "2023-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice receiving.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sushma Rao"
+          },
+          "datePublished": "2023-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best IIT foundation schools I can prefer you to join here but you have to stay with your dedication and go to the top section in this school namely 'CO'section which makes you an iitian.\nAll the best who want to join here this is my last day of this school after my secondary board exams.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suresh Babu"
+          },
+          "datePublished": "2023-02-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school , Food is good & hygiene , Hostel facilities need to improve . Incase of students sick they are not intimating to parents and results and score card also not sharing to parents . They remember parents only at the time payments .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandeep"
+          },
+          "datePublished": "2022-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gunda Jyothi"
+          },
+          "datePublished": "2022-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I very very best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr.K.K.R's Gowtham International School - Pendurthi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pardhu majji"
+          },
+          "datePublished": "2022-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not rasbansd",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532438676_proile.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531162889_cover.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532613865_proile.PNG\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531162889_cover.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531162889_cover.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532354362_proile.jpg\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.1",
+  "views": "1246",
+  "reviews_count": "60",
+  "phone": "+919513238818",
+  "locality": "Pendurthi",
+  "board": "CBSE, ICSE\n\nCo",
+  "established": null,
+  "category": "International Schools, Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Dr.K.K.R's Gowtham International School ?\nAsk a Question\nDr.K.K.R's Gowtham International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532438676_proile.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531162889_cover.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532613865_proile.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png"
+  ]
+}

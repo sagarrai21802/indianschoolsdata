@@ -1,0 +1,449 @@
+{
+  "slug": "/school/vizag/greendale-international-school-madhurawada",
+  "url": "https://yellowslate.com/school/vizag/greendale-international-school-madhurawada",
+  "city": "vizag",
+  "name": "Greendale School - Madhurawada ",
+  "scraped_at": "2026-04-27T23:43:12.815454",
+  "html_length": 519107,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhurawada",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Greendale School",
+          "item": "https://yellowslate.com/school/vizag/greendale-international-school-madhurawada"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Greendale School - Madhurawada",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/17716582760003bqq31i253x.blob",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/greendale-international-school-madhurawada",
+      "telephone": "+91 89788 85500",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Opp International Cricket Stadium, Vuda 100ft Road, Towards Shriram Properties, Madhurawada, Pothinamallayya Palem, Visakhapatnam, Andhra Pradesh 530041, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.8016791,
+        "longitude": 83.3675016
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Opp International Cricket Stadium, Vuda 100ft Road, Towards Shriram Properties, Madhurawada, Pothinamallayya Palem, Visakhapatnam, Andhra Pradesh 530041, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/greendale-international-school-madhurawada-madhurawada-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "43"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DipAgr"
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Children of many families of my society go to this school. It’s the best school in town. Children are taught sports, personality development and ethics all along with high class teaching and disciplinary learning.\nYou know it’s a great school when not only the parents but the kids praise it too. Keep it up 👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Greendale offers a great learning experience to my kids. The staff here is well experienced and very friendly as well. Thank you for your understanding and patience with the kids!! ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushi "
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Must say amazing facilities are provided here, best school for kids. Teaching experience is also upto the mark here ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school provides a wonderful learning environment that focuses not only on academics but also on overall personality development. The teachers are highly supportive, approachable, and genuinely care about each student’s progress. The curriculum is well-structured, and there is a good balance between studies, extracurricular activities, and values-based education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akr"
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying in this school in 3rd B. As per my personal experience, this one of the best school for the students where teachers will not load or give stress to students... They teach curricular activities, they teach how the student will grow in life in future... They teach technically but not mechanically... Thry wont force and load on students unnecessarily. Its good school for improving self confidence for the children's with cultural heritage. Highly recommended ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Greendale School offers a supportive environment with caring teachers and good academic focus. Overall, a solid choice for children’s early education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akr"
+          },
+          "datePublished": "2026-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying in this school in 3rd B. As per my personal experience, this one of the best school for the students where teachers will not load or give stress to students... They teach curricular activities, they teach how the student will grow in life in future... They teach technically but not mechanically... Thry wont force and load on students unnecessarily. Its good school for improving self confidence for the children's with cultural heritage. Highly recommended for your children ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SURESH MARPU"
+          },
+          "datePublished": "2023-11-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best Schoold for Children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SRINIVASA RAJU P"
+          },
+          "datePublished": "2023-11-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Superb school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greendale School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhaskar Singapore"
+          },
+          "datePublished": "2023-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Vizag.\n\nIt's the biggest in Madhurawada, with ample play area, Cricket 🏏 nets, Tennis🎾, Badminton 🏸 court and Athletics track as well.\n\nTeaching is good, First batch of X yet to pass out in 2024.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/17716582760003bqq31i253x.blob\\\\\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/177165712511109jtd74kd593.blob\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657125736wlhjllhyun.jpeg\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/team/1771493217045_ofp20v6anjh.jpg\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/17716582760003bqq31i253x.blob\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/17716571234725on6c4qqcz8.jpeg\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/team/1771483226794_b0siro14hse.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657125414obeybit3kgk.jpeg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/17716582760003bqq31i253x.blob",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657124136lxw46uht5p9.blob\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657123767d79podi7yx7.jpeg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657124515nzhhbhk9jf.blob\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/17716582760003bqq31i253x.blob",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657122880s1xehdumdir.jpeg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/team/1771482460414_ks8uaiyye6.jpg\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/10/2020-11-17-3.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657122551r84v2eihla.jpeg\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png\\",
+    "https://www.youtube.com/watch?v=x4InX9exnGE\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_proile.jpg\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657124806my7v0ojzbj.blob\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Horseback-Riding.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657123220qcxb1yvyncs.jpeg\\",
+    "https://www.youtube.com/watch?v=_n6b9RHXIIo\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/17716571260636gkl1c4fhdt.blob\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/watch?v=OgMQ_Ip9u70\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657126361a3z2hhyz4cr.jpeg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/17716571221976skesmni8qo.jpeg\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.7",
+  "views": "1348",
+  "reviews_count": "43",
+  "phone": "+919513238818",
+  "locality": "Madhurawada",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "International Schools, Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/17716582760003bqq31i253x.blob",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657123220qcxb1yvyncs.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Horseback-Riding.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://img.youtube.com/vi/_n6b9RHXIIo/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/team/1771493217045_ofp20v6anjh.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657124515nzhhbhk9jf.blob",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657122551r84v2eihla.jpeg",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/177165712511109jtd74kd593.blob",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657124806my7v0ojzbj.blob",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/team/1771483226794_b0siro14hse.jpg",
+    "https://img.youtube.com/vi/OgMQ_Ip9u70/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/17716571234725on6c4qqcz8.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657122880s1xehdumdir.jpeg",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657126361a3z2hhyz4cr.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657124136lxw46uht5p9.blob",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/team/1771482460414_ks8uaiyye6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_proile.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://img.youtube.com/vi/x4InX9exnGE/hqdefault.jpg",
+    "https://crm-api.yellowslate.com/api/instastories/media/DTIOVTOE-bw?size=l",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657123767d79podi7yx7.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/10/2020-11-17-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/17716571221976skesmni8qo.jpeg",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657125414obeybit3kgk.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/1771657125736wlhjllhyun.jpeg",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/gallery/17716571260636gkl1c4fhdt.blob",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png"
+  ]
+}

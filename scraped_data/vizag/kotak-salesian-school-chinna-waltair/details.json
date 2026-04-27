@@ -1,0 +1,384 @@
+{
+  "slug": "/school/vizag/kotak-salesian-school-chinna-waltair",
+  "url": "https://yellowslate.com/school/vizag/kotak-salesian-school-chinna-waltair",
+  "city": "vizag",
+  "name": "Kotak Salesian School - Chinna Waltair ",
+  "scraped_at": "2026-04-27T23:40:01.366785",
+  "html_length": 400814,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chinna Waltair",
+          "item": "https://yellowslate.com/schools/vizag/chinna-waltair"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/chinna-waltair/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kotak Salesian School",
+          "item": "https://yellowslate.com/school/vizag/kotak-salesian-school-chinna-waltair"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kotak Salesian School - Chinna Waltair",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532525313_cover.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/kotak-salesian-school-chinna-waltair",
+      "telephone": "+91 891 2755933, 2755420",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Chinna Waltair Main Rd, Chinna Waltair, Kirlampudi Layout, Chinna Waltair, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017, India",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.72281,
+        "longitude": 83.3305655
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Chinna Waltair Main Rd, Chinna Waltair, Kirlampudi Layout, Chinna Waltair, Pedda Waltair, Visakhapatnam, Andhra Pradesh 530017, India",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/kotak-salesian-school-chinna-waltair-chinna-waltair-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "57"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen Kumar"
+          },
+          "datePublished": "2024-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I did my primary studies there. Nice school with great atmosphere",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "V S S K Prasad Seela"
+          },
+          "datePublished": "2024-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Honshu Karanam"
+          },
+          "datePublished": "2024-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for getting more holidays,valuble syllabus ICSE, playing....etc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naresh Vasupilli"
+          },
+          "datePublished": "2024-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Iam a parent of kotak salesian school and this school is know for its facilities , facility, culture, activities and infrastructure",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sr Singhdeo"
+          },
+          "datePublished": "2024-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent in everyday !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Philip.p Gomes"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello friends.my name is Phillip peter Gomes.i m also from kotak salesian school.friends anyone from 1984 batch.do please add some photos of 1984 ..class 4c.not sure the teachers were either mr.amalraj or mr.vijay sir.. please send.. Thanks",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raju N"
+          },
+          "datePublished": "2023-11-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school. Good environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gudivada Gowri"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School timings was very bad..kids is suffered..management very bad...Teachers is not support to parents. Mariya Teacher  Was very bad,she is irresponsible speak to parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhanuprakash Tallapragada"
+          },
+          "datePublished": "2023-05-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied in this school during 1970's. Great school. Great principal Father Thayal.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kotak Salesian School - Chinna Waltair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jareena Sk"
+          },
+          "datePublished": "2023-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Class room  are very dhatti\nTable's dast don't cleaning properly\nAny problems share teacher they don't lift the calls next day teacher ask the student\nWhat happened why your mother calling me\nMaintain cleaning better",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532525313_cover.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532801787_proile.PNG\\",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532608679_proile.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532525313_cover.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532525313_cover.PNG\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\"
+  ],
+  "rating": "4.5",
+  "views": "1431",
+  "reviews_count": "57",
+  "phone": "+919513238818",
+  "locality": "Chinna Waltair",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Kotak Salesian School ?\nAsk a Question\nKotak Salesian School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532525313_cover.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532801787_proile.PNG"
+  ]
+}

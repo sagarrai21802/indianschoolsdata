@@ -1,0 +1,374 @@
+{
+  "slug": "/school/vizag/eurokids-pre-school-madhurawada",
+  "url": "https://yellowslate.com/school/vizag/eurokids-pre-school-madhurawada",
+  "city": "vizag",
+  "name": "EuroKids Pre-School - Madhurawada ",
+  "scraped_at": "2026-04-27T23:43:29.106168",
+  "html_length": 394371,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhurawada",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "EuroKids Pre-School",
+          "item": "https://yellowslate.com/school/vizag/eurokids-pre-school-madhurawada"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "EuroKids Pre-School - Madhurawada",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/eurokids-pre-school-madhurawada",
+      "telephone": "082829 20282",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2-116/1A, Plot No 19, Revenue Layout, Midhilapuri Vuda Colony, Madhurawada, Visakhapatnam, Andhra Pradesh 530041",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.7996808,
+        "longitude": 83.2823655
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2-116/1A, Plot No 19, Revenue Layout, Midhilapuri Vuda Colony, Madhurawada, Visakhapatnam, Andhra Pradesh 530041",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/eurokids-pre-school-madhurawada-madhurawada-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "38"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ramya kallisetti"
+          },
+          "datePublished": "2024-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best play school in our area with well trained staff & caring",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "hitakshi shekar"
+          },
+          "datePublished": "2024-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best preschool in Madhurwada.I personally got impressed with the curriculum which lets kids enjoy learning process unknowingly engaging into core concepts. All the best to Euro kids Madhurwada team.\n\nSpecial thanks to Bhavani ma'am.She is always available for support.\n\nThanks to support staff for taking good care of kid.\n\nParent of P.Ayansh",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sharada krishna"
+          },
+          "datePublished": "2024-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best kindergarten in the surroundings. They have a good team of teachers and they value parents opinion. I am very happy with the way they mould my child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sravani Bulusu"
+          },
+          "datePublished": "2024-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very well established school in this locality with trained teachers. My kid is very happy to go to school every day. Thank you to all the staff and Bhavani mam",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nithun Sai A.N"
+          },
+          "datePublished": "2023-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi all..\nI am sharing this from my bottom of my heart.. Euro kids Madurawada branch is located in a peaceful nature surrounded place.. School building is safe and secured for kids to learn and play. Kids are taken care very well.. Right from teachers to aaya amma everyone is very friendly and giving atmost care.. My son love this school a lot.. Everyday he was very much eager to go to school.. Special thanks to Poornima mam, She was my sons class teacher, I could see more development in my son's handwriting, thinking aspect, vocabulary etc.. Thanks to Bhavni mam and all other teachers.. Keep up the good work... I would strongly recommend this school for preschool.. No complaints,  Highly satisfied ❤️❤️❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anjani mangena"
+          },
+          "datePublished": "2023-10-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very excellent care& hard work of teachers... 18 months baby also learned so many good activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiranmayee Killo"
+          },
+          "datePublished": "2023-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are very much satisfied with the school...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yudhistar N"
+          },
+          "datePublished": "2023-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We joined our kids in nursery last year and was happy with the way they handled kids. Good management, Dedicated teachers and support staff. They organised sports day and annual day events very well. I was amazed, how they taught the little ones to participate in events. All the best",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rucha Jain"
+          },
+          "datePublished": "2023-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a Euro Parent. We shifted to Vishakhapatnam recently this year and found the best school for our Son to enroll him in Nursery. Everything is just best about this school, but the most best part is the teachers of the school. They are extremely polite and soft-spoken. The Principal of the school Bhavani Mam is so cooperative and will address all our problem with utmost patience. I strongly recommend this preschool as they are specialized in that and such school encourages toddlers to attend the school and create love for the school. The best pre school with best infrastructure any pre school parent can ask for.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroKids Pre-School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Indu anchor"
+          },
+          "datePublished": "2023-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We can’t get any better school than this !!\nWas tentative while joining bcz it’s first yr & it’s decent size,\nBut the school did very good justice by creating wonderful memories by implanting great knowledge & power of education to the little buds , today my daughter ANISHKA doesn’t want to go any other school even in US except this\nEuro kids!\nMay the school & staff raise many more kids\nlike this..\nCongratulations.. many years to go.\nGood luck Euro kids Madhurawada\nGreat job Suresh Garu & Bhavani Mam.\nAppreciate ur efforts,Patience, dedication & passion towards Preschooling.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_proile.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532804605_proile.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "5.0",
+  "views": "79",
+  "reviews_count": "38",
+  "phone": "+919513238818",
+  "locality": "Madhurawada",
+  "board": "Other Boards\n\nCo",
+  "established": "2015",
+  "category": "Play Schools",
+  "classes": "2-116",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "EuroKids Pre-School ?\nAsk a Question\nEuroKids Pre-School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533233667_proile.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532804605_proile.jpg"
+  ]
+}

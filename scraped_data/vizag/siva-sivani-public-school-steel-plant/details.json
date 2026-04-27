@@ -1,0 +1,375 @@
+{
+  "slug": "/school/vizag/siva-sivani-public-school-steel-plant",
+  "url": "https://yellowslate.com/school/vizag/siva-sivani-public-school-steel-plant",
+  "city": "vizag",
+  "name": "Siva Sivani Public school - Steel Plant ",
+  "scraped_at": "2026-04-27T23:50:14.771419",
+  "html_length": 385586,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Steel Plant",
+          "item": "https://yellowslate.com/schools/vizag/steel-plant"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/vizag/steel-plant/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Siva Sivani Public School",
+          "item": "https://yellowslate.com/school/vizag/siva-sivani-public-school-steel-plant"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Siva Sivani Public school - Steel Plant",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/siva-sivani-public-school-steel-plant",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "UKKUNAGARAM, Sector 9, Steel Plant Twp, Visakhapatnam, Andhra Pradesh 530032",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.6496698,
+        "longitude": 83.1347006
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "UKKUNAGARAM, Sector 9, Steel Plant Twp, Visakhapatnam, Andhra Pradesh 530032",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/siva-sivani-public-school-steel-plant-steel-plant-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "15"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ruthvick Alla"
+          },
+          "datePublished": "2023-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice teachers and class rooms",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naresh Babu"
+          },
+          "datePublished": "2023-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "bad very badest ever and ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen Subha"
+          },
+          "datePublished": "2023-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good awesome school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepak patel"
+          },
+          "datePublished": "2022-12-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good Teachers excellenttt!!\n😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "santosh panduri"
+          },
+          "datePublished": "2022-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No skilled and good teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CH BHARGAV"
+          },
+          "datePublished": "2022-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reshma Begum"
+          },
+          "datePublished": "2022-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's has great infrastructure and Faculty",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Murali Nadipinti"
+          },
+          "datePublished": "2021-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "🌟🌟🌟🌟🌟",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thavitinaidu Chigurupalli"
+          },
+          "datePublished": "2020-05-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am siva Sivani public school ukkunagaram sector 9 student",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Siva Sivani Public school - Steel Plant"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lakshmi Naik"
+          },
+          "datePublished": "2020-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531139041_proile.jpg\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531137956_proile.png\\",
+    "https://8views.com/",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531844039_proile.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.2",
+  "views": "610",
+  "reviews_count": "15",
+  "phone": "+919513238818",
+  "locality": "Steel Plant",
+  "board": "ICSE\n\nCo",
+  "established": "1990",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Siva Sivani Public school ?\nAsk a Question\nSiva Sivani Public school Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531137956_proile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531844039_proile.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

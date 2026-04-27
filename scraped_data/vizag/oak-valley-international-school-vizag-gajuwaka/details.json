@@ -1,0 +1,371 @@
+{
+  "slug": "/school/vizag/oak-valley-international-school-vizag-gajuwaka",
+  "url": "https://yellowslate.com/school/vizag/oak-valley-international-school-vizag-gajuwaka",
+  "city": "vizag",
+  "name": "Oak Valley International School Vizag - Gajuwaka ",
+  "scraped_at": "2026-04-27T23:42:43.193085",
+  "html_length": 386506,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gajuwaka",
+          "item": "https://yellowslate.com/schools/vizag/gajuwaka"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/vizag/gajuwaka/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Oak Valley International School Vizag",
+          "item": "https://yellowslate.com/school/vizag/oak-valley-international-school-vizag-gajuwaka"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Oak Valley International School Vizag - Gajuwaka",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/oak-valley-international-school-vizag-gajuwaka",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "24-4-1, Vuda Colony, Gonthinavanipalem, Gajuwaka, Visakhapatnam, Andhra Pradesh 530026",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.6753656,
+        "longitude": 83.1980242
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24-4-1, Vuda Colony, Gonthinavanipalem, Gajuwaka, Visakhapatnam, Andhra Pradesh 530026",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/oak-valley-international-school-vizag-gajuwaka-gajuwaka-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "51"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kokkiripati L Naveena Prasad"
+          },
+          "datePublished": "2024-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Education is activity based which helps students learn the concept easily",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raja mahabali Varma"
+          },
+          "datePublished": "2024-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I joined my child in this oak valley school.The school provides a diverse and inclusive learning environment. Teachers are experienced, fostering a global perspective, and the curriculum is well-rounded. Overall, a solid choice for those seeking a global education.,,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mude Abhivanth nayak"
+          },
+          "datePublished": "2024-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Call not lifting",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaggarao Gokeda"
+          },
+          "datePublished": "2024-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good place where students can feel free to ask any teachers the teachers are very well qualified and has space lab which  very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sneha boggarapu"
+          },
+          "datePublished": "2024-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The facilities at oak valley are top notch.The classrooms are bright and spacious and there’s plenty of space for outdoor play",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reena Reddy"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "“I feel good knowing my child is in a safe and secure environment at Oak Valley. It's a great place for them to learn and grow.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navya Parvathareddy"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Oak Valley offers a great variety of extracurricular activities for students with lively interactive sessions. We were overwhelmed to see my nephew come out of his shell and try new things and make friends.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anusha Reddy"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers at Oak valley are so caring and attentive towards my child’s needs.They make learning fun and engaging",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "preetham reddy"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child's grades have improved significantly since joining Oak Valley. The teachers really take the time to help them understand each subject.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oak Valley International School Vizag - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "priyanka surimulla"
+          },
+          "datePublished": "2024-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good hygiene and academic performance was nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1530712808_proile.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.4",
+  "views": "685",
+  "reviews_count": "51",
+  "phone": "+919513238818",
+  "locality": "Gajuwaka",
+  "board": "IGCSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Oak Valley International School Vizag ?\nAsk a Question\nOak Valley International School Vizag Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

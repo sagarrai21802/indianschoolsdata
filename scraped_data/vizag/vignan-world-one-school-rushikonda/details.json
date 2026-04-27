@@ -1,0 +1,376 @@
+{
+  "slug": "/school/vizag/vignan-world-one-school-rushikonda",
+  "url": "https://yellowslate.com/school/vizag/vignan-world-one-school-rushikonda",
+  "city": "vizag",
+  "name": "Vignan World One School - Rushikonda ",
+  "scraped_at": "2026-04-27T23:39:31.091484",
+  "html_length": 393233,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rushikonda",
+          "item": "https://yellowslate.com/schools/vizag/rushikonda"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/rushikonda/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vignan World One School",
+          "item": "https://yellowslate.com/school/vizag/vignan-world-one-school-rushikonda"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vignan World One School - Rushikonda",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695033972207629376565082a74eee9b1695033973.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/vignan-world-one-school-rushikonda",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Bheemili, Dr NTR Beach Rd, Thimmapuram, Visakhapatnam, Andhra Pradesh 530045",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.8119835,
+        "longitude": 83.4073687
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Bheemili, Dr NTR Beach Rd, Thimmapuram, Visakhapatnam, Andhra Pradesh 530045",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/vignan-world-one-school-rushikonda-rushikonda-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "43"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soumya Ranjan Sahu"
+          },
+          "datePublished": "2023-11-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deeksha Prasad"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School for daily students and residential students. Daily routine starts in the morning with mandatory running, breakfast, class hours, lunch break from 1 to 2p.m., class hours, breakfast (fastfood) in evening, 1hr play time, self study in classroom, dinner.\nAc classroom and hostel, friendly staff; clean, tasty and good quality food, 6 boys capacity room with attached bathroom.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "satish a"
+          },
+          "datePublished": "2023-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school, worst principal so called chaitanya, for name sake only world one school, worst management and principal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Utpala Das"
+          },
+          "datePublished": "2023-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ch v v s Sudheer"
+          },
+          "datePublished": "2023-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It has best place to play and study.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raju Pilli"
+          },
+          "datePublished": "2023-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There is no response from you in phone call  worst Excutive ones received my call they are not answering",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Creative Major"
+          },
+          "datePublished": "2023-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No neatness in bus no proper ac working..and all things are for show off and to grab the attention...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Clement Lobo"
+          },
+          "datePublished": "2022-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vignan’s World One School is the best CBSE school in Visakhapatnam. The school has a well-equipped library that helps students develop their reading skills and literacy levels. Their library also provides a wide range of books for students to choose from in order to enhance their learning experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DEV SOLUTION"
+          },
+          "datePublished": "2022-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school and lot of fees",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vignan World One School - Rushikonda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prasu Prasu"
+          },
+          "datePublished": "2022-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vignan's World One School is the best CBSE school in Vizag. It has highly skilled teachers and latest teaching methods. Their mission is to create an environment that encourages students to think freely and independently, enabling them to explore different concepts and issues in depth.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695033972207629376565082a74eee9b1695033973.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695033972207629376565082a74eee9b1695033973.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169355527868961516364f19a4e311a71693555278.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695033718195116666865082976ee8041695033719.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695033972207629376565082a74eee9b1695033973.jpg",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17123217031039606091660ff4a7985fc1712321704.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.1",
+  "views": "1080",
+  "reviews_count": "43",
+  "phone": "+919513238818",
+  "locality": "Rushikonda",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17123217031039606091660ff4a7985fc1712321704.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695033972207629376565082a74eee9b1695033973.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169355527868961516364f19a4e311a71693555278.png"
+  ]
+}

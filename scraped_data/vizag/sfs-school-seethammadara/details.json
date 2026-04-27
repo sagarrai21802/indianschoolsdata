@@ -1,0 +1,376 @@
+{
+  "slug": "/school/vizag/sfs-school-seethammadara",
+  "url": "https://yellowslate.com/school/vizag/sfs-school-seethammadara",
+  "city": "vizag",
+  "name": "S.F.S School - Seethammadhara ",
+  "scraped_at": "2026-04-27T23:50:47.854195",
+  "html_length": 394648,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Seethammadhara",
+          "item": "https://yellowslate.com/schools/vizag/seethammadhara"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/seethammadhara/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "S.F.S School",
+          "item": "https://yellowslate.com/school/vizag/sfs-school-seethammadara"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "S.F.S School - Seethammadhara",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171584115819474512686645a8869bca51715841159.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/sfs-school-seethammadara",
+      "telephone": "89787 82899",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "SFS School (CBSE), Seethammadhara, Visakhapatnam, A.P -530 013",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.742326,
+        "longitude": 83.3123903
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "SFS School (CBSE), Seethammadhara, Visakhapatnam, A.P -530 013",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/sfs-school-seethammadara-seethammadhara-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "90"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school only they require is money every year fees increasing by 6000 per student in class 40 students* 3 section imagine the loot. Parents are struggling to survive 😔. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school only money extortion. Increasing fee by 6000 every year. No proper education. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya Srinivas"
+          },
+          "datePublished": "2024-04-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am sincerely grateful for the opportunity to participate in the elocution competition organized by Chekumukhi at SFS School. Achieving third place fills me with gratitude and appreciation. Thank you for providing a platform for individuals to express themselves and for recognizing my efforts. I am honored to have been a part of such a meaningful event and am grateful for the support and encouragement received throughout the competition.\n\nWarm regards,\nCh. Aditya Srinivas Achari",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj D"
+          },
+          "datePublished": "2023-12-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Best School for Children to learn Education along with Ethics",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sai Harika"
+          },
+          "datePublished": "2023-11-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tridip"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "school is good for the childrens. Teachers are also good and the playing area is very large.\nTennis 🎾 court is also available in the backside of the campus.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siva Reddy"
+          },
+          "datePublished": "2023-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Before a year very nice and good descipline, now academic year 2022-2023 school atmosphere, rules, some faculties are very bad after to take up new father handover the charge, rules are very worst, blackmail to parents issue the TC for who students are low in studies what is nonsenses try to better to join your kids in school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anvika Allena"
+          },
+          "datePublished": "2023-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teaching",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sriram sagar"
+          },
+          "datePublished": "2023-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s an Emotion",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "S.F.S School - Seethammadhara"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajay Kumar"
+          },
+          "datePublished": "2023-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Looked peaceful and healthy atmosphere",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1774418618140z15cgdqndze.blob\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171584115819474512686645a8869bca51715841159.jpg",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171584115819474512686645a8869bca51715841159.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171584115819474512686645a8869bca51715841159.jpg\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532437392_proile.jpg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533232430_proile.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.4",
+  "views": "402",
+  "reviews_count": "90",
+  "phone": "+919513238818",
+  "locality": "Seethammadhara",
+  "board": "CBSE\n\nCo",
+  "established": "1974",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1774418618140z15cgdqndze.blob",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1533232430_proile.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171584115819474512686645a8869bca51715841159.jpg"
+  ]
+}

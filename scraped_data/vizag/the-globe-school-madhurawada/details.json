@@ -1,0 +1,371 @@
+{
+  "slug": "/school/vizag/the-globe-school-madhurawada",
+  "url": "https://yellowslate.com/school/vizag/the-globe-school-madhurawada",
+  "city": "vizag",
+  "name": "The Globe School - Madhurawada ",
+  "scraped_at": "2026-04-27T23:52:52.800247",
+  "html_length": 398480,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhurawada",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vizag/madhurawada/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Globe School",
+          "item": "https://yellowslate.com/school/vizag/the-globe-school-madhurawada"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Globe School - Madhurawada",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/the-globe-school-madhurawada",
+      "telephone": " 091541 31012",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "near Sri Vijaya Durga Mallikarjuna Temple, Ayodhyanagar, Port Colony, Madhurawada, Visakhapatnam, Andhra Pradesh 530048",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 7.8169175,
+        "longitude": 83.292218
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "near Sri Vijaya Durga Mallikarjuna Temple, Ayodhyanagar, Port Colony, Madhurawada, Visakhapatnam, Andhra Pradesh 530048",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/the-globe-school-madhurawada-madhurawada-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "20"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kavati Ramesh"
+          },
+          "datePublished": "2024-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please don't join global school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "UGGIRI GANESH"
+          },
+          "datePublished": "2024-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Faculty is good but\nAccount section is cheeting",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Has Star"
+          },
+          "datePublished": "2024-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very indicipline",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mukesh Mandal"
+          },
+          "datePublished": "2023-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A new Generation school with activity based learning in getting the children ready for the 21st century skills...very well maintained. Importance is given for overall development of a child. Transport facility is also available.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VISHAL KUMAR"
+          },
+          "datePublished": "2023-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Globe School  is really intellectual in terms;\nInfrastructure is mind blowing,\nBehaviour of teachers are down to earth,\nRecreational activities are really impressive,\nI think this is the best school i have ever visited.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "FARHAN KHAN"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I want to really appreciate the faculty members most importantly my son's class teacher. Being a parent I know it is a tough job to handle a kids  but they are engaging every child in a better way.They are making great efforts for the children to become independent. As a mother I am feeling very happy that we choose the best option for our son.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAMKI IND"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am RAMAKRISHNA, Director  of Cloudzett tech and Creta Class App.\n\nI am delighted to share my positive review about The Globe School, particularly highlighting the exceptional leadership of Chairman BV RAO. I have had the privilege of personally knowing Chairman Rao, who possesses an extensive 25 years of experience in the education industry. His profound knowledge and visionary approach towards future education make him an outstanding leader.\n\nOne of the admirable aspects of Chairman BV RAO is his unwavering commitment to instilling good ethics and moral values in the future generation. His main agenda is not to treat education as a business but rather to provide quality education to every child. This philosophy resonates deeply with me and demonstrates his genuine concern for the well-rounded development of the students.\n\nMoving on to The Globe School itself, the environment is incredibly serene and peaceful. Such surroundings contribute to a conducive learning atmosphere, allowing students to focus and thrive academically. The teachers at The Globe School are not only highly caring but also possess a wealth of knowledge and expertise in future education. Their dedication and commitment towards shaping young minds are truly commendable.\n\nThe school boasts excellent facilities, including a well-stocked library and state-of-the-art computer labs, providing students with ample resources to enhance their learning experience. Additionally, the presence of a beautiful temple in the vicinity adds a touch of spiritual ambiance, fostering a holistic approach to education.\n\nThe staff members at The Globe School are professional, vibrant, and full of youthful energy. Their active engagement and enthusiasm in creating a positive educational environment leave a lasting impression. I have no doubt that their collective efforts will ensure the delivery of top-notch quality education to all the students.\n\nIn conclusion, The Globe School, under the leadership of Chairman BV RAO, is an exceptional institution that prioritizes the holistic development of its students. The peaceful environment, caring and knowledgeable teachers, excellent facilities, and dedicated staff members make it an ideal place for quality education. I wholeheartedly recommend The Globe School to parents and students seeking an institution that values ethics, moral values, and academic excellence.\n\nThank you sir",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Classy Gamer"
+          },
+          "datePublished": "2023-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A few reasons why I rated this school a 1 star.\nFirst of all, the school itself is stated to be English medium school while almost 95% of the students speak in Telugu and also the teachers don’t say anything about it. The teachers are very ignorant about the students language and their discipline. The students use vulgar words in Telugu and make fun and fight. They talk bad about teachers too. The teachers also beat students and make them frightened. Too many more to list.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "teja rock"
+          },
+          "datePublished": "2022-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience with globe school,\nEver expected -in the mid year they said they can't give education to our kid (principal states that he is very poor in studies we can't allow to school for further they said please go for another school,they said in the mid year, but while joining they promised us about our kid studies but they break that promise) every teacher who came to our house for admission to join gone a side, even we prepare for hostel too, some incharge said that bring our child to hostel on Monday, so we prepared and gone to school on Monday but they said, choose the another school it's good for your child-there statement ,they spoiled our kids life\nfees are too high when compared to Narayana and Chaitanya and standards are 👎 I prefer don't join your kid worst experience\nMainly we waste our time for 2 years\nI have all the previous marks list before joining this now he can't able to say this school name spelling too\nWorst......worst.worst don't join your kid and spoil there life and all reviews are fake belongs to that school only\n2.. the owner side some said the story is not genuine and we paid 10000/- the admin staff blaming us, they told us when we join to the hostel this remaining bus fee will added to term fee but now they trying to change the story and by the way this is my experience with globe school not an argument desk to gd here....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Globe School - Madhurawada"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Davuluri"
+          },
+          "datePublished": "2022-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Globe School has been set up by Sri. B. V. Rao garu about 4 years ago with a vision to impart quality education along with over all development in sports and other extra curricular activities to the aspiring students with an intigreted approach. The Globe School has best infrastructure like spacious class rooms, huge play ground, air conditioned hostel facility The school has knowledgeable, disciplined teaching faculty and staff. The school is located in a serene, pollution free atmosphere. The fee structure of the School is so much affordable  and pocket friendly to all the parents who wish to join their children. I would suggest all those who wish to join their children to make a visit to the school and interact with the management and join their children with confidence.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532353722_proile.PNG\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.0",
+  "views": "86",
+  "reviews_count": "20",
+  "phone": "+919513238818",
+  "locality": "Madhurawada",
+  "board": "CBSE\n\nCo",
+  "established": "2019",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "The Globe School ?\nAsk a Question\nThe Globe School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

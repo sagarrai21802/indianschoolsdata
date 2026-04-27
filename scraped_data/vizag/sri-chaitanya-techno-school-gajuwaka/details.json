@@ -1,0 +1,373 @@
+{
+  "slug": "/school/vizag/sri-chaitanya-techno-school-gajuwaka",
+  "url": "https://yellowslate.com/school/vizag/sri-chaitanya-techno-school-gajuwaka",
+  "city": "vizag",
+  "name": "Sri chaitanya Techno school - Gajuwaka ",
+  "scraped_at": "2026-04-27T23:44:02.455624",
+  "html_length": 391128,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gajuwaka",
+          "item": "https://yellowslate.com/schools/vizag/gajuwaka"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/vizag/gajuwaka/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sri Chaitanya Techno School",
+          "item": "https://yellowslate.com/school/vizag/sri-chaitanya-techno-school-gajuwaka"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sri chaitanya Techno school - Gajuwaka",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/sri-chaitanya-techno-school-gajuwaka",
+      "telephone": "080089 04894",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "27-1-111/1, Vidya Nagar, Sri Nagar, Gajuwaka, Visakhapatnam, Andhra Pradesh 530026",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.6824632,
+        "longitude": 83.192176
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "27-1-111/1, Vidya Nagar, Sri Nagar, Gajuwaka, Visakhapatnam, Andhra Pradesh 530026",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/sri-chaitanya-techno-school-gajuwaka-gajuwaka-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "29"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemanth Hemanth vsr"
+          },
+          "datePublished": "2024-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school good teaching expert teachers IIT syllabus is there medicon for 9 th, IPL for 6&7, ICON for 6&7&8 ,Cbatch for 6to10 th, techno for 6 to 10th",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bugata Suneel"
+          },
+          "datePublished": "2023-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Firstly I am not a parent...I am a student currently studying the school....This is the worst School I have ever seen....the faculty don't know proper english and they just read out paragraphs which are in the textbooks...there is no proper explaination....and there is no play ground for physical fitness...and the maths faculty who comes to our class...he just teach us one problem...and gives rest of the sums as homework...I am recommending that please don't join your kids in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Boyapati Ravibabu"
+          },
+          "datePublished": "2023-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Likhitesh Dhfpk"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "NYC SCHOOL",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Cold FF"
+          },
+          "datePublished": "2022-09-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemanth charan Ganesh"
+          },
+          "datePublished": "2021-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We have a lot of memories here. Students also gain so much knowledge..But every students tries to get marks their curriculum is absolutely best curriculum. Most of the students have there own memories.I am also a student of this school this is the honest review from me that every teacher tries to make the student to educate.There is also a canteen in the school you can purchase any snacks in break and lunch time. Specially for 10th class students they are taking very special care. They also have a star programme for 10th class students in this programme every student learn all the 10th syllabus.There two sessions in day and they give some time for study and they keep exams so students can also learn the syllabus very fastly.There the so many batches here you can join as per your wish if you want to gain IIT you should join in cbatch of ipl. if you want to gain NEET you should join in mbatch. For civils you can join in snatch. There is a good faculty the teachers are very friendly and always help the students to gain good marks. The tecahers also tell us how to gain good marks in public exams and method of writing. They have a special font in writing it is Lucida hand writing which looks very attractive and impressive. This hand writing is very easy to leran and it is very impressive. In public exams the examiner correct the paper and give full marks because of your hand writing.The playground is also very nice the pet sir tells you the different games. Which is very helpful to your health.All most all the students can gain better knowledge. So finally the school is very good and best school to gain knowledge.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VAISHNAVI THOTA"
+          },
+          "datePublished": "2021-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "one of a best memory in our life",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rao123 Rama"
+          },
+          "datePublished": "2021-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hari Bejjipurapu"
+          },
+          "datePublished": "2021-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri chaitanya Techno school - Gajuwaka"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepthi m"
+          },
+          "datePublished": "2021-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sri chaitanya is the best and excellent Curriculum especially GWK-2 campus Teachers and management concentrated very well in NTSE& OLYMPIAD Exams........👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532022660_proile.PNG\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531234153_proile.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.5",
+  "views": "92",
+  "reviews_count": "29",
+  "phone": "+919513238818",
+  "locality": "Gajuwaka",
+  "board": "State Board\n\nCo",
+  "established": "1986",
+  "category": "Other Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Sri chaitanya Techno school ?\nAsk a Question\nSri chaitanya Techno school Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532022660_proile.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

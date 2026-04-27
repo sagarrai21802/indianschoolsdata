@@ -1,0 +1,375 @@
+{
+  "slug": "/school/vizag/sri-chaitanya-school-mvp-colony",
+  "url": "https://yellowslate.com/school/vizag/sri-chaitanya-school-mvp-colony",
+  "city": "vizag",
+  "name": "Sri Chaitanya school - MVP Colony ",
+  "scraped_at": "2026-04-27T23:47:41.062408",
+  "html_length": 389621,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vizag",
+          "item": "https://yellowslate.com/schools/vizag"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MVP Colony",
+          "item": "https://yellowslate.com/schools/vizag/mvp-colony"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/vizag/mvp-colony/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sri Chaitanya School",
+          "item": "https://yellowslate.com/school/vizag/sri-chaitanya-school-mvp-colony"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sri Chaitanya school - MVP Colony",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vizag/sri-chaitanya-school-mvp-colony",
+      "telephone": "080089 04265",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "House No:1-10-2/4, Usha Residency, Behind TVS Show Room, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+        "addressLocality": "Vizag",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.7433023,
+        "longitude": 83.2466453
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "House No:1-10-2/4, Usha Residency, Behind TVS Show Room, MVP Colony, Visakhapatnam, Andhra Pradesh 530017",
+              "addressLocality": "Vizag",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vizag/sri-chaitanya-school-mvp-colony-mvp-colony-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "72"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srinivas Rao"
+          },
+          "datePublished": "2024-12-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the best school 🏫🏫🏫🏫🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajapu Jagadesh"
+          },
+          "datePublished": "2024-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worrest school of  not perfect techars and staff not responce and care  my baby and also so many pressure",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nunnasandeep Sunny"
+          },
+          "datePublished": "2024-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best branch in vizag overall Education and Activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramesh DadiRamesh"
+          },
+          "datePublished": "2024-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Too much cost in Vizag School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BIREN MAHARANA"
+          },
+          "datePublished": "2024-03-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sri Chaitanya School excels in catering to Hindi-speaking students in a predominantly Telugu-speaking state. The school offers specialized Hindi language programs, ensuring comprehensive learning and cultural integration. With dedicated faculty and well-structured curriculum, students receive quality education in a supportive environment. The school's commitment to linguistic diversity and academic excellence sets it apart, making it a preferred choice for Hindi-speaking families seeking quality education in the region. Ideal for students aiming for bilingual proficiency and cultural enrichment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sejal Singh"
+          },
+          "datePublished": "2024-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My sibling aman raj is presently studying there in class 7th. The faculty here is very poor. They do not care at all for students living there. My sibling is facing the problem of chickenpox but they are not taking any care of him towards his health. Two to four days have passed but they did not gave any medicine to him . They are also giving pressure to parents to take child to home. He is from bihar and his parents are also living here that's why they cannot reach there soon. The school is very poor . Do not put your child in that school. It will be your worst experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kamal Buddha"
+          },
+          "datePublished": "2024-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "IT IS NOT FOR NORMAL KIDS AND THE WASHROOMS ARE TERRIBLE AND THIS SCHOOL DOES NOT GOVE HOLIDAY ON SECOND SATURDAY",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumalatha marla"
+          },
+          "datePublished": "2023-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thanks a lot for Sri Chaitanya techno school MVP branch",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BHUSHAN BADE"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school has good curriculum..It is a great platform for students to elevate their all round development",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Chaitanya school - MVP Colony"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suresh Kattamuri"
+          },
+          "datePublished": "2023-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "श्री चैतन्या पाठशाला बच्चों केलिए सही राह दिखाकर जीवन में आगे बढने के लिए सही रास्ता है",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532801440_proile.jpg\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531160579_proile.jpg\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532529679_proile.PNG\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/"
+  ],
+  "rating": "4.2",
+  "views": "4",
+  "reviews_count": "72",
+  "phone": "+919513238818",
+  "locality": "MVP Colony",
+  "board": "State Board\n\nCo",
+  "established": "1986",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Sri Chaitanya school ?\nAsk a Question\nSri Chaitanya school Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1531160579_proile.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/79.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1532529679_proile.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

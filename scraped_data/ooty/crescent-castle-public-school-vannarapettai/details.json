@@ -1,0 +1,369 @@
+{
+  "slug": "/school/ooty/crescent-castle-public-school-vannarapettai",
+  "url": "https://yellowslate.com/school/ooty/crescent-castle-public-school-vannarapettai",
+  "city": "ooty",
+  "name": "Crescent Castle Public School - Vannarapettai ",
+  "scraped_at": "2026-04-27T23:06:56.032616",
+  "html_length": 318253,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ooty",
+          "item": "https://yellowslate.com/schools/ooty"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Vannarapettai",
+          "item": "https://yellowslate.com/schools/ooty/vannarapettai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/ooty/vannarapettai/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Crescent Castle Public School",
+          "item": "https://yellowslate.com/school/ooty/crescent-castle-public-school-vannarapettai"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Crescent Castle Public School - Vannarapettai",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ooty/crescent-castle-public-school-vannarapettai",
+      "telephone": " 0423 244 3538",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "thalayathimund, Ooty, Tamil Nadu 643001",
+        "addressLocality": "Ooty",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.403426,
+        "longitude": 76.6341606
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "thalayathimund, Ooty, Tamil Nadu 643001",
+              "addressLocality": "Ooty",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ooty/crescent-castle-public-school-vannarapettai-vannarapettai-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "25"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ann Thuvaniza"
+          },
+          "datePublished": "2025-01-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school u can find in Ooty",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abdul Jabbar"
+          },
+          "datePublished": "2024-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Crescent is one of the best school in Ooty right now. The school has produced many doctors till now.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mouriyamadhavan SB"
+          },
+          "datePublished": "2024-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jain elada"
+          },
+          "datePublished": "2024-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school emphasizes both academic excellence and character development, aiming to foster a nurturing environment conducive to learning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megan Smith"
+          },
+          "datePublished": "2024-08-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was a wonderful experience for me as a student at this great institution and I really enjoyed my time at Crescent. I had wonderful teachers who molded me and mentored me well. I am proud to say that I was a student in one of the best Schools in the Nilgiris. I sincerely wish the very best for Crescent in the years to come. .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nidarsana M"
+          },
+          "datePublished": "2024-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A heartfelt thank you to 'Crescent Castle Public School'\n\nI am proud to call myself a 'Crescentian', having been part of it  from LKG to Grade 12. Crescent has not only nurtured my academic growth but has also shaped my character. The dedication of my teachers went beyond textbooks. They instilled in us the values of discipline, respect, and integrity. Even simple routines like checking our nails have made a huge impact!\n\nI extend my deepest gratitude to all my teachers and the school management for making my school days both memorable and enriching. Thank you for the invaluable lessons and for making this journey a truly unforgettable one.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tennikulture Events"
+          },
+          "datePublished": "2024-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good coaching school for children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yuva rani"
+          },
+          "datePublished": "2023-11-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "மிகவும் மோசமான விடுதி வசதி பள்ளியின் முதலாளி வீட்டு காவளாலியிடம் குழந்தையை ஒப்படைக்கும் நிலைமை .மனவேதனையோடு பதிவிடுகிறேன்.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arvind Athitiya"
+          },
+          "datePublished": "2022-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome school with terrific faculty",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Crescent Castle Public School - Vannarapettai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saravanakumar Panneerselvam"
+          },
+          "datePublished": "2021-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good place for education in ICSE Syllabus",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-12.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\"
+  ],
+  "rating": "4.6",
+  "views": "1",
+  "reviews_count": "25",
+  "phone": "+919513238818",
+  "locality": "Vannarapettai",
+  "board": "Other Boards\n\nCo",
+  "established": "2006",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Crescent Castle Public School ?\nAsk a Question\nCrescent Castle Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "slug": "/school/coimbatore/the-harvee-school-kuniyamuthur",
+  "url": "https://yellowslate.com/school/coimbatore/the-harvee-school-kuniyamuthur",
+  "city": "coimbatore",
+  "name": "The HARVEE School - Singanallur ",
+  "scraped_at": "2026-04-27T23:34:37.383021",
+  "html_length": 337974,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Singanallur",
+          "item": "https://yellowslate.com/schools/coimbatore/singanallur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/coimbatore/singanallur/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The HARVEE School",
+          "item": "https://yellowslate.com/school/coimbatore/the-harvee-school-kuniyamuthur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The HARVEE School - Singanallur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/the-harvee-school-kuniyamuthur",
+      "telephone": "091504 02015",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "261, Engine Thottam, Amman Kovil Rd, Kuniyamuthur, Tamil Nadu 641008",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 10.9670106,
+        "longitude": 76.871733
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "261, Engine Thottam, Amman Kovil Rd, Kuniyamuthur, Tamil Nadu 641008",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/the-harvee-school-kuniyamuthur-singanallur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "20"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Moideen Ali Murthaza"
+          },
+          "datePublished": "2024-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is one of the best schools around for Cambridge Curriculum. The management and teachers are carefully chosen and highly qualified, especially when it comes to communication skills. I highly recommend this school for primary classes.\n\nI think this school is undervalued. If promoted properly, it could compete with bigger schools like PeePal and CS Academy. Most of the parents see the cozy buses and the infrastructure, but not the academics and\n\nAreas to improve: Higher Van fees and the playground, offering more emphasis on Hindi and Tamil. Correspondent could be more jovial and she is highly skilled and well trained.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kaleelur Rahman"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good coaching but fees is high and should be considered.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hibba Afifah"
+          },
+          "datePublished": "2023-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rayyan has joined here in his Nestlers. Everyday I pick him up from the school the vibe is different. This school has given us confidence that he would take his studies and discipline to a next level. My sincere thanks to all the staffs, Veena mam and Cameron for all the guidance and support. His HRT and the classroom teacher would send me the weekly planner, his pictures throughout the month, there is a me time scheduled for him at home, bed time routine, wake up routine and what not??? Seeing Rayyan's behavior, positive attitude and communication most of our relatives are checking if they can join their kid here. I would recommend this school to all the kids possible. I am happy that I have found the right place for my son and contended that I have shown him the right direction. This means a lot to us as parents. Wish Rayyan comes out as Cambridge certified. Looking forward. We owe Harvees one!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sajna a"
+          },
+          "datePublished": "2023-05-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in the location Kuniamuthur.\nWell planned academic activities and executed as per plan.\nTrained team of teachers with good communication skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "camaron mawdsley"
+          },
+          "datePublished": "2023-01-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "raja pandi"
+          },
+          "datePublished": "2022-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Farha Thahseen"
+          },
+          "datePublished": "2022-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Recently enquired the Harvee school for LKG admission. They are under construction and showed us the video of their architecture which was just mind-blowing. It is no normal structure of a school  but an innovative model where every nook and corner has been set to instigate curiosity and imagination.\n\nWonderful team👏🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subi Basheer"
+          },
+          "datePublished": "2022-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education, passionate teachers, nice school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Safna Chippu"
+          },
+          "datePublished": "2022-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Highly recommended.\nParents who are looking for Cambridge school in Coimbatore should pay a visit to Harvee School. Their detailed elaboration about the curriculum and programs they offer is immeasurable. We liked the way they guided us during enquiry and support they provided throughout the admission process.\n\nThank you team.....✨",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The HARVEE School - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Indhu Mathi"
+          },
+          "datePublished": "2021-11-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thank you for all that you do as a school. The teachers magnificent effort of making everything easy for the children never goes unnoticed. Halloween performance by Harvee's teachers were just astounding. My child takes each of his teachers as role models and we as a parent are inspired by the conscientious effort of the teachers and the management to give the best. 💜💜💜",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\"
+  ],
+  "rating": "4.6",
+  "views": "4",
+  "reviews_count": "20",
+  "phone": "+919513238818",
+  "locality": "Singanallur",
+  "board": "IGCSE\n\nCo",
+  "established": "2015",
+  "category": "Public Schools",
+  "classes": "Nursery - 5",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "The HARVEE School ?\nAsk a Question\nThe HARVEE School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

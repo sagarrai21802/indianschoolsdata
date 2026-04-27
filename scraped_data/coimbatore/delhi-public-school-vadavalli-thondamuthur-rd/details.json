@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/delhi-public-school-vadavalli-thondamuthur-rd",
+  "url": "https://yellowslate.com/school/coimbatore/delhi-public-school-vadavalli-thondamuthur-rd",
+  "city": "coimbatore",
+  "name": "Delhi Public School - Vadavalli-Thondamuthur Rd ",
+  "scraped_at": "2026-04-27T23:35:41.419587",
+  "html_length": 368491,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Vadavalli-Thondamuthur Rd",
+          "item": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/coimbatore/delhi-public-school-vadavalli-thondamuthur-rd"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Vadavalli-Thondamuthur Rd",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/delhi-public-school-vadavalli-thondamuthur-rd",
+      "telephone": " 088700 10118",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Village & P.O. Onapalayam, Vadavalli-Thondamuthur Rd, Coimbatore, Tamil Nadu 641109",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.0112379,
+        "longitude": 76.7877121
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Village & P.O. Onapalayam, Vadavalli-Thondamuthur Rd, Coimbatore, Tamil Nadu 641109",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/delhi-public-school-vadavalli-thondamuthur-rd-vadavalli-thondamuthur-rd-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "49"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Kumar"
+          },
+          "datePublished": "2024-09-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pathetic management. Teachers arrested on grounds of POCSO.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "D.K.Karthikeyan"
+          },
+          "datePublished": "2024-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent School !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramnath Ramanathan"
+          },
+          "datePublished": "2024-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sukesh krishna"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "arun"
+          },
+          "datePublished": "2023-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "it is an amazing school , great atmosphere , gives the children a happy place to study , everyone are casual . the best school i have been to",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sasikesh"
+          },
+          "datePublished": "2023-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vey Good School For Education With Enjoyment And Activities. Teaching Children How To Save Nature",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DHEVESH.G"
+          },
+          "datePublished": "2023-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The students behaviour outside the campus when in a competition is very bad. They behaved very cheaply with other school students. They told other schools that they excel in everything and they have to sit in the 1 row. The students behaved without giving respect to fellow students and even teachers. Seeing this I hate this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shakti Sharma"
+          },
+          "datePublished": "2023-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rangaraj R"
+          },
+          "datePublished": "2023-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school... Experienced teachers... Clean and neat environment..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandramohan K"
+          },
+          "datePublished": "2023-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Delhi Public School Coimbatore\nPros:\n1. Good location and less congestion of roads.\n2. Teachers are well paid.\n3. Good uniforms for the students.\n4. Neatly maintained campus\nCons:\n1. only one period for the Tamil language per week compared to five periods for Hindi for classes up to 7.\n2. Sports are not given much importance.\n3. Except for the teaching staff most staffs are not polite.\n\nThis is my opinion just get the opinion of the parents of the students studying here before admitting your ward to this school just don't go by the name.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\"
+  ],
+  "rating": "4.0",
+  "views": "2",
+  "reviews_count": "49",
+  "phone": "+919513238818",
+  "locality": "Thondamuthur Rd",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Delhi Public School ?\nAsk a Question\nDelhi Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

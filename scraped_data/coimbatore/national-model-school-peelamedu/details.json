@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/national-model-school-peelamedu",
+  "url": "https://yellowslate.com/school/coimbatore/national-model-school-peelamedu",
+  "city": "coimbatore",
+  "name": "National Model School - Trichy Rd ",
+  "scraped_at": "2026-04-27T23:30:26.745169",
+  "html_length": 357455,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trichy Rd",
+          "item": "https://yellowslate.com/schools/coimbatore/trichy-rd"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/coimbatore/trichy-rd/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "National Model School",
+          "item": "https://yellowslate.com/school/coimbatore/national-model-school-peelamedu"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "National Model School - Trichy Rd",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/national-model-school-peelamedu",
+      "telephone": ":0422 257 5544",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "National Model Senior Secondary School, 14-B, Peelamedu, Kalluri Nagar, Coimbatore, Tamil Nadu 641004",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.0175274,
+        "longitude": 76.9306959
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "National Model Senior Secondary School, 14-B, Peelamedu, Kalluri Nagar, Coimbatore, Tamil Nadu 641004",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/national-model-school-peelamedu-trichy-rd-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "21"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vyas"
+          },
+          "datePublished": "2025-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "USHA MARKETING"
+          },
+          "datePublished": "2025-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent School 👍🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rajkumar Sn"
+          },
+          "datePublished": "2024-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very worst school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sakthivel Subramaniam"
+          },
+          "datePublished": "2024-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well established school with experienced staffs",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kanagavally Radakrishnan"
+          },
+          "datePublished": "2024-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am the product of national model school cbse",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ᴀʙ- ᴏʙɪᴛᴏ"
+          },
+          "datePublished": "2024-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school🎒📚",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vincent Paul Raj"
+          },
+          "datePublished": "2024-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school in the heart of Coimbatore city. CBSE and Matric campuses at one point.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sathyabama Krishnamoorthy"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good education provider",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Malmarugan D"
+          },
+          "datePublished": "2024-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Cbse board school with the needful for students.Sought after by students and parents for quality education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "National Model School - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shoba Mohan"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Coimbatore which provides holistic education. Conducts various programs such as sports and everyday short speech programs . 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2025/01/scrnli_InUdrTOG2S018q.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373617131601093080678e0931c96691737361714.avif\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h2",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.5",
+  "views": "0",
+  "reviews_count": "21",
+  "phone": "+919513238818",
+  "locality": "Trichy Rd",
+  "board": "CBSE\n\nCo",
+  "established": "1983",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "National Model School ?\nAsk a Question\nNational Model School Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 4.0\nValue for Money\n 4.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 4.0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373617131601093080678e0931c96691737361714.avif",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2025/01/scrnli_InUdrTOG2S018q.png"
+  ]
+}

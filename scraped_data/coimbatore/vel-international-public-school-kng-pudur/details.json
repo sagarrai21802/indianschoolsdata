@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/vel-international-public-school-kng-pudur",
+  "url": "https://yellowslate.com/school/coimbatore/vel-international-public-school-kng-pudur",
+  "city": "coimbatore",
+  "name": "Vel International Public School - Vadavalli-Thondamuthur Rd ",
+  "scraped_at": "2026-04-27T23:36:49.423237",
+  "html_length": 376033,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Vadavalli-Thondamuthur Rd",
+          "item": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vel International Public School",
+          "item": "https://yellowslate.com/school/coimbatore/vel-international-public-school-kng-pudur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vel International Public School - Vadavalli-Thondamuthur Rd",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/vel-international-public-school-kng-pudur",
+      "telephone": "0422 240 0949",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "581/1-B, Kanuvai Post, KNG Pudur, Coimbatore, Tamil Nadu 641108",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.0579548,
+        "longitude": 76.8385995
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "581/1-B, Kanuvai Post, KNG Pudur, Coimbatore, Tamil Nadu 641108",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/vel-international-public-school-kng-pudur-vadavalli-thondamuthur-rd-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "34"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Proper Fine"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Academic wise, it's fine. But no proper regulation on fees structure. Seems they dont follow Tamil Nadu Fees regulatory Act",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Among Us"
+          },
+          "datePublished": "2024-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school ever....principal is very strict and act to be kind infront of parents...they give importance for the topper...not taking any effort for slow learners...teachers are not trained...students go in a wrong way. Nly english teacher speak better english...they are running this school nly for money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Joshua Samuel"
+          },
+          "datePublished": "2024-04-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school. My daughters are studying here. They never hesitated to go to school. They are not that strict but firm in some scenarios which is quite good.\nThey are giving enough time for extra curricular activities which encourage students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sivaharikaran M"
+          },
+          "datePublished": "2022-10-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "G K"
+          },
+          "datePublished": "2022-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very worst experience on first time admission visit with my kid. There is no proper response and proper way of explanation. And the reception lady worst responses, there is no chairs to discuss about school details. Parents and kids need to stand in front of the school reception while discuss.there is no chance to give zero start rate that's the reason giving one star rate. Money minded school. Without hesitation asking 50k for school development as donation from parents. Very very very worst staff behaviour.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Supriya Sahoo."
+          },
+          "datePublished": "2021-09-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter and son are studying in this school. the school is clean always in the front of the school. The school's playground is neat and clean. the neatness rules like nail cut,haircut are strictly followed well.the Teachers of the school are very kind and polite. They listen to every child.they explain the concept again and again clearly. The functions like annual day sports day are very good everyone enjoys it. There are many\nbooks in the library to learn.there are competitions held in the school. My childrens are missing school on this time . One of the best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Agarshana Sivakumar"
+          },
+          "datePublished": "2021-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really had a great experience with vel...\nIt's not only about just schooling it's also about learning more than the book knowledge..\nThe school gives equal importance to both studies as well as co curricular activities...\nAnd the teachers are kind and too friendly...\nAnd the Teachers have supported us a lot till the end..\nI thank the teachers and School for having this wonderful experience with vel...and I'm really happy to be a part of vel",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lakshana Chandrasekaran"
+          },
+          "datePublished": "2021-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Such a wonderful school 🏫my 9 years if schooling in vel can't be expressed in lines....i loved it to the core..moreover teachers are very very friendly to the students more than a teacher and student it was a like bonding between a mom and son/daughter.... the school focuses more even in co curricular activities where the talent of the student is brought out the infrastructure is marvellous my parents too loved the school.....there is no word called stress according to vel...I thank every teachers for giving me love and support till the end ❤thank you so much",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nithin"
+          },
+          "datePublished": "2021-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Osm school..for ever.. I studied here for 5 years... That 5 year was unforgettable.. It's because this school was very good. Teachers were too good in teaching. They taught us to their best and the school management was good..Best school...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vel International Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ANUSHYA PRABU"
+          },
+          "datePublished": "2021-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am Anushya\nMy 5 years in vel school went so soon...more than a school , they were my family..I really miss them so much ....my teachers and friends are the boon that I got ...I am very proud to say that I was a student of vel\nTHANK YOU TEACHERS , FRIENDS AND THE MANAGEMENT for giving me such wonderful memories ...😇",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\"
+  ],
+  "rating": "4.6",
+  "views": "3",
+  "reviews_count": "34",
+  "phone": "+919513238818",
+  "locality": "Thondamuthur Rd",
+  "board": "CBSE\n\nCo",
+  "established": "1900",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Vel International Public School ?\nAsk a Question\nVel International Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

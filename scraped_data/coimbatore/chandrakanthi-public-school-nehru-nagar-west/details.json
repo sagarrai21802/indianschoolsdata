@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/chandrakanthi-public-school-nehru-nagar-west",
+  "url": "https://yellowslate.com/school/coimbatore/chandrakanthi-public-school-nehru-nagar-west",
+  "city": "coimbatore",
+  "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd ",
+  "scraped_at": "2026-04-27T23:35:50.902197",
+  "html_length": 368771,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Vadavalli-Thondamuthur Rd",
+          "item": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/coimbatore/vadavalli-thondamuthur-rd/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chandrakanthi Public School",
+          "item": "https://yellowslate.com/school/coimbatore/chandrakanthi-public-school-nehru-nagar-west"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/chandrakanthi-public-school-nehru-nagar-west",
+      "telephone": " 082207 78877",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Tex Park Road, Civil Aerodrome Post, Nehru Nagar West, Coimbatore, Tamil Nadu 641014",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.0435496,
+        "longitude": 76.9474891
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Tex Park Road, Civil Aerodrome Post, Nehru Nagar West, Coimbatore, Tamil Nadu 641014",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/chandrakanthi-public-school-nehru-nagar-west-vadavalli-thondamuthur-rd-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "53"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chand Khan"
+          },
+          "datePublished": "2024-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Chandkan",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "raja ranganathan"
+          },
+          "datePublished": "2024-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Niruban"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school. Joined my child here 6 yrs ago.. It is very good that we have enrolled our daughter also...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arun Prasath Loganathan"
+          },
+          "datePublished": "2024-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great 😊 campus very neat and clean .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sam Peter"
+          },
+          "datePublished": "2023-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yasmeen Fahameedha"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would like to say thanks to CPS for giving me this wonderful opportunity. I got a clear mind from attending the mentoria session. Even the councilor who conducted the meeting helped me.Thank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sangeetha B"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice experience . Had classes about career guidence from cps.\nIt helped me a lot for my idea of my future career. I appreciate our school a lot for encouraging such programs . The counsler too was so sweet . I think mentoring for it",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krishram"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a 5 star rating cause in the career guidance program I was able to learn my career in mentoria from chandea kanthi public school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suganrhithu R"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice one. Good assessment.\nI appreciate the effect taken by chandrakanthi public school and mentoria.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chandrakanthi Public School - Vadavalli-Thondamuthur Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nanthini N"
+          },
+          "datePublished": "2023-09-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Chandrakanthi along with mentoria helped me narrow my career.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\"
+  ],
+  "rating": "3.8",
+  "views": "18",
+  "reviews_count": "53",
+  "phone": "+919513238818",
+  "locality": "Thondamuthur Rd",
+  "board": "CBSE\n\nCo",
+  "established": "2009",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Chandrakanthi Public School ?\nAsk a Question\nChandrakanthi Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

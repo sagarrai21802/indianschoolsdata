@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/doon-junior-school--trichy-rd",
+  "url": "https://yellowslate.com/school/coimbatore/doon-junior-school--trichy-rd",
+  "city": "coimbatore",
+  "name": "Doon Junior School - Trichy Rd ",
+  "scraped_at": "2026-04-27T23:31:00.059490",
+  "html_length": 364953,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trichy Rd",
+          "item": "https://yellowslate.com/schools/coimbatore/trichy-rd"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MONTESSORI",
+          "item": "https://yellowslate.com/schools/coimbatore/trichy-rd/montessori"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Doon Junior School ",
+          "item": "https://yellowslate.com/school/coimbatore/doon-junior-school--trichy-rd"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Doon Junior School  - Trichy Rd",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/doon-junior-school--trichy-rd",
+      "telephone": "087548 74747",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1597, 1, Trichy Rd, Highways Colony, Ramanathapuram, Coimbatore, Tamil Nadu 641018",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1597, 1, Trichy Rd, Highways Colony, Ramanathapuram, Coimbatore, Tamil Nadu 641018",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/doon-junior-school--trichy-rd-trichy-rd-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "87"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "JAMUNA KANNAN"
+          },
+          "datePublished": "2025-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever ! Worst management ! No respect and  no education either !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shahina Begam"
+          },
+          "datePublished": "2025-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am really pleased with the progress my daughter has made at both the playgroup and daycare in doon school.She is improving so much in every aspect, and it's wonderful to see her learning new things every day. From basic skills to more advanced concepts, she is absorbing so much, and her curiosity and enthusiasm are growing. The staff has been incredibly supportive, creating an environment where she feels confident to explore, learn, and develop. I'm very happy with her development.Really thankful for Doon management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anto christ"
+          },
+          "datePublished": "2025-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am parent of Day care and LKG\nI am very happy and contended of the school and the way teachers and nanny's taking care. They are well settled and very happy to go to school.\nThank you team.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Eskutty Rani"
+          },
+          "datePublished": "2025-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Friendly approachable staffs and management.  My niece is studying play group there. She is engaged with so many activities mainly focuses on gross and fine motor skills. She is well trained in a day to day activities like handling her things, eating by herself and potty habits.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Boopandi M"
+          },
+          "datePublished": "2025-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am here as a skating master for the past 5 years. I thoroughly enjoy working with kids. They pick up gradually and steadily. Some  of my students are balancing by themselves and keep skating\nI'm very happy seeing the improvement in children.\nI have now started yoga classes for LKG and UKG...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preethi Pree"
+          },
+          "datePublished": "2025-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter who is in day care is happy coming to school and enjoying her food and snacks. She is attached to the other kids.\nHappy schooling I am grateful to the teachers and nanny's who take care and gives individual care",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mubashi Ramzi"
+          },
+          "datePublished": "2025-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Feeling so grateful and happy with the amazing management at my school! Their dedication and support make all the difference. Truly thankful for such a positive environment!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akila Maruthanayagam"
+          },
+          "datePublished": "2025-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent education system and teachers are so friendly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "srinivasan karthikeyan"
+          },
+          "datePublished": "2024-10-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Playschool with caring and well trained staff. Very supportive",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Doon Junior School  - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "joseph prince"
+          },
+          "datePublished": "2024-10-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well done",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg\\",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h2",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.6",
+  "views": "0",
+  "reviews_count": "87",
+  "phone": "+919513238818",
+  "locality": "Trichy Rd",
+  "board": "Montessori\n\nGot Questions About Doon Junior School",
+  "established": "2018",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": null,
+  "fees_range": null,
+  "about": "Doon Junior School ?\nAsk a Question\nDoon Junior School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/WER.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Coimbatore.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

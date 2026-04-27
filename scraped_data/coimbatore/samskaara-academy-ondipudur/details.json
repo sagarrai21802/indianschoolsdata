@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/samskaara-academy-ondipudur",
+  "url": "https://yellowslate.com/school/coimbatore/samskaara-academy-ondipudur",
+  "city": "coimbatore",
+  "name": "Samskaara Academy - Singanallur ",
+  "scraped_at": "2026-04-27T23:35:03.198631",
+  "html_length": 361266,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Singanallur",
+          "item": "https://yellowslate.com/schools/coimbatore/singanallur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/coimbatore/singanallur/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Samskaara Academy",
+          "item": "https://yellowslate.com/school/coimbatore/samskaara-academy-ondipudur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Samskaara Academy - Singanallur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/samskaara-academy-ondipudur",
+      "telephone": "094421 46362",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Trichy Road, 271, Pattanam Itteri Rd, Ondipudur, Tamil Nadu 641016",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.0016481,
+        "longitude": 76.9665428
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Trichy Road, 271, Pattanam Itteri Rd, Ondipudur, Tamil Nadu 641016",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/samskaara-academy-ondipudur-singanallur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "42"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Govarthanan"
+          },
+          "datePublished": "2024-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent all",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RTR ENTERPRISES"
+          },
+          "datePublished": "2024-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son studied at this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vidhya prakash"
+          },
+          "datePublished": "2024-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm telling to the parents of the children's who going to this bus TN37 DB 6213. I spotted this bus rash driving,, and after that I stopped the vehicle in indhu managar vilankurichy road where the driver  stopped to drop one child... I told the parents (this driver )driving very fast and going on opposite lane for very fast. I complained the management they are shielding their drivers. You parents look after your children and to check that whether this vehicle is speed control is installed. I know what the children's safety. Coz I received my child from school geethanjali public school near codissia. So plz look after ur children's safety",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "madhu mathi"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our son joined this school for Junior Montessori. There was a tremendous change in him in all aspects. Thanks to all those who are part of that Acdemy.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suganthi thangavelu"
+          },
+          "datePublished": "2024-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Skilled and well qualified teachers are equipped to assist students is\nvery advantageous.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srihari Venugopal"
+          },
+          "datePublished": "2024-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Always ahead in what and How we should teach and Guide  our Kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Malathi Balaji"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a temple for my children, all the pride of my kids dedicated to samskaara teachers, principal and management, thanking you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gayathri L"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Small and composed school with there own values that is much needed for current generation students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krishna Prasad J"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Samskaara Academy - Singanallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nirmal A R"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Gratitude overflows for Samskaara Academy, a sanctuary where I've flourished and found a second home. Its nurturing environment has shaped my life, fostering growth and a sense of belonging. With heartfelt appreciation, I acknowledge the transformative impact it's had, providing not just education, but a haven of support and inspiration. Samskaara Academy, a beacon of light in my journey.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2025/01/scrnli_InUdrTOG2S018q.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373617131601093080678e0931c96691737361714.avif\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\"
+  ],
+  "rating": "4.4",
+  "views": "2",
+  "reviews_count": "42",
+  "phone": "+919513238818",
+  "locality": "Singanallur",
+  "board": "ICSE, Montessori\n\nCo",
+  "established": "2010",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Samskaara Academy ?\nAsk a Question\nSamskaara Academy Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373617131601093080678e0931c96691737361714.avif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2025/01/scrnli_InUdrTOG2S018q.png"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/shivoy-school-sadarpur",
+  "url": "https://yellowslate.com/school/ghaziabad/shivoy-school-sadarpur",
+  "city": "ghaziabad",
+  "name": "SHIVOY SCHOOL - SADARPUR ",
+  "scraped_at": "2026-04-28T00:14:20.126068",
+  "html_length": 347617,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SADARPUR",
+          "item": "https://yellowslate.com/schools/ghaziabad/sadarpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sadarpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SHIVOY SCHOOL",
+          "item": "https://yellowslate.com/school/ghaziabad/shivoy-school-sadarpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SHIVOY SCHOOL - SADARPUR",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/shivoy-school-sadarpur",
+      "telephone": "+91 981 069 6366",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Matiala, Madhuban Bapudham, Sadarpur, Ghaziabad, Uttar Pradesh 201002, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.7078183,
+        "longitude": 77.5006675
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIVOY SCHOOL - SADARPUR",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Matiala, Madhuban Bapudham, Sadarpur, Ghaziabad, Uttar Pradesh 201002, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/shivoy-school-sadarpur-sadarpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "1.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pankaj Sharma"
+          },
+          "datePublished": "2023-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school of govindpuram.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIVOY SCHOOL - SADARPUR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa Joshi"
+          },
+          "datePublished": "2022-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "People over there are so arrogant. Receptionist should learn how to talk with other people.\nShe just know English speaking, she don't know how to talk. Pathetic.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIVOY SCHOOL - SADARPUR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Upendra Chaudhary"
+          },
+          "datePublished": "2021-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school of the country. Principal abuses in front of parents and threats publicly. Teachers have no manner to talk.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIVOY SCHOOL - SADARPUR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Garima Arora"
+          },
+          "datePublished": "2019-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst schools in Ghaziabad\nParents I advice to you it is one of the schools I advise parents not to take admission in this school\nWorst teachers here very unprofessional principal\nThey treat there teachers like animals ...one of the unprofessional school..they recruit teachers and than they hire and fire ....worst school worst principal kids are unsafe here they beat kids with scales low standard",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIVOY SCHOOL - SADARPUR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "audio"
+          },
+          "datePublished": "2017-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best, only education and teachers are very corporative and friendly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "1.8",
+  "views": "453",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "SADARPUR",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "000 - 54",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SHIVOY SCHOOL ?\nAsk a Question\nSHIVOY SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "/school/ghaziabad/delhi-public-school-sector-11-pratap-vihar",
+  "url": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sector-11-pratap-vihar",
+  "city": "ghaziabad",
+  "name": "Delhi Public School - Sector-11,Pratap Vihar ",
+  "scraped_at": "2026-04-28T00:31:44.234325",
+  "html_length": 400869,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector-11,Pratap Vihar",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-11-pratap-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-11-pratap-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sector-11-pratap-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Sector-11,Pratap Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sector-11-pratap-vihar",
+      "telephone": "+91 889 966 2244",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No, SCH/01, Vishwakarma Rd, Siddharth Vihar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201010, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6543441,
+        "longitude": 77.4076488
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No, SCH/01, Vishwakarma Rd, Siddharth Vihar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201010, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/delhi-public-school-sector-11-pratap-vihar-sector-11-pratap-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "155"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "R bsnsal"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good . I like this . There are so many facilities here like AC , app for homework /classwork . My daughter studies in this school . Whenever she has some problem she is free to share with the coordinator or class teacher .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krishna Pal"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This very very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manvender Singh"
+          },
+          "datePublished": "2024-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "this school is best ,and principal mam and all teacher are very sweet.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Jain"
+          },
+          "datePublished": "2024-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "this school is very good in my dream\nthis school is a joke\nthe teachers are not response",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaurya Gupta"
+          },
+          "datePublished": "2024-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chhavi Tyagi"
+          },
+          "datePublished": "2024-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is not good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandra Kanta"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great learing institution for your child with best faculty.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhinav Singh Bais"
+          },
+          "datePublished": "2024-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nature of staff is very much supportive’ well skilled teachers and Principal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bablu Kumar"
+          },
+          "datePublished": "2024-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best point for best education with knowledgeable teachers..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector-11,Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh jha"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "best management with Good Skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.1",
+  "views": "571",
+  "reviews_count": "155",
+  "phone": "+919513238818",
+  "locality": "11,Pratap Vihar",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "200 - 103",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

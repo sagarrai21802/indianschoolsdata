@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/dehradun-public-school-sector-23-sanjay-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/dehradun-public-school-sector-23-sanjay-nagar",
+  "city": "ghaziabad",
+  "name": "Dehradun Public School - Sector 23,Sanjay Nagar ",
+  "scraped_at": "2026-04-28T00:20:04.781129",
+  "html_length": 366669,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 23,Sanjay Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-23-sanjay-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-23-sanjay-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dehradun Public School",
+          "item": "https://yellowslate.com/school/ghaziabad/dehradun-public-school-sector-23-sanjay-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dehradun Public School - Sector 23,Sanjay Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/dehradun-public-school-sector-23-sanjay-nagar",
+      "telephone": "+91 120 278 7150",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Raj Nagar, Block N, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6938284,
+        "longitude": 77.4527919
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dehradun Public School - Sector 23,Sanjay Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Raj Nagar, Block N, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/dehradun-public-school-sector-23-sanjay-nagar-sector-23-sanjay-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "HEMA SINGH"
+          },
+          "datePublished": "2021-10-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DDPS  is a amalgamation of traditional and new age learning. The focus on academics is truly admirable. Excellent infrastructure and set up. The school is well equipped with all types of laboratories. A wonderful place for education. Teachers are experienced and have a child friendly environment. The school gives equal preference to both curricular and co-curricular activities with well-equipped sports academies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dehradun Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeev Tyagi"
+          },
+          "datePublished": "2021-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great School!\nMy kid is very happy to be in this School . Teachers are very nice , helpful and they are open minded ,think outside the box to make a successful educational experience for students. Teachers truly invested in my child's education and their growth as learner. More affordable than other private schools. I have never worried about my child as she is under their care and guidance .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dehradun Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanmay Tyagi"
+          },
+          "datePublished": "2021-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dehradun Public school is a wonderful school with an amazing staff and teachers! The teachers are really nurturing and caring and i loved the structure and support for the students. I really love this and my daughter is looking forward going to school everyday. It is really a safe and nurturing environment that really helps students to learn. The teachers really understands the students and support them. I also like the communication between the school teachers and parents. Even during the pandemic, Dehradun Public school has maintained the safety of kids while encouraging the highest standards of education!! Teachers are always trying to work with the kids here no matter the barrier or complications, they never give up on kids!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dehradun Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "komal sharma"
+          },
+          "datePublished": "2021-10-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are exceptional and hardworking and greatly loved by me  and my classmates. I find them to be incredibly enthusiastic and I see them working with and guiding families and children who need extra help. They meet kids were they are and effectively work with learning differences to help them reach the next level. I could not be more impressed with the faculty. The administration is working smartly to give kids and families an outstanding elementary school experience. I am thrilled to be part of this school. *Thank you DDPS*",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dehradun Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anmol Verma"
+          },
+          "datePublished": "2021-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dehradun Public School is great. And the teachers are good they make us feel like a family. The infrastructure of school is great. The teachers Encourages us in our Studies, they Clear our all doubts. I have faced no problems In the environment of the school as the staff and teacher Maintain the discipline among the students. And my experience is very great In Studies with the (DDPS).",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "5.0",
+  "views": "604",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 23,Sanjay Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "1998",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

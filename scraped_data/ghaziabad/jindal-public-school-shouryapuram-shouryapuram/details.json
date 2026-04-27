@@ -1,0 +1,371 @@
+{
+  "slug": "/school/ghaziabad/jindal-public-school-shouryapuram-shouryapuram",
+  "url": "https://yellowslate.com/school/ghaziabad/jindal-public-school-shouryapuram-shouryapuram",
+  "city": "ghaziabad",
+  "name": "Jindal Public School,Shouryapuram - Shouryapuram ",
+  "scraped_at": "2026-04-28T00:31:20.448306",
+  "html_length": 394872,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shouryapuram",
+          "item": "https://yellowslate.com/schools/ghaziabad/shouryapuram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/shouryapuram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jindal Public School,Shouryapuram",
+          "item": "https://yellowslate.com/school/ghaziabad/jindal-public-school-shouryapuram-shouryapuram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Jindal Public School,Shouryapuram - Shouryapuram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/jindal-public-school-shouryapuram-shouryapuram",
+      "telephone": "+91 987 114 6200",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Jindal public school, NH-24, jaipuriya road, Lal Kuan, shouryapuram, Ghaziabad, Uttar Pradesh 201001, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6393619,
+        "longitude": 77.4704726
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Jindal public school, NH-24, jaipuriya road, Lal Kuan, shouryapuram, Ghaziabad, Uttar Pradesh 201001, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/jindal-public-school-shouryapuram-shouryapuram-shouryapuram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "52"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bilkul bakwas school hai aur receptionist to bilkul gawar tamiz to bilkul bhi nahin Hain",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MANISH KUMAR"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It very bad school.school has no moral value,donot admit your ward.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayushi Gupta"
+          },
+          "datePublished": "2023-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very happy with the school system and with the cooperative attitude of the teachers. The Infrastructure is good.Very nicely planned and organized Academic programme.The Management is supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Divya Chauhan"
+          },
+          "datePublished": "2023-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teacher are amazing the curriculum is second to none each child is treated with care .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hina Jatav"
+          },
+          "datePublished": "2023-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best place for education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Smriti Gupta"
+          },
+          "datePublished": "2023-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Jindal public school is best known for its education as well as for their well trained teachers as nd staff.Also gives a safe environment...well developed school...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushboo Yadav"
+          },
+          "datePublished": "2023-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very happy with this school. The staff and teachers are very nice.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Savitri Devi"
+          },
+          "datePublished": "2023-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school I have ever seen they only focus on infrastructure and social media that is there 1 priority they don't focus on students study's they are making money only",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Haridesh Kumar"
+          },
+          "datePublished": "2023-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a very bad and unsafe school for girls.  The staff here is also very useless.  This school is perfect to see from outside.  Neither education nor children are safe inside the school.  The school environment is not at all safe for girls. so I suggest to all parents that don't learn your chields in this school specially for girls.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jindal Public School,Shouryapuram - Shouryapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saraswati Pandit"
+          },
+          "datePublished": "2023-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst and worst school ever.\nThey know only how to suck the money.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.7",
+  "views": "447",
+  "reviews_count": "52",
+  "phone": "+919513238818",
+  "locality": "Shouryapuram",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Day Schools",
+  "classes": "000 - 72",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/cambridge-school-shakti-khand-iii-indirapuram",
+  "url": "https://yellowslate.com/school/ghaziabad/cambridge-school-shakti-khand-iii-indirapuram",
+  "city": "ghaziabad",
+  "name": "Cambridge School - Shakti Khand III,Indirapuram ",
+  "scraped_at": "2026-04-28T00:22:13.363943",
+  "html_length": 366946,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shakti Khand III,Indirapuram",
+          "item": "https://yellowslate.com/schools/ghaziabad/shakti-khand-iii-indirapuram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/shakti-khand-iii-indirapuram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Cambridge School",
+          "item": "https://yellowslate.com/school/ghaziabad/cambridge-school-shakti-khand-iii-indirapuram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Cambridge School - Shakti Khand III,Indirapuram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/cambridge-school-shakti-khand-iii-indirapuram",
+      "telephone": "+91 120 260 7718",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "CAMBRIDGE SCHOOL-INDIRAPURAM, Vijay Laxmi Pandit Marg, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201010, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6472537,
+        "longitude": 77.3646227
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Shakti Khand III,Indirapuram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "CAMBRIDGE SCHOOL-INDIRAPURAM, Vijay Laxmi Pandit Marg, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201010, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/cambridge-school-shakti-khand-iii-indirapuram-shakti-khand-iii-indirapuram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avani Dogra"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is the best!! I am a 7th standard student right now and I am studying in this school for 8 years i. e. Class prep to class 7th. The teachers are amazing and always give their best in making us clear the concept. We also have co-curricular activities of our choice and we go to many excursions. In parents teachers meeting,  the teacher give honest feedback about us to our parents. The school organizes many activities like model united nations, inter-class and inter-school competitions,  Olympian, asset exam and many more.\n\nI just want to say that I love this school and I will also perform better in academics and sports.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dev Negi"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Every school has two phase, same some teacher are good and some not. I think it's teacher responsibility to take care the overall growth of children, but some teacher are not up to that level , I don't want to take name in this plateform.\nSchool have to organize teachers FDP about how to handle Childern with care and love.\nSome teachers shouts in class and and children not able to tell them their problems.\nSchool have to take care this and can also take the feedback form children also about their teachers.\nDon't make school only money making maching.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumitkar Suman"
+          },
+          "datePublished": "2023-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Discover excellence in education at Cambridge School Indirapuram! Dedicated faculty, innovative curriculum, and nurturing environment provides students with a holistic learning experience.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayank Choudhary"
+          },
+          "datePublished": "2023-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the Best schools in Indirapuram as well as Ghaziabad. This school is considered excellent in academics and they have really good sports facilities like a big football ground and a swimming pool.\nFees are moderate and students are good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Dhodi"
+          },
+          "datePublished": "2023-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Admission process is sick It’s just for the sake of process… My son was able to get through the entrance written exam and as per process there should have been an interaction scheduled with school management. We missed the email on first day surprisingly there was no call made or any message sent across other than email however after 2 days later when we contacted the school basis the email we were told a reschedule of meeting would be made. But it was only verbal assurance as stated by them it’s a process if someone misses the first meeting they schedule the second one. Next week when I was not contacted by school we contacted the school and got to know admissions are full and there was no interaction for my child. It seems to be all misleading and false information given by school and they did not adhere the process they advised. It’s one of the worst experience we had for a school with the name of Cambridge.  Thank You",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "3.4",
+  "views": "561",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Shakti Khand III,Indirapuram",
+  "board": "CBSE\n\nCo",
+  "established": "1999",
+  "category": "Day Schools",
+  "classes": "000 - 114",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

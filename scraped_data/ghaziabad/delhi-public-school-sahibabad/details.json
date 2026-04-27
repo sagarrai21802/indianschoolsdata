@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/delhi-public-school-sahibabad",
+  "url": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sahibabad",
+  "city": "ghaziabad",
+  "name": "DELHI PUBLIC SCHOOL - SAHIBABAD ",
+  "scraped_at": "2026-04-28T00:30:26.044418",
+  "html_length": 354905,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SAHIBABAD",
+          "item": "https://yellowslate.com/schools/ghaziabad/sahibabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sahibabad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DELHI PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sahibabad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DELHI PUBLIC SCHOOL - SAHIBABAD",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sahibabad",
+      "telephone": "+91 859 513 7137",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Teela Shahbazpur, Indraprastha Yojana, Behind IGL CNG Pump Station, Loni Rd, Tila Shahbazpur, Bhopura, Ghaziabad, Uttar Pradesh 201102, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.728219,
+        "longitude": 77.2890115
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DELHI PUBLIC SCHOOL - SAHIBABAD",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Teela Shahbazpur, Indraprastha Yojana, Behind IGL CNG Pump Station, Loni Rd, Tila Shahbazpur, Bhopura, Ghaziabad, Uttar Pradesh 201102, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/delhi-public-school-sahibabad-sahibabad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavya Malani"
+          },
+          "datePublished": "2023-07-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The management of Delhi Public School Sahibabad deserves high praise for their exceptional leadership and commitment to student success. Their dedication to creating a nurturing and inclusive learning environment is truly commendable. I would like to extend my heartfelt appreciation to the director, Dr. Jyoti Gupta, and principal Bhawna Khanna of the establishment.\n\nUnder their exemplary leadership, the school has flourished into a hub of academic excellence. Their combined efforts have created an environment where students thrive academically, supported by a compassionate and nurturing faculty.  The management's supportive approach fosters a sense of community and encourages students to thrive both academically and personally. Kudos to the management for their outstanding work!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DELHI PUBLIC SCHOOL - SAHIBABAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Yadav"
+          },
+          "datePublished": "2023-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great institution for our children .\nWell educated teachers, supporting staff and lovely infrastructure.👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DELHI PUBLIC SCHOOL - SAHIBABAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navdha Mittal"
+          },
+          "datePublished": "2022-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS Sahibabad is a good school in Ghaziabad. It gives a good environment for a wonderful future of kids. They have set of excellent faculty members with great and supportive Best place for overall development of students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DELHI PUBLIC SCHOOL - SAHIBABAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Naudiyal"
+          },
+          "datePublished": "2022-06-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The staff are not just imparting academics but also working on developing the all-round personality of a child.\nEach aspect of the child is being assessed by applying various pedagogies, and the creative side of the child is being carved out.\nTeachers not only help students achieve their academic goals; they also help students achieve their non-academic goals. Each individual is in the centre.\nThis school gives various opportunities to the teachers, where they are continuously engaged in learning through workshops and training and updating their competence skills for the future challenges and requirements.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DELHI PUBLIC SCHOOL - SAHIBABAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chhaya Maurya"
+          },
+          "datePublished": "2022-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would have loved to give negative ratings if that was possible. Don't waste your money here. It is pathetic school. The quality of teachers is so poor , they not only teach wrong concepts but make sure that whatever correct you have learnt so far should be forgotten like the Maths teacher(Class-6) told \" you have got 10 out of 9\"..and repeated the same thrice when student said 9 out of 10. Hindi teacher knows neither pure Hindi nor English..and has just invented Grammar of her own. In the 2 years of schooling of my brother here they made sure to do all kinds of stuff making irrelevant videos, stupid photos ,audio - video recordings.. except imparting education.\n\nDPSS is making sure that it maligns the name and fame earned by  \"DPS\" .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "532",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "SAHIBABAD",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

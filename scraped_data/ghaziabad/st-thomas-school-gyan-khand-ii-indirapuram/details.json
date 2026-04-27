@@ -1,0 +1,302 @@
+{
+  "slug": "/school/ghaziabad/st-thomas-school-gyan-khand-ii-indirapuram",
+  "url": "https://yellowslate.com/school/ghaziabad/st-thomas-school-gyan-khand-ii-indirapuram",
+  "city": "ghaziabad",
+  "name": "St. Thomas School - Gyan Khand II,Indirapuram ",
+  "scraped_at": "2026-04-28T00:18:58.164085",
+  "html_length": 365578,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gyan Khand II,Indirapuram",
+          "item": "https://yellowslate.com/schools/ghaziabad/gyan-khand-ii-indirapuram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/gyan-khand-ii-indirapuram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Thomas School",
+          "item": "https://yellowslate.com/school/ghaziabad/st-thomas-school-gyan-khand-ii-indirapuram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Thomas School - Gyan Khand II,Indirapuram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/st-thomas-school-gyan-khand-ii-indirapuram",
+      "telephone": "+91 120 496 1300",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Gyan Khand II, Sucheta Kriplani Marg, Gyan Khand II, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6534876,
+        "longitude": 77.3714906
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Gyan Khand II, Sucheta Kriplani Marg, Gyan Khand II, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/st-thomas-school-gyan-khand-ii-indirapuram-gyan-khand-ii-indirapuram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has a solid reputation and ranks well, but honestly, the teachers are bit biased. They tend to favor the top-performing students and often overlook those who struggle. It would be great if they could show more care and treat all students equally with a bit more kindness, as that seems to be lacking. There are times when they resort to threats or even physical punishment, which is something they really need to avoid",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has a solid reputation and ranks well, but honestly, the teachers are bit biased. They tend to favor the top-performing students and often overlook those who struggle. It would be great if they could show more care and treat all students equally with a bit more kindness, as that seems to be lacking. There are times when they resort to threats or even physical punishment, which is something they really need to avoid",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Kr. Singh"
+          },
+          "datePublished": "2023-08-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the reputed school in Indirapuram. This school have classes from Nursery to XII. This school is near from Vaishali, Vasundhara.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sidharth Bhardwaj"
+          },
+          "datePublished": "2023-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "At the admission session they waste parents time....they have alot piun(chapdasi) for counseling.. becouse teacher and principal have no time to attend the parents for admission....they have only piuns whome we can talk as a teacher...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VAISHNAV KHANDELWAL"
+          },
+          "datePublished": "2023-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good Behavior of the teachers, principal as well as father also\nMy son given a test for the admission and he suggest for 1st a class not in the nursery class now he is doing good\nStudent of 2D Vaishnav Khandelwal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harsh Vardhan"
+          },
+          "datePublished": "2023-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "school staff not worry about road block in morning and afternoon\nthey are focus only fee and collection\nwhen back side are sufficient space why they did not enter or exit vehicle owner\nteachers given student learning\nkindly think about",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Thomas School - Gyan Khand II,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Rajendra Kumar"
+          },
+          "datePublished": "2022-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good academic teachers....The main salient features of this School are discipline, values, high academic results and holistic development of every student.school situated in indirapuram.. nearest metro is vaishali..cbse 10th and 12result are good ..The School got affiliated to the CBSE. In 2003 for the Secondary level and the CBSE granted the Senior Secondary status in 2005.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "2.6",
+  "views": "455",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "Gyan Khand II,Indirapuram",
+  "board": "CBSE\n\nCo",
+  "established": "2000",
+  "category": "Day Schools",
+  "classes": "920 - 52",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

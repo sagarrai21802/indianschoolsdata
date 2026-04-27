@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/vidya-bharathi-school-chander-nagar-surya-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/vidya-bharathi-school-chander-nagar-surya-nagar",
+  "city": "ghaziabad",
+  "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar ",
+  "scraped_at": "2026-04-28T00:17:36.463302",
+  "html_length": 365748,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chander Nagar,Surya Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/chander-nagar-surya-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/chander-nagar-surya-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vidya Bharathi School",
+          "item": "https://yellowslate.com/school/ghaziabad/vidya-bharathi-school-chander-nagar-surya-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/vidya-bharathi-school-chander-nagar-surya-nagar",
+      "telephone": "+91 120 264 0633",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "C Block Ln, Block C, Surya Nagar, Ghaziabad, Uttar Pradesh 201011, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6536653,
+        "longitude": 77.3119903
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "C Block Ln, Block C, Surya Nagar, Ghaziabad, Uttar Pradesh 201011, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/vidya-bharathi-school-chander-nagar-surya-nagar-chander-nagar-surya-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arpinder kaur"
+          },
+          "datePublished": "2023-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We had really bad experience with this school, while admissions they said nursery teacher will cooperate with 3.5yrs old kid and after 10days of admission teachers deciding by themselves that kid should go to playgroup for few months or year  without consulting parent they put your kid in playgroup.\n\nWhen our kid got hurt inside the school premises they not even bother to call parents to pick the kid even class teacher complained “we had bad day in school that your kid was very difficult to handle while dressing or icing in medical room”\neven handover the kid with full blood on his mouth.\n…..Weirdest staff……\ndon’t go for this school crazy staff and management only business minded.\n!!Money money hungry for your money!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CHETAN BANGA"
+          },
+          "datePublished": "2023-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lovey school with a beautiful ambiance. Surrounded with good locality. Teachers are awesome. The staff is helpful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shyam Prakash Sharma"
+          },
+          "datePublished": "2023-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is very sad to say that humanity has nothing to do with this school, only the fees have to be taken on time, the rest of your child should study on his own, it has nothing to do with the school, these people issue circulars like this. Like there is a Tughlaqi decree, after that there is no hearing either.\n\nGod bless such people and such organizations, God is the master of the rest of the poor, neither the government listens nor there is any organization that can control them.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samyak Jain"
+          },
+          "datePublished": "2023-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best teaching institution of my schooling life. Nothing less than a family can be experienced. The understanding and supporting level of not even teachers but also the Principal nurtures the children into a Complete Human being. I love this prestigious place! Keep it up #VBS❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Bharathi School - Chander Nagar,Surya Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pawan Singhal"
+          },
+          "datePublished": "2023-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school with the best academic environment. Best faculty in terms of moral support and guidance. Perfect blend of traditional values and modern methods of teaching.Awesome results every year.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "3.4",
+  "views": "468",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Chander Nagar,Surya Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "1983",
+  "category": "Day Schools",
+  "classes": "680 - 52",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

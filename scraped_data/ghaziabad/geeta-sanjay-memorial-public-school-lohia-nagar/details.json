@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/geeta-sanjay-memorial-public-school-lohia-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/geeta-sanjay-memorial-public-school-lohia-nagar",
+  "city": "ghaziabad",
+  "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR ",
+  "scraped_at": "2026-04-28T00:24:35.057662",
+  "html_length": 350152,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "LOHIA NAGAR",
+          "item": "https://yellowslate.com/schools/ghaziabad/lohia-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/lohia-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/ghaziabad/geeta-sanjay-memorial-public-school-lohia-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/geeta-sanjay-memorial-public-school-lohia-nagar",
+      "telephone": "+91 987 140 0717",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL, B-Block, Lohia Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6745898,
+        "longitude": 77.4338911
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL, B-Block, Lohia Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/geeta-sanjay-memorial-public-school-lohia-nagar-lohia-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neeru Narang"
+          },
+          "datePublished": "2022-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If you want to improve your child's academic performance kindly visit GSM",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "JATIN KASHYAP"
+          },
+          "datePublished": "2020-11-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad school for education and wrost money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gopal garg"
+          },
+          "datePublished": "2019-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not for best education only for wrong work also without educated teachers staff. Wrong school in Delhi NCR 😡😡",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sarthak Mittal"
+          },
+          "datePublished": "2019-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school and staff in Delhi ncr",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEETA SANJAY MEMORIAL PUBLIC SCHOOL - LOHIA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayush Jain"
+          },
+          "datePublished": "2019-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Moderate in academics and overall development of students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "2.2",
+  "views": "385",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "LOHIA NAGAR",
+  "board": "CBSE\n\nCo",
+  "established": "1992",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

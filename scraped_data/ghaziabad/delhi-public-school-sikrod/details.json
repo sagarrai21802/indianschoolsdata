@@ -1,0 +1,371 @@
+{
+  "slug": "/school/ghaziabad/delhi-public-school-sikrod",
+  "url": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sikrod",
+  "city": "ghaziabad",
+  "name": "Delhi Public School - Sikrod ",
+  "scraped_at": "2026-04-28T00:13:48.857383",
+  "html_length": 400828,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sikrod",
+          "item": "https://yellowslate.com/schools/ghaziabad/sikrod"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sikrod/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sikrod"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Sikrod",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/delhi-public-school-sikrod",
+      "telephone": "+91 1202800800",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "DPSG School, Site 3, Meerut Rd Industrial Area, Ghukna, Ghaziabad, Uttar Pradesh 201001, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6890518,
+        "longitude": 77.4365995
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "DPSG School, Site 3, Meerut Rd Industrial Area, Ghukna, Ghaziabad, Uttar Pradesh 201001, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/delhi-public-school-sikrod-sikrod-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepshikha ashiwal"
+          },
+          "datePublished": "2024-03-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Both My kids enjoyed every moment in school. The staff n teachers are so supportive and welcoming.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gulshan Panchal"
+          },
+          "datePublished": "2024-02-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Yes , i should say that our German teacher is so passionate for teaching students and clearing doubts of all of us\nBy the help of our subject teacher she make rude language to a sweet and accent full language 😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kanika Agarwal"
+          },
+          "datePublished": "2024-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPSG is not just a school, it's a legacy. The curriculum and teaching methods strengthen connections and create engaging learning experiences.\nThe various activities in the school often involve creative play, and hands-on experiences, promoting critical thinking from an early age. Children learn to approach challenges with curiosity and develop problem-solving skills that prove beneficial throughout their lives.\nThe language development through storytelling, singing, and group interactions is commendable. Strong language skills contribute to effective communication, a key asset in academic and professional success.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mansi Gupta"
+          },
+          "datePublished": "2024-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "From the moment our child enrolled, we’ve been continually impressed by the school’s commitment to excellence in education and holistic development.\nOne of the standout features of DPSG is its dedicated and passionate teaching staff. They not only impart knowledge but also nurture the child’s individual strengths and interests. The personalised attention my child receives has truly made a difference in their academic growth and confidence.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anime Timez"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really like being at school and it is all because of the efforts of our beloved IBDP coordinator Mr. Lakshman Sharma sir. He has always been a great help in our journey to become the best. He always organises various educational trips and events for us. All the other facilitators are amazing as well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Roopa Ankolekar"
+          },
+          "datePublished": "2024-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are impressed by the open communication channels between parents and teachers allowing us to stay informed and involve us in our childs education.\n\nWe are grateful for the caring and compassionate teacher (Ms. Simmy Rehnu, Prep-Jasmine) who goes above and beyond to ensure the students reach their full potential.\n\nWe are proud to be part of such a supportive and forward thinking school.\n\nKudos to DPSG.. 👍👍\n\n(Parents of Swasti Ankolekar, Prep-Jasmine)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nisha goel"
+          },
+          "datePublished": "2024-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's been a great experience with DPSG as a parent and to provide ur child a great platform for overall development of the child academically and other co curricular activites.  At DPSG , Other than studies children's got ample opportunity to excel them in events by participating in inter competition organised by school.Very well satisfied with the coordination from the teachers towards the kids and to us.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Gupta"
+          },
+          "datePublished": "2024-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPSG is doing excellent in all the fields especially giving a lot of exposure to children. Curriculum and teaching methods are very different from other schools. Here focus is not just on finishing the syllabus but also ensuring that each student is learning properly.\n\nStudents also get a chance to take part in co-curricular activities along with the regular studies. Sports facilities and overall infrastructure of the school is good which also helps in building the overall personality of student studying here.\n\nVery good efforts are put by all teachers for planning online sessions whenever there is any disruption in regular classes.\n\nKudos to the class teacher, headmistress and principal for the constant support and guidance.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Urvashi Jain"
+          },
+          "datePublished": "2024-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really appreciate DPSG for its speechless effort in enhancing my child's development.\nMy child has become independent and confident.\nCommitment to student well beings is outstanding.\nThey are very supportive and friendly.\nMajor change is being seen in my child's speaking skills with all the different activities happening in school.\nNot only academically, it provides so many options in sports as well.Extra classes are provided for the same.\nOverall highly satisfied with the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sikrod"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ruby Goyal"
+          },
+          "datePublished": "2024-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is creative with its approach of teaching along and does facilitate extra curricular activities. The teacher and staff are very well spoken. The classes provide a great learning environment and I have seen significant progress in my child's development. Over all experience of ours with the school has been really well. Thank you DPSG for providing all the significant information and efforts.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "4.9",
+  "views": "485",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Sikrod",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "640 - 149",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

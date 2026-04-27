@@ -1,0 +1,233 @@
+{
+  "slug": "/school/ghaziabad/rasha-krishna-public-school-sanjay-nagar-lal-kuan",
+  "url": "https://yellowslate.com/school/ghaziabad/rasha-krishna-public-school-sanjay-nagar-lal-kuan",
+  "city": "ghaziabad",
+  "name": "Rasha Krishna Public School - Sanjay Nagar,Lal Kuan ",
+  "scraped_at": "2026-04-28T00:19:48.376144",
+  "html_length": 349604,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sanjay Nagar,Lal Kuan",
+          "item": "https://yellowslate.com/schools/ghaziabad/sanjay-nagar-lal-kuan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sanjay-nagar-lal-kuan/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rasha Krishna Public School",
+          "item": "https://yellowslate.com/school/ghaziabad/rasha-krishna-public-school-sanjay-nagar-lal-kuan"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rasha Krishna Public School - Sanjay Nagar,Lal Kuan",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/rasha-krishna-public-school-sanjay-nagar-lal-kuan",
+      "telephone": "+91 9810624925",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Ghaziabad- Vijaynagar Road, Krishna Vihar Colony, Lal Kuan, Ghaziabad, Uttar Pradesh 201002, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6399856,
+        "longitude": 77.4623589
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rasha Krishna Public School - Sanjay Nagar,Lal Kuan",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ghaziabad- Vijaynagar Road, Krishna Vihar Colony, Lal Kuan, Ghaziabad, Uttar Pradesh 201002, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/rasha-krishna-public-school-sanjay-nagar-lal-kuan-sanjay-nagar-lal-kuan-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naveen Kumar"
+          },
+          "datePublished": "2023-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best CBSE school school in Ghaziabad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rasha Krishna Public School - Sanjay Nagar,Lal Kuan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shiv Kumar"
+          },
+          "datePublished": "2023-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Comapretive Abother School,  transport free very high, 3km they charge 2200\nAnother School 6km they charge 1500",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rasha Krishna Public School - Sanjay Nagar,Lal Kuan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monika Bhalla"
+          },
+          "datePublished": "2019-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The staff are caring and welcoming. The teachers are incredibly supportive and qualified. The principals seem really chill. There’s way more offered at this school than any other in the Eugene/Springfield area. It’s a great school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rasha Krishna Public School - Sanjay Nagar,Lal Kuan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dikul Forever"
+          },
+          "datePublished": "2019-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There aren't enough words to express how happy we are this year with all the changes that have taken place. The school is peaceful and very organized. The small classroom sizes are perfect, the staff looks happy, and the school looks AMAZING!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "4.3",
+  "views": "427",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Sanjay Nagar,Lal Kuan",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "200 - 19",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

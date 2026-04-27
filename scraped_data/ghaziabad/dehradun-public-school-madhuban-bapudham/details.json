@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/dehradun-public-school-madhuban-bapudham",
+  "url": "https://yellowslate.com/school/ghaziabad/dehradun-public-school-madhuban-bapudham",
+  "city": "ghaziabad",
+  "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham ",
+  "scraped_at": "2026-04-28T00:38:02.769903",
+  "html_length": 351520,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Madhuban Bapudham",
+          "item": "https://yellowslate.com/schools/ghaziabad/madhuban-bapudham"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/madhuban-bapudham/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DEHRADUN PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/ghaziabad/dehradun-public-school-madhuban-bapudham"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/dehradun-public-school-madhuban-bapudham",
+      "telephone": "+91 9311612330",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Madhuban Bapudham, Sadarpur, Ghaziabad, Uttar Pradesh 201206, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.7030845,
+        "longitude": 77.4845372
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Madhuban Bapudham, Sadarpur, Ghaziabad, Uttar Pradesh 201206, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/dehradun-public-school-madhuban-bapudham-madhuban-bapudham-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akhlesh Kumar"
+          },
+          "datePublished": "2023-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I love ddps",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prerna Sharma"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If sukoon has a place then definitely it is DDPS madhuban branch. It is the best branch among other DDPS branches. Infrastructure, ground and cafeteria is outstanding and don't think twice before taking admission in this school as your child will get the best exposure of creativity, academics and sports and it is the best place for your child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jai Kumar"
+          },
+          "datePublished": "2022-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Opposite to our fields 😂",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Bhati"
+          },
+          "datePublished": "2022-09-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school for kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DEHRADUN PUBLIC SCHOOL - Madhuban Bapudham"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vineet srivastava"
+          },
+          "datePublished": "2018-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\"
+  ],
+  "rating": "4.8",
+  "views": "500",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Madhuban Bapudham",
+  "board": "CBSE\n\nCo",
+  "established": "1986",
+  "category": "Day Schools",
+  "classes": "800 - 28",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

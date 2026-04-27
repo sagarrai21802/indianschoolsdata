@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/silver-line-prestige-school-sector-18-kavi-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/silver-line-prestige-school-sector-18-kavi-nagar",
+  "city": "ghaziabad",
+  "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar ",
+  "scraped_at": "2026-04-28T00:26:15.362140",
+  "html_length": 368243,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 18,Kavi Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-18-kavi-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-18-kavi-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SILVER LINE PRESTIGE SCHOOL",
+          "item": "https://yellowslate.com/school/ghaziabad/silver-line-prestige-school-sector-18-kavi-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/silver-line-prestige-school-sector-18-kavi-nagar",
+      "telephone": "+91 999 977 4433",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "KI - 14, Block I, Sector 18, Kavi Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6654849,
+        "longitude": 77.4555641
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "KI - 14, Block I, Sector 18, Kavi Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/silver-line-prestige-school-sector-18-kavi-nagar-sector-18-kavi-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Malhotra"
+          },
+          "datePublished": "2023-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son DIvam Malhotra is in 2nd class.\nI will give 5 out of 5 rating. I am extremely satisfied with the school.\nWe have had an excellent experience from everyone at the school especially the teachers” –To the wonderful teachers who teach my son, I appreciate all your efforts in teaching and making sure my son is learning. I appreciate that you have taken care of him\nAt this school all teachers are unique and nice, they always make sure students do their best.”\nHighly Recommend every parents to join silver line KNB branch.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajev M Bhatia"
+          },
+          "datePublished": "2023-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Futuristic approach of school for Focused skills, Passionate leader like Dr .Mala Kapoor Ma'am and her approach towards education field, innovative way of teaching and Excellent behaviors of teachers and supporting staff. All these factors make an Obvious Choice - Silverline Prestige - for parents. I have seen a remarkable improvement in my kid (not only in terms of education but other social skills) and would like to 'Thank' the school from the bottom of my heart.\n\n🙏Thank You🙂Thank You🙏Thank You",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prerna Rajan"
+          },
+          "datePublished": "2022-12-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am satisfy to teaching process & teachers. Also, My son taking a interesting in the this branch because there do the lots of fun activities to improve children knowledge. They are doing good job from their end to increase children knowledge from study as well as from other activities.I am very happy that my son part of the SLPS kavi nagar branch.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa Rahul"
+          },
+          "datePublished": "2022-12-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello mam good afternoon\n\nMy daughter AARVI KASHYAP is in class 1st blue in your school\nsilver line prestige school\nKavi Nagar branch.\nThe teaching methods and my child learning process is improve and better since last one month when we transfer them in your branch and now we are satisfied by your teaching methods. My child take interest for learning by your methods. We hope it will be continue.\n\nThanks\nMother - Deepmala\nStudent- Aarvi kashyap",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SILVER LINE PRESTIGE SCHOOL - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shefali"
+          },
+          "datePublished": "2021-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "During the tough time of  pandemic, when students and parents were anxious about stagnation of the education, SLPS  took away all our worries by conducting online classes which were  not taken for just name sake rather provided best experiential innovative learning with diversified  knowledge from different fields. I acknowledge the creative thinking of school management in framing the child-friendly curriculum  and also appreciate the assiduous efforts of all the Kavi Nagar branch teachers who with their grit and industriousness have made the progressive learning possible.  I definitely recommend this school to all those parents who look forward towards a holistic developed personality of their wards.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "5.0",
+  "views": "432",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 18,Kavi Nagar",
+  "board": "CBSE, CBSE\n\nCo",
+  "established": "1990",
+  "category": "Day Schools",
+  "classes": "200 - 85",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

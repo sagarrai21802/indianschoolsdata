@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/saint-teresas-convent-school-pratap-vihar",
+  "url": "https://yellowslate.com/school/ghaziabad/saint-teresas-convent-school-pratap-vihar",
+  "city": "ghaziabad",
+  "name": "Saint Teresas Convent School - Pratap Vihar ",
+  "scraped_at": "2026-04-28T00:15:17.073251",
+  "html_length": 362767,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pratap Vihar",
+          "item": "https://yellowslate.com/schools/ghaziabad/pratap-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/pratap-vihar/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Saint Teresas Convent School",
+          "item": "https://yellowslate.com/school/ghaziabad/saint-teresas-convent-school-pratap-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Saint Teresas Convent School - Pratap Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/saint-teresas-convent-school-pratap-vihar",
+      "telephone": "+91 012 028 4389",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "SAINT TERESA'S CONVENT SCHOOL, Sarvodaya Nagar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201009, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.642045,
+        "longitude": 77.417572
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saint Teresas Convent School - Pratap Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "SAINT TERESA'S CONVENT SCHOOL, Sarvodaya Nagar, Pratap Vihar, Ghaziabad, Uttar Pradesh 201009, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/saint-teresas-convent-school-pratap-vihar-pratap-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ishika sant"
+          },
+          "datePublished": "2020-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is not just a school...it is a temple of learning values and acquring knowledge where your morning starts with so beautiful environment. I left this school in 8th still wishes to get back there.. Their learning pattern is great 👍 10/10 no other school can beat this school...I miss being a teresian❤",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saint Teresas Convent School - Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chhavi Rehan"
+          },
+          "datePublished": "2020-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Studied for 12 years in this school from kindergarten till tenth . Learnt a lot not just the lessons from the book but the lessons of life . The management , teaching staff and non teaching staff are responsible , efficient and open to help for all . The teachers are multitalented with great educational qualifications. The school gives equal importance to academics as well as extra curricular activities which will help to inculcate the moral values in an individual",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saint Teresas Convent School - Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ishmeet Kaur"
+          },
+          "datePublished": "2020-03-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is really good with best environment. Best school for student to improve their base. All the teachers are hardworking and well qualified. It focuses on both education as well as other activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saint Teresas Convent School - Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhilasha Francis"
+          },
+          "datePublished": "2018-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome school... With hardworking teachers.... I can never forget my loving schl for making me what i m today......... A good and friendly environment for study is the most uplifting quality. .. Discipline makes this schl the best.. .. ..Teacher's love and support makes students to stand independently ....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saint Teresas Convent School - Pratap Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhinav Singh"
+          },
+          "datePublished": "2018-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a good school with many activities to educate&give moral values. They have well qualified teachers. It is best school. The best thing is that they uplift the weaker students and give chance to them. Also the management is trying harder and will soon start smart classes ( hopefully from July 2018 onwards).",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171282744920816340686617ac39c57531712827450.jpeg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "5.0",
+  "views": "456",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Pratap Vihar",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 36",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171282744920816340686617ac39c57531712827450.jpeg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

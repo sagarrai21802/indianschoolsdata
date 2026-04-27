@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/brightland-school-block-b-govindpuram",
+  "url": "https://yellowslate.com/school/ghaziabad/brightland-school-block-b-govindpuram",
+  "city": "ghaziabad",
+  "name": "Brightland School - Block B,Govindpuram ",
+  "scraped_at": "2026-04-28T00:16:11.852831",
+  "html_length": 354730,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Block B,Govindpuram",
+          "item": "https://yellowslate.com/schools/ghaziabad/block-b-govindpuram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/block-b-govindpuram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Brightland School",
+          "item": "https://yellowslate.com/school/ghaziabad/brightland-school-block-b-govindpuram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Brightland School - Block B,Govindpuram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/brightland-school-block-b-govindpuram",
+      "telephone": "+91 965 011 7507",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Road Number 3, near LG Showroom, New Panchwati, Block I, A-Block, Govindpuram, Ghaziabad, Uttar Pradesh 201013, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.682343,
+        "longitude": 77.488862
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brightland School - Block B,Govindpuram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Road Number 3, near LG Showroom, New Panchwati, Block I, A-Block, Govindpuram, Ghaziabad, Uttar Pradesh 201013, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/brightland-school-block-b-govindpuram-block-b-govindpuram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "geetika bhargava"
+          },
+          "datePublished": "2023-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BEST SCHOOL THAT GIVES A GREAT AMBIENCE  TO CHILDREN. IT ENCOURAGES LEARNING THROUGH PRACTICAL EXPOSURE....BEST SCHOOL IN THE CITY",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brightland School - Block B,Govindpuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Agamya Tyagi"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Brightland school is the best school as teachers are hardworking and dedicated professionals as well as promote overall development of children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brightland School - Block B,Govindpuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Bhatnagar"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, teachers are all amazing, experienced and really professional. Ther really care and truly want the best for your child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brightland School - Block B,Govindpuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pakhi Gautam"
+          },
+          "datePublished": "2023-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The most unhygienic school l have ever worked for. There is no proper management of academics. Very poor quality education is provided. The condition of the students notebooks are pathetic.The toilets will surely give you infection. All they want is money They take money from teachers to employ them. No form 16 is provided to the teachers. The classrooms have outdated and unhygienic furniture. There is no discipline in the school. Truly it's a money minting organization. Last but not the least, Naam bade par darshan chote 🤣🤣",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brightland School - Block B,Govindpuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRODUCTION KOSI"
+          },
+          "datePublished": "2023-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I don't have option to select negative star .\nWorst school I have ever seen. Fees is very high but standard of teaching is very low. Teachers resigned from school frequently. Mindset of school management is to earn money only. They sell books and copy from school at very higher prices and they don't provide any bills. They also sell uniform of both seasons in school at very high prices which cost around 4 to 5 K here also they don't provide any permanent bill. School is involved in illegal practise by tax evasion . They hide taxes from government by not providing permanent bill.\nTeachers are care less . If you missed fees due to any personal reasons school management dosen't care and don't allow child to appear in examinations.\nIf the moto of school management is money minded and how involve in tax evasion. Then we can understand what they will teach our childs.\nDon't think about this school. If you have huge money to waste you can go with this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "3.4",
+  "views": "529",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Block B,Govindpuram",
+  "board": "CBSE\n\nCo",
+  "established": "1997",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

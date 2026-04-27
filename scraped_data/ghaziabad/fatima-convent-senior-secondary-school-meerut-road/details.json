@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/fatima-convent-senior-secondary-school-meerut-road",
+  "url": "https://yellowslate.com/school/ghaziabad/fatima-convent-senior-secondary-school-meerut-road",
+  "city": "ghaziabad",
+  "name": "Fatima Convent Senior Secondary School - Meerut Road ",
+  "scraped_at": "2026-04-28T00:26:08.619374",
+  "html_length": 354825,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Meerut Road",
+          "item": "https://yellowslate.com/schools/ghaziabad/meerut-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/meerut-road/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Fatima Convent Senior Secondary School",
+          "item": "https://yellowslate.com/school/ghaziabad/fatima-convent-senior-secondary-school-meerut-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Fatima Convent Senior Secondary School - Meerut Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/fatima-convent-senior-secondary-school-meerut-road",
+      "telephone": "+91 098 710 1637",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "MCM7+J57, Meerut Rd, Marium Nagar, Sewa Nagar, Ghaziabad, Uttar Pradesh 201003, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.7881756,
+        "longitude": 77.5281917
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Fatima Convent Senior Secondary School - Meerut Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "MCM7+J57, Meerut Rd, Marium Nagar, Sewa Nagar, Ghaziabad, Uttar Pradesh 201003, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/fatima-convent-senior-secondary-school-meerut-road-meerut-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shalini Tyagi"
+          },
+          "datePublished": "2023-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school lays very much pressure to the students especially higher classes. In this school very less activities have been performed.\nThis school never wins any awards like nor in sports or any declaration.\n\nThanks,\nMy review",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Fatima Convent Senior Secondary School - Meerut Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vandana John"
+          },
+          "datePublished": "2023-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am still studying in this school\nAnd this is a blessing for me to be here as a student",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Fatima Convent Senior Secondary School - Meerut Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vipin Rana"
+          },
+          "datePublished": "2023-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school for ICSE board studies in ghaziabad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Fatima Convent Senior Secondary School - Meerut Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepanshu kumar 2364"
+          },
+          "datePublished": "2022-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teacher and principal not understanding problems and didn't sending wards in half day im emergency too.\nIt's very disrespectful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Fatima Convent Senior Secondary School - Meerut Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepika Sharma"
+          },
+          "datePublished": "2021-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I've spent the most precious time of my life i.e. my childhood (Nursery - 12th) here. The love and care they people provide can never be expressed in words. Discipline of the school is exceptionally outstanding. The other name of Fatima Convent Senior Secondary School is DISCIPLINE. Overall, a school like Fatima is hard to find and lucky to have.\nA massive thank you to all the teaching and non- teaching staff ♥️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.4",
+  "views": "564",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Meerut Road",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

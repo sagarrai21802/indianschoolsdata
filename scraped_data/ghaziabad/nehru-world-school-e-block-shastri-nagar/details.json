@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/nehru-world-school-e-block-shastri-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/nehru-world-school-e-block-shastri-nagar",
+  "city": "ghaziabad",
+  "name": "Nehru World School - E Block,Shastri Nagar ",
+  "scraped_at": "2026-04-28T00:17:44.767035",
+  "html_length": 355684,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "E Block,Shastri Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/e-block-shastri-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/e-block-shastri-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Nehru World School",
+          "item": "https://yellowslate.com/school/ghaziabad/nehru-world-school-e-block-shastri-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Nehru World School - E Block,Shastri Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/nehru-world-school-e-block-shastri-nagar",
+      "telephone": "+91 784 004 9758",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "E Block, Shastri Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6754144,
+        "longitude": 77.4723483
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nehru World School - E Block,Shastri Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "E Block, Shastri Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/nehru-world-school-e-block-shastri-nagar-e-block-shastri-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kanak Verma"
+          },
+          "datePublished": "2023-05-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had the privilege of being a part of Nehru World School, and I must say it was an exceptional experience. The dedicated faculty went above and beyond to provide a nurturing learning environment. The curriculum was thoughtfully designed, offering a perfect blend of academics and extracurricular activities. The school's emphasis on holistic development helped me grow not only academically but also as an individual. The facilities were top-notch, creating an inspiring atmosphere for learning. Moreover, the strong sense of community fostered lifelong friendships. The school truly exceeded my expectations, and I highly recommend it for anyone seeking an enriching educational journey.\nI still miss Virtual World Tour !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nehru World School - E Block,Shastri Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Roopali Gupta"
+          },
+          "datePublished": "2023-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This School is highly appreciable, it's school teachers are having very decent nature and teaches the most important topic 'manners and adicates' to the students, the caring nature of teachers and their way of teaching is also very appreciated, no doubt this one of the best school of Ghaziabad and will attract you too. My child is very happy being learning in this school.\nRegards,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nehru World School - E Block,Shastri Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Wren"
+          },
+          "datePublished": "2023-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a student of NWS, I'm proud to say that I study at this school. All the teachers in this school are an inspiration to me. I've had visible improvement in academics and my social skills within a year. The staff is always there to help me out whenever I require them. I have developed a deep connection with everyone I met in NWS . There are also support classes for academics and sports for the students without any extra charge .If you want your child to receive  considerate education,  I would definitely recommend you NWS .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nehru World School - E Block,Shastri Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akriti Agrawal"
+          },
+          "datePublished": "2023-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school. Teachers take good care of kids. This school emphasises on learning instead of mugging up. Great for overall development of any child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nehru World School - E Block,Shastri Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mr. D. Gupta"
+          },
+          "datePublished": "2023-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nehru world school one of the best school In ghaziabad.. offering two course first is Cambridge Pattern second is CBSE pattern. Fees is bit high when you compare with another schools. But the highly qualified student friendly teaching staff, Decent study atmosphere,  discipline and teacher's caring attitude will definitely attracts you. School has its own transport.. but not mandatory.\nSo many plus point this school have..\nI personally recommend to all parents please visit once..👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "5.0",
+  "views": "518",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "E Block,Shastri Nagar",
+  "board": "CBSE, CIE\n\nCo",
+  "established": "1978",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

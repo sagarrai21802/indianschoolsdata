@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/saraswati-vidya-mandir-sector-10-raj-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/saraswati-vidya-mandir-sector-10-raj-nagar",
+  "city": "ghaziabad",
+  "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar ",
+  "scraped_at": "2026-04-28T00:16:27.754261",
+  "html_length": 360422,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 10,Raj Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-10-raj-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-10-raj-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Saraswati Vidya Mandir",
+          "item": "https://yellowslate.com/school/ghaziabad/saraswati-vidya-mandir-sector-10-raj-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/saraswati-vidya-mandir-sector-10-raj-nagar",
+      "telephone": "+91 120 282 6473",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "R-9/175, Block 9, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.685575,
+        "longitude": 77.449324
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "R-9/175, Block 9, Sector 10, Raj Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/saraswati-vidya-mandir-sector-10-raj-nagar-sector-10-raj-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhash Chand Saini"
+          },
+          "datePublished": "2022-11-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I always feel better here. Do hard work and be happy.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Simran"
+          },
+          "datePublished": "2022-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school I could ever thought of. No education ,no sports , discipline does not even exist . This school literally wasted my 2 precious years . Nobody is sincere towards their work either it is staff , teachers or students . I still regret on my decision of taking admission in this school. Mere 12th ke board exams shuru hone wale hain aur agar mere kisi bhi subject mein kam marks aaye to uska reason faculties aur management hi hongi kyunki 2 saal se to padhaya hi nhi hai inhone.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prabhu Patel 9th'B'"
+          },
+          "datePublished": "2021-05-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a student of kgdssvm rajnagar,ghaziabad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kunal Tyagi"
+          },
+          "datePublished": "2018-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best in education . The behavior of teachers is good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saraswati Vidya Mandir - Sector 10,Raj Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sanjeev gupta"
+          },
+          "datePublished": "2017-07-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best educational institute. Teachers are very qualified and dedicated towards their work. Education facilities are good. Infrastructure facilities are average.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "3.8",
+  "views": "513",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 10,Raj Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "1989",
+  "category": "Day Schools",
+  "classes": "800 - 22",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

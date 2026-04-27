@@ -1,0 +1,235 @@
+{
+  "slug": "/school/ghaziabad/lal-bahadur-shastri-sainik-secondary-school-sector-18-kavi-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/lal-bahadur-shastri-sainik-secondary-school-sector-18-kavi-nagar",
+  "city": "ghaziabad",
+  "name": "Lal Bahadur Shastri Sainik Secondary School - Sector 18,Kavi Nagar ",
+  "scraped_at": "2026-04-28T00:29:37.123317",
+  "html_length": 360877,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 18,Kavi Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-18-kavi-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-18-kavi-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Lal Bahadur Shastri Sainik Secondary School",
+          "item": "https://yellowslate.com/school/ghaziabad/lal-bahadur-shastri-sainik-secondary-school-sector-18-kavi-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Lal Bahadur Shastri Sainik Secondary School - Sector 18,Kavi Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/lal-bahadur-shastri-sainik-secondary-school-sector-18-kavi-nagar",
+      "telephone": "+91 767 814 1750",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "MC7W+JV5, Block E, Sector 18, Kavi Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6640125,
+        "longitude": 77.4472344
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lal Bahadur Shastri Sainik Secondary School - Sector 18,Kavi Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "MC7W+JV5, Block E, Sector 18, Kavi Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/lal-bahadur-shastri-sainik-secondary-school-sector-18-kavi-nagar-sector-18-kavi-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashok Ratan"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I was there for my june 23 ca foundation examinations. My room no. was 8 and i saw a girl there she was on first bench in 2nd row. I don't know her name but trying my best to find her. If u r reading this please dm me on insta @Its_not_ca.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lal Bahadur Shastri Sainik Secondary School - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Keshav Kumar"
+          },
+          "datePublished": "2023-01-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I visit for my exam, here bag and mobile store provide by school to students during examination, all staff and teachers are so polite and kind.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lal Bahadur Shastri Sainik Secondary School - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sumit kumar"
+          },
+          "datePublished": "2020-10-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Can we keep our wallet and phones in the locker here during competitive exams?\n\nDoes it provide locker facilities during exams?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lal Bahadur Shastri Sainik Secondary School - Sector 18,Kavi Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vbio oidv"
+          },
+          "datePublished": "2020-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very old school.....i studied here from 1991-1995.......vinnie handa, mohit Chaudhry, luv -kush twins n ajay -vijay twins, nutan etc were my classmates",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.8",
+  "views": "448",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Sector 18,Kavi Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "1971",
+  "category": "Day Schools",
+  "classes": "600 - 21",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

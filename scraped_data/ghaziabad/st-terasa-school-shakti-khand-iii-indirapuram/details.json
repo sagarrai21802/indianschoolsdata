@@ -1,0 +1,258 @@
+{
+  "slug": "/school/ghaziabad/st-terasa-school-shakti-khand-iii-indirapuram",
+  "url": "https://yellowslate.com/school/ghaziabad/st-terasa-school-shakti-khand-iii-indirapuram",
+  "city": "ghaziabad",
+  "name": "St Terasa School - Shakti Khand III,Indirapuram ",
+  "scraped_at": "2026-04-28T00:13:10.811888",
+  "html_length": 364776,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shakti Khand III,Indirapuram",
+          "item": "https://yellowslate.com/schools/ghaziabad/shakti-khand-iii-indirapuram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/shakti-khand-iii-indirapuram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St Terasa School",
+          "item": "https://yellowslate.com/school/ghaziabad/st-terasa-school-shakti-khand-iii-indirapuram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St Terasa School - Shakti Khand III,Indirapuram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/st-terasa-school-shakti-khand-iii-indirapuram",
+      "telephone": "+91 882 600 0216",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201010, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6468613,
+        "longitude": 77.3707298
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Terasa School - Shakti Khand III,Indirapuram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201010, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/st-terasa-school-shakti-khand-iii-indirapuram-shakti-khand-iii-indirapuram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anuj Sharma"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a very good school. My ward has recently taken admission in the school and within a span of 1 month only he is getting a lot of involvement in a number of scholastic as well as non scholastic activities. The school is providing him a platform for all round development. The teachers and staff here is very supporting.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Terasa School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr.Shraddha Krishna"
+          },
+          "datePublished": "2023-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school having healthy environment, supportive staff and capable faculty. My child have been studying here for two years. None of his previous school was having such dynamic and diverse activities for students development. There are lots of activities students can take part in if they are interested. The students are winning the medals at state and playing at National Level also.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Terasa School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sonal goel"
+          },
+          "datePublished": "2023-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad school....fees is almost at par with school like Amity but the services given are worst....no extra curricular activities are there...any by chance if any happens then it will be done online( parents have to make vedio and send) no stage platform is provided.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Terasa School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Sinha"
+          },
+          "datePublished": "2023-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School Principal, Mr. Khanna and Mr. Gulati is never available and has instructed the admin staff how to avoid or irritate parents so that they will give up meeting with them. Once ur ward is admitted, school will loot u like anything.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Terasa School - Shakti Khand III,Indirapuram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sangita choudhary"
+          },
+          "datePublished": "2022-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Total mismanagement by school...One of the male teacher was misbehaving with parents Totally security lapse... Any one can pick any kid... Security does not know how to behave. Today was the first day which showed the complete failure... Really disappointed. Attaching some pictures of their management :",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://8views.com/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\"
+  ],
+  "rating": "2.6",
+  "views": "522",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Shakti Khand III,Indirapuram",
+  "board": "CBSE\n\nCo",
+  "established": "2006",
+  "category": "Day Schools",
+  "classes": "000 - 99",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg"
+  ]
+}

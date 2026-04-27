@@ -1,0 +1,256 @@
+{
+  "slug": "/school/ghaziabad/holy-angels-public-school-kavi-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/holy-angels-public-school-kavi-nagar",
+  "city": "ghaziabad",
+  "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR ",
+  "scraped_at": "2026-04-28T00:28:10.582615",
+  "html_length": 344939,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "KAVI NAGAR",
+          "item": "https://yellowslate.com/schools/ghaziabad/kavi-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/kavi-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "HOLY ANGELS PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/ghaziabad/holy-angels-public-school-kavi-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/holy-angels-public-school-kavi-nagar",
+      "telephone": "+91 801 002 5096",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Near, Police Station police station, Block D, Near, Kavi Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6721006,
+        "longitude": 77.4522697
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Near, Police Station police station, Block D, Near, Kavi Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/holy-angels-public-school-kavi-nagar-kavi-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gaurav Chaudhary"
+          },
+          "datePublished": "2022-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good.\nPhysics by pk sir\nChemistry by deepa mam and himanshu sir\nEnglish by priyanka mam\nMaths by deepanshu sir.\n\n#tb #Back_2014",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kavita Sagar"
+          },
+          "datePublished": "2019-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school...  But can improve sports facilities by taking childrens to kaladham beside the school... Studies are great\n\nSome teachers are good like\nParul tyagi mam\nPrincipal mam(manorama mam)\nKomal verma mam\nPriyanka rajput mam",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "manorama sirohi"
+          },
+          "datePublished": "2018-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good academic as well as best discipline. Teachers pay attention towards each student with a top most care.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vikas singh"
+          },
+          "datePublished": "2018-05-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good school...they even not have a space for ground....studies are poor....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "HOLY ANGELS PUBLIC SCHOOL - KAVI NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atul Singh"
+          },
+          "datePublished": "2017-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Don't get fooled. Location is wrongly marked. The school doesn't exist here. It exists at Kavinagar. Don't know who has made this place. Tried to remove it, but didn't work.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.4",
+  "views": "440",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "KAVI NAGAR",
+  "board": "CBSE\n\nCo",
+  "established": "1981",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "HOLY ANGELS PUBLIC SCHOOL ?\nAsk a Question\nHOLY ANGELS PUBLIC SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

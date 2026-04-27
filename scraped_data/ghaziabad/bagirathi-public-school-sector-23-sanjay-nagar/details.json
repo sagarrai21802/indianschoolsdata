@@ -1,0 +1,259 @@
+{
+  "slug": "/school/ghaziabad/bagirathi-public-school-sector-23-sanjay-nagar",
+  "url": "https://yellowslate.com/school/ghaziabad/bagirathi-public-school-sector-23-sanjay-nagar",
+  "city": "ghaziabad",
+  "name": "Bagirathi Public School - Sector 23,Sanjay Nagar ",
+  "scraped_at": "2026-04-28T00:33:23.463288",
+  "html_length": 365629,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ghaziabad",
+          "item": "https://yellowslate.com/schools/ghaziabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 23,Sanjay Nagar",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-23-sanjay-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ghaziabad/sector-23-sanjay-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bagirathi Public School",
+          "item": "https://yellowslate.com/school/ghaziabad/bagirathi-public-school-sector-23-sanjay-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bagirathi Public School - Sector 23,Sanjay Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ghaziabad/bagirathi-public-school-sector-23-sanjay-nagar",
+      "telephone": "+91 120 278 5692",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Block B, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+        "addressLocality": "Ghaziabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6974531,
+        "longitude": 77.4511939
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bagirathi Public School - Sector 23,Sanjay Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Block B, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+              "addressLocality": "Ghaziabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ghaziabad/bagirathi-public-school-sector-23-sanjay-nagar-sector-23-sanjay-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nidhi Chakravarty"
+          },
+          "datePublished": "2023-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic school! The teachers are Professional, caring and well organized. They are always smiling and ready to assist to make job as parents easier.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bagirathi Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Himanshu Saxena"
+          },
+          "datePublished": "2023-01-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A positive school climate and climate is one where individuals feel valued, cared for and respected. Such an atmosphere contributes to effective teaching and learning and to genuine communication, both within and outside the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bagirathi Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek Rana"
+          },
+          "datePublished": "2023-01-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "That the environment of the school is so good and every one is so cooperative and it has good library where we can spent our valuable time by reading books.\nThe teachers of the school are also one of the best as they teaches the topic very thoroughly and focus on each and every student in the class.\nSo i recommend that the student can get the admission there and get good education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bagirathi Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yashika"
+          },
+          "datePublished": "2023-01-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is one of the best schools I have ever seen with respect to teaching services or administration or management. At any point of time, if we have any query, the management team is on top of resolving it as soon as possible.\nThe interesting part of this school is in spite of good number of students there are corresponding number of well trained teachers. Would definitely recommend to the parents looking for best education for their children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bagirathi Public School - Sector 23,Sanjay Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pulkit Chauhan"
+          },
+          "datePublished": "2022-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The administration is open minded and think outside the box to make Bhagirath Public School a successful educational experience for the students. Bhagirath Public School is committed to the whole child. They teach value lessons, communication and leadership skills",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172691186417669868066ee95785a4fb1726911864.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "5.0",
+  "views": "444",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 23,Sanjay Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "1975",
+  "category": "Day Schools",
+  "classes": "600 - 33",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/33-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

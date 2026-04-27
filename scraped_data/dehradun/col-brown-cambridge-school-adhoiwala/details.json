@@ -1,0 +1,371 @@
+{
+  "slug": "/school/dehradun/col-brown-cambridge-school-adhoiwala",
+  "url": "https://yellowslate.com/school/dehradun/col-brown-cambridge-school-adhoiwala",
+  "city": "dehradun",
+  "name": "Col Brown Cambridge School - Adhoiwala ",
+  "scraped_at": "2026-04-27T23:24:24.208295",
+  "html_length": 367088,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Adhoiwala",
+          "item": "https://yellowslate.com/schools/dehradun/adhoiwala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/dehradun/adhoiwala/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Col Brown Cambridge School",
+          "item": "https://yellowslate.com/school/dehradun/col-brown-cambridge-school-adhoiwala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Col Brown Cambridge School - Adhoiwala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525522617387884066d54e3a0ea1e1725255226.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/col-brown-cambridge-school-adhoiwala",
+      "telephone": "+91 639 511 4363",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "5 Kasturba Road, Dalanwala, Dehradun, Uttarakhand",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3223643,
+        "longitude": 78.0571359
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "5 Kasturba Road, Dalanwala, Dehradun, Uttarakhand",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/col-brown-cambridge-school-adhoiwala-adhoiwala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "51"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rinkal Kinra"
+          },
+          "datePublished": "2024-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dnt spoil life of your son, school is full of snakes. They dnt care about your kids. School is full of rajputs and gurjars. A lot of bulling in the school. Nobody will take action, principal and procter both are just dummy. If you want your kid to face depression then you can choose this third class school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AKSHIT KALRA 5280"
+          },
+          "datePublished": "2023-12-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Everything was amazing",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Tyagi"
+          },
+          "datePublished": "2023-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best boarding school one can choose from. Where the concentration is always on leading with overall upbringing of the child in addition to academics. 👏👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Acc LS"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Yadav"
+          },
+          "datePublished": "2022-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing hostel life",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "gangadhar Chauhan"
+          },
+          "datePublished": "2022-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Global Musafir"
+          },
+          "datePublished": "2021-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best place I have ever lived at..Best for a child's overall personality",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Affan Azam"
+          },
+          "datePublished": "2021-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kuldeep Panwar"
+          },
+          "datePublished": "2021-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Col Brown Cambridge School - Adhoiwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bob Kumar"
+          },
+          "datePublished": "2021-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome place to study.From junior to Senior school.I left in 1978.In those days Dehra Dun was less polluted and crowded.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525522617387884066d54e3a0ea1e1725255226.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525522617387884066d54e3a0ea1e1725255226.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525522617387884066d54e3a0ea1e1725255226.jpg\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id="
+  ],
+  "rating": "4.6",
+  "views": "180",
+  "reviews_count": "51",
+  "phone": "+919513238818",
+  "locality": "Adhoiwala",
+  "board": "ICSE\n\nCo",
+  "established": "1926",
+  "category": "Boarding Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1725255195115483783166d54e1bd98551725255196.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525522617387884066d54e3a0ea1e1725255226.jpg"
+  ]
+}

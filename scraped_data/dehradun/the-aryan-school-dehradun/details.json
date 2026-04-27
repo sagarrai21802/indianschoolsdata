@@ -1,0 +1,372 @@
+{
+  "slug": "/school/dehradun/the-aryan-school-dehradun",
+  "url": "https://yellowslate.com/school/dehradun/the-aryan-school-dehradun",
+  "city": "dehradun",
+  "name": "The Aryan School - Dehradun ",
+  "scraped_at": "2026-04-27T23:23:32.929030",
+  "html_length": 375451,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Aryan School",
+          "item": "https://yellowslate.com/school/dehradun/the-aryan-school-dehradun"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Aryan School - Dehradun",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140287142010145766e2cf7f337391726140287.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/the-aryan-school-dehradun",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "The Aryan School, Mussoorie Rd, Malsi, Dehradun, Sinaula, Uttarakhand 248009",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3789676,
+        "longitude": 78.0725153
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "The Aryan School, Mussoorie Rd, Malsi, Dehradun, Sinaula, Uttarakhand 248009",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/the-aryan-school-dehradun-dehradun-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "91"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya"
+          },
+          "datePublished": "2024-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "What the actual hell!!!! They are so swift with theft!!!! I should have checked Google reviews prior , the staff are professional theifs and don't even talk about their principal very arrogant maybe her whole personality revolves around money 🙄\nThey literally took 16k for a paper that had absolutely no need of . They are scamming beggars if you want your money and children safe do not step a foot in this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manan Bansal"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School education is good but principal of this school is worst . Don't go with infrastructure. They are just attracting people. Teachers here are good but wardens of this  boarding are worst.Strictness is too much. If you want to keep your child safe so don't get your children admission into this school. The worst secret about this school is if they are not getting new admissions so they will go to other places and influence other people to come to our school. Their is no difference between a beggar and school staff who are begging for students to come. Highly recommend not to join school if you want save your future",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumitra Thapa"
+          },
+          "datePublished": "2024-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First school..Greedy. Low education  level. Unsafe. Please do not waste your monet on this school. Worst",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhruv Tanwar"
+          },
+          "datePublished": "2024-04-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Tati school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mei"
+          },
+          "datePublished": "2024-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "not nice school :(\nmakes me sad\nprincipal not nice :((",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jagjyot SINGH"
+          },
+          "datePublished": "2024-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Aryan school nurtures the child's love for learning. The dedication by the Principal, teachers and house parents is commendable for the development of the child. The child feels safe and supported at this school. From extracurricular activities to academics the school assists in exploring a multitude of skills and activities. The school helps to find the passion of the child and alter their personalities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aradhana Pande"
+          },
+          "datePublished": "2024-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school's purpose as an institution is to groom and nurture students to become responsible , compassionate and educated individuals of the society. The Aryan School  embodies those principles and it reflects in the values of the students.The staff and the management play a vital role  in upholding this system and their co- operation and hard work makes the institution a remarkable testament of what an educational institution can achieve.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Veena Singh"
+          },
+          "datePublished": "2024-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nothing is more beautiful than children-the most precious gift of God. The Aryan School works for the all round development of the students which give them the confidence and courage to live life to the fullest.. a special word of appreciation for the Principal, the hardworking staff and management for their continued support and cooperation...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rima Roy"
+          },
+          "datePublished": "2024-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Aryan school is one of the well known school in Dehradun, which provide holistic learning experience for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Aryan School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandra lekha Negi"
+          },
+          "datePublished": "2024-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Aryan School offers a unique environment that fosters academic excellence beyond classroom hours. The structured study environment, well experienced and dedicated teaching staff in the school makes the students focus on their academics. Living on a beautiful campus allows the students to immerse themselves in a holistic environment where distractions are minimized by combining the studies with sports and co-curricular activities. This helps the student to excel in every field in life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140510202077648866e2d05e58a3d1726140510.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140287142010145766e2cf7f337391726140287.jpg",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140287142010145766e2cf7f337391726140287.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140287142010145766e2cf7f337391726140287.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id="
+  ],
+  "rating": "4.2",
+  "views": "192",
+  "reviews_count": "91",
+  "phone": "+919513238818",
+  "locality": "Dehradun",
+  "board": "ICSE\n\nCo",
+  "established": "2001",
+  "category": "Boarding Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140287142010145766e2cf7f337391726140287.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/172614020489102057566e2cf2ca8d2c1726140205.jpg"
+  ]
+}

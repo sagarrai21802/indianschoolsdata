@@ -1,0 +1,375 @@
+{
+  "slug": "/school/dehradun/welham-boyaposs-school-dalanwala",
+  "url": "https://yellowslate.com/school/dehradun/welham-boyaposs-school-dalanwala",
+  "city": "dehradun",
+  "name": "Welham Boy&apos;s School - Dalanwala ",
+  "scraped_at": "2026-04-27T23:22:12.333335",
+  "html_length": 396211,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dalanwala",
+          "item": "https://yellowslate.com/schools/dehradun/dalanwala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/dehradun/dalanwala/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Welham Boy&Apos;S School",
+          "item": "https://yellowslate.com/school/dehradun/welham-boyaposs-school-dalanwala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Welham Boy&apos;s School - Dalanwala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254600148713705466d54bc860c9d1725254600.JPG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/welham-boyaposs-school-dalanwala",
+      "telephone": "+91 897 954 4955",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "5, Circular Road, Dalanwala, Dehradun, Uttarakhand",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.31422,
+        "longitude": 78.056537
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "5, Circular Road, Dalanwala, Dehradun, Uttarakhand",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/welham-boyaposs-school-dalanwala-dalanwala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "64"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunita Yadav"
+          },
+          "datePublished": "2024-07-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school with wonderful staff, surrounding and incomplete without exhilarating students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiran jaiswal. Jaiswal"
+          },
+          "datePublished": "2024-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well maintained neat and clean green grounds , nice qualified teacher's. Well behaved Good staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anima singh"
+          },
+          "datePublished": "2024-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall a good school!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Archana Koushik"
+          },
+          "datePublished": "2024-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Didn’t pick up my phone call",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saurabh Agrawal"
+          },
+          "datePublished": "2024-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Youvaj Bisht"
+          },
+          "datePublished": "2023-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good hotel",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "krishan gopalka"
+          },
+          "datePublished": "2023-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Son Sayyam grade 8th was ragged by seniors and was hit several time inside the school.\nIt is really hard to live with lots of fear and torture. I have to take him out after several complains and mishappenings with my precious 13 yrs  son.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sachet Prakash"
+          },
+          "datePublished": "2023-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Better than a lot of schools",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Supriyo Mukherjee"
+          },
+          "datePublished": "2023-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "wonderful ambiance,students were playing when we visited the place at 4 ish.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Boy&apos;s School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nails by Anju"
+          },
+          "datePublished": "2023-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "WBS is wonderful place to live in, chlidren learn everything in the environment of Welham. Ones the welhamite is always the welhamite",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "oxfordschoolofexcellence@gmail.com"
+  ],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254600148713705466d54bc860c9d1725254600.JPG",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254600148713705466d54bc860c9d1725254600.JPG\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254600148713705466d54bc860c9d1725254600.JPG\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id="
+  ],
+  "rating": "4.4",
+  "views": "182",
+  "reviews_count": "64",
+  "phone": "+919513238818",
+  "locality": "Dalanwala",
+  "board": "CBSE\n\nOnly Boys School\n\nAbout Welham Boy",
+  "established": "1937",
+  "category": "Boarding Schools",
+  "classes": "000 - 950",
+  "gender": "Boys",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254600148713705466d54bc860c9d1725254600.JPG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/172525458666895989266d54bbac53e41725254587.JPG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg"
+  ]
+}

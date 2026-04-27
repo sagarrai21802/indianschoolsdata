@@ -1,0 +1,375 @@
+{
+  "slug": "/school/dehradun/welham-girls-school-dalanwala",
+  "url": "https://yellowslate.com/school/dehradun/welham-girls-school-dalanwala",
+  "city": "dehradun",
+  "name": "Welham Girls School - Dalanwala ",
+  "scraped_at": "2026-04-27T23:22:51.762142",
+  "html_length": 372818,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dalanwala",
+          "item": "https://yellowslate.com/schools/dehradun/dalanwala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/dehradun/dalanwala/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Welham Girls School",
+          "item": "https://yellowslate.com/school/dehradun/welham-girls-school-dalanwala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Welham Girls School - Dalanwala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525661858121366366d553aa52b8f1725256618.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/welham-girls-school-dalanwala",
+      "telephone": "+91 135 265 4754",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No. 19 - Municipal Road, Dalanwala, Dehradun, Uttarakhand",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3171665,
+        "longitude": 78.0582411
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No. 19 - Municipal Road, Dalanwala, Dehradun, Uttarakhand",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/welham-girls-school-dalanwala-dalanwala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "64"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gajendra Asthana"
+          },
+          "datePublished": "2024-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the finest schools in India",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nicole997"
+          },
+          "datePublished": "2024-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Welham College First Day 2028 June 1st year\nMy Name Is Nicole M Shroff DarUlKhalil 2ndFloor Colaba Causeway S.B.Road 40000001",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nirman Sing"
+          },
+          "datePublished": "2024-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pl stop this",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Joshua Daniel Naya"
+          },
+          "datePublished": "2024-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is \"Lucky\" to talented students but few of the staff members in junior sections are not good on teaching skills. I hope school get some working on it. It's a legacy school which I understand.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arav Singh"
+          },
+          "datePublished": "2024-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice girls with nice beard",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "doon publish"
+          },
+          "datePublished": "2024-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SUMAN DEB"
+          },
+          "datePublished": "2023-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wellams Girls School is like a 2nd home for my daughter.....In my childhood I always dreamt of such type of school....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "prabhat negi"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "World famous girls' school at Dehradun",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kuldeep singh"
+          },
+          "datePublished": "2023-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A well-known reputed girls only boarding school in Dehradun",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Welham Girls School - Dalanwala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nikhil bisht"
+          },
+          "datePublished": "2023-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Beautiful and gorgeous 🥰 girls",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "oxfordschoolofexcellence@gmail.com"
+  ],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525661858121366366d553aa52b8f1725256618.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525661858121366366d553aa52b8f1725256618.jpg\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525661858121366366d553aa52b8f1725256618.jpg",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id="
+  ],
+  "rating": "4.6",
+  "views": "218",
+  "reviews_count": "64",
+  "phone": "+919513238818",
+  "locality": "Dalanwala",
+  "board": "ICSE\n\nOnly Girls School\n\nAbout Welham Girls School\nEnquire Now\n\nWelham Girls",
+  "established": "1957",
+  "category": "Boarding Schools",
+  "classes": "000 - 850",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525661858121366366d553aa52b8f1725256618.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1725256601158884576766d553999fe5f1725256602.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg"
+  ]
+}

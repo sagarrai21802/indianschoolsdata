@@ -1,0 +1,371 @@
+{
+  "slug": "/school/dehradun/the-doon-school-dehradun",
+  "url": "https://yellowslate.com/school/dehradun/the-doon-school-dehradun",
+  "city": "dehradun",
+  "name": "The Doon School - Dehradun ",
+  "scraped_at": "2026-04-27T23:26:21.425009",
+  "html_length": 369496,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Doon School",
+          "item": "https://yellowslate.com/school/dehradun/the-doon-school-dehradun"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Doon School - Dehradun",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525653841427535466d5535a509c41725256538.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/the-doon-school-dehradun",
+      "telephone": "+91 971 963 8840",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Mall Road, Krishna Nagar, Dehradun, Uttarakhand",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3363183,
+        "longitude": 78.0342622
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Mall Road, Krishna Nagar, Dehradun, Uttarakhand",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/the-doon-school-dehradun-dehradun-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nitish kumar"
+          },
+          "datePublished": "2024-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "one of my friend studied here, and he himself keep saying that this is not good place for child",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Q J"
+          },
+          "datePublished": "2024-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great but very strict like my son came crying",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratik Saraogi"
+          },
+          "datePublished": "2024-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Top",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A.K RANJAN"
+          },
+          "datePublished": "2024-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in India and top ranking",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "manoj chef"
+          },
+          "datePublished": "2024-04-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "prabhat negi"
+          },
+          "datePublished": "2024-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "World famous school at Dehradun",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vasim khan"
+          },
+          "datePublished": "2024-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hood",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akalakh Akalakh"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school with decent staff.. happy to visit..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sanjay singhaniya"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in India...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Doon School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pundir .vinay"
+          },
+          "datePublished": "2024-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525653841427535466d5535a509c41725256538.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525653841427535466d5535a509c41725256538.jpg\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525653841427535466d5535a509c41725256538.jpg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818"
+  ],
+  "rating": "4.3",
+  "views": "266",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Dehradun",
+  "board": "IB, ICSE, IGCSE\n\nCo",
+  "established": "1935",
+  "category": "Boarding Schools",
+  "classes": "7 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1725256546151053836566d55362576e61725256546.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172525653841427535466d5535a509c41725256538.jpg"
+  ]
+}

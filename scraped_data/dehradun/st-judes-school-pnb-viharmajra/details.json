@@ -1,0 +1,371 @@
+{
+  "slug": "/school/dehradun/st-judes-school-pnb-viharmajra",
+  "url": "https://yellowslate.com/school/dehradun/st-judes-school-pnb-viharmajra",
+  "city": "dehradun",
+  "name": "St. Judes School - PNB Vihar,Majra ",
+  "scraped_at": "2026-04-27T23:21:29.564809",
+  "html_length": 364556,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNB Vihar,Majra",
+          "item": "https://yellowslate.com/schools/dehradun/pnb-viharmajra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/dehradun/pnb-viharmajra/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Judes School",
+          "item": "https://yellowslate.com/school/dehradun/st-judes-school-pnb-viharmajra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Judes School - PNB Vihar,Majra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254754147492672966d54c62eabd41725254755.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/st-judes-school-pnb-viharmajra",
+      "telephone": "+91 9837054166",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "West Canal Road, Majra, Dehradun, Uttarakhand",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.2891658,
+        "longitude": 77.9944407
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "West Canal Road, Majra, Dehradun, Uttarakhand",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/st-judes-school-pnb-viharmajra-pnb-viharmajra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "129"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srishti Devrari"
+          },
+          "datePublished": "2024-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I've completed my 13 year long journey from here. I'm equally proud and overwhelmed for leaving sjs 😭❤ Once a thaddeusian always a thaddeusian 🧿🤞",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek J"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Dehradun",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Janvi Nawal"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nyc school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sa vi"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best school I have ever seen in dehradun.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yash Singh Saini"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Goated school in this area\nSt. Jude's School is an exceptional institution that nurtures both academic excellence and holistic development. The dedicated faculty is deeply invested in each student's success, providing a supportive and inspiring learning environment.\n\nChat gpt se likhyaya bhai\n++ The mirror in new washroom best to take selfies and for now atleast the toilets are becoming slightly clean (( men's)) coz iam a Batman\n\nGoated to meet some gr8 friends and teachers\n\nKhayali sir mr rakesh is one of the best and are totally cooking 🔪🐢\n\nLadai hona to roz ka hogya hai but maze bahot aate hai 😺😺💯\n\nSimps are also found everywhere in this gangstar's paradise",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shanky ladwa"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushi Sunhare"
+          },
+          "datePublished": "2024-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the best and the oldest school in doon.There are high qualified teachers,infrastructure is good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kalpana payal"
+          },
+          "datePublished": "2024-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jasomati 1985"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Bad School, Principal is a crazy lady with no manners to talk.\nTeaching method is outdated.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Judes School - PNB Vihar,Majra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SUNNY GUPTA"
+          },
+          "datePublished": "2024-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "WORST SCHOOL I HAVE EVER SEEN , PRINCIPAL IS VERY POLITE AT THE TIME OF ADMISSION BUT SHOWS HER ORIGINAL COLOR AFTER THAT",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254754147492672966d54c62eabd41725254755.jpg\\\\\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254754147492672966d54c62eabd41725254755.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254754147492672966d54c62eabd41725254755.jpg",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://8views.com/",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id="
+  ],
+  "rating": "4.2",
+  "views": "260",
+  "reviews_count": "129",
+  "phone": "+919513238818",
+  "locality": "PNB Vihar,Majra",
+  "board": "ICSE\n\nCo",
+  "established": "1994",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1725254739154919020666d54c53aa1df1725254740.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1725254754147492672966d54c62eabd41725254755.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg"
+  ]
+}

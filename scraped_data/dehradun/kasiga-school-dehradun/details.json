@@ -1,0 +1,374 @@
+{
+  "slug": "/school/dehradun/kasiga-school-dehradun",
+  "url": "https://yellowslate.com/school/dehradun/kasiga-school-dehradun",
+  "city": "dehradun",
+  "name": "Kasiga School - Dehradun ",
+  "scraped_at": "2026-04-27T23:25:30.070428",
+  "html_length": 369931,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kasiga School",
+          "item": "https://yellowslate.com/school/dehradun/kasiga-school-dehradun"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kasiga School - Dehradun",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139689138652670566e2cd293491e1726139689.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/kasiga-school-dehradun",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Off Dehradun - Mussoorie Highway, Village, Purkul Rd, Dehradun, Uttarakhand 248009",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4008011,
+        "longitude": 78.0605579
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Off Dehradun - Mussoorie Highway, Village, Purkul Rd, Dehradun, Uttarakhand 248009",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/kasiga-school-dehradun-dehradun-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "85"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suhani pandey"
+          },
+          "datePublished": "2024-07-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kasiga School is an excellent CBSE boarding school in Dehradun. It offers top-notch facilities, dedicated teachers, and a supportive environment. Highly recommended for quality education and overall development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikita Patel"
+          },
+          "datePublished": "2024-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very Bad experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek Khali"
+          },
+          "datePublished": "2024-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Far from the madding crowd, scenic beauty and well kept gardens",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AshSidd"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Average school bad people",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Yadav"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandsi Javed"
+          },
+          "datePublished": "2024-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had an exceptional experience at Kasiga School in Dehradun. The infrastructure is impressive, offering a conducive environment for learning, and the staff is truly wonderful. Overall, I highly recommend it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Singh"
+          },
+          "datePublished": "2024-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As an educator from another organization, I have observed with great admiration the distinctive educational approach of The Kāsiga School. This institution seamlessly intertwines modern education with robust traditional foundations, creating a unique and enriching learning environment under the guidance of expert faculty.\n\nWhat sets The Kāsiga School apart is not only its commitment to academic excellence but also its outstanding pastoral care system. The school prioritizes the holistic well-being of students, fostering an environment where they can thrive academically and personally.\n\nThe school's commitment to providing top-notch facilities is evident in its impressive infrastructure, setting a noteworthy standard within its category. These facilities not only support modern educational practices but also contribute significantly to the overall student experience.\n\nIn the realm of extracurricular activities, The Kāsiga School is a standout. Boasting exceptional sporting facilities, it ranks among the best in its class. This emphasis on sports aligns with a holistic approach to education, promoting physical fitness and teamwork.\n\nFurthermore, the school's dedication to cultivating 21st-century skills is evident in its curriculum. Beyond traditional education, there is a deliberate effort to prepare students for the complexities of the modern world, creating a well-rounded educational experience.\n\nThe integration of diverse activities and hobbies is a testament to the school's commitment to nurturing individual talents and interests. This approach ensures that students have ample opportunities to explore and develop their skills beyond the academic realm.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjum Hafeez"
+          },
+          "datePublished": "2024-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "10 out of 10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "alka singh"
+          },
+          "datePublished": "2024-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kasiga School, Dehradun, situated in the lap of Himalayas, is shaping the future of children with great dedication in the presence of its promising teachers in a healthy and pure environment. High level guidance, conduct and personality development is being provided to the children by the school administration. Best wishes for a\nbright future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kasiga School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rishabh Chauhan"
+          },
+          "datePublished": "2024-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I really like how easy it is to get to both indoor and outdoor activities here. The sports center has a football field, a cricket stadium, a swimming pool, a tennis court, and a gym for overall physical fitness. I interacted with the vice principal regarding my queries and I have to say I was greatly impressed by her personality and hospitality.\nStudents also get a huge library and professional musicians as their music and singing instructors.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139689138652670566e2cd293491e1726139689.jpg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140254125923251366e2cf5e914821726140255.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139689138652670566e2cd293491e1726139689.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140510202077648866e2d05e58a3d1726140510.jpg\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139689138652670566e2cd293491e1726139689.jpg\\\\\\"
+  ],
+  "rating": "3.9",
+  "views": "215",
+  "reviews_count": "85",
+  "phone": "+919513238818",
+  "locality": "Dehradun",
+  "board": "CBSE\n\nCo",
+  "established": "2007",
+  "category": "Boarding Schools",
+  "classes": "4 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Kasiga School ?\nAsk a Question\nKasiga School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139689138652670566e2cd293491e1726139689.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/172613967688060178466e2cd1c776961726139676.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726140510202077648866e2d05e58a3d1726140510.jpg"
+  ]
+}

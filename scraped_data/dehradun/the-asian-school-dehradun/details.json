@@ -1,0 +1,375 @@
+{
+  "slug": "/school/dehradun/the-asian-school-dehradun",
+  "url": "https://yellowslate.com/school/dehradun/the-asian-school-dehradun",
+  "city": "dehradun",
+  "name": "The Asian School - Dehradun ",
+  "scraped_at": "2026-04-27T23:26:08.229966",
+  "html_length": 369821,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dehradun",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/dehradun/dehradun/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Asian School",
+          "item": "https://yellowslate.com/school/dehradun/the-asian-school-dehradun"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Asian School - Dehradun",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139605196254751266e2ccd5504b31726139605.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/dehradun/the-asian-school-dehradun",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Asian Acres, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+        "addressLocality": "Dehradun",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3226241,
+        "longitude": 78.0052917
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Asian Acres, Vasant Vihar, Indra Nagar Colony, Dehradun, Uttarakhand 248006",
+              "addressLocality": "Dehradun",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/dehradun/the-asian-school-dehradun-dehradun-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bittu Dagar"
+          },
+          "datePublished": "2024-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school only",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arvind Gusain"
+          },
+          "datePublished": "2024-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Exllent school of Uttarakhand",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suneel singh"
+          },
+          "datePublished": "2024-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There are no combat sports tournaments like boxing, mma ,kickboxing in the school there should be some tournaments because they have mentioned it in the the admission catalog",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mithi Upadhyaya"
+          },
+          "datePublished": "2024-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school 🎒",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suresh Prasad"
+          },
+          "datePublished": "2024-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am Mayank I liked it a lot",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kaushalya Devi"
+          },
+          "datePublished": "2024-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school with a beautiful campus",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Konika Bhatia"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Asian School delivers a well-rounded education and top-notch facilities. Our child is excelling both academically and personally.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikita Kumari"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had a memorable time at The Asian School. Great education and lifelong friends!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sakshi Dhiman"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our child has had an incredible experience at The Asian School. The supportive environment and excellent education are truly commendable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Asian School - Dehradun"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Patial"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great mix of academics and activities at The Asian School. I thoroughly enjoyed my time there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139605196254751266e2ccd5504b31726139605.jpg\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139605196254751266e2ccd5504b31726139605.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139688159051184766e2cd28f34161726139689.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139605196254751266e2ccd5504b31726139605.jpg",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172614033123231695666e2cfab93e911726140332.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818"
+  ],
+  "rating": "3.9",
+  "views": "176",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Dehradun",
+  "board": "CBSE\n\nCo",
+  "established": "2000",
+  "category": "Boarding Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139605196254751266e2ccd5504b31726139605.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/09/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1726139588161585073166e2ccc4a3d691726139589.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1726139688159051184766e2cd28f34161726139689.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/172614033123231695666e2cfab93e911726140332.jpg"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "slug": "/school/mumbai/ramsheth-thakur-public-school-sector-19-kharghar",
+  "url": "https://yellowslate.com/school/mumbai/ramsheth-thakur-public-school-sector-19-kharghar",
+  "city": "mumbai",
+  "name": "Ramsheth Thakur Public School - Sector-19,Kharghar ",
+  "scraped_at": "2026-04-27T22:55:45.163574",
+  "html_length": 360118,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector-19,Kharghar",
+          "item": "https://yellowslate.com/schools/mumbai/sector-19-kharghar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/mumbai/sector-19-kharghar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ramsheth Thakur Public School",
+          "item": "https://yellowslate.com/school/mumbai/ramsheth-thakur-public-school-sector-19-kharghar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ramsheth Thakur Public School - Sector-19,Kharghar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/ramsheth-thakur-public-school-sector-19-kharghar",
+      "telephone": "+91 2227744410",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No. 11, 21, Central Park Metro Rd, Sector-19, Kharghar, Navi Mumbai, Maharashtra 410210, India",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.0485334,
+        "longitude": 73.0757407
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramsheth Thakur Public School - Sector-19,Kharghar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No. 11, 21, Central Park Metro Rd, Sector-19, Kharghar, Navi Mumbai, Maharashtra 410210, India",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/ramsheth-thakur-public-school-sector-19-kharghar-sector-19-kharghar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Varsha Marne"
+          },
+          "datePublished": "2023-08-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There are some services like canteen,loud speaker not working and fans not working.But, well we all know that we are going there for education and its the best in that school.Its some services are not good but its good for our child.Its Expensive but good for performance of teachers and students. My child had good marks but lot of studies and that is good also for HDI. So , its a good shool for education. Thank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramsheth Thakur Public School - Sector-19,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Tiwari"
+          },
+          "datePublished": "2023-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very harassing school....u even can't communicate with the principal whenever u face any problem from the school staff because she neither meets you nor replying mail or messages on WhatsApp\nAnother thing my kid is in Jr. Kg in this school and here teachers just teach the things which are very normal like A,B,C... even parents teach there student at home but they don't teach the things which are based on reasoning just like apple starts from a, boy starts from b.....all worksheets chapter are given as homework.\nThey give lots and lots of homework to kids.\nParents need to teach everything not teachers.... teachers just tell what to guide your kid",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramsheth Thakur Public School - Sector-19,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anusmriti Paul"
+          },
+          "datePublished": "2023-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best cbse school for all the students from preschool to 12th . Safest school for girls",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramsheth Thakur Public School - Sector-19,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavya Joshi"
+          },
+          "datePublished": "2023-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rtps is good till 8th .won't suggest any parent to send their children who r studying BTW 9 - 12th std . Pathetic pressure on students .unnecessary  exams being conducted even when the portion isn't completed . My brother who just passed out 12th he also said the same thing that the school was good till 8th std . U will spoil ur life if u study for 9 th ,  10th,11th and 12th in this school. And those guys who are going to take integrated take it at ur own risk. wud suggest the parents that if their  child opts for jee/ neet go for other coaching classes like Allen or pw but pls don't put them in the coaching class which has tied up with rtps. If u touch the smart board also u wud b landing to the principals office . I mean what the hell.  Just bcos we touched a smart board v will be punished .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramsheth Thakur Public School - Sector-19,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpa Salunkhe"
+          },
+          "datePublished": "2023-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school all the teachers are lovely . taken online classes in Covid and I saw the hard work of the teachers to learn in a very systematic manner. Thanks to Lata ma'am, taught the children very well. I am very happy to see my daughter's progress.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "3.2",
+  "views": "509",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "19,Kharghar",
+  "board": "CBSE\n\nCo",
+  "established": "2009",
+  "category": "Day Schools",
+  "classes": "000 - 48",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "/school/mumbai/d-a-v-international-school-sector-16-kharghar",
+  "url": "https://yellowslate.com/school/mumbai/d-a-v-international-school-sector-16-kharghar",
+  "city": "mumbai",
+  "name": "D A V International School - Sector 16,Kharghar ",
+  "scraped_at": "2026-04-27T22:54:00.274259",
+  "html_length": 356178,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 16,Kharghar",
+          "item": "https://yellowslate.com/schools/mumbai/sector-16-kharghar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/mumbai/sector-16-kharghar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "D A V International School",
+          "item": "https://yellowslate.com/school/mumbai/d-a-v-international-school-sector-16-kharghar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "D A V International School - Sector 16,Kharghar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/d-a-v-international-school-sector-16-kharghar",
+      "telephone": "+91 222 774 3557",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "PRIME ROSE, Plot No. 31, Vastu Vihar Rd, स्पघेत्ती हाउसिंग कॉम्प्लेक्स, सेक्टर 15, खारघर, नवी मुंबई, महाराष्ट्र 410210, India",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.0459014,
+        "longitude": 73.0816574
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "D A V International School - Sector 16,Kharghar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "PRIME ROSE, Plot No. 31, Vastu Vihar Rd, स्पघेत्ती हाउसिंग कॉम्प्लेक्स, सेक्टर 15, खारघर, नवी मुंबई, महाराष्ट्र 410210, India",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/d-a-v-international-school-sector-16-kharghar-sector-16-kharghar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atharva Bhoir"
+          },
+          "datePublished": "2023-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "D.A.V International School..There's no scope for co-scholastic activities like cricket,basketball..there is only one ground of school..that too is too small...only football is played on that ground..only individual sports from this school have reached the higher levels in sports...not even a single team sport have reached a high level...just played at district..very bad school..please don't enroll your kids in this school..their future will be bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "D A V International School - Sector 16,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "studies account"
+          },
+          "datePublished": "2023-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers here do not care about students at all including the principal. Taunts by Mrs Mani shrivastav are very unprofessional and should not be given to students which is really negative postion to be in.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "D A V International School - Sector 16,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dwitika Nikumbh"
+          },
+          "datePublished": "2023-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My own favorite school because I am studying there\nThank you my school ❤❤",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "D A V International School - Sector 16,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Krishnaprasad"
+          },
+          "datePublished": "2021-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two children studying in 10th and 12th in DAV since nursery. Very good school. Teaching is excellent. Teachers are very caring and supportive,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "D A V International School - Sector 16,Kharghar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saba Memon"
+          },
+          "datePublished": "2021-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I don’t understand how people are rating this school as 3 or 4 stars.\nThis school doesn’t even deserve 0.5 of a star.\nIts the worst school with pathetic management and teachers who are rude as hell and are just there to make a student’s life pathetic.\nThey literally humiliate students, and torture them.\nMake them do embarrassing things infront of people as a punishment.\nThe principal is extremely rude and the supervisors, dont even get me started on that.\nThis school should literally not exist.\nIf you want to make yourself suicidal, go here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "2.6",
+  "views": "377",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 16,Kharghar",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "000 - 80",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "slug": "/school/mumbai/mindseed-preschool-daycare-khanda-colony-panvel",
+  "url": "https://yellowslate.com/school/mumbai/mindseed-preschool-daycare-khanda-colony-panvel",
+  "city": "mumbai",
+  "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel ",
+  "scraped_at": "2026-04-27T22:52:51.165819",
+  "html_length": 411559,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Panvel",
+          "item": "https://yellowslate.com/schools/mumbai/panvel"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/mumbai/panvel/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mindseed Preschool & Daycare - Khanda Colony",
+          "item": "https://yellowslate.com/school/mumbai/mindseed-preschool-daycare-khanda-colony-panvel"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175749709076912931368c14702270ad1757497090.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/mindseed-preschool-daycare-khanda-colony-panvel",
+      "telephone": "+912048533120",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Row House 35, Opp Satara Bank, Sector 8, Khanda Colony, New Panvel, Navi Mumbai –410206, Maharashtra, India.",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.9894007,
+        "longitude": 73.1175162
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Row House 35, Opp Satara Bank, Sector 8, Khanda Colony, New Panvel, Navi Mumbai –410206, Maharashtra, India.",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/mindseed-preschool-daycare-khanda-colony-panvel-panvel-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "11"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arti Pachbhai"
+          },
+          "datePublished": "2023-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's really good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhanesh"
+          },
+          "datePublished": "2023-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent, I personally recommend Mindseed Preschool. The classrooms are conducive to learning, and the teachers are dedicated and supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anagha Bhide"
+          },
+          "datePublished": "2022-12-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Mindseed preschool offers a safe,encouraging and rich environment for children to learn. Thankyou mindseed.\n\nA great sports day was organized yesterday with sports that had creative activities with educational values.\n\nThanks to the whole team for good organization of the event.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kakoli laskar"
+          },
+          "datePublished": "2022-12-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are taking very good care of the childrens... Great learning experience for kids... Thanks to all teachers and management staff ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prina Mehta"
+          },
+          "datePublished": "2022-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My niece admission was getting very tiring because of her age. Even we were not able to find out schools with good Curriculum Mindseed preschool un khanda colony has good infrastructure with experienced staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ananya Bhattacharjee"
+          },
+          "datePublished": "2022-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is absolutely a safe place were children's learn many things and enjoy many activities teachers are all friendly 🙂",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kendra Thakur"
+          },
+          "datePublished": "2022-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice activity setup and good teaching techniques",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Gupta"
+          },
+          "datePublished": "2022-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school team full of so much of enthusiasm to take care of each and every minute details of my child. It's the best Preschool & Daycare in the vicinity. The learning methods with best quality activity materials, makes the school stand out!! It has 2 play areas- Outdoor and indoor as well, which is an added advantage!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mary Rajan"
+          },
+          "datePublished": "2022-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Loved the experience...my son enjoyed his schooling ...still misses it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed Preschool & Daycare - Khanda Colony - Panvel"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shifa Khatibbvf"
+          },
+          "datePublished": "2022-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best preschool I have seen in Panvel",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.youtube.com/embed/_SYhSUR-o_o\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175749709076912931368c14702270ad1757497090.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1685617436130689139864787b1c464a61685617436.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.youtube.com/embed/PSmjSGODYow\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175749709076912931368c14702270ad1757497090.jpg\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.youtube.com/embed/Vc7_F0dggwo\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15978219075404309835f3cd3d3aa1321597821908.PNG\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.youtube.com/embed/FbJzF5B9wEs\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175749709076912931368c14702270ad1757497090.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.9",
+  "views": "462",
+  "reviews_count": "11",
+  "phone": "+919513238818",
+  "locality": "Panvel",
+  "board": "Other Boards\n\nCo",
+  "established": "2012",
+  "category": "Play Schools",
+  "classes": "0 - 0",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15978219075404309835f3cd3d3aa1321597821908.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175930219085095728468dcd22e448ac1759302190.jpeg",
+    "https://img.youtube.com/vi/Vc7_F0dggwo/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175930213772894307468dcd1f975a081759302137.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175930220998225842068dcd241811971759302210.jpeg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1685617436130689139864787b1c464a61685617436.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://img.youtube.com/vi/PSmjSGODYow/hqdefault.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175749709076912931368c14702270ad1757497090.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://img.youtube.com/vi/FbJzF5B9wEs/hqdefault.jpg",
+    "https://img.youtube.com/vi/_SYhSUR-o_o/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759302159144646375868dcd20f481f01759302159.jpg"
+  ]
+}

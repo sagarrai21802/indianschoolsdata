@@ -1,0 +1,368 @@
+{
+  "slug": "/school/ahmedabad/sattva-vikas-school-gandhinagar",
+  "url": "https://yellowslate.com/school/ahmedabad/sattva-vikas-school-gandhinagar",
+  "city": "ahmedabad",
+  "name": "Sattva Vikas School - Gandhinagar ",
+  "scraped_at": "2026-04-27T23:00:19.901567",
+  "html_length": 316794,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ahmedabad",
+          "item": "https://yellowslate.com/schools/ahmedabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gandhinagar",
+          "item": "https://yellowslate.com/schools/ahmedabad/gandhinagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ahmedabad/gandhinagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sattva Vikas School",
+          "item": "https://yellowslate.com/school/ahmedabad/sattva-vikas-school-gandhinagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sattva Vikas School - Gandhinagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ahmedabad/sattva-vikas-school-gandhinagar",
+      "telephone": "79 2970 2770",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "On new 100 feet road, Near, 2 kms off Sarkhej-Gandhinagar Highway from Pakwan intersection, Sindhu Bhavan Marg, Thaltej, Ahmedabad, Gujarat 380058",
+        "addressLocality": "Ahmedabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.0416623,
+        "longitude": 72.4955957
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "On new 100 feet road, Near, 2 kms off Sarkhej-Gandhinagar Highway from Pakwan intersection, Sindhu Bhavan Marg, Thaltej, Ahmedabad, Gujarat 380058",
+              "addressLocality": "Ahmedabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ahmedabad/sattva-vikas-school-gandhinagar-gandhinagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "134"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavya Patel"
+          },
+          "datePublished": "2024-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sattva is one of the best school in Ahmedabad. The environment is great, teachers are extremely helpful and they make study fun. I highly recommend it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swanti Jain"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Staff and teachers are really supportive.\n👍⭐⭐⭐⭐⭐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Devendra Gurjar"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was an amazing and jubilant experience ....made lots of friends and faculties were excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Om Satyawan Pathak"
+          },
+          "datePublished": "2023-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers and Staff members are very supportive. Recently graduated from here with flying colours in my HSC course. Proud to remain a Sattvite for the rest of my life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anee Brahmbhatt"
+          },
+          "datePublished": "2023-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied in Sattva Vikas from KG to 12th and i have to say that this school provides the best environment for students to grow by providing them with extracurricular activities and fun interactive sessions. Had the best times and some of the most memorable moments at this very place.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rambhagat Agarwal"
+          },
+          "datePublished": "2023-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Satisfied with this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manaram Desai"
+          },
+          "datePublished": "2023-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Do you need a physical teacher in your school?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neeraj"
+          },
+          "datePublished": "2022-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Richa attrishi tyagi"
+          },
+          "datePublished": "2022-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I learnt there to spend my time in good manner and also learn to manage my routine. School's daily activities encourage me to do my job more perfectly. It teaches me how to tackle responsibilities. School work place culture is seen in good discipline form",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sattva Vikas School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khyati Makwana"
+          },
+          "datePublished": "2022-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "HIGHLY RECOMMEND THIS SCHOOL! The administration, the infrastructure, the staff of teachers, the lively environment is one of the best. The care and attention they give to the students by far exceeds any of our expectations.\nIf you are looking for the best education, for your child in Ahmedabad, you need to pay visit to Sattva Vikas School. Right from the very beginning you get to experience & see the hard work & the efforts taken by the entire team of Sattva. The core curriculum of the primary & middle school includes the best of the board. This integrated curriculum makes your child’s learning experience very easy& stress free. Even in the pandemic situation the process of teaching & leaning had not come to a standstill.\nKudos to the entire team!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\\\\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\"
+  ],
+  "rating": "4.7",
+  "views": "66",
+  "reviews_count": "134",
+  "phone": "+919513238818",
+  "locality": "Gandhinagar",
+  "board": "CBSE\n\nCo",
+  "established": "2002",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Sattva Vikas School ?\nAsk a Question\nSattva Vikas School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

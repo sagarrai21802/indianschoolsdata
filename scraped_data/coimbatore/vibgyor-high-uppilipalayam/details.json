@@ -1,0 +1,370 @@
+{
+  "slug": "/school/coimbatore/vibgyor-high-uppilipalayam",
+  "url": "https://yellowslate.com/school/coimbatore/vibgyor-high-uppilipalayam",
+  "city": "coimbatore",
+  "name": "VIBGYOR High - Trichy Rd ",
+  "scraped_at": "2026-04-27T22:46:57.735220",
+  "html_length": 362768,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Coimbatore",
+          "item": "https://yellowslate.com/schools/coimbatore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Trichy Rd",
+          "item": "https://yellowslate.com/schools/coimbatore/trichy-rd"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/coimbatore/trichy-rd/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VIBGYOR High",
+          "item": "https://yellowslate.com/school/coimbatore/vibgyor-high-uppilipalayam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VIBGYOR High - Trichy Rd",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/coimbatore/vibgyor-high-uppilipalayam",
+      "telephone": "060030 00700",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "483, Kamarajar Rd, next to Aloft Hotel, VL Nagar, Uppilipalayam, Neelikonampalayam, Tamil Nadu 641015",
+        "addressLocality": "Coimbatore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.0122777,
+        "longitude": 76.9420021
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "483, Kamarajar Rd, next to Aloft Hotel, VL Nagar, Uppilipalayam, Neelikonampalayam, Tamil Nadu 641015",
+              "addressLocality": "Coimbatore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/coimbatore/vibgyor-high-uppilipalayam-trichy-rd-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "67"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jithin k"
+          },
+          "datePublished": "2025-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very happy with school and the faculty, my daughter is studying here for past two years and have shown good progress academically and actively participates in extracurricular activities. Credit goes to the teachers. Kudos 👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "dharani d"
+          },
+          "datePublished": "2025-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in coimbatore\nThe care and the love they show towards the child in playschool is truly amazing\n\nBest school in teaching\nMaking their best in making child the best",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ganga Rajalakshmi Mariappan"
+          },
+          "datePublished": "2025-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Yeah it's very nice school in Coimbatore my two kids studying in tis school they have wonderful experience the teacher s are very friendly with childrens",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth Hannel"
+          },
+          "datePublished": "2025-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter studying in nursery class and I really loved the coaching and fun activities which is given in class and she really enjoying going to school. Everything worth for her education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "charlie sierra"
+          },
+          "datePublished": "2025-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "To me as a parent I feel the kindergarten garden kids need not be in school until evening and they need to given all the physical activities. Had been in search of such a school. Found this school where they close for the the day @ the pre-primary kids at 12.15p.m itself. After primary choosing 2sports activity is a must. Their way of making kids understand and attention to individuals can be noticed from your kids. No second thoughts in my opinion.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aadi Manikandan Sekar"
+          },
+          "datePublished": "2025-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child is in Jr. KG at Vibgyor School, Coimbatore, and I am extremely satisfied with the overall experience. The school provides a well-structured curriculum, excellent facilities, and a nurturing environment that supports both academic and personal growth. The teachers are highly dedicated and ensure personalized attention to every child. I appreciate the focus on holistic development, including extracurricular activities and values. Highly recommend Vibgyor for a strong foundation in early education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "P Pradeepa"
+          },
+          "datePublished": "2024-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are very satisfied about Vibgyor school in Coimbatore. Our child always gets ample opportunities to explore and progress in all aspects. The school has been successful in striking an appropriate balance between Academic and Co-Curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saranya Priya"
+          },
+          "datePublished": "2024-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school with beautiful ambience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "latha t"
+          },
+          "datePublished": "2024-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Highly recommended,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIBGYOR High - Trichy Rd"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "trishna bhatt"
+          },
+          "datePublished": "2024-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am extremely happy with the progress my child has made at Vibgyor High. The teachers have done an exceptional job in nurturing not just academic excellence but also important life skills. I can see a remarkable improvement in my child's performance and learning abilities, which is a testament to the dedicated efforts of the school staff and the positive learning environment that the school has created.\nThank you for inspiring our children to grow and succeed.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2025/01/scrnli_InUdrTOG2S018q.png\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373617131601093080678e0931c96691737361714.avif\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h2",
+    "https://scripts.clarity.ms/0.8.61/clarity.js"
+  ],
+  "rating": "4.3",
+  "views": "0",
+  "reviews_count": "67",
+  "phone": "+919513238818",
+  "locality": "Trichy Rd",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VIBGYOR High ?\nAsk a Question\nVIBGYOR High Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373617131601093080678e0931c96691737361714.avif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2025/01/scrnli_InUdrTOG2S018q.png"
+  ]
+}

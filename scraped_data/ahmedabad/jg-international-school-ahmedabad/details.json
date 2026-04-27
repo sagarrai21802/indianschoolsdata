@@ -1,0 +1,370 @@
+{
+  "slug": "/school/ahmedabad/jg-international-school-ahmedabad",
+  "url": "https://yellowslate.com/school/ahmedabad/jg-international-school-ahmedabad",
+  "city": "ahmedabad",
+  "name": "JG. International School - Ahmedabad ",
+  "scraped_at": "2026-04-27T23:00:14.752116",
+  "html_length": 318485,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ahmedabad",
+          "item": "https://yellowslate.com/schools/ahmedabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ahmedabad",
+          "item": "https://yellowslate.com/schools/ahmedabad/ahmedabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ahmedabad/ahmedabad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "JG. International School",
+          "item": "https://yellowslate.com/school/ahmedabad/jg-international-school-ahmedabad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "JG. International School - Ahmedabad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ahmedabad/jg-international-school-ahmedabad",
+      "telephone": "079 2740 2583",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "JG CAMPUS OF EXCELLENCE, Sola Rd, Shenbhai Nagar, Ahmedabad, Gujarat 380061",
+        "addressLocality": "Ahmedabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.0652391,
+        "longitude": 72.5261167
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "JG CAMPUS OF EXCELLENCE, Sola Rd, Shenbhai Nagar, Ahmedabad, Gujarat 380061",
+              "addressLocality": "Ahmedabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ahmedabad/jg-international-school-ahmedabad-ahmedabad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "116"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fenil Shah"
+          },
+          "datePublished": "2024-10-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "JG International School is amazing! The teachers are always ready to help us and are really very approachable, making it easy for us to ask questions. The school helps us build important communication and public speaking skills, which are super helpful further in our life.\n\nWe get to participate in fantastic events like Model United Nations (MUN) conferences and TEDx talks, allowing us to express our talents and gain confidence, and not only participate but also host such event providing with various opportunities.\n\nThe principal is very supportive of students and ensures that we have a positive learning environment. The school’s mission focuses on helping us discover our potential and providing the support we need to grow into successful global citizens.\n\nLearning at JGIS is exciting and encourages us to be active, curious learners. Overall, JG International School is a great place to learn, grow, and prepare for the future!\n\nThank You very much for these excellent years at JGIS from Nursery till IBDP-II. JGIS is always has been my second home and always will be.\n\nThank You to Principal ma'am and all the teachers to mould us in such a way that we are excellent learner's and knowers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reshma Gaikwad"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I love this School so much\nIt is the best school in ahmdabad !! 😁",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhbha"
+          },
+          "datePublished": "2024-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful educational institution",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praguni Gupta"
+          },
+          "datePublished": "2024-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It has been wonderful studying in this school. It has everything from book fairs to carnivals. As a student, I love studying in this school. The food  is very hygienically and scrumptiously served. The class teachers and subject teachers also engage and interact with us a lot. The syllabus is quite huge but the teachers help us cover it without taking a lot of burden. Discipline is also maintained by both teachers and students very nicely. The school is quite vast with numerous activities coming and going round. It also provides first aid and medical help whenever needed as there is  a full time nurse in the medical room and it also has medical checkups. This is the best school in the whole of INDIA. EVERYONE MUST COME TO THIS SCHOOL.😘",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trupti Korat"
+          },
+          "datePublished": "2024-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school 😄",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyancka Sathe"
+          },
+          "datePublished": "2024-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "JGIS is a wonderful school with a very dedicated staff and management. The school conducts numerous activities for all round development of children. Each teacher is deeply involved in the progress of every child. Facilities like food, sports and activities are fantastic. The management is warm and approachable. The academic year has numerous events and the children also get additional academic support. JG is a great all round school and has been a definitive milestone for my kids. All the best to the staff and management!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prapti Brahmbhatt"
+          },
+          "datePublished": "2024-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lots of fun in jg university\nIt was very informative coming here and Attending counselling session",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karishma Patel"
+          },
+          "datePublished": "2024-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "narayan navlani"
+          },
+          "datePublished": "2023-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s a great school , Love this school and the events that take place",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JG. International School - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jalpa Shah"
+          },
+          "datePublished": "2023-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Someone is trying to malign the image of the school. I have been associated with this school for many years now and I have never come across any such instance where the staff has been rude. I rather find even the sub staff including peons, drivers and conductors very polite and helpful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175636280377513813768aff8335b42a1756362803.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1749722393355-s38v1md3.jpeg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752748821770-s2rlcbbm.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\\\\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\"
+  ],
+  "rating": "4.4",
+  "views": "76",
+  "reviews_count": "116",
+  "phone": "+919513238818",
+  "locality": "Ahmedabad",
+  "board": "CBSE\n\nCo",
+  "established": "2002",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "JG. International School ?\nAsk a Question\nJG. International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175636280377513813768aff8335b42a1756362803.jpg"
+  ]
+}

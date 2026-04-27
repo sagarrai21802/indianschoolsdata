@@ -1,0 +1,422 @@
+{
+  "slug": "/school/mumbai/rims-international-school-andheri-west",
+  "url": "https://yellowslate.com/school/mumbai/rims-international-school-andheri-west",
+  "city": "mumbai",
+  "name": "RIMS International School - Andheri West ",
+  "scraped_at": "2026-04-27T22:49:19.079999",
+  "html_length": 404070,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Andheri West",
+          "item": "https://yellowslate.com/schools/mumbai/andheri-west"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/mumbai/andheri-west/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "RIMS International School",
+          "item": "https://yellowslate.com/school/mumbai/rims-international-school-andheri-west"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "RIMS International School - Andheri West",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623449716627134735e8c04814c6da1586234497.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/rims-international-school-andheri-west",
+      "telephone": "+91-22-66994555 +919930674637",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "C-8, Dalia Plot, Glory House, Off New Link Road, near Fun Republic, Andheri West, Mumbai, Maharashtra 400049",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.1403236,
+        "longitude": 72.8331797
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "C-8, Dalia Plot, Glory House, Off New Link Road, near Fun Republic, Andheri West, Mumbai, Maharashtra 400049",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/rims-international-school-andheri-west-andheri-west-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "15"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bharat Gavali"
+          },
+          "datePublished": "2022-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We have been at Rims International School, Andheri West, Lokhandwala, Mumbai since its founding and could not be happier. My Son Jash in the IGCSE curriculum and planning to do As / A levels has had excellent and caring teachers and has thrived under their guidance. Every year they truly get to know him as an individual and push him to meet high academic standards. They consistently differentiate learning in the small size classroom and challenge students with the international rigorous curriculum but still find lots of ways to make learning fun and exciting. There is a ton of creativity in their approach and a very strong visual and performing art element in the curriculum which is important to us. The Cambridge curriculum is also a huge plus and it truly imparts Science to the students. I can’t say enough good things about the school and its wonderful parent community.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Humera S"
+          },
+          "datePublished": "2022-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent curriculum and highly qualified teachers. Total development of child is the main purpose.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Govind Upadhyay"
+          },
+          "datePublished": "2022-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best phase schools in Andrei west mumbai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mikhail Gomes"
+          },
+          "datePublished": "2022-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school, with a great curriculum, nice staff and brilliant facilities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vineet Vinayakumar"
+          },
+          "datePublished": "2022-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naethan Burroughs"
+          },
+          "datePublished": "2022-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great experience for my kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Virender Singh"
+          },
+          "datePublished": "2022-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "(Translated by Google) Anti-Hindu\n\n(Original)\nAnti Hindu",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SHIVANGI UPADHYAY"
+          },
+          "datePublished": "2021-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I’ll give 5 stars to RIMS International School for various reasons. Firstly for the support they provide to their student in every aspect in shaping their career. Secondly for the well organised classes, teachers and staff. Teachers always support to level up the performance. I’m thankful and much obliged to RIMS International School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "35 Kushagra Chaubey"
+          },
+          "datePublished": "2021-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "RIMS is an amazing learning zone where the faculty do an\nunimaginable job at helping your child to learn from any corner of the world and this prestigious institute also facilitates offline learning with an effective curriculum and an interactive environment . The principal ,board of directors and the admissions and BBA incharge have done a magnolious and a transcendent piece of work at establishing this institute and offering it to its fellow inquisitive and eccentric learners an efficient learning environment and a  pliant curriculum for the students well being\n\nTo conclude , RIMS should be the first choice for your child where your child discovers his utmost learning potential",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RIMS International School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shabbir Lokhandwala"
+          },
+          "datePublished": "2021-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The staff and teachers and extremely understanding and supportive of the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623449716627134735e8c04814c6da1586234497.PNG",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15883362749192012605eac16924f5d61588336274.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Soccer.png\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623449716627134735e8c04814c6da1586234497.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Shooting.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623449716627134735e8c04814c6da1586234497.PNG\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158623501620001443455e8c0688073ba1586235016.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.3",
+  "views": "1715",
+  "reviews_count": "15",
+  "phone": "+919513238818",
+  "locality": "Andheri West",
+  "board": "IGCSE\n\nCo",
+  "established": "2005",
+  "category": "International Schools",
+  "classes": "000 - 135",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862345169865641875e8c0494accf91586234517.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Shooting.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623449716627134735e8c04814c6da1586234497.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862345164595581375e8c0494ac0011586234517.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158623501620001443455e8c0688073ba1586235016.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862345127008883295e8c049038dec1586234512.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862345122848336205e8c04902a99d1586234512.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15883362749192012605eac16924f5d61588336274.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158623451915864793705e8c04970e7751586234519.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862345147752440735e8c04926d5991586234514.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862345145872452435e8c0492662751586234514.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Soccer.png"
+  ]
+}

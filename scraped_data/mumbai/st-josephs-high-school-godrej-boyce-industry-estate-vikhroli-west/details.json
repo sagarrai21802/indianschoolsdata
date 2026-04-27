@@ -1,0 +1,257 @@
+{
+  "slug": "/school/mumbai/st-josephs-high-school-godrej-boyce-industry-estate-vikhroli-west",
+  "url": "https://yellowslate.com/school/mumbai/st-josephs-high-school-godrej-boyce-industry-estate-vikhroli-west",
+  "city": "mumbai",
+  "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West ",
+  "scraped_at": "2026-04-27T22:52:43.699295",
+  "html_length": 354697,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Godrej & Boyce Industry Estate,Vikhroli West",
+          "item": "https://yellowslate.com/schools/mumbai/godrej-boyce-industry-estate-vikhroli-west"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/mumbai/godrej-boyce-industry-estate-vikhroli-west/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St Josephs High School",
+          "item": "https://yellowslate.com/school/mumbai/st-josephs-high-school-godrej-boyce-industry-estate-vikhroli-west"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/st-josephs-high-school-godrej-boyce-industry-estate-vikhroli-west",
+      "telephone": "+91 2225781552",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "83, Station Rd, Near Railway Station, Godrej & Boyce Industry Estate, Vikhroli West, Mumbai, Maharashtra 400079, India",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.1108799,
+        "longitude": 72.9269517
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "83, Station Rd, Near Railway Station, Godrej & Boyce Industry Estate, Vikhroli West, Mumbai, Maharashtra 400079, India",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/st-josephs-high-school-godrej-boyce-industry-estate-vikhroli-west-godrej-boyce-industry-estate-vikhroli-west-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "1.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj Mistry"
+          },
+          "datePublished": "2023-04-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is good overall, with few good teachers, but Arrogant teachers and illeagel 'Donation' for admission is bringing the reputation down. Teachers behave like the students are slave. Incompetent teachers like Yvette (used to teach craft during my time) is drowning the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kanchan Yadav"
+          },
+          "datePublished": "2023-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They don't even deserve one star.fully corrupted school...non cooperative staff.if something wrong happened with child they will not sort it but make you feel that you are wrong.They shout at parents if they ll go to talk to class teacher or father.Dont recommend this school to anyone.And yes if you are non catholic,don't expect respect from this school.even if you are right ,this currupted school support only Catholics .i have faced this twice.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sannu roqua"
+          },
+          "datePublished": "2023-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied in this school, batch of 2008. Looking back i would say i turned out quite alright, and most of what i learned in the initial childhood days was from here. Teachers are great, our principal was a Rockstar; Father Michael Pinto. We had our fun and struggles like every other school, but the memories we had can’t be compared as every school has their own pros and cons.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sushma Pandey"
+          },
+          "datePublished": "2022-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Corrupted Father staff management...\nIf you paying big ammount for addmission then they ready to take children's in their school if you don't have money then child will be reject in interview.\nOnce you done your process then they trying to remove your child from school on children's no reason issue.\nTeacher's behaviour with children is worst because they want another child in school with big ammount of bribe which they gave name DONATION...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St Josephs High School - Godrej & Boyce Industry Estate,Vikhroli West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kaustubh Kulkarni"
+          },
+          "datePublished": "2022-10-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pareara teacher worst person I ever seen , language she used to talk with students is very low level.\nAt at very beginning level teacher should be Frank and should create healthy environment. Management should take action on her behavior.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "1.8",
+  "views": "411",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Godrej & Boyce Industry Estate,Vikhroli West",
+  "board": "State Board\n\nCo",
+  "established": "1995",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

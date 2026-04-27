@@ -1,0 +1,413 @@
+{
+  "slug": "/school/mumbai/navy-children-school-colaba",
+  "url": "https://yellowslate.com/school/mumbai/navy-children-school-colaba",
+  "city": "mumbai",
+  "name": "Navy Children School - Colaba ",
+  "scraped_at": "2026-04-27T22:53:03.499203",
+  "html_length": 445198,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Colaba",
+          "item": "https://yellowslate.com/schools/mumbai/colaba"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/mumbai/colaba/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Navy Children School",
+          "item": "https://yellowslate.com/school/mumbai/navy-children-school-colaba"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Navy Children School - Colaba",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623121313274270825e8bf7ad5e5781586231213.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/navy-children-school-colaba",
+      "telephone": "022-22152285, 22160344",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "rn 39 behind kv2, RN-39, New Navy Nagar, Colaba, Mumbai, Maharashtra 400005",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.910635,
+        "longitude": 72.8071586
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "rn 39 behind kv2, RN-39, New Navy Nagar, Colaba, Mumbai, Maharashtra 400005",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/navy-children-school-colaba-colaba-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "19"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rishi Mandal"
+          },
+          "datePublished": "2022-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school , best facility ,best teachers, school is in displine and love this school my lots of old memories are there",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "YUG'S FUN LIFE"
+          },
+          "datePublished": "2022-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "best school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shin Chan"
+          },
+          "datePublished": "2022-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school, amazing infrastructure!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aayush Yadav"
+          },
+          "datePublished": "2022-08-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in mumbai. Miss you NCS!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shivam Sharma"
+          },
+          "datePublished": "2022-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "4 cause its not the same school as it once used to be.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "reubenlouismusic"
+          },
+          "datePublished": "2022-03-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This place was lit in 08 and 09. Ashok was the best guy the true GOAT. He gave us vada pav and lassi while we skipped pointless classes with mostly horrendous teachers. Good times. Give that man a raise.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A B"
+          },
+          "datePublished": "2022-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "IS THERE HOSTEL AVAILABLE FOR BOYS",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Schools India"
+          },
+          "datePublished": "2022-01-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice Location, Good infrastructure & well disciplined School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sachkee"
+          },
+          "datePublished": "2021-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hey there I am using WhatsApp!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navy Children School - Colaba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "omkar anand"
+          },
+          "datePublished": "2021-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Better than any private school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623121313274270825e8bf7ad5e5781586231213.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158624702314224077915e8c356f461381586247023.PNG\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623121313274270825e8bf7ad5e5781586231213.PNG\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15984360434150744395f4632cb164591598436043.PNG\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158900877614530020525eb65988d9e101589008777.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623121313274270825e8bf7ad5e5781586231213.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.4",
+  "views": "2034",
+  "reviews_count": "19",
+  "phone": "+919513238818",
+  "locality": "Colaba",
+  "board": "ICSE\n\nCo",
+  "established": "1984",
+  "category": "Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15984360434150744395f4632cb164591598436043.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862312284191824745e8bf7bc1d9e61586231228.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15862312256783350215e8bf7b9cdd8b1586231226.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158624702314224077915e8c356f461381586247023.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158623133015127593495e8bf822d84841586231331.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158623122820539345155e8bf7bc0d07e1586231228.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158623122516383357425e8bf7b9d71351586231226.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158623121313274270825e8bf7ad5e5781586231213.PNG"
+  ]
+}

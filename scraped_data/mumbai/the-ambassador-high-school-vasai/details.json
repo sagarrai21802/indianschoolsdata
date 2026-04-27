@@ -1,0 +1,370 @@
+{
+  "slug": "/school/mumbai/the-ambassador-high-school-vasai",
+  "url": "https://yellowslate.com/school/mumbai/the-ambassador-high-school-vasai",
+  "city": "mumbai",
+  "name": "The Ambassador High School - VASAI ",
+  "scraped_at": "2026-04-27T22:51:04.499491",
+  "html_length": 389537,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "VASAI",
+          "item": "https://yellowslate.com/schools/mumbai/vasai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/mumbai/vasai/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Ambassador High School",
+          "item": "https://yellowslate.com/school/mumbai/the-ambassador-high-school-vasai"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Ambassador High School - VASAI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/the-ambassador-high-school-vasai",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Hayaat garden,Vitthal Mandir, Vasai East, Waliv, Maharashtra 401208",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.4206375,
+        "longitude": 72.8611716
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Hayaat garden,Vitthal Mandir, Vasai East, Waliv, Maharashtra 401208",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/the-ambassador-high-school-vasai-vasai-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "54"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ayan khan"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lagta hai secondary class k teachers well educated nhi hai inka management dekh aisa lagta hai ki hum koi government school me apne bachho ko pada raha he",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonu “Sonu Nigam” Kumar"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "2010 me ham padhai kare the",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yasmine Khan"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Youtuber ki Khabar"
+          },
+          "datePublished": "2024-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school I completed my 10 yrs here so it was just amazing experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hitesh Kamble"
+          },
+          "datePublished": "2023-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratik Desai"
+          },
+          "datePublished": "2023-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have studied here for about 11 years and have got the best memories of my life",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Awanish Chaubey"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rudra",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohd Ahmad Khan"
+          },
+          "datePublished": "2022-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Exllent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajay Mishra"
+          },
+          "datePublished": "2022-09-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Ambassador High School - VASAI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa Pandey"
+          },
+          "datePublished": "2022-08-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is my school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.6",
+  "views": "47",
+  "reviews_count": "54",
+  "phone": "+919513238818",
+  "locality": "VASAI",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "The Ambassador High School ?\nAsk a Question\nThe Ambassador High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

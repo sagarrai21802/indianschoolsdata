@@ -1,0 +1,261 @@
+{
+  "slug": "/school/mumbai/st-lawrence-high-school-marol-bazar-road",
+  "url": "https://yellowslate.com/school/mumbai/st-lawrence-high-school-marol-bazar-road",
+  "city": "mumbai",
+  "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road ",
+  "scraped_at": "2026-04-27T22:58:07.180051",
+  "html_length": 358473,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Marol Bazar Road",
+          "item": "https://yellowslate.com/schools/mumbai/marol-bazar-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/mumbai/marol-bazar-road/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ST. LAWRENCE HIGH SCHOOL",
+          "item": "https://yellowslate.com/school/mumbai/st-lawrence-high-school-marol-bazar-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/st-lawrence-high-school-marol-bazar-road",
+      "telephone": "+91 2229207827",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Marol Maroshi Road, Off, Marol Village Rd, Bori Colony, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.1121455,
+        "longitude": 72.8788704
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Marol Maroshi Road, Off, Marol Village Rd, Bori Colony, Marol, Andheri East, Mumbai, Maharashtra 400059, India",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/st-lawrence-high-school-marol-bazar-road-marol-bazar-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Zed Khan"
+          },
+          "datePublished": "2023-08-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Three because I was the student of this school did my ssc in 1986. Love my school life but if one ask me about the school administration I will rate it one star. Benches were broken window panes were broken six student use to share one bench , toilet was very bad, dirty drinking water but still I love those time of my life I spend in the school and education was very cheap and reasonable.\nWould like to thanks my teachers Vatsala, Rekha, Leela, Sunita, Gracy, Vishaka, Kamala and sorry I forgot few names but all those teachers hold a special place in our heart we still remember you all for making our school so much more beautiful .\nNow not much has changed but feel sad even though it's government grant school it's very expensive the fees is low but they are covering it with other expenses . I hope they don't do this and make a special place in educational institutions when all school are more of business rather than education.\n\nLove you St Lawrence High School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Noman Shaikh"
+          },
+          "datePublished": "2023-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I completed my ssc in 2012.Missing the school memories",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjali Ashok Yadav"
+          },
+          "datePublished": "2022-10-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am the student of St.Lawrence High School and I am studying in VI std I'm very proud to be a student of St.Lawrence High School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "17 Sujal Jadhav"
+          },
+          "datePublished": "2022-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school gaves me alot opportunity in my life , this school only to read and byheart the big ans alot , a I love so much , l am pride to be a part of School , My jr. To SSC fully completed into this school only , My SSC Qualification years is 2020-2021. St.lawerence high school Marol , is the best school in my life ever 🏫🥰🥰🥰🥰",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. LAWRENCE HIGH SCHOOL - Marol Bazar Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sujit Nayak"
+          },
+          "datePublished": "2020-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I remember i left St. Lawrence High School in the year 1984 when i  was promoted to class V., I love my School as I have studied from UKG till class IV.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159843164419717674155f46219ccce691598431645.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15904711827936690715eccaa0ee3cf11590471183.PNG\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.6",
+  "views": "556",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Marol Bazar Road",
+  "board": "State Board\n\nCo",
+  "established": "1968",
+  "category": "Day Schools",
+  "classes": "000 - 27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "ST. LAWRENCE HIGH SCHOOL ?\nAsk a Question\nST. LAWRENCE HIGH SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159843164419717674155f46219ccce691598431645.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

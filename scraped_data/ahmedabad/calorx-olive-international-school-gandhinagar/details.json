@@ -1,0 +1,368 @@
+{
+  "slug": "/school/ahmedabad/calorx-olive-international-school-gandhinagar",
+  "url": "https://yellowslate.com/school/ahmedabad/calorx-olive-international-school-gandhinagar",
+  "city": "ahmedabad",
+  "name": "Calorx Olive International School - Gandhinagar ",
+  "scraped_at": "2026-04-27T23:00:53.226974",
+  "html_length": 316521,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ahmedabad",
+          "item": "https://yellowslate.com/schools/ahmedabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gandhinagar",
+          "item": "https://yellowslate.com/schools/ahmedabad/gandhinagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ahmedabad/gandhinagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Calorx Olive International School",
+          "item": "https://yellowslate.com/school/ahmedabad/calorx-olive-international-school-gandhinagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Calorx Olive International School - Gandhinagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ahmedabad/calorx-olive-international-school-gandhinagar",
+      "telephone": "090999 33804",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No: 126, Ranchhodpura, 127, Hare Krishna Mandir Rd, Ahmedabad, Gujarat 380058",
+        "addressLocality": "Ahmedabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.0979851,
+        "longitude": 72.4452924
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No: 126, Ranchhodpura, 127, Hare Krishna Mandir Rd, Ahmedabad, Gujarat 380058",
+              "addressLocality": "Ahmedabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ahmedabad/calorx-olive-international-school-gandhinagar-gandhinagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "96"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaival Mehta"
+          },
+          "datePublished": "2025-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in ahmedabad IB",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaival Mehta"
+          },
+          "datePublished": "2025-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nurse COIS"
+          },
+          "datePublished": "2024-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "i like how the school encourages creativitiy. whenever in the class room in extracurricular activites,students are given ample",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Career COIS"
+          },
+          "datePublished": "2024-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Calorx Olive International School has been such a great start for my child’s educational journey. The early childhood program is well-structured and emphasizes both academics and play, which helps develop a love of learning. I appreciate the open communication and the strong community spirit.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Assistant Accounts COIS"
+          },
+          "datePublished": "2024-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I absolutely love working at Calorx Olive International School. The school provides staff with the support and resources we need to succeed. We’re encouraged to be creative and innovative in work and there’s a real focus on creating a positive learning environment for all students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Transport COIS"
+          },
+          "datePublished": "2024-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I’m incredibly impressed with the holistic approach to education. It’s not just about grades—it’s about developing the whole child, academically, emotionally, and socially .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "IT Cois"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fosters a nurturing environment with dedicated teachers and a vibrant community. A great place for students to thrive academically and personally!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "binita parikh"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Calorx Olive International School’s campus and IB programs are truly impressive. The school’s commitment to excellence in education is evident, and it’s a top choice for anyone looking for quality international education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Admin COIS"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The management team at Calorx Olive supports teachers with constant professional development opportunities. I feel valued and empowered.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Calorx Olive International School - Gandhinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sapana Yadav"
+          },
+          "datePublished": "2024-09-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\\\\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\"
+  ],
+  "rating": "4.7",
+  "views": "28",
+  "reviews_count": "96",
+  "phone": "+919513238818",
+  "locality": "Gandhinagar",
+  "board": "CBSE\n\nCo Education\n\nGot Questions About Calorx Olive International School",
+  "established": "2002",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Calorx Olive International School ?\nAsk a Question\nCalorx Olive International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

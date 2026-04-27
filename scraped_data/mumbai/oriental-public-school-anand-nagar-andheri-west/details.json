@@ -1,0 +1,373 @@
+{
+  "slug": "/school/mumbai/oriental-public-school-anand-nagar-andheri-west",
+  "url": "https://yellowslate.com/school/mumbai/oriental-public-school-anand-nagar-andheri-west",
+  "city": "mumbai",
+  "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West ",
+  "scraped_at": "2026-04-27T22:53:42.618780",
+  "html_length": 401125,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Anand Nagar,Andheri West",
+          "item": "https://yellowslate.com/schools/mumbai/anand-nagar-andheri-west"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/mumbai/anand-nagar-andheri-west/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ORIENTAL PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/mumbai/oriental-public-school-anand-nagar-andheri-west"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/oriental-public-school-anand-nagar-andheri-west",
+      "telephone": "+91 2226744597",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Oriental Building, New Link Rd, Adarsh Nagar, Andheri West, Mumbai, Maharashtra 400102, India",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.1433926,
+        "longitude": 72.8323149
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Oriental Building, New Link Rd, Adarsh Nagar, Andheri West, Mumbai, Maharashtra 400102, India",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/oriental-public-school-anand-nagar-andheri-west-anand-nagar-andheri-west-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "45"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumedha Kapoor"
+          },
+          "datePublished": "2024-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SAGAR MUTHE"
+          },
+          "datePublished": "2024-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "javed ahmed"
+          },
+          "datePublished": "2023-12-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good but location is not good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "samyak jain"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Knowledgeable and attention giving teachers , both knowledge and fun at same place.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Chandel"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shalini Asokan"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jibin Jossy"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Cooperative teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sudhir Soni"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeev Tamanam"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Must state that school has the infrastructure on international standards. Visionary Principal & Teachers are very cordial & talented. Innovative methodology adopted is the greatest asset of the school. Parents can be rest assured about the perfect grooming of their kids. I strongly recommend this school 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ORIENTAL PUBLIC SCHOOL - Anand Nagar,Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MK Ibrahim"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school. Curriculum and infrastructure is very good. Staffs and faculties are very good and co-operative. They focus on students all round growth by providing theory as well as practical. Nice lace to study",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.8",
+  "views": "625",
+  "reviews_count": "45",
+  "phone": "+919513238818",
+  "locality": "Anand Nagar,Andheri West",
+  "board": "IGCSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "450 - 118",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

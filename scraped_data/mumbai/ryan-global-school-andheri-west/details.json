@@ -1,0 +1,412 @@
+{
+  "slug": "/school/mumbai/ryan-global-school-andheri-west",
+  "url": "https://yellowslate.com/school/mumbai/ryan-global-school-andheri-west",
+  "city": "mumbai",
+  "name": "Ryan Global School - Andheri West ",
+  "scraped_at": "2026-04-27T22:52:10.384440",
+  "html_length": 449025,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Andheri West",
+          "item": "https://yellowslate.com/schools/mumbai/andheri-west"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/mumbai/andheri-west/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ryan Global School",
+          "item": "https://yellowslate.com/school/mumbai/ryan-global-school-andheri-west"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ryan Global School - Andheri West",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885982168772119325eb015c8176a91588598216.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/ryan-global-school-andheri-west",
+      "telephone": "+91 2226320205,+91 2226320204",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "near Pizza Hut Circle, Yamuna Nagar, Andheri West, Mumbai, Maharashtra 400053",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.1488381,
+        "longitude": 72.8268071
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "near Pizza Hut Circle, Yamuna Nagar, Andheri West, Mumbai, Maharashtra 400053",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/ryan-global-school-andheri-west-andheri-west-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "36"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandrabhan Tiple"
+          },
+          "datePublished": "2024-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school teacher staff is very good 😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raiyyan Syed"
+          },
+          "datePublished": "2024-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Idk",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "purvika"
+          },
+          "datePublished": "2024-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school I have studied in this school for 4 years the coordinators,teachers & staff are great at their job and the students are also friendly and kind",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jibin Jossy"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramya Mahesh"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school and well educated faculties",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "samyak jain"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school with good facilities for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Chandel"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikitha Mh"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best one",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeev Tamanam"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a very good school and maintained properly",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan Global School - Andheri West"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harendra Panwar"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Best school. Popular with local people. Well maintained and managed. Big ground for various outdoor sporting activities All staff is very well",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158859847014443844985eb016c6104811588598470.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://www.youtube.com/embed/1kFbjrBg2a4\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.youtube.com/embed/5N6V03woR9Q\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885982168772119325eb015c8176a91588598216.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1772630237868jd1mqd8rtt.blob\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885982168772119325eb015c8176a91588598216.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.youtube.com/embed/xAgfKvdMLJI\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885982168772119325eb015c8176a91588598216.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15885983727731765885eb01664ca1f71588598373.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.5",
+  "views": "1203",
+  "reviews_count": "36",
+  "phone": "+919513238818",
+  "locality": "Andheri West",
+  "board": "IB, IGCSE\n\nCo",
+  "established": "1976",
+  "category": "Public Schools",
+  "classes": "000 - 300",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15885983727731765885eb01664ca1f71588598373.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1772630237868jd1mqd8rtt.blob",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885982168772119325eb015c8176a91588598216.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://img.youtube.com/vi/1kFbjrBg2a4/hqdefault.jpg",
+    "https://img.youtube.com/vi/xAgfKvdMLJI/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158859847014443844985eb016c6104811588598470.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158859822621376897155eb015d2250571588598226.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15885982232538989475eb015cff179f1588598224.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://img.youtube.com/vi/5N6V03woR9Q/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15885982246564403205eb015d00b5f91588598224.jpg"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "slug": "/school/mussoorie/wynberg-allen-school-the-mall-road",
+  "url": "https://yellowslate.com/school/mussoorie/wynberg-allen-school-the-mall-road",
+  "city": "mussoorie",
+  "name": "Wynberg Allen School - The Mall Road ",
+  "scraped_at": "2026-04-27T23:09:03.025333",
+  "html_length": 327413,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mussoorie",
+          "item": "https://yellowslate.com/schools/mussoorie"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Mall Road",
+          "item": "https://yellowslate.com/schools/mussoorie/the-mall-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/mussoorie/the-mall-road/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Wynberg Allen School",
+          "item": "https://yellowslate.com/school/mussoorie/wynberg-allen-school-the-mall-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Wynberg Allen School - The Mall Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mussoorie/wynberg-allen-school-the-mall-road",
+      "telephone": "+91 135 617 0010",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Henry Allen Road, Bala Hissar, Near The Mall Road, Mussoorie, Mussoorie, Uttarakhand",
+        "addressLocality": "Mussoorie",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4446164,
+        "longitude": 78.0905611
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Henry Allen Road, Bala Hissar, Near The Mall Road, Mussoorie, Mussoorie, Uttarakhand",
+              "addressLocality": "Mussoorie",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mussoorie/wynberg-allen-school-the-mall-road-the-mall-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "133"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjeev Bhambri"
+          },
+          "datePublished": "2025-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school between 1977 to 1986\nReally miss those wonderful days.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arnav Goel"
+          },
+          "datePublished": "2024-05-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school in academics as well as sports",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Stanzin namsal"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in India",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rathore Jaswant"
+          },
+          "datePublished": "2024-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best residential school around the globe, with great facilities and amazing school culture !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhu Pattnaik"
+          },
+          "datePublished": "2024-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Wynberg Allen School\", it is not just a school, it's an emotion. It's an institution in itself. The school has always worked hard on an overall development of every single child. The values they impart are excellent . The entire staff is very good and supportive. I can only thank them for their commitment and dedication. I have never come across any school that's so caring and kind .\n\nThe school focuses and believes in diversity in the classroom, throughout the dorm, in the dining halls and also study groups which improves the educational experience of the students involved. Learning and growing up in this kind of multicultural environment prepares every single child in the school to face the global world. Not just my son but I am proud too to be a part of the school.\nWynberg Allen School was recommended to me for my son by an alumni of the school who completed his entire education - KG to ISC (standard 11) from the school. He almost insisted that I send my son to WAS if I wanted him to grow up into a refined gentleman with the right values of life. I don't regret having taken that advice.\nIn just one year of his stay at the school (boarding) I can see the impressive changes that have taken place in his approach to life. He seems to want to extract the most out of each day without wasting a moment .His involvement in all the extra curricular activities and sports on offer at the school is intense.\nHe so loves the school that even when he is at home for vacations , he pines for the school and wants to be back at school with his friends, teachers , matron and engaging in all the activities that happen there on a day to day , week to week and month to month basis. If a school can make a child almost forget his own home , it must be a very happy place to be.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aarizz Rahman"
+          },
+          "datePublished": "2024-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Cap 3586"
+          },
+          "datePublished": "2023-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in India.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ashish Garg"
+          },
+          "datePublished": "2023-10-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in india",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Perin -"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "❤️❤️❤️❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Wynberg Allen School - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satyam Agarwal"
+          },
+          "datePublished": "2023-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School mein students chori karte hai aur school staff security camera dikhane se mana karta hai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-1-2.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/syt030gya8"
+  ],
+  "rating": "4.8",
+  "views": "203",
+  "reviews_count": "133",
+  "phone": "+919513238818",
+  "locality": "The Mall Road",
+  "board": "ICSE\n\nCo",
+  "established": "1888",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/mussoorie/manava-bharati-india-international-school-library-road",
+  "url": "https://yellowslate.com/school/mussoorie/manava-bharati-india-international-school-library-road",
+  "city": "mussoorie",
+  "name": "Manava Bharati India International School - Library Road ",
+  "scraped_at": "2026-04-27T23:08:29.788454",
+  "html_length": 323052,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mussoorie",
+          "item": "https://yellowslate.com/schools/mussoorie"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Library Road",
+          "item": "https://yellowslate.com/schools/mussoorie/library-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/mussoorie/library-road/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Manava Bharati India International School",
+          "item": "https://yellowslate.com/school/mussoorie/manava-bharati-india-international-school-library-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Manava Bharati India International School - Library Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mussoorie/manava-bharati-india-international-school-library-road",
+      "telephone": "+91 135 263 2452",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Spring Road, Mussoorie, Mussoorie, Uttarakhand",
+        "addressLocality": "Mussoorie",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4588514,
+        "longitude": 78.059492
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Spring Road, Mussoorie, Mussoorie, Uttarakhand",
+              "addressLocality": "Mussoorie",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mussoorie/manava-bharati-india-international-school-library-road-library-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "16"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praneet Dangwal"
+          },
+          "datePublished": "2024-11-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A heritage institute, keep growing and continue to do the philanthropic work in the field of education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Varun Mavi"
+          },
+          "datePublished": "2024-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best Co-ed school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prithviraj Oberoi"
+          },
+          "datePublished": "2023-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Attended this wonderful institution for about 8 months back in the early 2000s. Stayed in the hostel, which was an absolute delight. The teachers and staff are very welcoming and make the students feel at home. Infrastructure is top notch and the teaching methods are very intellectually stimulating!\n\nWould recommend the school to any parent looking for the best education for their children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Sinha"
+          },
+          "datePublished": "2023-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s not a school, it’s a home away from home. Perfect place for kids to have fun and study. I enjoyed everyday of my life spent in MBIIS. It gave me meaning to my life. Wish to return here someday and relive my life again, be out for free hours only…..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shalini Kohli"
+          },
+          "datePublished": "2023-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Manava Bharati School is an amazing place for young minds to grow emotionally, physically and intellectually.\nGorgeous surroundings and loving staff makes a unique place to grow.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prem Kohli"
+          },
+          "datePublished": "2023-03-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had the opportunity to visit the school as I was looking to send some under privileged children there and was so impressed with the professionalism of the director, principle and other staff members. They have Doke a great job in creating home away from home for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Adnan Khan"
+          },
+          "datePublished": "2023-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Remembering my old memories…",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suhail mohd"
+          },
+          "datePublished": "2023-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Manav Bharti India International School was established in 1941 by Dr Durga Prasad Pandey. It's a co-educational English medium school in affiliation with the CBSE board offering education to the students from I to XII. The school creates an environment for learning which is innovative, enjoyable and which encourages intellectual curiosity. The school has spacious and well-maintained classrooms, well-equipped laboratories, a computer lab, a well-stocked library, an auditorium, dance & music room, an art club etc. They also teach languages like Hindi, Sanskrit, German and French along with English. The school campus is located in a noise-free and pollution-free environment, creating a peaceful atmosphere to learn. The school has a large sports field providing facilities for basketball, volleyball, hockey, badminton, kho-kho, football, table tennis and cricket. The well-trained and friendly faculty, help in the overall development of their students. The objective of this school is to create self-reliant and broad-minded citizens who selflessly participate in the nation's progress. They emphasize the social, moral, spiritual, physical and mental development of each child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankit Mathur"
+          },
+          "datePublished": "2022-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In 1993, I was in class 3rd in this school. Only for 6 months I was in this school’s Hostel . Even today I see pics and all the memories comes in front of my eyes.. Really want to come once and again see my dormitory, assembly ground, n many more. In the evening we used to listen to Raghupati raghav raja ram song in the music room.. can’t remember exactly, I think we all students sang all together",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Manava Bharati India International School - Library Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manjeeta Panwar"
+          },
+          "datePublished": "2022-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-1-2.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.5",
+  "views": "169",
+  "reviews_count": "16",
+  "phone": "+919513238818",
+  "locality": "Library Road",
+  "board": "CBSE\n\nCo",
+  "established": "1941",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "slug": "/school/mussoorie/woodstock-school-landour",
+  "url": "https://yellowslate.com/school/mussoorie/woodstock-school-landour",
+  "city": "mussoorie",
+  "name": "Woodstock School - Landour ",
+  "scraped_at": "2026-04-27T23:08:06.450996",
+  "html_length": 319954,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mussoorie",
+          "item": "https://yellowslate.com/schools/mussoorie"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Landour",
+          "item": "https://yellowslate.com/schools/mussoorie/landour"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/mussoorie/landour/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Woodstock School",
+          "item": "https://yellowslate.com/school/mussoorie/woodstock-school-landour"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Woodstock School - Landour",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mussoorie/woodstock-school-landour",
+      "telephone": "+91 135 661 5000",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Landour , Mussoorie, Uttarakhand",
+        "addressLocality": "Mussoorie",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4554533,
+        "longitude": 78.1022729
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Landour , Mussoorie, Uttarakhand",
+              "addressLocality": "Mussoorie",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mussoorie/woodstock-school-landour-landour-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "76"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka"
+          },
+          "datePublished": "2025-03-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Abuse behind closed doors. There is literal bullying and physical bullying going on and when you raise this issue to faculty members they laugh at you and shun you. My mental health is in ruin here. Many of my other friends are depressed and suicidal because they are facing the same situation. This is a prison we unknowingly paid a very high amount to enter and now we are stuck.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mrityunjay Tiwary"
+          },
+          "datePublished": "2025-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best school in the whole world. Children from all over the country and abroad come here to study.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Çüen"
+          },
+          "datePublished": "2025-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My husband was bullied at the school and forced to drop out in his last year right before graduating. We are now almost in our thirties and he is still dealing with the psychological aftermath.  Guess this is what they call education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ॐ"
+          },
+          "datePublished": "2024-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I haven't studied here\nBecause I don't study\nBecause I am already smart\n+Hold this L",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nirvana Resort"
+          },
+          "datePublished": "2024-10-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is posting fake reviews as we can see it is written wood stock inn in the reviews.\nCheating",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Paramvir mordani"
+          },
+          "datePublished": "2024-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "went for Summer at woodstock amazing campus,kind staff, lots of freinds and good food planning on trying to study there :)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Black Pink"
+          },
+          "datePublished": "2024-08-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "best school in brazil. hakuna matata. Best school in universe. many aliens study here i encountered many safed people. 5 staar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saksham Goyal"
+          },
+          "datePublished": "2024-05-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Woodstock Inn is like a cozy retreat with views that just lift your spirits. The staff there are super friendly and always ready to help, making you feel right at home. Plus, the attention to detail in the rooms and common areas shows great managerial care. And let's not forget the delicious food – it's a culinary delight that will leave you wanting more!\nIf you seek a welcoming place with breathtaking views, attentive staff, and delectable cuisine, the Woodstock Inn is the ultimate destination!\nAnd being close to the market makes exploring the area a breeze, adding to the overall charm of this wonderful place!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Global Citizen"
+          },
+          "datePublished": "2024-05-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school.... Love its ambiance ....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Woodstock School - Landour"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soumen Chakraborty"
+          },
+          "datePublished": "2024-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is very good and also the teachers .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16679965902049368422636b9baece72d1667996591.jpeg\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-1-2.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.1",
+  "views": "162",
+  "reviews_count": "76",
+  "phone": "+919513238818",
+  "locality": "Landour",
+  "board": "IB, IGCSE\n\nCo",
+  "established": "1854",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16679965902049368422636b9baece72d1667996591.jpeg"
+  ]
+}

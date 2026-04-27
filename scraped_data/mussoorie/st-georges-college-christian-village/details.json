@@ -1,0 +1,370 @@
+{
+  "slug": "/school/mussoorie/st-georges-college-christian-village",
+  "url": "https://yellowslate.com/school/mussoorie/st-georges-college-christian-village",
+  "city": "mussoorie",
+  "name": "St. Georges College - Christian Village ",
+  "scraped_at": "2026-04-27T23:08:17.299217",
+  "html_length": 313758,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mussoorie",
+          "item": "https://yellowslate.com/schools/mussoorie"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Christian Village",
+          "item": "https://yellowslate.com/schools/mussoorie/christian-village"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/mussoorie/christian-village/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Georges College",
+          "item": "https://yellowslate.com/school/mussoorie/st-georges-college-christian-village"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Georges College - Christian Village",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mussoorie/st-georges-college-christian-village",
+      "telephone": "+91 706 031 1770",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P.O Barlowganj, Mussoorie, Uttarakhand",
+        "addressLocality": "Mussoorie",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4412371,
+        "longitude": 78.0865868
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P.O Barlowganj, Mussoorie, Uttarakhand",
+              "addressLocality": "Mussoorie",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mussoorie/st-georges-college-christian-village-christian-village-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "102"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurjas Warrior"
+          },
+          "datePublished": "2025-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramila"
+          },
+          "datePublished": "2025-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dragon khan not good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neelu Garg"
+          },
+          "datePublished": "2024-11-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience in this school of the past 5 years was very incredible. Belive when you are in the school you do not mean it but when you leave the school then you feel it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AARON AEGIDIUS"
+          },
+          "datePublished": "2024-08-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school but i would recommend some good teachers that are less strict",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Patel"
+          },
+          "datePublished": "2024-05-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We found out something very disappointing.There is such a big school and a wine shop has been opened near the school.What difference will this make to school children? Children of St. George School and Nirmala Inter College pass through this gate.Doesn't such a big school care about what would happen if a child gets addicted to this or ever takes something to his/her mind?The school management should do something about this as soon as possible before any child gets addicted to this thing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Kataria"
+          },
+          "datePublished": "2024-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saurabh Batra"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best boarding school for boys in india , best infra , faculty . Recommended if u wish to put ur son in boarding ..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prachi Golecha"
+          },
+          "datePublished": "2024-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dev"
+          },
+          "datePublished": "2024-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very poor teaching faculty",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Georges College - Christian Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trishala Jain"
+          },
+          "datePublished": "2024-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Among the top boarding schools for boys in India, St George's college is a treat for the eyes. Beautiful architecture, open spaces, neat and clean, with warm staff, well mannered students, it's a great school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-1-2.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.4",
+  "views": "181",
+  "reviews_count": "102",
+  "phone": "+919513238818",
+  "locality": "Christian Village",
+  "board": "ICSE\n\nOnly Boys School\n\nAbout St",
+  "established": "1853",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Boys",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/mussoorie/mussoorie-international-school-charleville",
+  "url": "https://yellowslate.com/school/mussoorie/mussoorie-international-school-charleville",
+  "city": "mussoorie",
+  "name": "Mussoorie International School - Charleville ",
+  "scraped_at": "2026-04-27T23:08:11.257974",
+  "html_length": 319118,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mussoorie",
+          "item": "https://yellowslate.com/schools/mussoorie"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Charleville",
+          "item": "https://yellowslate.com/schools/mussoorie/charleville"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/mussoorie/charleville/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mussoorie International School",
+          "item": "https://yellowslate.com/school/mussoorie/mussoorie-international-school-charleville"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mussoorie International School - Charleville",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mussoorie/mussoorie-international-school-charleville",
+      "telephone": "+91 639 903 6363",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Srinagar Estate, Polo Ground, Mussoorie, Uttarakhand",
+        "addressLocality": "Mussoorie",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4698,
+        "longitude": 78.0594637
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Srinagar Estate, Polo Ground, Mussoorie, Uttarakhand",
+              "addressLocality": "Mussoorie",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mussoorie/mussoorie-international-school-charleville-charleville-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "152"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jlh"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best experience \nThey shaped who i am today",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shikha Vaid"
+          },
+          "datePublished": "2025-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh kumar jena"
+          },
+          "datePublished": "2025-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is very nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gayathri Gayathri"
+          },
+          "datePublished": "2025-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ranjana Rai"
+          },
+          "datePublished": "2025-01-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A unique environment within an all-girls boarding school in Mussoorie that emphasizes a strong focus on cultural and traditional values and fosters a deep connection to the Indian heritage among students. The mandatory Saturday Havan rituals, guided by the Heads as chief priests, showcase the institution's commitment to instilling hindu ritualistic practices and moral discipline. My experience of wearing compulsary whites during pujas and the emphasis on reciting the Gayatri Mantra during havans highlight the school's ethos of spirituality and cultural immersion. However, the challenges faced by the school are also apparent. The damp and rainy climate of Mussoorie, contributing to mold and fungus issues mirrors the struggles in adapting to modern educational methodologies. Limited access to technology and outdated teaching practices pose concerns regarding the international curriculum's effectiveness. High staff attrition rates could signal deeper systemic issues, potentially affecting students' academic growth. The controlled communication between students and parents, alongside strict policies ensures security and discipline but might also contribute to a sense of isolation as parents get to connect with daughters over a weekend call time bound with limited media literacy among students. While the cultural nurturing is commendable, the need to balance tradition with progressive educational tools and strategies is evident for the school to truly thrive in a global context.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "School eStore"
+          },
+          "datePublished": "2024-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best Boarding school of area",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sanjeev umrao"
+          },
+          "datePublished": "2024-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best boarding school at mussoorie",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranav Pandey"
+          },
+          "datePublished": "2024-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was an amazing trip....if you want to explore more then take scooty for rent in around 600 to 700 rupees...and explore the nearby places in 2 days",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "G O"
+          },
+          "datePublished": "2024-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A home away from home that develops skills and confidence in a child, while keeping spiritual values a priority.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mussoorie International School - Charleville"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rakesh Verma"
+          },
+          "datePublished": "2024-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "मसूरी या मन्सूरी भारत के उत्तराखण्ड राज्य का एक पर्वतीय नगर है, जिसे पर्वतों की रानी भी कहा जाता है। देहरादून से 35 किलोमीटर की दूरी पर स्थित, मसूरी उन स्थानों में से एक है जहाॅं लोग बार-बार आते जाते हैं। घूमने-फिरने के लिए जाने वाली प्रमुख जगहों में यह एक है। यह पर्वतीय पर्यटन स्थल हिमालय पर्वतमाला के मध्य हिमालय श्रेणी में पड़ता है, जिसे पर्वतों की रानी भी कहा जाता है। निकटवर्ती लैंढ़ौर कस्बा भी बार्लोगंज और झाड़ीपानी सहित वृहत या ग्रेटर मसूरी में आता है। इसकी औसत ऊंचाई समुद्र तल से 2005 मी. (6600 फ़ीट) है, जिसमें हरित पर्वत विभिन्न पादप-प्राणियों समेत बसते हैं। उत्तर-पूर्व में हिम मंडित शिखर सिर उठाये दृष्टिगोचर होते हैं, तो दक्षिण में दून घाटी और शिवालिक श्रेणी दिखती है। इसी कारण यह शहर पर्यटकों के लिये परीमहल जैसा प्रतीत होता है। मसूरी गंगोत्री का प्रवेश द्वार भी है। देहरादून में पायी जाने वाली वनस्पति और जीव-जंतु इसके आकर्षण को और भी बढ़ा देते हैं। दिल्ली एवं उत्तर प्रदेश के निवासियों के लिए यह लोकप्रिय ग्रीष्मकालीन पर्यटन स्थल है। बहुत ही सुदंर नगर है ।",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-1-2.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "169",
+  "reviews_count": "152",
+  "phone": "+919513238818",
+  "locality": "Charleville",
+  "board": "IB, ICSE, IGCSE\n\nOnly Girls School\n\nAbout Mussoorie International School\nEnquire Now\n\nMussoorie International School",
+  "established": "1984",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

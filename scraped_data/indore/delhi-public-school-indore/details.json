@@ -1,0 +1,411 @@
+{
+  "slug": "/school/indore/delhi-public-school-indore",
+  "url": "https://yellowslate.com/school/indore/delhi-public-school-indore",
+  "city": "indore",
+  "name": "Delhi Public School - Indore ",
+  "scraped_at": "2026-04-27T23:18:37.901592",
+  "html_length": 385454,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/indore/indore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/indore/delhi-public-school-indore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Indore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174099231486633092367c56f3ad2ab61740992315.webp",
+      "@id": "",
+      "url": "https://yellowslate.com/school/indore/delhi-public-school-indore",
+      "telephone": "+91 731 244 4401",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Pipliakumar - Nipania Road, Village - Nipania, Indore, Madhya Pradesh",
+        "addressLocality": "Indore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.762327,
+        "longitude": 75.931086
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pipliakumar - Nipania Road, Village - Nipania, Indore, Madhya Pradesh",
+              "addressLocality": "Indore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/indore/delhi-public-school-indore-indore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bindiya Bansal"
+          },
+          "datePublished": "2024-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very big scchool. Many sports and activities available. Teachers are very nice and teach well. They conduct competitions and carnival. Food and bus facility is very good 👍🏻.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sandeep sharma"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a very excellent school I have recently seen the annual function it is feel like we just come in a heaven",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavy Sharma"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school they are done a enthusiastic annual function and very well based on lord Krishna and I rated this annual function is a best function among all the school of indore",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anirudha Yadav"
+          },
+          "datePublished": "2024-12-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school with no respect to parents. Parents are just ATM machine for them. Attitude of teachers are extremely bad. Their behaviour with parents are extremely bad. Also they treat students very badly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritu Mudgal"
+          },
+          "datePublished": "2024-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kids have recently joined DPS Indore. So far so good. My kids have adjusted well and the teachers are very supportive and helpful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Khandelwal"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a teacher of Delhi Public School, I can confidently say it is an amazing school where teachers are truly invested in children 's education and their growth as learners. The project-based learning approach allows students to explore their creativity and grow academically in an engaging, hands-on environment. The school implements Positive Discipline and Responsive Classroom techniques, which foster a respectful, caring community and help build strong relationships. The campus is beautiful and green —creating a welcoming, nurturing atmosphere for everyone.I feel proud to be part of such a supportive and progressive school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Lonare"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great green and clean campus.🙂",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shweta singh"
+          },
+          "datePublished": "2024-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Highly satisfied as a parent since 7 years. Both my kids are studying here. Very amicable environment and lot of opportunities for growth of kids. Very dedicated teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KABIR ZHAMTANI"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good inf",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ketki Jaiswal"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful learning experience and lush green ambience makes it a 10 on 10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Shooting.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Squash.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174099231486633092367c56f3ad2ab61740992315.webp",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174099231486633092367c56f3ad2ab61740992315.webp\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64n0",
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "http://www.dpsindore.org/\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174099231486633092367c56f3ad2ab61740992315.webp\\\\\\",
+    "http://www.dpsindore.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.8",
+  "views": "178",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Indore",
+  "board": "CBSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099242435364949667c56fa801bd71740992424.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099238728216457167c56f8385ee51740992388.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174099231486633092367c56f3ad2ab61740992315.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740992442155960116867c56fba695031740992442.webp",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740992424103037025667c56fa831c561740992424.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740992381157980974667c56f7d6d6171740992381.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099241070960447967c56f9aa3cc11740992411.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740992403209620628267c56f934199b1740992403.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Shooting.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099244287303577667c56fba357b11740992442.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740992391111628507467c56f87ccf641740992392.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Squash.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740992397186211674867c56f8d70fb51740992397.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

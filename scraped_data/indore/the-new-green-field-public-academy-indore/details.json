@@ -1,0 +1,371 @@
+{
+  "slug": "/school/indore/the-new-green-field-public-academy-indore",
+  "url": "https://yellowslate.com/school/indore/the-new-green-field-public-academy-indore",
+  "city": "indore",
+  "name": "The New Green Field Public Academy - Indore ",
+  "scraped_at": "2026-04-27T23:15:51.832973",
+  "html_length": 336106,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/indore/indore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The New Green Field Public Academy",
+          "item": "https://yellowslate.com/school/indore/the-new-green-field-public-academy-indore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The New Green Field Public Academy - Indore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/indore/the-new-green-field-public-academy-indore",
+      "telephone": "+91-9926100161",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Scheme No. 94, Sector - B, Ring Road, Near Bombay Hospital, Indore - 452001, Madhya Pradesh, India",
+        "addressLocality": "Indore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Scheme No. 94, Sector - B, Ring Road, Near Bombay Hospital, Indore - 452001, Madhya Pradesh, India",
+              "addressLocality": "Indore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/indore/the-new-green-field-public-academy-indore-indore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "140"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Babita Devi"
+          },
+          "datePublished": "2025-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good Teaching and Faculty are very supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kusum Pawar"
+          },
+          "datePublished": "2025-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teacher and good environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jasmine my"
+          },
+          "datePublished": "2025-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "1.Is there admission available for nursery\n2. What is the fees and\n3. Process of admission",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vivek Agrawal"
+          },
+          "datePublished": "2025-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School management is great. Teachers are proficient in handling students of today's era. School building and premises are spacious and clean.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Isha Gupta"
+          },
+          "datePublished": "2025-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad , teachers even don't check copies properly,they just do right ticks without noticing mistakes",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hamza 23gaming"
+          },
+          "datePublished": "2025-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best education for my child",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KHUSHBU SADORIYA"
+          },
+          "datePublished": "2025-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good and supportive teachers and students are so talented, My daughter love to be a part of here , Thank you so much Green field Family 🙏🙏 Highly appreciated the way they teach students..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikram Borasi"
+          },
+          "datePublished": "2025-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The environment of the school is very nice and the studies are excellent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjana Paliwal"
+          },
+          "datePublished": "2025-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Aslamalik",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The New Green Field Public Academy - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumitra satpahadiya"
+          },
+          "datePublished": "2025-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The studies are good, there is improvement in the children, the teachers are good, the staff is also good but due to the classes of children of classes 1 to 5 being on the top floor, the children have to face a lot of problems. Please get the classes of children from class 1 to 5 also started on the ground floor. This is our request to you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js"
+  ],
+  "rating": "4.5",
+  "views": "0",
+  "reviews_count": "140",
+  "phone": "+919513238818",
+  "locality": "Indore",
+  "board": "CBSE\n\nGot Questions About The New Green Field Public Academy",
+  "established": "1984",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "The New Green Field Public Academy ?\nAsk a Question\nThe New Green Field Public Academy Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "slug": "/school/indore/vedansh-international-school-indore",
+  "url": "https://yellowslate.com/school/indore/vedansh-international-school-indore",
+  "city": "indore",
+  "name": "Vedansh International School - Indore ",
+  "scraped_at": "2026-04-27T23:15:23.169536",
+  "html_length": 336599,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/indore/indore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vedansh International School",
+          "item": "https://yellowslate.com/school/indore/vedansh-international-school-indore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vedansh International School - Indore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/indore/vedansh-international-school-indore",
+      "telephone": "+91-88895-15888",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Near Vidyapalace Colony, Airport Police Station, Chhota Bangarda Road, Indore, Madhya Pradesh 452005",
+        "addressLocality": "Indore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Near Vidyapalace Colony, Airport Police Station, Chhota Bangarda Road, Indore, Madhya Pradesh 452005",
+              "addressLocality": "Indore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/indore/vedansh-international-school-indore-indore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "POOJA dafle"
+          },
+          "datePublished": "2025-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "After 4 years of attending the school, we changed our sons school due to a few reasons here,\n1.)Some of the teachers in each year- are ill equipped, cannot speak basic English.\n2.) the school makes everything about itself and is not student oriented.\n3.) teachers are very rude sometimes when you want to convey something it is unacceptable and they give plenty of reasons.\n4.) I would particularly name a teacher : class 1-b Neha…. Cannot speak proper English, is extremely judgemental frames kids for minor mistakes instead of counselling she shames kids and parents. Please learn some basic English if you are employed in an English institution.\n5.) the concepts aren’t cleared but mugging up is a practice followed by them. As few teachers are really bad at what they do .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Om khonde"
+          },
+          "datePublished": "2025-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "the worstest school I have ever seen in my life",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shree pawar"
+          },
+          "datePublished": "2025-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Washroom is literally the worst and teachers are not even qualified",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Progressive Services"
+          },
+          "datePublished": "2025-01-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very rude , my kid's leg was fractured , he wanted to give his exam on ground floor , they didnt allowed him to give the exam.\n\nShame on you school😠\nWorst experience ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishant Chauhan"
+          },
+          "datePublished": "2024-12-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Staff is lethargic and not willing to entertain even for admission and what to expect when child already got the admission",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nirnay Bhawsar"
+          },
+          "datePublished": "2024-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad cultural function things and they don't know how to teach",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Varsha yadav"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Activity based learning helps students to retain the learnings.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diksha Jain"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Many students have won at the school, State and National level sports Competitions. Great!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "meenal khandelwal"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The studies at Vedansh help students with concept clarity and application of concepts.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vedansh International School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trapti Bajpai"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school ensures 100% participation of students in all activities which is appreciable",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174099231436321343767c56f3a8ef4e1740992315.jpg\\"
+  ],
+  "rating": "4.5",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Indore",
+  "board": "CBSE\n\nGot Questions About Vedansh International School",
+  "established": "2012",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Vedansh International School ?\nAsk a Question\nVedansh International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg"
+  ]
+}

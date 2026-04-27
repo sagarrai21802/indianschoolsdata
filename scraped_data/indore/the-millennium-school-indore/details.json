@@ -1,0 +1,373 @@
+{
+  "slug": "/school/indore/the-millennium-school-indore",
+  "url": "https://yellowslate.com/school/indore/the-millennium-school-indore",
+  "city": "indore",
+  "name": "The Millennium School - Indore ",
+  "scraped_at": "2026-04-27T23:17:37.446246",
+  "html_length": 342648,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Indore",
+          "item": "https://yellowslate.com/schools/indore/indore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/indore/indore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Millennium School",
+          "item": "https://yellowslate.com/school/indore/the-millennium-school-indore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Millennium School - Indore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/indore/the-millennium-school-indore",
+      "telephone": "na",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "alka No.13, A.B.Bypass, Phase II, Nayta Mundla, Indore, Madhya Pradesh 452001",
+        "addressLocality": "Indore",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "alka No.13, A.B.Bypass, Phase II, Nayta Mundla, Indore, Madhya Pradesh 452001",
+              "addressLocality": "Indore",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/indore/the-millennium-school-indore-indore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "81"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navami Mohit"
+          },
+          "datePublished": "2024-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "To whomsoever.....As a resident who is residing in MR3 side, Mahalaxmi Nagar....I just want to let u know the concerned authorities who is incharge of school buses...Bus that which is going through MR3 side ...your drivers are driving in a very very rash manner and in high speed....Today morning I narrowly got escaped from an accident..... Continuously after blinking the light and letting the driver know that I am moving forward with my vehicle...Whoever was driving he was overtaking another bus.....Please take care of this school authorities...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anshita talreja"
+          },
+          "datePublished": "2024-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "🌟 **The Millennium School, Indore: Nurturing Excellence with Care** 🌟\nMy son, Samarth, has been part of The Millennium School since KGI, and each year has been a remarkable step forward in his journey. The school’s consistent support, combined with Samarth’s dedication, has played a pivotal role in shaping his character, knowledge, and skills. We’ve witnessed his confidence soar, his curiosity thrive, and his dreams take flight within the nurturing walls of The Millennium School.\n\nThe Millennium School is not just an educational institution; it's a family. As parents, we couldn't have asked for a better place for our child's growth. Thank you, Millennium Indore, for being exceptional in every way! 🌟",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr. preeti Rathod"
+          },
+          "datePublished": "2024-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in the town with excellent staff and more about that Millennium School has a very nice Principal...that every student of this school loves Principal ma'am.\nOne and only school in town where school management and whole staff pamper kids and Parents.they maintain the good communication between school and Parents usually no school did .\nNo show off just keep the transparency about every student.\nKids are very safe .Ac class rooms and  buses.very nice mess  facility .The take care staffof students are very nice .my daughters never want to miss a single day of their school .The way of teaching is very nice that without creating pressure of studys teacher doing their best for students and even a growth of students can see very clearly as millennium knows very well in relax mind everything wil go in the brain very nicely .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kanica sharma"
+          },
+          "datePublished": "2024-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Millennium School,Indore is doing an excellent work in all the fields giving lot of exposure to children.Principal madam,teachers and all the staff  are really very cooperative and polite.\nThey use different learning styles which makes learning fun for all the students.My son has improved his learning skills and developed lot of confidence.\nWishing TMS all the best for future endeavors.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sulekha Sawnam"
+          },
+          "datePublished": "2024-08-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two children study at TMS Indore and I am satisfied with the school.l am impressed with the school's curriculum and teaching methods which are different from other schools. I like to have the privilege to congratulate the school for its endless efforts.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "neha soni"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in city for overall development of child.\nHighly recommended\nCurriculum sports and take extra care of your child in respect of all issues.\nMy girl never want to skip the school which is the best part that school engage students in all fields.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "supriya madan"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One among the best school in Indore.\nMy daughter studies here and I'll really recommende it.\nIt is a very student friendly school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Asha Bera"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Till now my child is very happy in the millennium school. Security guard, support staff, and teachers are cooperative and friendly. Expecting long and joyful association with TMS Indore.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suman Pati"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely happy with The Millennium school. Specially with the teachers' loving and caring nature for making my child more confident and Happy.\nWe had recently shifted to Indore and my child was lastly going to a loving and joyful preschool in Nashik.\nWe were very sceptical to put him in a big school but TMS has done the transition seamlessly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Indore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pankaj Gillore"
+          },
+          "datePublished": "2024-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst 3rd grade school of indore ..don't admit your child to this school they don't take care of your child they have zero care policy and if you complaint for not taking care of your child they will stop looking after your ward in terms of care and education so plz if you want your child to be good in any aspect don't admit to the millenium indore .....teachers and principal of school is non cooperative in nature",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752751954530-ixg9rpzq.jpg\\",
+    "http://w",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0h1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1744009714255-szifhvsl.jpeg\\"
+  ],
+  "rating": "4.5",
+  "views": "0",
+  "reviews_count": "81",
+  "phone": "+919513238818",
+  "locality": "Indore",
+  "board": "CBSE\n\nGot Questions About The Millennium School",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "The Millennium School ?\nAsk a Question\nThe Millennium School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Indore.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Boarding-Schools-in-Indore.jpg"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/ahmedabad/shree-swaminarayan-gurukul-ahmedabad",
+  "url": "https://yellowslate.com/school/ahmedabad/shree-swaminarayan-gurukul-ahmedabad",
+  "city": "ahmedabad",
+  "name": "Shree Swaminarayan Gurukul - Ahmedabad ",
+  "scraped_at": "2026-04-27T23:12:16.508831",
+  "html_length": 309809,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Ahmedabad",
+          "item": "https://yellowslate.com/schools/ahmedabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ahmedabad",
+          "item": "https://yellowslate.com/schools/ahmedabad/ahmedabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/ahmedabad/ahmedabad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shree Swaminarayan Gurukul",
+          "item": "https://yellowslate.com/school/ahmedabad/shree-swaminarayan-gurukul-ahmedabad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shree Swaminarayan Gurukul - Ahmedabad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/ahmedabad/shree-swaminarayan-gurukul-ahmedabad",
+      "telephone": "089700 07222",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Nikol Gam Rd, Nikol Ahmedabad, Gujarat - 382350 India",
+        "addressLocality": "Ahmedabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nikol Gam Rd, Nikol Ahmedabad, Gujarat - 382350 India",
+              "addressLocality": "Ahmedabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/ahmedabad/shree-swaminarayan-gurukul-ahmedabad-ahmedabad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "116"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Ganesh Batham"
+          },
+          "datePublished": "2025-03-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad education system👎",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chintanpriydasji Swami"
+          },
+          "datePublished": "2025-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ever Best place for education and learn morality for children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jignasha Vaghasiya"
+          },
+          "datePublished": "2024-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No best education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonam Singh Sonam Singh"
+          },
+          "datePublished": "2024-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good innovative coaching class with practical learning",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sejal Patel"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Middle class student jode bhedbhaav thay che...principal k anya koi sir sarkha javab pan nathi aapta...management saav 0 che..koi ni paristhiti nathi samjta..aana karta better sankalp and vedant school che..k jya parents ni respect thay che..proper saambhle che..than solution pan aape che",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jadav"
+          },
+          "datePublished": "2024-06-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jalpa Patel"
+          },
+          "datePublished": "2024-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "GOOD management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maru Prashant"
+          },
+          "datePublished": "2024-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Dobariya"
+          },
+          "datePublished": "2024-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Swaminarayan Gurukul - Ahmedabad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jha Mukund"
+          },
+          "datePublished": "2024-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Superb management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1749722393355-s38v1md3.jpeg\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1750412481133-rwqywawo.jpeg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg"
+  ],
+  "rating": "4.6",
+  "views": "0",
+  "reviews_count": "116",
+  "phone": "+919513238818",
+  "locality": "Ahmedabad",
+  "board": "CBSE, ICSE, State Board\n\nGot Questions About Shree Swaminarayan Gurukul",
+  "established": "2020",
+  "category": "International Schools",
+  "classes": "1 - 10",
+  "gender": "Boys",
+  "fees_range": null,
+  "about": "Shree Swaminarayan Gurukul ?\nAsk a Question\nShree Swaminarayan Gurukul Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

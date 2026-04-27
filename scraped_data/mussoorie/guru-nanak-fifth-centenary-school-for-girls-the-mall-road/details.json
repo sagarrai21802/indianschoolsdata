@@ -1,0 +1,373 @@
+{
+  "slug": "/school/mussoorie/guru-nanak-fifth-centenary-school-for-girls-the-mall-road",
+  "url": "https://yellowslate.com/school/mussoorie/guru-nanak-fifth-centenary-school-for-girls-the-mall-road",
+  "city": "mussoorie",
+  "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road ",
+  "scraped_at": "2026-04-27T23:07:40.274265",
+  "html_length": 330659,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mussoorie",
+          "item": "https://yellowslate.com/schools/mussoorie"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "The Mall Road",
+          "item": "https://yellowslate.com/schools/mussoorie/the-mall-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/mussoorie/the-mall-road/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Guru Nanak Fifth Centenary School For Girls",
+          "item": "https://yellowslate.com/school/mussoorie/guru-nanak-fifth-centenary-school-for-girls-the-mall-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mussoorie/guru-nanak-fifth-centenary-school-for-girls-the-mall-road",
+      "telephone": "+91 135 263 1621",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Shangri - La, S. Mehtab Singh Road, Mussoorie, Uttarakhand",
+        "addressLocality": "Mussoorie",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.4547465,
+        "longitude": 78.081985
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Shangri - La, S. Mehtab Singh Road, Mussoorie, Uttarakhand",
+              "addressLocality": "Mussoorie",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mussoorie/guru-nanak-fifth-centenary-school-for-girls-the-mall-road-the-mall-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "39"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "paras Singh"
+          },
+          "datePublished": "2025-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "School eStore"
+          },
+          "datePublished": "2024-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ujjal Kanti Kumar"
+          },
+          "datePublished": "2024-08-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "GNFCS have made our children smarter and a more capable human being in addition to bringing intellectual and academic development in them. We are proud of GNFCS and our children. They travelled all alone from school to Kolkata at the age of 11 and 12. Thankyou GNFCS 🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Angad Singh"
+          },
+          "datePublished": "2024-03-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great school for shaping student's personalities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monica Chawla"
+          },
+          "datePublished": "2023-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I feel so blessed to have a teacher like you for my child. I really want you to know that you transformed my child completely.\nAs being a single mother for almost all the years of my life I could not give time to my child which was a very problematic moment for me and due to that she used to stay at home and do nothing. She was completely addicted to social media and was not doing any productivity. She was her failing classes and I lost hope in her and not just that but she got into bad influence but I couldn't do anything about it.\nThen one day, a very good friend of mine who also studied at a boarding school suggested me to send my ward to a boarding.\nI was very confused about my decision but I couldn't see her like this either. After searching about many boarding schools in Mussoorie I got suggested about GuruNanak Fifth Centenary School by many people and the feedback was also good.\nFinally, I took the hardest step of my life by sending my daughter here. I believed in ma'am Sarkar and handed my daughter over to her. This was the turnover point of both our lives.\nAt first she cried alot and couldn't get settled but then finally as the result came I could say she had improved alot which was not possible if it weren't of this school. When I met her after a while she had changed alot and I couldn't believe it. Our relation which had gotten very toxic was now healthy again. This school gave my daughter a chance in every activity possible and if it weren't of Ma'am Sarkar and Ma'am Rekha who supported me alot by even counselling me aswell as my daughter for hours  I could've never been encouraged to keep her at the boarding school in the first place. This is why I want to thank you alot for everything though it isn't enough for what you have done  but still thanks a tons. GuruNanak Fifth Centenary School is one of the best boarding schools for a child.🩷",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parkhi Singh"
+          },
+          "datePublished": "2023-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school teachers are also very nice loved GNFC school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harmesh cafe"
+          },
+          "datePublished": "2023-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Uttarakhand",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vipul Singh"
+          },
+          "datePublished": "2023-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "What a awesome",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "COL HARI RAJ SINGH RANA"
+          },
+          "datePublished": "2023-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School for Toddlers till Senior Secondary for Boys & Girls.\nLocated in most serene & beautiful environment helping Children’s growth & development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guru Nanak Fifth Centenary School For Girls - The Mall Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suhail mohd"
+          },
+          "datePublished": "2023-01-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Guru Nanak Fifth Centenary School Founded in 1969, the Guru Nanak Fifth Centenary School is situated in Mussoorie with two separate campuses for girls and boys. The school is affiliated to the Council for the Indian School Certificate examinations. The girls' school is ranked as no. 7 in India while the boys' school ranks no. % in Uttarakhand. The school is residential and has English as its medium of instruction. The two campuses of boys and girls have been named as Shangri-la, Vincent hill with Shangri-la being established in the year 1977. The alumni of this school have been successful in the field of science, literature, medical, and there have been people doing well in their respective fields. There are inter-school competitions that take place, boosting the morale of the children and various recreation activities. Both campuses have sports facilities available, a cricket field of safeguarding the interest of those children who have an inclination towards sports, hockey field, an indoor swimming pool, table tennis and pool tables. Besides preparing the children to be able to secure good marks, the school contributes to shaping their personalities to make the leaders of tomorrow. The school also believes in serving the society by offering helping hands to the economically weaker sections and by providing them with community service.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-1-2.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64n0",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64n0",
+    "https://schema.org\\",
+    "https://8views.com/",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.6",
+  "views": "163",
+  "reviews_count": "39",
+  "phone": "+919513238818",
+  "locality": "The Mall Road",
+  "board": "ICSE\n\nOnly Girls School\n\nAbout Guru Nanak Fifth Centenary School For Girls\nEnquire Now\n\nGuru Nanak Fifth Centenary School, Mussoorie Founded in the sacred memory of Sri Guru Nanak Dev Ji, on the occasion of",
+  "established": "1969",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-4.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

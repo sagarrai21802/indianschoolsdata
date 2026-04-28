@@ -1,0 +1,98 @@
+{
+  "city": "jaipur",
+  "total_schools": 34,
+  "pages_scraped": 4,
+  "listing_only": true,
+  "scraped_at": "2026-04-28T21:48:01.911970",
+  "stop_reason": "reached_end",
+  "completed": true,
+  "max_pages_limited": false,
+  "validation_passed": true,
+  "validation_errors": [],
+  "pages_visited": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "highest_visible_page_seen": 4,
+  "pages_with_zero_new_schools": [],
+  "duplicate_hits": 0,
+  "cross_city_skips": 5,
+  "missing_slug_skips": 0,
+  "saved_school_folders": 34,
+  "page_stats": [
+    {
+      "page": 1,
+      "cards_found": 13,
+      "unique_schools_found": 11,
+      "new_schools_saved": 11,
+      "duplicate_hits": 0,
+      "cross_city_skips": 1,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visible_last_page": 4,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 2,
+      "cards_found": 14,
+      "unique_schools_found": 9,
+      "new_schools_saved": 9,
+      "duplicate_hits": 0,
+      "cross_city_skips": 4,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visible_last_page": 4,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 3,
+      "cards_found": 13,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visible_last_page": 4,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 4,
+      "cards_found": 3,
+      "unique_schools_found": 2,
+      "new_schools_saved": 2,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "visible_last_page": 4,
+      "has_exact_next": false,
+      "signature_seen_on_page": null
+    }
+  ]
+}

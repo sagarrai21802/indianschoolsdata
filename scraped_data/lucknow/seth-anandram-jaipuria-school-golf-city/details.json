@@ -1,0 +1,367 @@
+{
+  "slug": "/school/lucknow/seth-anandram-jaipuria-school-golf-city",
+  "url": "https://yellowslate.com/school/lucknow/seth-anandram-jaipuria-school-golf-city",
+  "city": "lucknow",
+  "name": "Seth Anandram Jaipuria School - Golf City ",
+  "scraped_at": "2026-04-28T21:53:58.818547",
+  "html_length": 325706,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Lucknow",
+          "item": "https://yellowslate.com/schools/lucknow"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Golf City",
+          "item": "https://yellowslate.com/schools/lucknow/golf-city"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/lucknow/golf-city/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Seth Anandram Jaipuria School",
+          "item": "https://yellowslate.com/school/lucknow/seth-anandram-jaipuria-school-golf-city"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Seth Anandram Jaipuria School - Golf City",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/lucknow/seth-anandram-jaipuria-school-golf-city",
+      "telephone": "097210 81098",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sec-D, Pocket - 3, Ansal, Amar Shaheed Path, Golf City, Lucknow, Uttar Pradesh 226030",
+        "addressLocality": "Lucknow",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sec-D, Pocket - 3, Ansal, Amar Shaheed Path, Golf City, Lucknow, Uttar Pradesh 226030",
+              "addressLocality": "Lucknow",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/lucknow/seth-anandram-jaipuria-school-golf-city-golf-city-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "amit singh"
+          },
+          "datePublished": "2025-03-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school and practical learning",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Advocate Mandeep Singh"
+          },
+          "datePublished": "2025-03-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kid is studying in jaipuria from past 2 year. Excellent curriculum with excellent staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Adina Farhan"
+          },
+          "datePublished": "2025-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school has been a life changing experience for me. Always thankful to the principal and staff there for their constant support and encouragement.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Agam Saran"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am happy with the overall development of my daughter thanks AR Jaipuria school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prrince singh"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We have had an excellent experience from everyone at the school especially the teachers”",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pinkey S"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are very happy with the school and the healthy environment they provide for our kids to bloom.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "JYOTI GAUR"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I  wanted to extend my heartfelt appreciation for the fantastic event you organized. Everything, from the planning to the execution, was seamless and well thought out. The venue, schedule, and activities were engaging, and it was evident that a lot of effort went into making it a success.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A.K. Dubey"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's Really good for overall development of child. Good Environment & best teachers are here.\nKeep going and keep shining.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Systumm Yadav"
+          },
+          "datePublished": "2025-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school.. Only focuses on its reputation instead of the students education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Seth Anandram Jaipuria School - Golf City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravi ray Singh"
+          },
+          "datePublished": "2025-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is truly outstanding! I admire how Vice Principal Mr. Pankaj efficiently addresses queries and guides students towards a bright future. The school’s assemblies are simply the best!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-15.jpg\\",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://8views.com/\\",
+    "http://www.w3.org/2000/svg",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\\\\\",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ],
+  "rating": "4.8",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Golf City",
+  "board": "CBSE\n\nGot Questions About Seth Anandram Jaipuria School",
+  "established": "2016",
+  "category": "Boarding Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Seth Anandram Jaipuria School ?\nAsk a Question\nSeth Anandram Jaipuria School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

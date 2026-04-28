@@ -1,0 +1,369 @@
+{
+  "slug": "/school/kolkata/el-bethel-school-sankharipota",
+  "url": "https://yellowslate.com/school/kolkata/el-bethel-school-sankharipota",
+  "city": "kolkata",
+  "name": "El-Bethel School - Sankharipota ",
+  "scraped_at": "2026-04-28T16:56:23.453685",
+  "html_length": 361643,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sankharipota",
+          "item": "https://yellowslate.com/schools/kolkata/sankharipota"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/sankharipota/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "El-Bethel School",
+          "item": "https://yellowslate.com/school/kolkata/el-bethel-school-sankharipota"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "El-Bethel School - Sankharipota",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/el-bethel-school-sankharipota",
+      "telephone": "+91 332 498 0323",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Rasapunja, Bakharat Road, Sankharipota, Raypur, West Bengal 700104, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.3863342,
+        "longitude": 88.1988279
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rasapunja, Bakharat Road, Sankharipota, Raypur, West Bengal 700104, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/el-bethel-school-sankharipota-sankharipota-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.8",
+              "reviewCount": "10"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suparnaa Das"
+          },
+          "datePublished": "2024-01-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "X student of... This school..\nWith Lots of memories... 🥰🥰",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samir Shaw"
+          },
+          "datePublished": "2023-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Girls are not loyal of this school...you love them they starts loving others.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subrata Dutta"
+          },
+          "datePublished": "2023-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very poor management.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snigdha Paul"
+          },
+          "datePublished": "2022-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Doesn't allow guardians into guardians waiting room. There is no pay and use toilet around 2 km of the school. Even doesn't allow the students to go to the toilet while they are waiting for exam.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suhasis Ghosh"
+          },
+          "datePublished": "2021-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst school on Kolkata.\nTheir moto is 'Ladder of my success' but It should be 'Money,Money,Money'..\nNo development of students, teachers aren't experienced and qualified.. The owner himself don't know how to speak good english and lack of ethics... I repeat go for any other school, your kid have to suffer in college.... Now it's your choice... This school is like a sand castle, looks marvelous from outside but it's a complete failure from inside...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranshu Pandey"
+          },
+          "datePublished": "2019-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No pratical available.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rumpa Banerjee"
+          },
+          "datePublished": "2019-04-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is not good. School do not take care about the children... They only focused on language not on the total development. Hostel atmosphere and food is worst type. They just take huge amount of money. But don't take care about the student. Do not admit your childrwn in this school. Overall very much bad experience..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "coc “devil” master"
+          },
+          "datePublished": "2018-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "😆😆😆😆",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chayan Samanta"
+          },
+          "datePublished": "2017-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Average school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "El-Bethel School - Sankharipota"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankan Das"
+          },
+          "datePublished": "2016-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Once upon a time I studied here",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "2.8",
+  "views": "484",
+  "reviews_count": "10",
+  "phone": "+919513238818",
+  "locality": "Sankharipota",
+  "board": "ICSE\n\nCo",
+  "established": "2005",
+  "category": "Day Schools",
+  "classes": "400 - 48",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

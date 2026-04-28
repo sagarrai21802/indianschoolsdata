@@ -1,0 +1,373 @@
+{
+  "slug": "/school/kolkata/little-millennium-school-lake-town",
+  "url": "https://yellowslate.com/school/kolkata/little-millennium-school-lake-town",
+  "city": "kolkata",
+  "name": "Little Millennium School - Lake Town ",
+  "scraped_at": "2026-04-28T17:02:40.022931",
+  "html_length": 395484,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lake Town",
+          "item": "https://yellowslate.com/schools/kolkata/lake-town"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/kolkata/lake-town/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Little Millennium School",
+          "item": "https://yellowslate.com/school/kolkata/little-millennium-school-lake-town"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Little Millennium School - Lake Town",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/little-millennium-school-lake-town",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P-732, behind Jaya Cinema, Block A, Lake Town, South Dumdum, West Bengal 700089",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.607419,
+        "longitude": 88.402883
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P-732, behind Jaya Cinema, Block A, Lake Town, South Dumdum, West Bengal 700089",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/little-millennium-school-lake-town-lake-town-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "135"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Misti Mondal"
+          },
+          "datePublished": "2024-09-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I called, I had some enquiries. And did not get good response from your school.  I felt my words were being ignored.  So I gave one star.  You shared a post about a vacancy on social media.  I called you with the number from there, but you hung up without listening to me.  I spoke to the other two schools about the vacancy but they spoke to me nicely, even there was no single vacancy.  I think you should listen to the person in front of you and give a good answer.\n\nThank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rishav kumar"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "1. \"Excellent academic environment, dedicated teachers, and supportive staff. Keep up the great work!\"\n\n2. \"Impressive infrastructure, innovative teaching methods, and a nurturing atmosphere. Well done!\"\n\n3. \"Consistently delivering high-quality education, fostering curiosity, and encouraging growth. Outstanding!\"\n\n4. \"Inclusive, diverse, and vibrant community. Your school truly shapes young minds!\"\n\n5. \"Exceptional extracurricular opportunities, promoting holistic development. Kudos!\"\n\n6. \"Strong emphasis on values, ethics, and character development. Admirable!\"\n\n7. \"Collaborative learning, interactive classes, and enthusiastic teachers. Fantastic approach!\"\n\n8. \"School events, activities, and festivals showcase talent and teamwork. Wonderful!\"\n\n9. \"Safe, welcoming, and inclusive environment. Parents' trust well-placed!\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "neeraj pant"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very renowned preschool for K.G. preparatory classes for our young kids for their complete nurturing and overall growth in shaping them for tomorrow.The staff here is fantastic and very energetic. We together wish them success and taking good care of their pupils.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "captain sriram"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent academic programs with dedicated teachers who go above and beyond to ensure student success.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sahaya Vivek"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very pleasant place for the children to learn and study new things..best pre school in the city. The way they treat childrens is excellent giving care to all children irrespective of their learning ability.. Giving different different task to the children in order to keep them engaged!!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sabina Yasmin sheikh"
+          },
+          "datePublished": "2024-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am writing to express my heartfelt gratitude for the good progress my kids have made during their time in your preschool program. It is evident that the dedicated efforts of your teaching staff have significantly contributed to their development and learning.\n\nThe nurturing environment and well-structured curriculum have not only enhanced their academic skills but also fostered their social and emotional growth. The creative activities and hands-on learning experiences have made a lasting impact, making education enjoyable and engaging for them.\n\nThank you once again for your commitment to excellence in early childhood education. We are grateful to be a part of such a wonderful preschool community.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Simantini Mitra"
+          },
+          "datePublished": "2024-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We as parents are very happy & satisfied that our daughter is a student of Little Millennium Lake Town. All the teaching and support stuffs are very caring and attentive in terms of dealing with the children. Their learning methods are also very engaging and interesting. I would like to thank you Little Millennium Laketown for their efforts and support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ADYA BHATTACHARJEE (AARU)"
+          },
+          "datePublished": "2024-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'am very happy and satisfied to put my daughter in this school.....\nVery loving and caring Teachers and\nCo-staffs......",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhu Bharti"
+          },
+          "datePublished": "2024-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school for toddlers. Such school can't be found anywhere ! Just an amazing school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium School - Lake Town"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saptarshi Goswami"
+          },
+          "datePublished": "2024-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Little Millennium is the best Pre school in my locality because In this playschool where I am feel free for my baby because of their school environment and caring teachers.. In this place where all the toddlers must be for their initial steps.. All teaching and Non teaching stuff are very helpful and polite.. Thank you Little Millennium (Lake Town)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160085755117057533535f6b25cfe34041600857552.PNG\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160068854613170527615f6891a2f08cd1600688547.PNG\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158859498421185073935eb009288e17e1588594985.PNG\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.9",
+  "views": "319",
+  "reviews_count": "135",
+  "phone": "+919513238818",
+  "locality": "Lake Town",
+  "board": "Other Boards\n\nCo",
+  "established": "2008",
+  "category": "Play Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Little Millennium School ?\nAsk a Question\nLittle Millennium School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160068854613170527615f6891a2f08cd1600688547.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158859498421185073935eb009288e17e1588594985.PNG"
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "slug": "/school/kolkata/st-francis-xavier-school-salt-lake",
+  "url": "https://yellowslate.com/school/kolkata/st-francis-xavier-school-salt-lake",
+  "city": "kolkata",
+  "name": "St. Francis Xavier School - Salt Lake ",
+  "scraped_at": "2026-04-28T16:53:21.054765",
+  "html_length": 391998,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Salt Lake",
+          "item": "https://yellowslate.com/schools/kolkata/salt-lake"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/salt-lake/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Francis Xavier School",
+          "item": "https://yellowslate.com/school/kolkata/st-francis-xavier-school-salt-lake"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Francis Xavier School - Salt Lake",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-francis-xavier-school-salt-lake",
+      "telephone": "033 2335 0584",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "GA Block, Purbanchal, Phase-I, Sector-III,, Salt Lake City, Purbachal, GA Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700097, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.575701,
+        "longitude": 88.406722
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "GA Block, Purbanchal, Phase-I, Sector-III,, Salt Lake City, Purbachal, GA Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700097, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-francis-xavier-school-salt-lake-salt-lake-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "94"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ash Ketchum"
+          },
+          "datePublished": "2025-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have attended this school for years and I can well say it's a truly disgusting school, teachers are constantly involved in politics and no proper development takes place. There are literally lobbies of two groups in school and even the students get involved. They play with students career even the class 10 and 12th students are forced for useless activities. The administrator is worthless and nothing like his mother and the principal officiating is another fool who does absolutely nothing. All good teachers left during my 10th grade and useless teachers replaced them. Due to the toxic environment my grades were also affected, I wish to forget my school period from my memories except a few friends and a couple of teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoshi Halder"
+          },
+          "datePublished": "2025-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School ever\nBy Shupratim Halder's Mother",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arijit Das"
+          },
+          "datePublished": "2024-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lootera school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Richa Priya"
+          },
+          "datePublished": "2024-10-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Syeda Gulsonara"
+          },
+          "datePublished": "2024-04-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I was looking into admission options for my sister, so I called to inquire about the fee structure. Unfortunately, I encountered rudeness during the interaction. It seems unreasonable to require someone to visit the office in person to discuss or receive details about fees. This information could easily be shared over the phone or via email. I found their approach quite discourteous.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhajit Saha"
+          },
+          "datePublished": "2024-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am blessed to be a student of this school its not a school its a family. Till class X ICSE the teacher are very helpful cooperative use to pull up the students upto the mark and helps to bring good results marks in there examinations I will always be rented to this teachers for my future but if anyone ask me what is the review Classes XI & XII so i will tell there are some good teachers. once are very helpful and kind but some teachers are there that once they get to know the weaknesses of any students they use to demotivating that students and for this purpose some students do not want to come to school AND only for this purpose i left this school in Class XII which I never dreamed about yess i had some weakness and i had been treated in this manner in class XI But now by blessing of god and the teachers of ICSE i am now a Aerospace engineer Student\nIf i rate this school i will give 9/10 one marks deducted only and only for those teachers .\nThank you Miss you a lot STFX u will always stay i my heart and my Subject teachers of ICSE and My class IX & X class teacher Mrs Sarbani Biswas without her I would never reach to this position thanks mam for supporting me so much and some more teachers like (Chandni Mam, Sudipta mam, Purnendu Sir, Suman Sir, Samragghi mam Swati Mam, Mousumi Mam etc) i will be rental under your feets. Love you all",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Roshni Aslam"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst schools of Kolkata with zero ethics and culture. Extremely irresponsible teachers and staffs. They are more interested in looting the parents always, for example buying books from their bookseller is compulsory (to keep the profit in their pockets), buying unnecessary and irrelevant stationaries every year (again holds profits). They even discriminate between the students. I wish I could rate this in negative they don't even deserve a 1 star.\nParents looking forward to get your child admitted to this school kindly think over again, there are alot better and reputated schools with proper ethics and culture in Kolkata please choose those schools over this parasite which only seeks money.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dibyajyoti Bhattacharya"
+          },
+          "datePublished": "2023-12-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is very near to Gate no.1 of the Saltlake Stadium",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aizah Wahid"
+          },
+          "datePublished": "2023-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's my school location",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Francis Xavier School - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ToWebb web"
+          },
+          "datePublished": "2023-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Unfortunately I stay nearby to this school and I'm seeing this school since a very long time,  their students have no ethics and are just bunch of hooligans . They have no basic culture and openly chant slangs and does unruly behavior in our respected neighborhood. I have even seen girls as young as 15 or 16yrs wearing uniform of this school & chanting unimaginable horrific slangs , don't know what sort of education this school is giving. Their students even scratch our cars while passing by , you should either close your school or teach some basic manners & discipline to your students .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "730",
+  "reviews_count": "94",
+  "phone": "+919513238818",
+  "locality": "Salt Lake",
+  "board": "ICSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. Francis Xavier School ?\nAsk a Question\nSt. Francis Xavier School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

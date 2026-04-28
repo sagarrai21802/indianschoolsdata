@@ -1,0 +1,374 @@
+{
+  "slug": "/school/kolkata/jj-ajmera-school-bhowanipore",
+  "url": "https://yellowslate.com/school/kolkata/jj-ajmera-school-bhowanipore",
+  "city": "kolkata",
+  "name": "JJ Ajmera School - Bhowanipore ",
+  "scraped_at": "2026-04-28T17:11:04.882010",
+  "html_length": 384004,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhowanipore",
+          "item": "https://yellowslate.com/schools/kolkata/bhowanipore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/bhowanipore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "JJ Ajmera School",
+          "item": "https://yellowslate.com/school/kolkata/jj-ajmera-school-bhowanipore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "JJ Ajmera School - Bhowanipore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/jj-ajmera-school-bhowanipore",
+      "telephone": "7485961245",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "23B, Justice Chandramahadeb Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5359827,
+        "longitude": 88.3499649
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "23B, Justice Chandramahadeb Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/jj-ajmera-school-bhowanipore-bhowanipore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "24"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanat Kumar Mondal"
+          },
+          "datePublished": "2022-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "An education centre.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RATUL CHAKRABORTY"
+          },
+          "datePublished": "2020-03-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mrinali Sheth"
+          },
+          "datePublished": "2019-11-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nafis Adnan Mondal"
+          },
+          "datePublished": "2019-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best infrastructure. Good schooling.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjoy Chowdhury"
+          },
+          "datePublished": "2019-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankit Chowdhury"
+          },
+          "datePublished": "2019-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "FIITJEE KOLKATA IS THE WORST FIITJEE OF INDIA\nINSTEAD JOIN ZERO KELVIN",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diganta Mukherjee"
+          },
+          "datePublished": "2018-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very comfortable air conditioned school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Paul Arijit Panja"
+          },
+          "datePublished": "2018-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiran Bairagya"
+          },
+          "datePublished": "2018-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best explore place.. Good to make students make good future",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JJ Ajmera School - Bhowanipore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhaskar Roy"
+          },
+          "datePublished": "2017-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Location of place Historical. Backside of Netaji Subhas Chandra Bose's House. Institution name BGES ( Bhawanipur Gujarati Education Society). It's FITTJE Study centre at South kolkata.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160077672520209985545f69ea15a0d721600776726.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008613803828090995f6b34c400a231600861380.PNG\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15883165071813103415eabc95bd713d1588316508.PNG\\"
+  ],
+  "rating": "4.1",
+  "views": "1122",
+  "reviews_count": "24",
+  "phone": "+919513238818",
+  "locality": "Bhowanipore",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "JJ Ajmera School ?\nAsk a Question\nJJ Ajmera School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15883165071813103415eabc95bd713d1588316508.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008613803828090995f6b34c400a231600861380.PNG"
+  ]
+}

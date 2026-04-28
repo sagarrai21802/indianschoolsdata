@@ -1,0 +1,393 @@
+{
+  "slug": "/school/kolkata/delhi-public-school-megacity-newtown",
+  "url": "https://yellowslate.com/school/kolkata/delhi-public-school-megacity-newtown",
+  "city": "kolkata",
+  "name": "Delhi Public School Megacity - Newtown ",
+  "scraped_at": "2026-04-28T16:53:28.217528",
+  "html_length": 550512,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Newtown",
+          "item": "https://yellowslate.com/schools/kolkata/newtown"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/newtown/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School Megacity",
+          "item": "https://yellowslate.com/school/kolkata/delhi-public-school-megacity-newtown"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School Megacity - Newtown",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741024080196836158967c5eb504964d1741024080.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/delhi-public-school-megacity-newtown",
+      "telephone": "+91 907 398 5531",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kalikapur Rd, Newtown, Kalikapur, West Bengal 700135, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5890105,
+        "longitude": 88.4165774
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kalikapur Rd, Newtown, Kalikapur, West Bengal 700135, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/delhi-public-school-megacity-newtown-newtown-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "155"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "manish choudhary"
+          },
+          "datePublished": "2025-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely disappointed with the management of this school. The security staff behaves rudely with parents, and when concerns are raised, the management doesn't even bother to respond.\n\nThe disbursal process is a complete mess—there is no proper communication, timings are not followed, and parents are left waiting outside in harsh weather conditions. When I questioned the security in-charge about the inconsistent disbursal timings, he not only refused to provide a proper answer but also misbehaved and scolded us. Shockingly, he even told us to find another school if we had a problem. This is unacceptable behavior from someone responsible for student safety.\n\nDespite raising these concerns via email, the school management has completely ignored them. No acknowledgment, no resolution—just silence. This shows a complete lack of accountability and respect for parents who have trusted this institution for years.\n\nIf this is how they treat parents, I can’t imagine how they handle internal issues. Extremely poor management, zero professionalism, and no regard for parents' concerns. Would NOT recommend this school to anyone who expects basic respect and proper communication.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Danyal Raza"
+          },
+          "datePublished": "2025-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst school in Kolkata. Transport manager Mr. gadadhar have no respect for parent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayukh Dey"
+          },
+          "datePublished": "2025-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A perfect school for the children to grow there future",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhu Pandey"
+          },
+          "datePublished": "2024-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "geetika pandey"
+          },
+          "datePublished": "2024-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent facilities and sweet teachers.... Amazing Education System provided.... Budget friendly+One of the best school, this is what you need.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ronaljin Biswal"
+          },
+          "datePublished": "2024-11-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a student of the school and I want to leave the school so bad they just give more pressure and mam or sir do not do anything in the school only",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "শমীক সেন"
+          },
+          "datePublished": "2024-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is a student of this co-ed ICSE School..The school is well maintained and  provides a good opportunity for students who seek knowledge..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayush Aryan:"
+          },
+          "datePublished": "2024-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In this school I am a student studying in class 7 and my phone got confiscated and the school ain't giving those phones after 8  months",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prakash Bohra"
+          },
+          "datePublished": "2024-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Full of water in monsoon",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School Megacity - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poulomi Roy"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school - unnecessary pressure created on students, class 9 students are given questions of Class 12 and IIT Advance. There is a Physics Teacher, who simply torchures students by teaching them topics beyond their ICSE Syllabus and even the Physics Question Format is not as per ICSE Syllabus. The instructions given in English question papers are always confusing. They keep two papers on each day and with almost negligible study leaves, they are always in a hurry to conduct the Half Yearly and Annual Exam and then students are not taught anything in the month after the exams, even syllabus is given late. I am literally fed up. Their science and maths teachers are not worthy at all. Coming to extracurricular activities, in Cricket and Football, higher class students select their juniors and the particular sports teacher is always non vigilante and not present observing students. English speaking is not mandatory and students roam in the school talking in Hindi. The management is not controlling Bullies and a lot of bullying happens.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741024080196836158967c5eb504964d1741024080.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15893638175651722845ebbc469651511589363817.PNG\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069109219624072345f689b941a6c01600691092.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16050121906402948435faa8ade7bfdf1605012191.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741024080196836158967c5eb504964d1741024080.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741024080196836158967c5eb504964d1741024080.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.9",
+  "views": "514",
+  "reviews_count": "155",
+  "phone": "+919513238818",
+  "locality": "Newtown",
+  "board": "ICSE\n\nCo",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1741024133110606243467c5eb854f3f01741024133.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1741024130210209208667c5eb825f55e1741024130.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1741024130183107694667c5eb82e00801741024131.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069109219624072345f689b941a6c01600691092.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1741024140127024494667c5eb8c2e0651741024140.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1741024126173838367167c5eb7eba6901741024127.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16050121906402948435faa8ade7bfdf1605012191.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1741024136211647693467c5eb88327311741024136.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741024080196836158967c5eb504964d1741024080.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174102413656340788367c5eb88784691741024136.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png"
+  ]
+}

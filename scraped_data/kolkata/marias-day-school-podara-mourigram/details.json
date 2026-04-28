@@ -1,0 +1,369 @@
+{
+  "slug": "/school/kolkata/marias-day-school-podara-mourigram",
+  "url": "https://yellowslate.com/school/kolkata/marias-day-school-podara-mourigram",
+  "city": "kolkata",
+  "name": "Marias Day School - Podara,Mourigram ",
+  "scraped_at": "2026-04-28T17:03:12.970356",
+  "html_length": 381400,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Podara,Mourigram",
+          "item": "https://yellowslate.com/schools/kolkata/podara-mourigram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/podara-mourigram/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Marias Day School",
+          "item": "https://yellowslate.com/school/kolkata/marias-day-school-podara-mourigram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Marias Day School - Podara,Mourigram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/marias-day-school-podara-mourigram",
+      "telephone": "+91 9903291573",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Andul Rd, Shantinagar North, Vidyasagar Pally, Podara, Mourigram, Howrah, West Bengal 711109, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5661271,
+        "longitude": 88.2785524
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Andul Rd, Shantinagar North, Vidyasagar Pally, Podara, Mourigram, Howrah, West Bengal 711109, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/marias-day-school-podara-mourigram-podara-mourigram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "39"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ABHISHEK KHARWAR"
+          },
+          "datePublished": "2024-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kiDZ briDgE India"
+          },
+          "datePublished": "2023-12-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good only ✍️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shahin Qureshn"
+          },
+          "datePublished": "2023-11-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sourish"
+          },
+          "datePublished": "2023-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great 👍🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amar Kumar Sharma"
+          },
+          "datePublished": "2023-05-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All the teachers and staffs in this school are very helpful.\n\nI visited at this school for write WBJEE exam.\nSecurity guard of this school is very polite and helpful when we wrote WBJEE exam then, Suddenly Rain had come, Guard protect our bag from Rain 🌧️ to keep at safe zone.\n\nOverall good school....\n\nIt's not to much costly as name of English Medium School but you haven't find student even teacher to speak English but their mother tongue.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tulika Mazumdar"
+          },
+          "datePublished": "2023-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a student of Maria's day and i am learning here for almost eight years.The school has been updated in the following years.But it is a harsh truth that sometimes we feel disturbance in our education.but only for a short while ,eventhough our school is repeatedly updating and providing us with various facilities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ersad Ali"
+          },
+          "datePublished": "2022-11-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best English medium school in our area ❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kuamr sanu"
+          },
+          "datePublished": "2022-09-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst school in howrah .This school is comparatively low fees school so infiltration of low quality standard belonging are very high . No teaching standard and students keep fighting each other very often. Techers can't control students and there are no CCTV surveillance inside the classrooms.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Md Dilnawaz"
+          },
+          "datePublished": "2022-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a very good and disciplined school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marias Day School - Podara,Mourigram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shreya Singh"
+          },
+          "datePublished": "2022-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school, the students and the teachers are pathetic. They have no rules regulations, no discipline. Teachers are very partial towards old students. They don't give importance and marks to new students. Things are not systematic. No proper online classes were held.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.9",
+  "views": "485",
+  "reviews_count": "39",
+  "phone": "+919513238818",
+  "locality": "Podara,Mourigram",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 108",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

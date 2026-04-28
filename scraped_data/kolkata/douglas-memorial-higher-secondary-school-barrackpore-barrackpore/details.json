@@ -1,0 +1,316 @@
+{
+  "slug": "/school/kolkata/douglas-memorial-higher-secondary-school-barrackpore-barrackpore",
+  "url": "https://yellowslate.com/school/kolkata/douglas-memorial-higher-secondary-school-barrackpore-barrackpore",
+  "city": "kolkata",
+  "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore ",
+  "scraped_at": "2026-04-28T16:58:26.729807",
+  "html_length": 439973,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Barrackpore",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Douglas Memorial Higher Secondary School - Barrackpore",
+          "item": "https://yellowslate.com/school/kolkata/douglas-memorial-higher-secondary-school-barrackpore-barrackpore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175143228817747742146864bc60cdf6d1751432289.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/douglas-memorial-higher-secondary-school-barrackpore-barrackpore",
+      "telephone": "+91 844 844 9503",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Barakpur, 52, Barrack Rd, Cantonment, Kolkata, Barrackpur Cantonment, West Bengal 700120, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7662676,
+        "longitude": 88.3498064
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Barakpur, 52, Barrack Rd, Cantonment, Kolkata, Barrackpur Cantonment, West Bengal 700120, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/douglas-memorial-higher-secondary-school-barrackpore-barrackpore-barrackpore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mahua Mukherjee"
+          },
+          "datePublished": "2023-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Douglas Memorial Higher Secondary School is the best school  located in Barrackpore,kolkata. The school has an excellent curriculum, taught by highly qualified and experienced teachers. The school has a strong focus on technology and innovation and offers exciting activities and clubs to help students develop their creative and critical thinking skills. The school also offers a wide range of extracurricular activities and sports to promote physical and mental well-being. The school has a great system of pastoral care and provides individual attention to every student.  The school provides an overall great environment and has excellent facilities and resources. All in all, I highly recommend Douglas Memorial Higher Secondary School as a great educational institution for anyone looking for a high quality of education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Indi hati"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school for learning proficient and efficient knowledge and experience to adopt a nice moral values in this school. I strongly recommend this school for those who seek admission in a good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sabita Balmiki"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Douglas Memorial Higher secondary school is the best boarding school in Kolkata.Provides excellent education and extra curricular activities.Experienced teachers and regular PTM meetings provides good parent teacher and student interaction.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tilottama Banerjee"
+          },
+          "datePublished": "2023-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Located next to cantonment board office in Barrackpore. On the lap of nature on barrack road, DMHSS is disastrous for your child to spend his/her school life. The entrance of the school says half of the story.\nAlong with the management body, the teachers take individual care of each and every kid. but there is too much pressure on kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Douglas Memorial Higher Secondary School - Barrackpore - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Indrani Bhattacharya"
+          },
+          "datePublished": "2021-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Located next to cantonment board office in Barrackpore. On the lap of nature on barrack road, DMHSS is perfect abode for your child to spend his/her school life. The entrance of the school says half of the story. The in campus space is decorated with beautiful trees and and beautiful props that enhances the holistic development of a child.\nComing to the faculty.... The teachers are well trained with prolong experience in the teaching field. Along with the management body, the teachers take individual care of each and every kid. They believe in not only excellence in academics but also making a child an all-rounder by nurturing his other skills as well.\nThis institution also offers hostel facility for students coming from long distances.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175143228817747742146864bc60cdf6d1751432289.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175143228817747742146864bc60cdf6d1751432289.jpg\\",
+    "https://www.youtube.com/embed/I9UEG8vHbnA\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://www.youtube.com/embed/a9jUyGl3eJo\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png\\",
+    "https://www.youtube.com/embed/dXnLQB5nY3c\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175143228817747742146864bc60cdf6d1751432289.jpg",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/embed/rAPG2vbpCuw\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.6",
+  "views": "200",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Barrackpore",
+  "board": "ICSE, Cambridge Early Years, ISC\n\nCo",
+  "established": "1984",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1734956878982030686769574e08cc11734956878.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1734956627195077952467695653b32a01734956628.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175143187411961521866864bac2ca5291751431875.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1751424925212815105868649f9d730a81751424925.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://img.youtube.com/vi/a9jUyGl3eJo/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1734956648640930343676956688d1e81734956649.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/173495686967863136867695745532891734956869.JPG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/173495662943197197267695655e788f1734956630.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174650952756540674568199ed7a1b961746509528.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174650952784238587168199ed7e2e081746509528.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1734956887210956275967695757f014d1734956888.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/17349568903159597696769575ad5fa91734956891.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/17349566471662680596676956678c05e1734956648.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1734956648192990429567695668551641734956648.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/17349568339288864116769572175f551734956833.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/173495688439921154667695754345021734956884.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/17295933831498183258671780274b0441729593383.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://img.youtube.com/vi/I9UEG8vHbnA/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Taekwondo.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/175143228817747742146864bc60cdf6d1751432289.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1734956880666398304676957506cb061734956880.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1751424915110287226668649f93caf781751424916.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/173495664725186019267695667cbb171734956648.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://img.youtube.com/vi/dXnLQB5nY3c/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175142492530118054568649f9da8b7c1751424926.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175142491667299627368649f94175d01751424916.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/kolkata/st-augustines-day-school-barrackpore",
+  "url": "https://yellowslate.com/school/kolkata/st-augustines-day-school-barrackpore",
+  "city": "kolkata",
+  "name": "St. Augustines Day School - Barrackpore ",
+  "scraped_at": "2026-04-28T17:03:55.426823",
+  "html_length": 383755,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Barrackpore",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Augustines Day School",
+          "item": "https://yellowslate.com/school/kolkata/st-augustines-day-school-barrackpore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Augustines Day School - Barrackpore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-augustines-day-school-barrackpore",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "64, Barrack Rd, Airport Area Barrackpore, Kolkata, Barrackpur Cantonment, West Bengal 700120",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7688028,
+        "longitude": 88.3389167
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "64, Barrack Rd, Airport Area Barrackpore, Kolkata, Barrackpur Cantonment, West Bengal 700120",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-augustines-day-school-barrackpore-barrackpore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "110"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "G.G"
+          },
+          "datePublished": "2026-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School in Barrackpore.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A Bandpadhyay"
+          },
+          "datePublished": "2025-11-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school says many things about them. But when it comes to education and practical learning, there is a huge difference. Extremely disheartened. Not recommended.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunita Das"
+          },
+          "datePublished": "2024-09-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a brilliant school\nMy kid is so educated....\nAll staffs and teachers are behaved so good to the students 😃\nI love this school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poulomi Paul"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever ...that's not a school that's a business place ... Shame on that school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avash Babu"
+          },
+          "datePublished": "2024-05-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad school for students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashish Chaturvedi"
+          },
+          "datePublished": "2024-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Low quality of education...\nOutdated teaching methods...\nInadequate infrastructure...\nLack of empathy towards students & parents...\nBusiness Hub! Worst school! 👎🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prodip Chakraborty"
+          },
+          "datePublished": "2024-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school in Barrackpore stands out as the best school in North Kolkata. Exceptional education, dedicated staff, and vibrant extracurricular activities make it a top choice for holistic development. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Md Ekbal"
+          },
+          "datePublished": "2024-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This nursery school near Barasat is truly exceptional! The teachers are incredibly nurturing and skilled, creating an inspiring learning environment. Their focus on holistic development and child-centric approach make it a top choice for parents in Barrackpore. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "soma shil"
+          },
+          "datePublished": "2024-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This English medium school in Barrackpore excels in academics and extracurriculars. With dedicated teachers and modern facilities, it fosters holistic growth. A nurturing environment for students to thrive academically and personally. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Augustines Day School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nisha Rajbanshi"
+          },
+          "datePublished": "2024-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The atmosphere at this play school is incredibly nurturing. Teachers are dedicated, creative, and committed to the children's growth. The school's facilities are outstanding, offering an ideal setting for early learning and development. Highly recommended for parents seeking a quality educational start for their children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "114",
+  "reviews_count": "110",
+  "phone": "+919513238818",
+  "locality": "Barrackpore",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. Augustines Day School ?\nAsk a Question\nSt. Augustines Day School Reviews\nView All Reviews\nOverall Experience\n 3.0\nTeaching Excellence\n 3.5\nValue for Money\n 3.0\nCampus & Facilities\n 3.0\nCo-curricular Activities\n 3.0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg"
+  ]
+}

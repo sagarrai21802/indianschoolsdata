@@ -1,0 +1,258 @@
+{
+  "slug": "/school/kolkata/st-mary-school-taltala",
+  "url": "https://yellowslate.com/school/kolkata/st-mary-school-taltala",
+  "city": "kolkata",
+  "name": "St. Mary School - Taltala ",
+  "scraped_at": "2026-04-28T17:07:24.165055",
+  "html_length": 347689,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taltala",
+          "item": "https://yellowslate.com/schools/kolkata/taltala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/taltala/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Mary School",
+          "item": "https://yellowslate.com/school/kolkata/st-mary-school-taltala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Mary School - Taltala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-mary-school-taltala",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "92, Muzaffar Ahmed St, Taltala, Kolkata, West Bengal 700016, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5538557,
+        "longitude": 88.3591552
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Mary School - Taltala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "92, Muzaffar Ahmed St, Taltala, Kolkata, West Bengal 700016, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-mary-school-taltala-taltala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Md. Nasirur Rahman"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lovely teachers , it takes a big heart to shape little minds.\nMy childhood memories are rooted here in the hall.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Mary School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Obaid Shamim"
+          },
+          "datePublished": "2023-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All the teachers are very friendly and this school has a cheerful environment but management is not good, the current principal(Fr.Neethi Das) doesn't respect parents and do whatever he wants to do. He literally gives TC like if it is a joke, doesn't give reasons for his actions to parents which is necessary and doesn't even gives chance to children to justify themselves. He has some serious anger issues and he uses his power in a wrong way.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Mary School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sucharita Roy"
+          },
+          "datePublished": "2023-01-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the Best school in Kolkata.Teacher's guide every students to achieve their career goals.Thank you Father, for giving opportunity to my daughter to be a part of your's School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Mary School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "GARENA GAMING"
+          },
+          "datePublished": "2022-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's ours school love my school By:\nMd.ayaan-class-7-sec-B-roll-18",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Mary School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AZIZ AHMED"
+          },
+          "datePublished": "2018-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school where I have studied has completed its golden jubilee and l am proud\nbe a Marian and this school has best of teachers to guide you and to look afterwards  and the best thing is that they cut the amount of paying of fees of people who are poor as they value money so that we can become towards a better man",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736247821054933765e9d3aae9c9861587362479.PNG\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.4",
+  "views": "547",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Taltala",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "800 - 172",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. Mary School ?\nAsk a Question\nSt. Mary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736247821054933765e9d3aae9c9861587362479.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

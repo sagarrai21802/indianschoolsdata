@@ -1,0 +1,412 @@
+{
+  "slug": "/school/kolkata/the-cambridge-school-kalighat",
+  "url": "https://yellowslate.com/school/kolkata/the-cambridge-school-kalighat",
+  "city": "kolkata",
+  "name": "The Cambridge School - Kalighat ",
+  "scraped_at": "2026-04-28T17:06:08.122244",
+  "html_length": 439548,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kalighat",
+          "item": "https://yellowslate.com/schools/kolkata/kalighat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/kolkata/kalighat/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Cambridge School",
+          "item": "https://yellowslate.com/school/kolkata/the-cambridge-school-kalighat"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Cambridge School - Kalighat",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736791119471625455e9d4fe7a1f191587367912.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/the-cambridge-school-kalighat",
+      "telephone": "+91 82320 42019 , +91 - 033 4004 2701",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Manohar Pukur Rd, Hazra, Kalighat, Kolkata, West Bengal 700026",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5216961,
+        "longitude": 88.3498545
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Manohar Pukur Rd, Hazra, Kalighat, Kolkata, West Bengal 700026",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/the-cambridge-school-kalighat-kalighat-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "18"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditi Ray "
+          },
+          "datePublished": "2025-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad infrastructure, Cambridge assessment curriculum not followed, School authority not coperative. Disappointing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sachin vashisht"
+          },
+          "datePublished": "2022-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Cambridge International school is one great place for big events, both indoor and outdoor. They have lush green fields, a great spacious auditorium and a fantastic cafe cum canteen. Sports and Cultural events here will be a great one as there is a lot of space to host a lot of people like 500-600 at a time. The school part is a premium one as it's one of the most premium schools of Kolkata.\nThe place is great for events, auditions and outdoor activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akash Kr shaw"
+          },
+          "datePublished": "2022-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Which board this school deserve",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Radhika Vashisht"
+          },
+          "datePublished": "2022-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lovely school... Teachers are friendly and the ambiance is good but still the school needs a some of development in terms of its structure , teachers and education system .As it is counted as one of the best international school in kolkata",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Elena"
+          },
+          "datePublished": "2022-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No extra stress on anything. Academics is dealt with in a very simple but effective way. They pay attention to the students dreams and what they want to do. I am happy to recommend TCIS as it is one of the Best International Schools in Kolkata  Balance between extra-curricular activities and academics is perfect.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diksha Degamber"
+          },
+          "datePublished": "2022-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My brother is studying here. Teaching quality and Teachers are very good. Fee Structure is also reasonable moderate, not so high. I would say it is the best international school in Kolkata.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karan Doshi"
+          },
+          "datePublished": "2021-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good\nTrying to open school when covid is increasing\nIf school repoens high chances of students getting covid.\nThey should avoid this issues and discuss with parents\nYour school business teacher sells lic bank policy to us by calling us and even coming to our house\nThe both husband wife do business of offers  tuition to  students from school calling our child to their house and then teach with fees",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sona Soni"
+          },
+          "datePublished": "2021-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I need the best school in kolkata",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinayak Mukerji"
+          },
+          "datePublished": "2021-09-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a former student of The Cambridge school. I am hearing challenged. I studied at the cambridge school from 2005 to 2013. It is one of the best international schools in Kolkata. Principal and teachers were supportive and friendly. They encouraged me to do well in O Level,AS Level and A Level Cambridge international examinations. They taught me to change my life and overcome my disability. Friends were very warm,loving and well mannered. They respected my situation. Studying environment and school infrastructure were good. It has library and table tennis room which I utilised. Classrooms were well maintained and clean. Sports day was organized every December.  Examination dates were flexible and study materials were precise. It helped me in improving my performance drastically in graded assignments in my later course at Symbiosis Pune. Now I lead a happy and normal life. I am working as a senior software developer at an electronics government company West Bengal Electronics Industry Corporation (Webel). I am doing postgraduate Diploma in Digital marketing on my own without teachers' help and my parents' help from Symbiosis Centre for distance learning Pune. I am grateful to the school. Hats off to my friends Parikshit C.Mukherjee and Pragyaditya Mukherjee and their Mukerjee family which runs the school and teachers. I wish disabled people and my future generations should study at the school . Jai Hind!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Kalighat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sandra"
+          },
+          "datePublished": "2021-09-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had a fulfilling school experience!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "admissions@thecambridgeschool.ac.in",
+    "learn@thecambridgeschool.com"
+  ],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736791119471625455e9d4fe7a1f191587367912.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736791119471625455e9d4fe7a1f191587367912.PNG\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736791119471625455e9d4fe7a1f191587367912.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15887394899638005995eb23da1d329f1588739490.PNG\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.2",
+  "views": "1783",
+  "reviews_count": "18",
+  "phone": "+919513238818",
+  "locality": "Kalighat",
+  "board": "IB, IGCSE\n\nCo",
+  "established": "2003",
+  "category": "International Schools",
+  "classes": "000 - 48",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15887394899638005995eb23da1d329f1588739490.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873679344026351845e9d4ffe25fbb1587367934.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158736792816781791505e9d4ff8487dd1587367928.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158736792818874944105e9d4ff85e34c1587367928.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158736793017880474525e9d4ffaa20ec1587367931.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736791119471625455e9d4fe7a1f191587367912.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873679306498730905e9d4ffa9bf201587367931.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png"
+  ]
+}

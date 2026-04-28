@@ -1,0 +1,254 @@
+{
+  "slug": "/school/kolkata/birla-bharti-makalhati-mauza",
+  "url": "https://yellowslate.com/school/kolkata/birla-bharti-makalhati-mauza",
+  "city": "kolkata",
+  "name": "Birla Bharti - Makalhati Mauza ",
+  "scraped_at": "2026-04-28T16:52:14.268805",
+  "html_length": 342040,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Makalhati Mauza",
+          "item": "https://yellowslate.com/schools/kolkata/makalhati-mauza"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/makalhati-mauza/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Birla Bharti",
+          "item": "https://yellowslate.com/school/kolkata/birla-bharti-makalhati-mauza"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Birla Bharti - Makalhati Mauza",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/birla-bharti-makalhati-mauza",
+      "telephone": "+91 332 491 0540",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Taratolla Santoshpore New Road, near Nature Park P. O. Bidhangarh, Makalhati Mauza, Maheshtala, West Bengal 700066, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.527411,
+        "longitude": 88.26426
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla Bharti - Makalhati Mauza",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Taratolla Santoshpore New Road, near Nature Park P. O. Bidhangarh, Makalhati Mauza, Maheshtala, West Bengal 700066, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/birla-bharti-makalhati-mauza-makalhati-mauza-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRAYASH CHAKRABORTY"
+          },
+          "datePublished": "2023-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "WORST SCHOOL NEAR BEHALA 🤮🤮🤢🤢 worst experience  🤮🤮🤮🤮🤮 .\nA VERY BAD ENVIRONMENT TO STUDY .🤮🤢",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla Bharti - Makalhati Mauza"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhadeep Adhikary"
+          },
+          "datePublished": "2023-07-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school, studied since Ukg🙏👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla Bharti - Makalhati Mauza"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "subhankar biswas"
+          },
+          "datePublished": "2022-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Son is studying in Birla bharati LKG. The teaching style is awesome. My son is learning fast and there is no pressure. He is enjoying going to school. Behaviour of the school is pretty calm and understanding. Education trips and many more activities are conducted by the school and they are taking care of overall personality development of each and every student. I am glad my son is studying here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla Bharti - Makalhati Mauza"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atashi Ghosh"
+          },
+          "datePublished": "2022-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school. All theTeachers are very cooperative. Great experience for both my kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla Bharti - Makalhati Mauza"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shouvik Basu (RIK)"
+          },
+          "datePublished": "2022-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good cbse school well disciplined nd the atmosphere inside school is also full of greenery nd big playground.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "539",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Makalhati Mauza",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Day Schools",
+  "classes": "750 - 63",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

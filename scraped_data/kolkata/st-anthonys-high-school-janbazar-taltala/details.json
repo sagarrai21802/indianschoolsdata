@@ -1,0 +1,257 @@
+{
+  "slug": "/school/kolkata/st-anthonys-high-school-janbazar-taltala",
+  "url": "https://yellowslate.com/school/kolkata/st-anthonys-high-school-janbazar-taltala",
+  "city": "kolkata",
+  "name": "St. Anthonys High School - Taltala ",
+  "scraped_at": "2026-04-28T17:04:52.441185",
+  "html_length": 352722,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taltala",
+          "item": "https://yellowslate.com/schools/kolkata/taltala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/taltala/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Anthonys High School",
+          "item": "https://yellowslate.com/school/kolkata/st-anthonys-high-school-janbazar-taltala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Anthonys High School - Taltala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-anthonys-high-school-janbazar-taltala",
+      "telephone": "+91 332 264 2667",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "19, Mirza Ghalib St,, Market Street, Free School Street, Esplande, Taltala, Esplanade, Janbazar, Taltala, Kolkata, West Bengal 700087, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5567124,
+        "longitude": 88.3547202
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Anthonys High School - Taltala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "19, Mirza Ghalib St,, Market Street, Free School Street, Esplande, Taltala, Esplanade, Janbazar, Taltala, Kolkata, West Bengal 700087, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-anthonys-high-school-janbazar-taltala-taltala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Gandu"
+          },
+          "datePublished": "2023-08-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm currently studying in class 11 batch 2023. Parents please don't waste your hard earned money in this useless campus teachers are very rude to students as well as parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Anthonys High School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prãvind Thakur"
+          },
+          "datePublished": "2023-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lovely, whelming and memorable place where I spent my 12 beautiful years.\nFaculty  is very good and very much caring...\nCan't express my feelings through mere words.\nExperience here was OUTSTANDING!!!\nCherished memories of being an #Anthonian.\nLove 🤗 you all🙂🙂🙂\n.\nUpdate 2023:In delhi, pursuing  my final year of engineering.\nDoing well in life, anyone who's reading this probably from school, teachers and place is one of the best phase of my life.\nYou won't find such teachers who care for you after this is gone. Believe in them and enjoy this phase it's too valuable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Anthonys High School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vineet Shaw"
+          },
+          "datePublished": "2022-11-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "❤️❤️A very good institutions for teaching and learning the teacher's are very helpful and kind and school building is nice and big over all very good ❤️❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Anthonys High School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Thakur"
+          },
+          "datePublished": "2022-10-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have spent my most precious 14 years in this school and those memories are  just awesome. It is a great place for education the teaching staff are so good caring and kind as well as the the school management .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Anthonys High School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dola Sundeep"
+          },
+          "datePublished": "2019-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school in Mirza Ghalib street kolkata",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158736247821054933765e9d3aae9c9861587362479.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15893500652167644675ebb8eb1c87581589350066.PNG\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.2",
+  "views": "435",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Taltala",
+  "board": "State Board\n\nCo",
+  "established": "1863",
+  "category": "Day Schools",
+  "classes": "000 - 20",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15893500652167644675ebb8eb1c87581589350066.PNG"
+  ]
+}

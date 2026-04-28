@@ -1,0 +1,236 @@
+{
+  "slug": "/school/kolkata/bishop-george-mission-school-phool-bagan-beleghata",
+  "url": "https://yellowslate.com/school/kolkata/bishop-george-mission-school-phool-bagan-beleghata",
+  "city": "kolkata",
+  "name": "Bishop George Mission School - Beleghata ",
+  "scraped_at": "2026-04-28T17:10:36.755667",
+  "html_length": 346072,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Beleghata",
+          "item": "https://yellowslate.com/schools/kolkata/beleghata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/beleghata/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bishop George Mission School",
+          "item": "https://yellowslate.com/school/kolkata/bishop-george-mission-school-phool-bagan-beleghata"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bishop George Mission School - Beleghata",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/bishop-george-mission-school-phool-bagan-beleghata",
+      "telephone": "+91 9330067899",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2/1A, Surah Cross Ln, CIT Rd, Beleghata, Kolkata, l 700010.Campuses, CIT Rd, Schm IV M, Phool Bagan, Beleghata, Kolkata, West Bengal 700010, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5670619,
+        "longitude": 88.3942643
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bishop George Mission School - Beleghata",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2/1A, Surah Cross Ln, CIT Rd, Beleghata, Kolkata, l 700010.Campuses, CIT Rd, Schm IV M, Phool Bagan, Beleghata, Kolkata, West Bengal 700010, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/bishop-george-mission-school-phool-bagan-beleghata-beleghata-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinay K"
+          },
+          "datePublished": "2023-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am really pleased to admit my two children in the school. I am  highly pleased with the curriculum process and the pedagogy involved in the school. Furthermore it's worth mentioning that the new camus at Ghatakpukur is gigantic and well maintained. I am extremely happy with the cooperation from all the Teachers and specially I thank the academic coordinator Mrs Seema Roy Chowdhury\nfor her kind support and coordination with all of us.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bishop George Mission School - Beleghata"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Doli Kundu"
+          },
+          "datePublished": "2023-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am extremely satisfied after admitting my child in this school.The tuition fee is highly affordable ,moreover teachers are very cooperative abd hard working , it's good to find that this school has inculcated overall values and grooming of my child.\nHighly recommended school for the children.I sincerely thank the management and the staff for being so kind and humble.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bishop George Mission School - Beleghata"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SAMRAT BHATTACHARYA"
+          },
+          "datePublished": "2023-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BISHOP GEORGE MISSION SCHOOL is very good school but there is a teacher in that school poonam mam class three sec teacher is very rude and tell very lies some student guide can't follow properly. And the Principal of BISHOP GEORGE MISSION SCHOO that he supports the evidence so it is clear what is the condition of this school.\nSo I am requesting all guardians who are going to admit your students...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bishop George Mission School - Beleghata"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kushal Jaiswal"
+          },
+          "datePublished": "2023-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The campus is well-maintained and has a welcoming feel to it. The staff and faculty members are friendly, knowledgeable, and truly care about the success of their students. No doubt it is an exceptional school creating exceptional students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158865960815911815735eb1059895f671588659609.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15883192318423226525eabd3ff8d0f51588319232.PNG\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159368902418603697725efdc3c0120e71593689024.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "819",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Beleghata",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Bishop George Mission School ?\nAsk a Question\nBishop George Mission School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15883192318423226525eabd3ff8d0f51588319232.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159368902418603697725efdc3c0120e71593689024.PNG"
+  ]
+}

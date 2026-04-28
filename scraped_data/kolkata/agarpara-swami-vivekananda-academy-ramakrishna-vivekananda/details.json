@@ -1,0 +1,254 @@
+{
+  "slug": "/school/kolkata/agarpara-swami-vivekananda-academy-ramakrishna-vivekananda",
+  "url": "https://yellowslate.com/school/kolkata/agarpara-swami-vivekananda-academy-ramakrishna-vivekananda",
+  "city": "kolkata",
+  "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA ",
+  "scraped_at": "2026-04-28T17:03:37.915689",
+  "html_length": 344302,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "RAMAKRISHNA VIVEKANANDA",
+          "item": "https://yellowslate.com/schools/kolkata/ramakrishna-vivekananda"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/ramakrishna-vivekananda/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY",
+          "item": "https://yellowslate.com/school/kolkata/agarpara-swami-vivekananda-academy-ramakrishna-vivekananda"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/agarpara-swami-vivekananda-academy-ramakrishna-vivekananda",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "3, B T Road, Kamarhati, B T Road, Matagiri Harna Pally, Agarpara, Panihati, West Bengal 700058, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.6747026,
+        "longitude": 88.3762623
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "3, B T Road, Kamarhati, B T Road, Matagiri Harna Pally, Agarpara, Panihati, West Bengal 700058, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/agarpara-swami-vivekananda-academy-ramakrishna-vivekananda-ramakrishna-vivekananda-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankit"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Being a Ex student Of this school I can say it's one of the best school in Kolkata,I have secured 90 percent in boards exam studying from this school only",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monalisa Jana"
+          },
+          "datePublished": "2023-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is worst school ever,teachers are not co-operative, management is bad,children are harassed and there is also ragging going on in the junior section total bad ambience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anwesha Das"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I've been in this school till my class 10th. Trust me, my journey was absolutely amazing. The teachers are way too caring and helpful. Even the ambience is perfect.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prasenjit Nandi"
+          },
+          "datePublished": "2020-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's Ramkrishna Vivekananda Mission CBSE Board based school at Agarpara, Tetultala. I have been told that it's under Kesto Maharaj of Ramakrishna Vivekananda Mission, Barrackpore. I just liked the school during my first visit. There is great environment is always encouragble for students. Everything is there what students need these days. So big areas, trees and big playground. It's a great treat for yours eyes, mind and heart when you see the students playing and enjoying themselves. Regarding study culture, it's too good. A perfect blend of our Bengali culture with CBSE Board's norms and guidelines. They have their own website and you can visit to get more informations.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARPARA SWAMI VIVEKANANDA ACADEMY - RAMAKRISHNA VIVEKANANDA"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shalini Guha Thakurta"
+          },
+          "datePublished": "2019-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is built by Ramkrishna Vivekananda Mission, Barrackpur. It got affiliation from CBSC. Currently it is up to class VII.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "781",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "RAMAKRISHNA VIVEKANANDA",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "000 - 26",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "AGARPARA SWAMI VIVEKANANDA ACADEMY ?\nAsk a Question\nAGARPARA SWAMI VIVEKANANDA ACADEMY Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

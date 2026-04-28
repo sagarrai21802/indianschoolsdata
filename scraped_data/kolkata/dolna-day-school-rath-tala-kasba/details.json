@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/dolna-day-school-rath-tala-kasba",
+  "url": "https://yellowslate.com/school/kolkata/dolna-day-school-rath-tala-kasba",
+  "city": "kolkata",
+  "name": "Dolna Day School - Kasba ",
+  "scraped_at": "2026-04-28T16:58:36.386934",
+  "html_length": 352917,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kasba",
+          "item": "https://yellowslate.com/schools/kolkata/kasba"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/kasba/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dolna Day School",
+          "item": "https://yellowslate.com/school/kolkata/dolna-day-school-rath-tala-kasba"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dolna Day School - Kasba",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/dolna-day-school-rath-tala-kasba",
+      "telephone": "+91 332 442 5032",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P-V, Rash Behari Ave, CIT Scheme 47, Rath Tala, Kasba III, Kolkata, West Bengal 700042, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5199836,
+        "longitude": 88.3751945
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolna Day School - Kasba",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P-V, Rash Behari Ave, CIT Scheme 47, Rath Tala, Kasba III, Kolkata, West Bengal 700042, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/dolna-day-school-rath-tala-kasba-kasba-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ishan Dutta"
+          },
+          "datePublished": "2023-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A home away from home\nnearly 12+ years at this school and studying\ninfrastructure might not be like the big schools like bdm, dps, gdb, etc , but atleast our school does not produce arrogant and high and mighty students.\nour students are humble and down to earth with a good character\neducation and staff are all extremely good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolna Day School - Kasba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fire log Puma"
+          },
+          "datePublished": "2023-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm a student like a millinaire's son. The law say that we cant beat student but they beat me and then I left the school now I study in dps best school\nAnd the dolna is worst school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolna Day School - Kasba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "hillol deb"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Give Too much of study pressure to students.\nIf u compare same with other schools.\nManagement  must need to look on it",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolna Day School - Kasba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "oindrilla bowra"
+          },
+          "datePublished": "2022-08-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have spent 15 years of my childhood in this school. I was admitted in the creche section by my working parents at the age of 1.5 years in the year 1987.It was the 2nd home for me.I have been brought up by them with utmost care.I still cherish the memories of the days spent in Dolna Day School with my Dolna friends & enjoy a lot.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolna Day School - Kasba"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SUBHASISH CHAKRABARTI"
+          },
+          "datePublished": "2018-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DOLNA DAY SCHOOL@Kasba is affiliated to The Indian Council of Secondary Education. Easily noticeable for  its unique architecture and   colour,the school ,running for the last 26 years,offers a creche service for children from the age of 3 months to 18 years .Quality food, comfortable bedding  and a nice place to play & make friends are all provided.\naffiliated to The Indian Council of Secondary Education. Board examinations are held for classes 10 and 12 (ISC)....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15879617393170334605ea65f8b3b0e71587961739.PNG\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008587161551890975f6b2a5c37ff51600858716.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.2",
+  "views": "538",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Kasba",
+  "board": "ICSE\n\nCo",
+  "established": "1972",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008587161551890975f6b2a5c37ff51600858716.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "/school/kolkata/la-martiniere-girls-school-park-street-area",
+  "url": "https://yellowslate.com/school/kolkata/la-martiniere-girls-school-park-street-area",
+  "city": "kolkata",
+  "name": "La Martiniere Girls School - Park Street area ",
+  "scraped_at": "2026-04-28T17:03:05.877544",
+  "html_length": 360072,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Park Street Area",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "La Martiniere Girls School",
+          "item": "https://yellowslate.com/school/kolkata/la-martiniere-girls-school-park-street-area"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "La Martiniere Girls School - Park Street area",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/la-martiniere-girls-school-park-street-area",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Minto Park, Rawdon St, beside Vodafone, Elgin, Kolkata, West Bengal 700017, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5434843,
+        "longitude": 88.3580459
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Park Street area",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Minto Park, Rawdon St, beside Vodafone, Elgin, Kolkata, West Bengal 700017, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/la-martiniere-girls-school-park-street-area-park-street-area-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Hazra"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The character and atmosphere of the school is remarkable. Excellent faculty members and top class services are provided. The outcome is highly satisfactory. It was set up on Ist March, 1836. It was founded by Major General Claude Martin. It is affiliated with the Council for the Indian School Certificate Examinations. It is an uppermost English medium and private school. It is regulated by the Anglican Church of North India. It is mentioned that philanthropist Martin left a large portion of his wealth for the founding of such schools in his will.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ARYAN KUMAR"
+          },
+          "datePublished": "2022-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the finest & famed Education Institution (Ranking - among the top 10 schools in India), with historic European (French) architectural building - \"La Martiniere for Girl's\" boasts of a glorious Heritage. The Institute (ICSE board) has dedicatedly enlightened the Calcuttans over the past 186 years. The school management has a strict & diligent vigil over Academics & Discipline, along with other vocational courses & sports activities. The sprawling school campus is one the finest in the city with all amenities. Though this is an Upscale School yet students thrive to get admissions in the elite institution.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pradip Singh"
+          },
+          "datePublished": "2022-05-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best day schools in India and best in the east. This is a Girl's only school the La Martiniere for Boys has a different campus just 50 meters away from the Girl's block. The school have produced a number of renowned scholars and also business personalities. One of the oldest schools in India.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DR VINEET NAIR"
+          },
+          "datePublished": "2020-06-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Located at Minto Park, Rawdon St, Kolkata, West Bengal, La Martiniere for Girls is a heritage institution that has served the cause of education for 184 years, established in 1836 by Frenchman major general, Claude Martin. The school is affiliated with the Council for Indian School Certificate Examination and offers its class X ICSE and class XII ISC exams. The School provides the education with its best infrastructural facilities like a well-stocked library with age appropriate books, a computer lab and special teachers for sports, dance, art etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj"
+          },
+          "datePublished": "2019-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I absolutely loved the location. It’s peaceful and that can actually affect a young mind. I believe such an environment will help her concentrate in her studies. But it’s not about studies only, the campus is well built and wide open allowing several outdoor sports as well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.6",
+  "views": "749",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Park Street area",
+  "board": "ICSE\n\nGirls\n\nAbout La Martiniere Girls School\nEnquire Now\n\nLa Martiniere for Girls is deemed one of the best Girls Schools in the nation",
+  "established": "1836",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

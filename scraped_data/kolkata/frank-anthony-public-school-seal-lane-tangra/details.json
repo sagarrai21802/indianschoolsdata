@@ -1,0 +1,233 @@
+{
+  "slug": "/school/kolkata/frank-anthony-public-school-seal-lane-tangra",
+  "url": "https://yellowslate.com/school/kolkata/frank-anthony-public-school-seal-lane-tangra",
+  "city": "kolkata",
+  "name": "Frank Anthony Public School - Seal Lane,Tangra ",
+  "scraped_at": "2026-04-28T17:01:34.670117",
+  "html_length": 352371,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Seal Lane,Tangra",
+          "item": "https://yellowslate.com/schools/kolkata/seal-lane-tangra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/seal-lane-tangra/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Frank Anthony Public School",
+          "item": "https://yellowslate.com/school/kolkata/frank-anthony-public-school-seal-lane-tangra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Frank Anthony Public School - Seal Lane,Tangra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/frank-anthony-public-school-seal-lane-tangra",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "171, Acharya Jagadish Chandra Bose Rd, Beniapukur, Kolkata, West Bengal 700014, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5524205,
+        "longitude": 88.3655322
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Frank Anthony Public School - Seal Lane,Tangra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "171, Acharya Jagadish Chandra Bose Rd, Beniapukur, Kolkata, West Bengal 700014, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/frank-anthony-public-school-seal-lane-tangra-seal-lane-tangra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.3",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "05 7C Shayan Aslam"
+          },
+          "datePublished": "2023-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sone teachers are really great but some are not... Few can't even talk in English properly and sometimes i really don't understand what they are trying to teach but still they r the best....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Frank Anthony Public School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhiman Dutta"
+          },
+          "datePublished": "2023-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Such a bad school environment. Teachers are blatantly partial towards the students. You will witness extreme favouritism in every classroom, this makes some students extremely cocky and arrogant. I remember my chemistry and english teacher saying I won't pass my board exam, guess what looks like you were wrong lmao. The Principal is a great guy to be honest but unfortunately that doesn't make up for everything else that is wrong. There were a few good souls though and I still remember them for their kindness they shown towards me.\n\nWords cannot describe my experience in this school but numbers can: 0/10",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Frank Anthony Public School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shuva Mukherji"
+          },
+          "datePublished": "2023-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Im an ex-student. An excellent school to opt for! Most importantly nothing can be more desireable and satisfying than getting the guidance of our Principal, Mr . Myers and all our efficient, caring & responsible teachers.\nI will be ever grateful to all my mentors🙏🏻Regards",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Frank Anthony Public School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vidyasagar Shaw"
+          },
+          "datePublished": "2023-01-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Love the school environment. It has its own ground for the kids to play. Faculties are also kind and helpful. Expecting my kid will got proper education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.3",
+  "views": "814",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Seal Lane,Tangra",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "900 - 40",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

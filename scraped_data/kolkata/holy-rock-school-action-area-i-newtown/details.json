@@ -1,0 +1,373 @@
+{
+  "slug": "/school/kolkata/holy-rock-school-action-area-i-newtown",
+  "url": "https://yellowslate.com/school/kolkata/holy-rock-school-action-area-i-newtown",
+  "city": "kolkata",
+  "name": "Holy Rock School - Newtown ",
+  "scraped_at": "2026-04-28T16:51:37.647142",
+  "html_length": 380221,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Newtown",
+          "item": "https://yellowslate.com/schools/kolkata/newtown"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/newtown/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Holy Rock School",
+          "item": "https://yellowslate.com/school/kolkata/holy-rock-school-action-area-i-newtown"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Holy Rock School - Newtown",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/holy-rock-school-action-area-i-newtown",
+      "telephone": "7477705555",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Nawabhat, Bardhaman, West Bengal 713104",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.2673116,
+        "longitude": 87.828879
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nawabhat, Bardhaman, West Bengal 713104",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/holy-rock-school-action-area-i-newtown-newtown-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "42"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MOUSUMI Mondal"
+          },
+          "datePublished": "2024-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school with good environment and teaching staff and principal sir and madam.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khandkar Fazlur Rahman"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoj Shaw"
+          },
+          "datePublished": "2023-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a good school...teachers are well mannered....have a good teaching experience....i personally love this school a lot...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avipsha Mitra"
+          },
+          "datePublished": "2023-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is one of the best school. My son is a student of this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Apurba Mistry"
+          },
+          "datePublished": "2023-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "New ICSE 👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Indus RH"
+          },
+          "datePublished": "2022-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Baje school... Mara..faltu... Chi chi... Joghonno... Keo vorti hoyo na... Sla",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karate O Adventure"
+          },
+          "datePublished": "2022-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the best schools in Burdwan city",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "TOTAN DAS"
+          },
+          "datePublished": "2022-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school of Burdwan",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ven Xavier"
+          },
+          "datePublished": "2022-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I wasn't aware of their behaviour, i did visit here for admission but their treated us as an animal. If you wish to get a good future do not step on the premises. I wish to complain the board against them",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Holy Rock School - Newtown"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yousuf Ali"
+          },
+          "datePublished": "2021-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16050121906402948435faa8ade7bfdf1605012191.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158738750315114261185e9d9c6f106b11587387503.PNG\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17410240806529024967c5eb50110ba1741024080.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "351",
+  "reviews_count": "42",
+  "phone": "+919513238818",
+  "locality": "Newtown",
+  "board": "ICSE\n\nCo",
+  "established": "1982",
+  "category": "Public Schools",
+  "classes": "2 - 11",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Holy Rock School ?\nAsk a Question\nHoly Rock School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17410240806529024967c5eb50110ba1741024080.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16050121906402948435faa8ade7bfdf1605012191.PNG"
+  ]
+}

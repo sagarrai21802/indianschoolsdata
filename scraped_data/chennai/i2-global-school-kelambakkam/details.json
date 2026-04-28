@@ -1,0 +1,376 @@
+{
+  "slug": "/school/chennai/i2-global-school-kelambakkam",
+  "url": "https://yellowslate.com/school/chennai/i2-global-school-kelambakkam",
+  "city": "chennai",
+  "name": "I2 Global School - Kelambakkam ",
+  "scraped_at": "2026-04-28T17:24:27.679881",
+  "html_length": 393919,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kelambakkam",
+          "item": "https://yellowslate.com/schools/chennai/kelambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/chennai/kelambakkam/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "I2 Global School",
+          "item": "https://yellowslate.com/school/chennai/i2-global-school-kelambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "I2 Global School - Kelambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/i2-global-school-kelambakkam",
+      "telephone": "096001 27000",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "42, Malaiyappa Mudali St, road, Kelambakkam, Tamil Nadu 603103",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.7870663,
+        "longitude": 80.2237118
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "42, Malaiyappa Mudali St, road, Kelambakkam, Tamil Nadu 603103",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/i2-global-school-kelambakkam-kelambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "28"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karthic"
+          },
+          "datePublished": "2025-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the worst school I have ever seen. The kids do not receive adequate knowledge or basic learning. The management is solely focused on money and marketing but not kids.\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dharani Kumar"
+          },
+          "datePublished": "2024-10-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the worst school I have ever seen. The kids do not receive adequate knowledge or basic learning. The management is solely focused on money and marketing but not kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MSC LOGISTICS"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I2Global kelambakkam school  environment and area is very worst it will affect kids health. Hygenic of school environment is questionable. Teachers are ok. Unworthy for our money. Its not play school methodology.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rejena james"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience I ever had. Everything about the school is very bad. No professionalism. Worst infrastucture. Kids will really suffocate there. The head of Kelambakam branch really behaved very bad for not joining our kid in their school. In my entire life I have never met anyone so unproressional in my life being a teacher.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pavithran B.v"
+          },
+          "datePublished": "2023-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teaching and women owned keep rocking",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Agalya R"
+          },
+          "datePublished": "2023-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good environment for kids with beautiful classrooms and play area.\nBoth staffs and non teaching staffs are very kind and they care our kid with so much affection.\n\nLearning skills are improving day by day and very good school in my surroundings.\n\nHappy that my kid is i2gian.. :-)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pareedhi Naveen"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "By far the best school for my son...the place has very good staff...they take good care of all children who go there..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Muthukumari K"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Son is studying in I2Global school from Nursery. All the teachers are so good and they are taking care of the kids nicely. We no need to worry about anything. Safe Environment. teaching also very nice.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "FRANK M"
+          },
+          "datePublished": "2023-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Its a great school for Kids they give one to one teaching for the Kids and the spot the talent of Kids and encourage  them in it. And one of the most affordable IGCSE schools in Chenai.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "I2 Global School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinothkumar Janakiraman"
+          },
+          "datePublished": "2023-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "i2 global school is one of the best curriculum with less fees.The staff are dedicated to every aspect of helping our child learn and grow. Activities are incredibly well planned to maximum learning and experience.I saw a lot of improvement in my son after his initial days in i2 global. I would surely suggest parents to go for this school .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1775628041780lzjg2q3vw8s.blob\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066519159187525f3295c9ea9c61597150666.PNG\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "4.3",
+  "views": "857",
+  "reviews_count": "28",
+  "phone": "+919513238818",
+  "locality": "Kelambakkam",
+  "board": "IB\n\nCo",
+  "established": "2018",
+  "category": "International Schools",
+  "classes": "Nursery - 8",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "I2 Global School ?\nAsk a Question\nI2 Global School Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1775628041780lzjg2q3vw8s.blob",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066519159187525f3295c9ea9c61597150666.PNG"
+  ]
+}

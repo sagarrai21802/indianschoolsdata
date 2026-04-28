@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/annai-violet-international-school-pudur-banu-nagar",
+  "url": "https://yellowslate.com/school/chennai/annai-violet-international-school-pudur-banu-nagar",
+  "city": "chennai",
+  "name": "Annai Violet International School - Pudur,Banu Nagar ",
+  "scraped_at": "2026-04-28T17:35:33.186237",
+  "html_length": 352682,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pudur,Banu Nagar",
+          "item": "https://yellowslate.com/schools/chennai/pudur-banu-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/pudur-banu-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Annai Violet International School",
+          "item": "https://yellowslate.com/school/chennai/annai-violet-international-school-pudur-banu-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Annai Violet International School - Pudur,Banu Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/annai-violet-international-school-pudur-banu-nagar",
+      "telephone": "+91 442 686 2011",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "11, Ambattur Red Hills Rd, Palaniappa Nagar, Pudur, Ambattur, Chennai, Tamil Nadu 600053, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1295727,
+        "longitude": 80.1572979
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Annai Violet International School - Pudur,Banu Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "11, Ambattur Red Hills Rd, Palaniappa Nagar, Pudur, Ambattur, Chennai, Tamil Nadu 600053, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/annai-violet-international-school-pudur-banu-nagar-pudur-banu-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiruthika Arun"
+          },
+          "datePublished": "2022-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice environment for kids... Excellent teaching and teachers are very kindly and friendly overall good place for kids and students...Thank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Annai Violet International School - Pudur,Banu Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thangaswamy Ramesh"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a very nice school. They are conducting many competition which helps the kids to be creative. They are also competing with other schools and they are giving equal chances which is great. There is also public speaking which helps students to be bold. Overall it's a very nice school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Annai Violet International School - Pudur,Banu Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tina Thomas"
+          },
+          "datePublished": "2022-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice environment for kids to study and play. Kids love the smart class and teaching methods.  Teachers are very dedicated and friendly. Overall , a good school to learn and grow.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Annai Violet International School - Pudur,Banu Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vidya Richards"
+          },
+          "datePublished": "2022-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely Good and Caring School. As a mom of two, iam satisfied with the School Premises, especially the teaching faculty, who cares and concerns for the kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Annai Violet International School - Pudur,Banu Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trustme Fully"
+          },
+          "datePublished": "2022-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the biggest CBSE School run by blessed Christian Institution with attractive facilities. Wonderful School Campus.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "5.0",
+  "views": "541",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Pudur,Banu Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "2013",
+  "category": "Day Schools",
+  "classes": "000 - 100",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

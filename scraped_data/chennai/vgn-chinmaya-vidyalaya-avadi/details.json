@@ -1,0 +1,304 @@
+{
+  "slug": "/school/chennai/vgn-chinmaya-vidyalaya-avadi",
+  "url": "https://yellowslate.com/school/chennai/vgn-chinmaya-vidyalaya-avadi",
+  "city": "chennai",
+  "name": "VGN CHINMAYA VIDYALAYA - Avadi ",
+  "scraped_at": "2026-04-28T17:28:34.741945",
+  "html_length": 365824,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Avadi",
+          "item": "https://yellowslate.com/schools/chennai/avadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/avadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VGN CHINMAYA VIDYALAYA",
+          "item": "https://yellowslate.com/school/chennai/vgn-chinmaya-vidyalaya-avadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VGN CHINMAYA VIDYALAYA - Avadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/vgn-chinmaya-vidyalaya-avadi",
+      "telephone": "+91 944 474 4758",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kamaraj nager - Sekadu, Main Rd, Avadi, Tamil Nadu 600072, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1134492,
+        "longitude": 80.0805749
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kamaraj nager - Sekadu, Main Rd, Avadi, Tamil Nadu 600072, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/vgn-chinmaya-vidyalaya-avadi-avadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No respect to Parents by Principal. \nBetter choose different Chinmaya, don't choose in Avadi.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently visited VGN Chinmaya Vidyalaya near my residence. I liked the ambience of the school. However, I quickly realized that securing admission wasn’t easy, as the process was strictly merit-based, with no room for recommendations. My child underwent an entrance exam, and the results were published on time with complete transparency, including a detailed breakdown of marks for parents. I was truly pleased to enroll my child in this school that upholds strong values and fairness in its admission process.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "live the live"
+          },
+          "datePublished": "2023-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers take good care of the children, teach them in an easy to understand way and Many competitions are held in school to remove their stage fright",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "panchatsharam Balachandar"
+          },
+          "datePublished": "2023-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Avadis one' of the best school great school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sangeetha Dinesh Babu"
+          },
+          "datePublished": "2023-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of my relatives told me about this VGN Chinmaya school in Avadi, so I went there last year to enroll my daughter (for standard 2). I have therefore followed them on numerous phone calls and visits over the past two years.\n\nAccording to my own experience, school representatives have behaved in the worst manner when speaking to the parents about admission and during welcoming both the parents and students, they didn't even look into our eyes while speaking.\nWe wanted to let you know, respected school correspondent, \"We pay for our children's education; you do not give anyone a free education. Please treat people with respect, just as you treat money \".\n\nI kindly ask all parents to reconsider enrolling their children in this school because the kids might learn the same attitude from the school as well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bharathiraja Mohan"
+          },
+          "datePublished": "2019-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good but need more facilities and extra curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VGN CHINMAYA VIDYALAYA - Avadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yamaha X"
+          },
+          "datePublished": "2018-10-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the school i started the studies is really good and excellent but not facilities like canteen , IIT extra classes",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160490174618021635905fa8db72204e81604901746.jpg\\",
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "3.7",
+  "views": "944",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "Avadi",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "860 - 37",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VGN CHINMAYA VIDYALAYA ?\nAsk a Question\nVGN CHINMAYA VIDYALAYA Reviews\nView All Reviews\nOverall Experience\n 3.0\nTeaching Excellence\n 3.5\nValue for Money\n 3.0\nCampus & Facilities\n 3.0\nCo-curricular Activities\n 3.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160490174618021635905fa8db72204e81604901746.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

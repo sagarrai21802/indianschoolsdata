@@ -1,0 +1,371 @@
+{
+  "slug": "/school/chennai/alpha-school-cit-nagar-west-cit-nagar",
+  "url": "https://yellowslate.com/school/chennai/alpha-school-cit-nagar-west-cit-nagar",
+  "city": "chennai",
+  "name": "Alpha School - CIT Nagar West,CIT Nagar ",
+  "scraped_at": "2026-04-28T17:48:03.979718",
+  "html_length": 389574,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CIT Nagar West,CIT Nagar",
+          "item": "https://yellowslate.com/schools/chennai/cit-nagar-west-cit-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/cit-nagar-west-cit-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Alpha School",
+          "item": "https://yellowslate.com/school/chennai/alpha-school-cit-nagar-west-cit-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Alpha School - CIT Nagar West,CIT Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/alpha-school-cit-nagar-west-cit-nagar",
+      "telephone": "+91 730 501 5555",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "16, 3rd Cross St, CIT Nagar West, CIT Nagar, Chennai, Tamil Nadu 600035, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0268928,
+        "longitude": 80.2296663
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "16, 3rd Cross St, CIT Nagar West, CIT Nagar, Chennai, Tamil Nadu 600035, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/alpha-school-cit-nagar-west-cit-nagar-cit-nagar-west-cit-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "52"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anto"
+          },
+          "datePublished": "2025-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They have lot of admission but didn't see any quality in education. Not value for money.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A.Sulthan Maideen"
+          },
+          "datePublished": "2023-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great 14 years was spent here with indelible memories.....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "lavanya ganesh"
+          },
+          "datePublished": "2023-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school... Teaching method is  good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arun Srivarsan"
+          },
+          "datePublished": "2023-05-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very big and highly aspirant school with advance approach and wisdom in collecting the knowledge and feedback for students development.... Keep rocking",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "k"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Alpha matriclation is one of the best school teachers are very perfect and they trainded the students very well",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Padmavathi A"
+          },
+          "datePublished": "2023-03-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A well hygienic and discipline school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SAFI'S NATURE CURE"
+          },
+          "datePublished": "2023-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They treat kinder garden kid as high school kid they want kg kid to be pre-qualified they r not child centric very few good teachers der..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Christina B Fernandes"
+          },
+          "datePublished": "2023-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Chennai, children get very good exposure which is very helpful for their future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhan Kumar P"
+          },
+          "datePublished": "2022-12-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School running successfully for more than 50years .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha School - CIT Nagar West,CIT Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chidambarakrishnan K"
+          },
+          "datePublished": "2022-10-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers do not properly teach. Unless you have outside tuition, forget getting marks, you cannot even pass in board examinations. They always demotivate by putting low marks in internal examinations. And, they never tell you how to score higher marks. The playground has limited space. Fees charged is exorbitant for the education quality they impart.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.4",
+  "views": "515",
+  "reviews_count": "52",
+  "phone": "+919513238818",
+  "locality": "CIT Nagar West,CIT Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "000 - 71",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

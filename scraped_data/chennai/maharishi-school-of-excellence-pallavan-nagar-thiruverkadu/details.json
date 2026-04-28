@@ -1,0 +1,375 @@
+{
+  "slug": "/school/chennai/maharishi-school-of-excellence-pallavan-nagar-thiruverkadu",
+  "url": "https://yellowslate.com/school/chennai/maharishi-school-of-excellence-pallavan-nagar-thiruverkadu",
+  "city": "chennai",
+  "name": "Maharishi School Of Excellence - Thiruverkadu ",
+  "scraped_at": "2026-04-28T17:32:49.939631",
+  "html_length": 401927,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Thiruverkadu",
+          "item": "https://yellowslate.com/schools/chennai/thiruverkadu"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/thiruverkadu/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Maharishi School Of Excellence",
+          "item": "https://yellowslate.com/school/chennai/maharishi-school-of-excellence-pallavan-nagar-thiruverkadu"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Maharishi School Of Excellence - Thiruverkadu",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/maharishi-school-of-excellence-pallavan-nagar-thiruverkadu",
+      "telephone": "+91 9840194536",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "PTC COLONY, 34CH+M6X, Pallavan Nagar, Thiruverkadu, Chennai, Tamil Nadu 600077, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0717375,
+        "longitude": 80.1281094
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "PTC COLONY, 34CH+M6X, Pallavan Nagar, Thiruverkadu, Chennai, Tamil Nadu 600077, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/maharishi-school-of-excellence-pallavan-nagar-thiruverkadu-thiruverkadu-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jemima devan"
+          },
+          "datePublished": "2024-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent I am very happy with this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kan Sar"
+          },
+          "datePublished": "2024-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Eco school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "simple purposes (kethan)"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Avoid Maharishi school of excellence if you value modern education and engaging instructors. Outdated Teachers, lackluster facilities, and administrative inefficiencies make for a disappointing academic experience. Look elsewhere for a school that prioritizes student success and provides a more conducive learning environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramesh S"
+          },
+          "datePublished": "2023-12-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good system",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prabhu Obesh"
+          },
+          "datePublished": "2023-11-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent study and coaching",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jbharathi harish"
+          },
+          "datePublished": "2023-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The number one worst school I have ever seen in chennai so this school is not under mvm group. This school is just making you belive that our school is from mvm group of schools.the worst thing about the school is their white uniform. They tell it has pyjamas. But it look likes chudidhars in white colour without a shawl.and the infrastructure of the school is worst as possible. They do a money collecting business in the name of sports,events and even when they conduct Farwell they ask money from students. For spending money this school thinks a lot. The teachers here are somewhat ok. But my suggestion is that don't put admission for you child in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arun Kumar"
+          },
+          "datePublished": "2023-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good atmosphere for study",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ano Ani"
+          },
+          "datePublished": "2023-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm a alumni of this school and i was the first batch of their 11th and 12th standard.  I still remember the school's lack of experience and infrastructure while handling us. We were treated like LAB RATS. They experimented everything using us(first batch). Especially the math teacher, I don't wanna mention his name but i think everyone knows him well for his stereotypical behaviour and awkward speaking skills. He doesn't know the fundamental of mathematics instead he asked us to \"by heart\" the formulas. How will a student understand or development intrest in solving math problems if the teacher asks you to \"by heart\" the formulas rather than to teach them how it's derived? One of my friend attended byjus class from whom I learnt what's sin,cos,tan and their applications and why they're used when I came to know that my mathamatical teacher is not an actual teacher. I lost interest in math and i lost hope in my 11th and 12th. I'm regretting joining this school till date. Please don't join this school or let your child join this school and spoil their higher education. There are hundreds of better schools in Chennai which are more experienced in teaching. If you're joining here, join at your own risk⚠️.\nOne of my senior(Sunil) who studied till 10th from this school sells Pani puri at the entrance gate of the school every evening, please approach him if you have any further questions.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S Vignesa sivam"
+          },
+          "datePublished": "2023-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi School Of Excellence - Thiruverkadu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "lakshmanan.d lakshmanan.d"
+          },
+          "datePublished": "2022-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Waste school important in high-level pupil",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1773231141327-qel2tpea.jfif\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15867040287831467935e932e9cc99141586704029.jpg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.0",
+  "views": "548",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Thiruverkadu",
+  "board": "CBSE\n\nCo",
+  "established": "2010",
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15867040287831467935e932e9cc99141586704029.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

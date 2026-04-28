@@ -1,0 +1,371 @@
+{
+  "slug": "/school/chennai/christ-matric-higher-secondary-school-poonamallee",
+  "url": "https://yellowslate.com/school/chennai/christ-matric-higher-secondary-school-poonamallee",
+  "city": "chennai",
+  "name": "Christ Matric Higher Secondary School - Poonamallee ",
+  "scraped_at": "2026-04-28T17:29:03.113945",
+  "html_length": 401000,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Poonamallee",
+          "item": "https://yellowslate.com/schools/chennai/poonamallee"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/chennai/poonamallee/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Christ Matric Higher Secondary School",
+          "item": "https://yellowslate.com/school/chennai/christ-matric-higher-secondary-school-poonamallee"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Christ Matric Higher Secondary School - Poonamallee",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/christ-matric-higher-secondary-school-poonamallee",
+      "telephone": " 063825 06139",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Christ Nagar, Senneer Kuppam, Poonamallee, Chennai, Tamil Nadu 600056",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0507643,
+        "longitude": 80.0368742
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Christ Nagar, Senneer Kuppam, Poonamallee, Chennai, Tamil Nadu 600056",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/christ-matric-higher-secondary-school-poonamallee-poonamallee-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "58"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh"
+          },
+          "datePublished": "2025-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ladonaa",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NOBBY M P"
+          },
+          "datePublished": "2024-08-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school 😐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MG Transport"
+          },
+          "datePublished": "2024-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school for studying for students\nBest involment  in sports etcc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ABHI a.s.p.7"
+          },
+          "datePublished": "2024-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thanu Gopi"
+          },
+          "datePublished": "2024-02-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughters also going to join this school.....by God Grace....I got a good school....I choosen this school ..best for my children..Amen...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BALAJI LAKSHMANA SWAMY"
+          },
+          "datePublished": "2024-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is one of the prestigious institution in locality, More students are studying in this school and they serving the society for close to 30years now. All teachers are well qualified and friendly with students. After getting to this school my son discipline and academic standards got improved and he is talking to everyone without fear and he demonstrates punctuality everywhere now. School has lab, library, Indoor auditorium, Big ground, Kids play area, Garden area, Church, Canteen, CCTV, Big parking place, Transportation,  Pets Zone and many more. I am very satisfied of picking the right school now.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Malathi Shanmugam"
+          },
+          "datePublished": "2023-08-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever... There is no proper response for parents. Even they did not inform whether the kids have school or not. Most of the staffs are not allow the kids for nature calls too. Only Money minded school. They are not conducting parents meeting not even a single time in a year. They r not allow parents to bring lunch for kids. Staffs r very rude and kindless peoples",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shameem Basha"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "You have to pay full fees amount in the beginning. It is a very worst rules.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinod Kumar"
+          },
+          "datePublished": "2023-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Went to a Christian wedding followed by the reception in this school. Parking was difficult because the playground isnt even. Had to park the car in a muddy place. Entrance has an 6 foot aquarium welcoming us.  The indoor playground is covered with ceiling and Kids can play without worrying about climate. There is a stage, flag pole, basketball net and two giant 15 foot ceiling fans inside the premises. Didnt check the classrooms since reception and dinner was arranged in ground floor. Restrooms could be maintained well. I see a all in one gym equipment in the play area(?). Not sure it was brought recently after school holidays have begun.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Christ Matric Higher Secondary School - Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Binuja S"
+          },
+          "datePublished": "2023-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I regret for admitting my children here. Not even a single teacher can speak one sentence in english. The teachers treat the students very harshly..my daughter is mentally traumatized by Suganthi 4th STD class teacher. she even shouted at my daughter in front of me and I felt disturbed by how the students are getting treated here. When I spoke to her I didn't understand a word she said , coz her English communication was pathetically poor. This is the reason my daughter couldn't understand her subject which is math's. I had to sit every day at home and teach her everything. I saw a complete degrade of my children's English communication, standard and cleanliness. Even after two years of being in this school, they cry every morning, I feel terrible for putting them here. I'm waiting for this academic year to be over so I can shift them to a better school with qualified teachers and a better management. One of the worst decisions I had taken.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15905509489439064105ecde1a476cc01590550948.PNG\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "4.0",
+  "views": "79",
+  "reviews_count": "58",
+  "phone": "+919513238818",
+  "locality": "Poonamallee",
+  "board": "State Board\n\nCo",
+  "established": "1994",
+  "category": "Other Schools",
+  "classes": "1 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Christ Matric Higher Secondary School ?\nAsk a Question\nChrist Matric Higher Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

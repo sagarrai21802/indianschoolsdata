@@ -1,0 +1,258 @@
+{
+  "slug": "/school/chennai/sv-high-school-vanagaram",
+  "url": "https://yellowslate.com/school/chennai/sv-high-school-vanagaram",
+  "city": "chennai",
+  "name": "SV High School - Vanagaram ",
+  "scraped_at": "2026-04-28T17:36:10.381991",
+  "html_length": 356498,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Vanagaram",
+          "item": "https://yellowslate.com/schools/chennai/vanagaram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/vanagaram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SV High School",
+          "item": "https://yellowslate.com/school/chennai/sv-high-school-vanagaram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SV High School - Vanagaram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/sv-high-school-vanagaram",
+      "telephone": "+91 909 090 9942",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "113/77, Chettiyar Agaram Rd, Numbal, Vanagaram, Chennai, Adayalampattu, Tamil Nadu 600077, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.047549,
+        "longitude": 80.1455135
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SV High School - Vanagaram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "113/77, Chettiyar Agaram Rd, Numbal, Vanagaram, Chennai, Adayalampattu, Tamil Nadu 600077, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/sv-high-school-vanagaram-vanagaram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anbu Thirugnanam"
+          },
+          "datePublished": "2023-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "SV High School is always clean, good and colorful environment.\nTeachers and employees are very much responsible, polite and doing the friendly interaction with parents.\nCurriculum also good for kindergarten, my son is learning different things everyday.\nSports, Music and other activities also good, I am really very much satisfied with SV High school, Vanagaram",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SV High School - Vanagaram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ThE vIpEr"
+          },
+          "datePublished": "2023-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In every aspect SV high school meets my expectation and my child loves to go school even on holidays. But now the table has turned.\n\nLast 1 week my child refuse to go school when I asked the reason he scared of  his PET mam. He says his PET mam is scolding and threatens to beat. Cross checked with 2 of my child classmates. Both complains the same. She Speaks Rude with parents too at times. That's Bit annoying attitude while pick up drop off.\n\nI thought of bringing this to principal, but I believe management knows this well they encourage  this attitude to control students.\nI will be transferring my child to another school if this persist",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SV High School - Vanagaram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Murali Sankar"
+          },
+          "datePublished": "2023-06-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Joined my daughter keerthy sankar here...first thing is hats off to their(deciding authority) team for deciding such beautiful uniform....attrcative polo tshirt as top and dark colour skirt..The school has actually sent a strong msg that \"they care for my daughter\" is what I understood from their uniform choice... infrastructure is good and they have lot of plans in developing the facility(sports)since I spoke to correspondent mam,she was so clear and confident about the future plans of the school...Special mention to all the staffs, especially the bus manager...he is so perfect in handling parents and the bus staff...i was intially scared to send my duaghter to school in bus but i made up my mind after speaking the bus manager..hoping for the roads to get better(worst roads).All the very Best SV high school ..we as parents will always standby the school and it's plans..Impressive and developing...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SV High School - Vanagaram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yugesh Kumar"
+          },
+          "datePublished": "2023-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great place for kids to create memories while getting a chance to learn in a world class environment.\nSV High school offers a unique combination of traditional values and high infrastructure standards.\nThe school is built on a long heritage of educational experience of the Sri Venkateswara Educational Institutions.\nOverall a great place to put kids in and explore a holistic world of education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SV High School - Vanagaram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hema Mani"
+          },
+          "datePublished": "2022-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school with good staff and ample space in the class and ground. High quality teaching with advanced syllabus. The teacher's are very supportive and attend to students if they have doubt immediately. We can expect students to come in high ranks by the coaching given in this school. As the teaching is interactive and mental learning the students don't have to carry the work to home. The school takes care of all studying work what all parents will like. Highly recommended in the surrounding area.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1756198701147686040968ad772d2d8fd1756198701.webp\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.4",
+  "views": "1192",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Vanagaram",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 50",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SV High School ?\nAsk a Question\nSV High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1756198701147686040968ad772d2d8fd1756198701.webp"
+  ]
+}

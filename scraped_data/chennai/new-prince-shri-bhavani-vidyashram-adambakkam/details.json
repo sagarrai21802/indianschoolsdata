@@ -1,0 +1,284 @@
+{
+  "slug": "/school/chennai/new-prince-shri-bhavani-vidyashram-adambakkam",
+  "url": "https://yellowslate.com/school/chennai/new-prince-shri-bhavani-vidyashram-adambakkam",
+  "city": "chennai",
+  "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam ",
+  "scraped_at": "2026-04-28T17:31:07.328279",
+  "html_length": 362403,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Adambakkam",
+          "item": "https://yellowslate.com/schools/chennai/adambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/adambakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM",
+          "item": "https://yellowslate.com/school/chennai/new-prince-shri-bhavani-vidyashram-adambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/new-prince-shri-bhavani-vidyashram-adambakkam",
+      "telephone": "+91 996 240 1140",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2nd St, Kundrakudi Nagar, Shaw Wallace Colony, Adambakkam, Chennai, Tamil Nadu 600088, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9849892,
+        "longitude": 80.2016177
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2nd St, Kundrakudi Nagar, Shaw Wallace Colony, Adambakkam, Chennai, Tamil Nadu 600088, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/new-prince-shri-bhavani-vidyashram-adambakkam-adambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.3",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maheshwari "
+          },
+          "datePublished": "2025-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": " No 1 school in Adambakkam ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prabhu P"
+          },
+          "datePublished": "2023-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school management is still using old age technique to communicate with parents (writing on a board to inform the reopen date and fee details) they have a online app but that is only for one-way communication from school to Parents we will not be able to raise our clarification via the app and having only one Land line connection (BSNL) to contact them where most of the time no one will answer... Even after the Covid-19 they are not using the latest technologies to communicate with the parents... The school ground is very small... And it's located in a small street where it's difficult to drop or pick up our wards...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Zac Zic"
+          },
+          "datePublished": "2023-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers of senior secondary are completely untrained,they cant even talk proper and basic english,if you ask the principle to change the teachers then she will keep vengeance on your child,i have changed my son's school,worst school ever,worst response from management and principal 🤬",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gomathi Sankar .S"
+          },
+          "datePublished": "2022-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "1. More pressure is from LKG to all standards\n2. 6 hrs of time to LKG is too much as no schools have this many hours for LKG, 9 am to 2:30 pm (kids are crying daily)\n3. No clean toilets and class benches\n4. No ground and play area\n5. Not enough staff and aunties for kindergarten\n6. Below-average caring\n7. Very small classrooms with more class strengths, 40 kids per section.\n8.  If you could not get admission to your planned favourite schools then come here as the last option as admission is open at any time even you can come to Vijayadashami also to admission.\n9. Fee mode is ONLY cash in the counter, have to pay the amount for I term  70%, II term 15%, and III term 15%\n10. Especially for kindergarten, parents have to give almost more effort than teachers. Definitely, your kids may get 35 out of 40 marks in all subjects of term exams (including Hindi also) even if they still do not know or properly write the straight line, sleeping lines... :-)\nMore fun to write but I have no time...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Keerthana Giri"
+          },
+          "datePublished": "2019-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The people who gave positive comment may be those who are parents of bright students,For dull student Being their parents we are not able to approach teachers easily they have kept a coordinates. but what is her job at any time she must answer the queries of parents but it has not been done. Education wise best but still the student are not able to do every thing on their own, i dont know why they are not cultivating reading habit in small children's though they are trying to mold children from beginning they are not doing it through teacher is my view we the parents have to spend more and more and more time with students to complete all their projects home works assignments work sheets etc even for small kids like 1st std 2nd std. worst experience ever had.Poor student are not being encouraged and concentrated.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NEW PRINCE SHRI BHAVANI VIDYASHRAM - Adambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "LIKITHA"
+          },
+          "datePublished": "2018-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our daughter ... has made leaps and bounds academically, and socially. She is safe, appreciated by her teachers and peers, and feels that all the kids are equals..Best school...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158599085010381878755e884cc2a25371585990851.jpeg\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15970547606680714245f311f283bcfd1597054760.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159731282119212664125f350f35ba2901597312822.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "2.3",
+  "views": "868",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Adambakkam",
+  "board": "CBSE\n\nCo",
+  "established": "2017",
+  "category": "Day Schools",
+  "classes": "300 - 20",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "NEW PRINCE SHRI BHAVANI VIDYASHRAM ?\nAsk a Question\nNEW PRINCE SHRI BHAVANI VIDYASHRAM Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 5.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158599085010381878755e884cc2a25371585990851.jpeg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159731282119212664125f350f35ba2901597312822.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "slug": "/school/chennai/vidya-mandir-senior-secondary-school-mylapore",
+  "url": "https://yellowslate.com/school/chennai/vidya-mandir-senior-secondary-school-mylapore",
+  "city": "chennai",
+  "name": "Vidya Mandir Senior Secondary School - Mylapore ",
+  "scraped_at": "2026-04-28T17:30:34.255840",
+  "html_length": 420881,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mylapore",
+          "item": "https://yellowslate.com/schools/chennai/mylapore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/mylapore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vidya Mandir Senior Secondary School",
+          "item": "https://yellowslate.com/school/chennai/vidya-mandir-senior-secondary-school-mylapore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vidya Mandir Senior Secondary School - Mylapore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858203506187706295e85b2bec4b321585820351.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/vidya-mandir-senior-secondary-school-mylapore",
+      "telephone": "044 24981078 , 24980834",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "124, Royapettah High Rd, Vinayagar Kovil, Mylapore, Chennai, Tamil Nadu 600004",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0384951,
+        "longitude": 80.2684153
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "124, Royapettah High Rd, Vinayagar Kovil, Mylapore, Chennai, Tamil Nadu 600004",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/vidya-mandir-senior-secondary-school-mylapore-mylapore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "10"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashok kumar T."
+          },
+          "datePublished": "2025-03-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is sending the students during 9th standard who have studied from LKG to 8th stating the academic performance is not good.  Who is responsible for academic performance.  Both students and teachers.   While sending out without any hesitation on their future, where is the professionalism??  What is the pride to celebrate success with good students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashok Kumar"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very bad school  which only gives encouragement to the Brahmin students and discourages Non-Brahmin students and tries to put down the Non-Brahmin students.  No encouragement for sports and Athletics. A school which has a casteist mentality.\n\nThe teachers here have no concept of empathy for the students. My nephew who studied here missed a test because his Grandfather passed away and one of the teachers punished him for missing the test and made a condescending remark about it eventhough he had a valid excuse for missing the test. A school which has no empathy for the students problems and the student's mental health.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vignashwaraan Tamilvanan"
+          },
+          "datePublished": "2022-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever......",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arjun Mahalingam"
+          },
+          "datePublished": "2022-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst schools in Chennai for 11th  and 12th graders.The school test/examination System is absolute nonsense.Instead of having monthly tests like any other school they have daily tests and announce them as per their wish without allowing children appropriate time to prepare for them and verbally  harass them when they score low",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swaminathan N"
+          },
+          "datePublished": "2022-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Chennai. Consistently ranks high in various ranking lists at National level.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MP VISHNU BHARADWAJ"
+          },
+          "datePublished": "2022-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I study here from this year very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parthiban"
+          },
+          "datePublished": "2022-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Painting work 4",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karthick Dk"
+          },
+          "datePublished": "2022-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I joined in this school at 11th now I'm currently at 12th very good school they take care the students very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidya Mandir Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prasad M"
+          },
+          "datePublished": "2022-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of oldest and best schools of Chennai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858203506187706295e85b2bec4b321585820351.jpg\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858203506187706295e85b2bec4b321585820351.jpg",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158582057310261263365e85b39d29a0d1585820573.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858203506187706295e85b2bec4b321585820351.jpg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\"
+  ],
+  "rating": "3.2",
+  "views": "2448",
+  "reviews_count": "10",
+  "phone": "+919513238818",
+  "locality": "Mylapore",
+  "board": "CBSE\n\nCo",
+  "established": "1957",
+  "category": "Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15858204913068491975e85b34b1b1171585820491.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158582057310261263365e85b39d29a0d1585820573.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858203506187706295e85b2bec4b321585820351.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158582048811805473115e85b348c05a51585820489.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158582048716733364785e85b34707b5f1585820487.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158582048820895839905e85b348c0b221585820489.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1585820487114993045e85b3470a7bc1585820487.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png"
+  ]
+}

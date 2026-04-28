@@ -1,0 +1,377 @@
+{
+  "slug": "/school/chennai/akshar-arbol-international-school-west-mambalam",
+  "url": "https://yellowslate.com/school/chennai/akshar-arbol-international-school-west-mambalam",
+  "city": "chennai",
+  "name": "Akshar Arbol International School - West Mambalam ",
+  "scraped_at": "2026-04-28T17:32:27.765065",
+  "html_length": 350558,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "West Mambalam",
+          "item": "https://yellowslate.com/schools/chennai/west-mambalam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/chennai/west-mambalam/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Akshar Arbol International School",
+          "item": "https://yellowslate.com/school/chennai/akshar-arbol-international-school-west-mambalam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Akshar Arbol International School - West Mambalam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/akshar-arbol-international-school-west-mambalam",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": null,
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.043952,
+        "longitude": 80.2193373
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": null,
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/akshar-arbol-international-school-west-mambalam-west-mambalam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "43"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Guna G"
+          },
+          "datePublished": "2024-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s not a school. It’s something else.. don’t risk put your kids here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manas Mohanty"
+          },
+          "datePublished": "2024-05-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "1st standard admission please confirm me seats available",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Christopher Dhas"
+          },
+          "datePublished": "2024-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter has been studying at AAIS for the past 6 years. The management takes special interest in the children's welfare and ensure their unique needs are met. Excited about the new campus starting next academic year.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sangeetha Priya K"
+          },
+          "datePublished": "2024-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Akshar Arbol is a Cool and Composed school for the kids. My son is here right from ELC and he is in 9th grade now where he is absolutely comfortable with every teachers and management till date. The confidence level the kids gain every year is amazing to see, as it's a part of freedom which the school incorporates. Good choice of school for an IB curriculum.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vidhya Govindan"
+          },
+          "datePublished": "2024-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The open house we attended at Akshar Arbol International School in 2017 was an eye opener for us to know about IB curriculum. We were looking for a curriculum that nurtures children to gain life skills and create a thirst for learning and on that open house we saw our quest was answered through IB.\nThe school leadership team has ventured the First IB school in Chennai and has evolved a lot over the last 7 years(since our association with the school). As the delivery of IB pedagogy largely relies on the execution by the school, we can vouch the school has taken many initiatives and activities that enhances the IB learning methodology. We, as parents are kept abreast of the kids learning happening in the school and are provided many opportunities to witness the kids learning journey & performances. The school has done exceptionally well during the Covid pandemic by providing balanced online classes and offline activities.\n\nThe school's assimilation & execution of IB principles can be seen in each child's learning and development of essential skills like self-management, communication, collaboration, reflection, presentation etc.\nOver the years, we as parents have reminisced about having such a pedagogy and school life during our child hood. Thanks to the school management for providing such an education to our next generation and nurturing kids with skills for life-long learning!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Richu George"
+          },
+          "datePublished": "2024-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Absolutely love this school! It's a warm, welcoming community where every child feels included and supported. The teachers and staff goes above and beyond to ensure a well-rounded education, nurturing not just academic growth but also emotional and social development. It's wonderful to see such a wholesome approach to learning. Highly recommend this gem of a school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vidya venky"
+          },
+          "datePublished": "2024-02-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Choosing Akshar Arbol for our daughter is one of the best decision we made.The school helps in over all development of my child and she is growing into a responsible citizen",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "divya purushoth"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "When I was looking for an IB school within the city limits I found Akshar arbol and after having and enquiry we happily enrolled our daughter her for elc 1...at beginning we were happy about our decision as we saw our child happily enjoying her school time and the teachers in that grade was extremely good... everything went smoothly Till elc3..then we migrated to online classes due to covid where we literally started to see the actual standards of teachers which was not acceptable and satisfied teaching wise for the fees we were paying inspite of the financial crisis during the covid... especially math teacher was horrible...bringing this to the attention of management they never took any drastic step...we hope the best will happen when the school resumed but it was way more worse than the online classes...new teachers pop up every year and mainly mental health of my child was affected due to harsh and rude behaviour of the teachers and they way they respond to parents is more a pain... luckily we left the school last year and joined in different IB school and I am happy that my child is doing extraordinary well...paying a hefty amount as fees for an unworthy school and getting my child affected is one of the bad decision I took in my life.. lessons learnt...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SriVidya"
+          },
+          "datePublished": "2024-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Here in Akshar Arbol I see that all the kids are made to be participative which helps boosting their confidence from the budding stage.  Children have the confidence in the teachers that they don’t have any apprehension before approaching them for any clarifications or questions.   Their practical way of learning makes kids inquisitive to do more research on subject matter and understand.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshar Arbol International School - West Mambalam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yashmi Ramesh"
+          },
+          "datePublished": "2024-01-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Akshar Arbol is a wonderful and divine place to strengthen and nature our kids  world wide knowledgeable without compromising on our roots / culture. Understanding Management team to listen our queries or feedback and tend to resolve it in a more positive way.\n\nVery kind and friendly teaching staff make the school environment more positive and charming. My best wishes to keep up the good work and evolve more positively in the coming years.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159116876010468109435ed74ef87000b1591168760.PNG\\",
+    "https://schema.org\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15863503145057615225e8dc8eae262f1586350315.jfif\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "3.7",
+  "views": "578",
+  "reviews_count": "43",
+  "phone": "+919513238818",
+  "locality": "West Mambalam",
+  "board": "IGCSE\n\nCo",
+  "established": "2011",
+  "category": "International Schools",
+  "classes": "1 - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Akshar Arbol International School ?\nAsk a Question\nAkshar Arbol International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159116876010468109435ed74ef87000b1591168760.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

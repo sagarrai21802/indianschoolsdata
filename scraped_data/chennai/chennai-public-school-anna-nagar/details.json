@@ -1,0 +1,416 @@
+{
+  "slug": "/school/chennai/chennai-public-school-anna-nagar",
+  "url": "https://yellowslate.com/school/chennai/chennai-public-school-anna-nagar",
+  "city": "chennai",
+  "name": "Chennai Public School - Anna Nagar ",
+  "scraped_at": "2026-04-28T17:25:15.091241",
+  "html_length": 455532,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Anna Nagar",
+          "item": "https://yellowslate.com/schools/chennai/anna-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/anna-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chennai Public School",
+          "item": "https://yellowslate.com/school/chennai/chennai-public-school-anna-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Chennai Public School - Anna Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15844440097660497635e70b2693b3391584444009.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/chennai-public-school-anna-nagar",
+      "telephone": "+91 442 654 4477,+91 4426541177",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No 80, A Block, 3rd Ave, Anna Nagar, Chennai, Tamil Nadu 600102",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0860704,
+        "longitude": 80.2180207
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No 80, A Block, 3rd Ave, Anna Nagar, Chennai, Tamil Nadu 600102",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/chennai-public-school-anna-nagar-anna-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "147"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preethi Elizabeth"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Incredible display of CPSites.  Big shout out to all the teachers behind the program for beautifully managing the students. We, along with other parents, had a great time cheering up each other buds. The PA system was going a little bit on and off in a few programs, but nevertheless, the children continued their performance kuddos. Thank you CPS for having it a memorable event.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kesava Raamanujam - R K Super Market"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I heartfully appreciate the teachers, students and the management for  organising such a wonderful event. Special thanks for selecting the topic which is very important in current world scenario and this gives the younger generation knowledge to save the world.\nKudos to the entire team once again. Thank you👏👏👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dayana Arunkumar"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent and Well organised.\nKudos to all the students and teachers of CPS .\nNice to see  all kids performing without any fear and hesitation ..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumera Sikkander"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice program...great work by teachers and students...Hindi skit was amazingly performed..as well as all other performances.....great job!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prabhakar Subramani"
+          },
+          "datePublished": "2024-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Uday Karthik"
+          },
+          "datePublished": "2024-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tharun Sundar"
+          },
+          "datePublished": "2024-05-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is kind of ok . But also very badd. No soace for sports. Pt period doesn't exist . Very rude staff most teachers are very biased. They change marks based on liking. There is also no good events. Most are canceled and this school has a history of issues and complaints. Students are not treated well either. 😕 No labs . No equipment. No control over ac . No field trips ever .. Problems are caused over nothing . Waste of money for useless projects . No competitions or recognition for extracurricular activities. Language options for higher grades only include tamil and hindi. Only good part is AC and Giant led board. Wouldn't recommend..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MaK HRR"
+          },
+          "datePublished": "2024-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There is no transparency in selection of students and expensive .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mersal tamilan"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wors8",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chennai Public School - Anna Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Selva Crr"
+          },
+          "datePublished": "2024-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for best education,\nAdvanced teaching technology senses, fully ac classrooms, efficient teachers, other curricular activities like esol examanination ,FIITJEE etc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16020796396975012545f7dcb9796f831602079640.PNG\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Archery.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15844440097660497635e70b2693b3391584444009.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15844440097660497635e70b2693b3391584444009.PNG\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15844440097660497635e70b2693b3391584444009.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/member_thumb.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "3.5",
+  "views": "4373",
+  "reviews_count": "147",
+  "phone": "+919513238818",
+  "locality": "Anna Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "2007",
+  "category": "International Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15844440097660497635e70b2693b3391584444009.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16020796396975012545f7dcb9796f831602079640.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15844440285051665125e70b27c3b7351584444028.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15844440217748648105e70b275d00231584444022.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15844440266240132845e70b27a5ffb41584444026.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Archery.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15844440242803290515e70b278250f31584444024.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158444402118854343255e70b275d36441584444022.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15844440263314777245e70b27a6323c1584444026.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/member_thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158444402420884639155e70b27825fc11584444024.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158444402815806321005e70b27c4bfd31584444028.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png"
+  ]
+}

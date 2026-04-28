@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/rishs-international-school-kamachi-nagar-poonamallee",
+  "url": "https://yellowslate.com/school/chennai/rishs-international-school-kamachi-nagar-poonamallee",
+  "city": "chennai",
+  "name": "Rishs International School - Kamachi Nagar,Poonamallee ",
+  "scraped_at": "2026-04-28T17:35:39.282295",
+  "html_length": 354814,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kamachi Nagar,Poonamallee",
+          "item": "https://yellowslate.com/schools/chennai/kamachi-nagar-poonamallee"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/kamachi-nagar-poonamallee/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rishs International School",
+          "item": "https://yellowslate.com/school/chennai/rishs-international-school-kamachi-nagar-poonamallee"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rishs International School - Kamachi Nagar,Poonamallee",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/rishs-international-school-kamachi-nagar-poonamallee",
+      "telephone": "+91 709 445 5700",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "16/2 A, Kundrathur Main Road, near City Union Bank Mangadu Branch, Murugan Nagar, Kamachi Nagar, Mangadu, Chennai, Tamil Nadu 600122, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0053115,
+        "longitude": 80.1093024
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rishs International School - Kamachi Nagar,Poonamallee",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "16/2 A, Kundrathur Main Road, near City Union Bank Mangadu Branch, Murugan Nagar, Kamachi Nagar, Mangadu, Chennai, Tamil Nadu 600122, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/rishs-international-school-kamachi-nagar-poonamallee-kamachi-nagar-poonamallee-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sureshkumar R"
+          },
+          "datePublished": "2023-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son enjoyed while he was studying almost 2 years. Very hard for us to take my son out of this school. We moved due to my job relocation. Very talented staff and very well taking for children. Very frequently they did provide feedback what he is doing good and where needs an improvement. Great school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rishs International School - Kamachi Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aswini Vaidy"
+          },
+          "datePublished": "2023-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Last year we moved to this school, Teachers give great support for my kids to adapt the new environment. They are very student friendly. Apart from academic they encourage the kids to actively participate in the extra curricular activities.... The campus is hygiene and well maintained especially the classroom and toilets...\nMy special thanks to the class teacher Rabiya mam (5c) and kavitha mam(8B) and all the other teacher who gave a moral support for my kids... The main thing is I can easily reach the teacher all the time. The communication between the teacher and parents are too good..\nMy thanks to all the members in the RISHS family...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rishs International School - Kamachi Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parimala Thirumalai"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "An amazing school. The teachers are Professional,well organised and very much caring. The management is open minded and thinks unconventionally in making a successful educational experience for their students. RISHS teachers have a good bond with their students. They teach valuable lessons, communication life lessons and many more!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rishs International School - Kamachi Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rabiya Abu"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "“Fantastic school! The teachers are Professional, caring and well organized. The management is open minded and think outside the box to make a successful educational experience for the students. RISHS teachers are committed to each and every child. They teach value lessons, communication and leadership skills. admissions process was outstanding, they really care and truly want the best for your child.”",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rishs International School - Kamachi Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sandhiya T"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rishs International School always been an extraordinary Institution in up bringing students, making them confident disciplined & transforming them as leaders for better future.\nUndoubtedly the school has the best infrastructure, lab facilities, library & various extra curricular activities.\nThe teachers are really good & dedicated, professional & caring.\nThe admission process was outstanding.\nThe students learn new things each & everyday. The students learn the concepts in activity based learning & do way method.\nWell planned & organized Academic Programs.\nThe Management of the school not only focus the Academic part they are taking the endless efforts to bring the students talents.\nThe students participating in a various of activities & events.\nCo-curricular activities organised by the school helped the students to develop confidence & over come stage fear. So, Students gets ample opportunities to explore & progress in all aspects. The school focused on Communication & Social skills have enhanced a lot due to a range of classroom activities.\nRishs is a Right way to start your Child Early Education.\n\"School for a choice, not for a chance\".",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "5.0",
+  "views": "486",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Kamachi Nagar,Poonamallee",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "300 - 69",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Rishs International School ?\nAsk a Question\nRishs International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

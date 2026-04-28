@@ -1,0 +1,418 @@
+{
+  "slug": "/school/chennai/velammal-vidhyashram-school-padappai",
+  "url": "https://yellowslate.com/school/chennai/velammal-vidhyashram-school-padappai",
+  "city": "chennai",
+  "name": "Velammal Vidhyashram School - Padappai ",
+  "scraped_at": "2026-04-28T17:41:56.226048",
+  "html_length": 449051,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Padappai",
+          "item": "https://yellowslate.com/schools/chennai/padappai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/padappai/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Velammal Vidhyashram School",
+          "item": "https://yellowslate.com/school/chennai/velammal-vidhyashram-school-padappai"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Velammal Vidhyashram School - Padappai",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858353737611912065e85ed6d54c4e1585835373.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/velammal-vidhyashram-school-padappai",
+      "telephone": "+91 8939816378,",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Velammal New Gen Edu Network,, Salamangalam Village, Padappai,, Nariyambakkam, Chennai, Tamil Nadu 602301",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9528306,
+        "longitude": 80.2045604
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Velammal New Gen Edu Network,, Salamangalam Village, Padappai,, Nariyambakkam, Chennai, Tamil Nadu 602301",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/velammal-vidhyashram-school-padappai-padappai-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "29"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vs aswin aswin"
+          },
+          "datePublished": "2024-07-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent of a JKG child, I'm quite satisfied with the coaching and the involvement of the teachers towards the children's learning and development in vellamal new gen for kids. I strongly believe the Teacher's out there can shape the kids in better way.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anusuya suya"
+          },
+          "datePublished": "2024-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teaching",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Uma Padmasini Rajendran"
+          },
+          "datePublished": "2024-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pre-kg coaching is very good. Teacher\ntake care of our kids and conducts classes well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yoga lakshmi"
+          },
+          "datePublished": "2024-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school with well maintained infra structure.The efforts of teachers are extra ordinary.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ANITHA MARY"
+          },
+          "datePublished": "2024-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is Amazing place to Improve the students academic and extra curriculum activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karthikeyan Ramamurthy"
+          },
+          "datePublished": "2024-02-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school. If a +1, +2 student complain about a teacher who is giving worst coaching, the principal says to the student, you may get transfer if you don't want to continue. Is it the correct solution? Don't admit your kids in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vijay vj"
+          },
+          "datePublished": "2023-10-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a good school, near by padappai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "lohiMeena Lister Metropolis"
+          },
+          "datePublished": "2023-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No school trip for students.\nBut the teaching skills is nice.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raja Dhanush"
+          },
+          "datePublished": "2023-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram School - Padappai"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maha Lakshmi"
+          },
+          "datePublished": "2023-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really  good  school  ,Coaching  and responsibility is good and  also Teacher they  are  taking  care  of children  with there  education  improvement, each and every  subject  they had  conducted  test as well, some actives  and motivation  factor  is really  super.\n\nThank  you  so much  for  all Teacher and management.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858353737611912065e85ed6d54c4e1585835373.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858353737611912065e85ed6d54c4e1585835373.jpg\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858353737611912065e85ed6d54c4e1585835373.jpg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158470416013576627665e74aaa0a21c01584704161.PNG\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15858352022236352835e85ecc236cb91585835202.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158583533215395844115e85ed441eb471585835332.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\"
+  ],
+  "rating": "3.7",
+  "views": "2297",
+  "reviews_count": "29",
+  "phone": "+919513238818",
+  "locality": "Padappai",
+  "board": "CBSE\n\nCo",
+  "established": "1986",
+  "category": "Public Schools",
+  "classes": "000 - 70",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158583533215395844115e85ed441eb471585835332.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1585834777973114645e85eb19bb4ba1585834778.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158583477310531866235e85eb157bfa41585834774.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15858352022236352835e85ecc236cb91585835202.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158583477520312794085e85eb17c6a901585834776.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158583477515643724915e85eb17c5de21585834776.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15858347812159235905e85eb1db0cc31585834782.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15858353737611912065e85ed6d54c4e1585835373.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158470416013576627665e74aaa0a21c01584704161.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15858347795696572165e85eb1bc581e1585834780.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158583477720686765655e85eb19b7f131585834778.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158583477315350020475e85eb1582b921585834774.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158583477915019791675e85eb1bbbefb1585834780.jpg"
+  ]
+}

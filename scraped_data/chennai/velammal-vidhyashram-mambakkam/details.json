@@ -1,0 +1,375 @@
+{
+  "slug": "/school/chennai/velammal-vidhyashram-mambakkam",
+  "url": "https://yellowslate.com/school/chennai/velammal-vidhyashram-mambakkam",
+  "city": "chennai",
+  "name": "Velammal Vidhyashram - Mambakkam ",
+  "scraped_at": "2026-04-28T17:57:30.980405",
+  "html_length": 403761,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mambakkam",
+          "item": "https://yellowslate.com/schools/chennai/mambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/mambakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Velammal Vidhyashram",
+          "item": "https://yellowslate.com/school/chennai/velammal-vidhyashram-mambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Velammal Vidhyashram - Mambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/velammal-vidhyashram-mambakkam",
+      "telephone": "+91 638 101 7453",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Vandalur to Kelambakkam Road, Mambakkam, Chennai, Mambakkam, Tamil Nadu 600127, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8282635,
+        "longitude": 80.1643969
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Vandalur to Kelambakkam Road, Mambakkam, Chennai, Mambakkam, Tamil Nadu 600127, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/velammal-vidhyashram-mambakkam-mambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.3",
+              "reviewCount": "52"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-11-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not satisfied ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Idaya Rani"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are good and the education is good in the school but the management is Bad . Bathrooms are very bad\nin condition and very stinky",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nandha Vlogs"
+          },
+          "datePublished": "2023-08-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Children's parks are not under proper maintenance, and the bathrooms are also not maintained properly, kids are always complaining that there are a lot of bad smells coming out, I have also personally visited and observed the same thing, I have complained about this to management many times but there is no action taken till date,\n\nThe car parking area is too bad during the rainy season, it will be full of sludge and kids are not even able to get down from the car or bike, I don't know what the management guys are doing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "K K"
+          },
+          "datePublished": "2023-08-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers here are jealous and discriminating students based on parents employment.\nBecause of their shortcomings showing frustration on students. Teachers are frustrated because they are working with poor salary in worst school with poor academics.\nCollecting higher fees to feed their ego doesn’t make a good school, but teaching and good academics.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arun Kumar"
+          },
+          "datePublished": "2023-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Enrolled my 3 year old son here.\nHad to fill same info on multiple forms duei g Admission\nAC available for kindergarden\nNo issues with Car parking\nNo sunshade for Play area, so not useful",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lalitha A"
+          },
+          "datePublished": "2023-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Velammal Vidhyashram in Mambakkam is not a great place to learn. The teachers are okay but the management are not doing a good job. They changed the principal)5 times in one year! This means there is no stability and the school is not being run well. This can make it hard for students to learn and have a good school experience. It's better to look into other schools in the area that are more stable and better for students. Overall, it was a poor experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naveen K"
+          },
+          "datePublished": "2023-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school with very good infrastructure and knowledge sharing sessions. All events are being planned well with many interactive sessions. Thanks a lot for giving us comfort and feeling proud to say our daughter is a Velammal student. Special thanks to Geetha Mam of JKG A for all opportunities and care.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Veda Kannan"
+          },
+          "datePublished": "2023-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I can see a lots of positive reviews past one week about this school from kg students parents. Are they asking parents to put such reciews LOL. 🤔.  Few kids from our community study here in higher grades say they change teachers frequently and not a good place to put the kids. For the high amount charged in the name of cbse holistic education to be provided. Look before you leap",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bala G"
+          },
+          "datePublished": "2023-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter has attended two years in Velammal Vidhyashram, Mambakkam.\nWe are happy with the quality of education provided in Velammal Vidhyashram and it is one of best schools in Chennai.\nTeachers posses excellent skills and very helpful. They encourage students develop confidence, optimism and self respect.\nProject based learnings helped my daughter improve her problem solving abilities and identify individual strengths.\nAcademic program in Velammal Vidhyashram is well organized and we thank the teachers for being very supportive!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Mambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gayathri Selvan"
+          },
+          "datePublished": "2023-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying Prekg in here .Personally I would recommend the school for their effective and extensive learning methods which are interesting for kids to learn and grow along . Their project based learning mechanism helped my son to show interest in gardening . And the staff here along with helpers also show patience and address the concerns of these kids with ease and move along wth kid very comfortably. I am really convinced and pleased by their academics and their method to inculcate a schedule even from prekg itself. Thank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15866181087592244015e91defc444461586618108.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1585837003667775975e85f3cb70e991585837003.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.3",
+  "views": "612",
+  "reviews_count": "52",
+  "phone": "+919513238818",
+  "locality": "Mambakkam",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "000 - 54",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15866181087592244015e91defc444461586618108.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1585837003667775975e85f3cb70e991585837003.jpg"
+  ]
+}

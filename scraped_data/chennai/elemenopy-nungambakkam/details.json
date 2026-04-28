@@ -1,0 +1,383 @@
+{
+  "slug": "/school/chennai/elemenopy-nungambakkam",
+  "url": "https://yellowslate.com/school/chennai/elemenopy-nungambakkam",
+  "city": "chennai",
+  "name": "Elemenopy - Nungambakkam ",
+  "scraped_at": "2026-04-28T17:36:32.449147",
+  "html_length": 404918,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nungambakkam",
+          "item": "https://yellowslate.com/schools/chennai/nungambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/chennai/nungambakkam/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Elemenopy",
+          "item": "https://yellowslate.com/school/chennai/elemenopy-nungambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Elemenopy - Nungambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15860763714947000715e899ad3434891586076371.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/elemenopy-nungambakkam",
+      "telephone": "+91 4448617767 ,+91 9884067767",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1st Cross Street, 19/3, Sterling Rd, Nungambakkam, Chennai, Tamil Nadu 600034",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0656734,
+        "longitude": 80.2425314
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1st Cross Street, 19/3, Sterling Rd, Nungambakkam, Chennai, Tamil Nadu 600034",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/elemenopy-nungambakkam-nungambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "13"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CM K"
+          },
+          "datePublished": "2023-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Went for enquiry. Came back since security gaurd asked to come after 1",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "subhathra jeyagraham"
+          },
+          "datePublished": "2023-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best play school in chennai, i love their environment and the play area and how they organise the kids for their sports day or annual day everything was perfect and the teachers are so professional and they take care of our kids like their kids!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aryan Shah"
+          },
+          "datePublished": "2023-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best pre school undoubtedly  best teachers best environment teaching is so good 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sathya chitra"
+          },
+          "datePublished": "2022-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kiddos first school n best.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Selva Sekhar"
+          },
+          "datePublished": "2022-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi, I had visited along with my 5yr old son for the Christmas Carnival. Had a very bad experience. Horribly organised. Specifically the MAGIC SHOW was completely misorganized. They just took the kids for granted.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neetu Kochar"
+          },
+          "datePublished": "2022-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good , Rohini ma’am ( meaning makers ) is very good !\nMy son loves Rohini ma’am !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshita Gupta"
+          },
+          "datePublished": "2022-12-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter has been going to Elemenopy for 2 years. We absolutely loved it - the teachers are amazing- she always went in with a smile on her face. The timings excellent where the child is spending 2-3.5 hours in preschool. I have seen her develop, identify / analyse and make friends. One of the best part of the school is their App to communicate with parents - there they share photos of our little ones at school so we get to know what they are doing on a daily basis\n\nHighly recommend the school ! Thank you so much for all you’ve done for us ❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "fasiha abdul"
+          },
+          "datePublished": "2022-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools. Talented teachers, welcoming management. Located in a prime locality. The little ones are well taken care of!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aluppy Plywoods"
+          },
+          "datePublished": "2022-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lovely setup; children would love the place.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Elemenopy - Nungambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Venkata Naga Aswanth Tunikuntla"
+          },
+          "datePublished": "2022-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice club and school for toddlers .. Teaching methods are unique and very practical … my kids enjoy a lot .. they have lot of programs for different age groups …",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15860763714947000715e899ad3434891586076371.PNG\\\\\\",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15860763714947000715e899ad3434891586076371.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752747161999-wtm78qfe.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15860763714947000715e899ad3434891586076371.PNG",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15860765154704225415e899b63b32fe1586076516.PNG\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.4",
+  "views": "1234",
+  "reviews_count": "13",
+  "phone": "+919513238818",
+  "locality": "Nungambakkam",
+  "board": "Other Boards\n\nCo",
+  "established": null,
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1586076385203674455e899ae1916af1586076386.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15860763814634541725e899add415291586076381.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15860763814861139185e899add53fad1586076381.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15860763837974100985e899adf9bf8f1586076384.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15860765154704225415e899b63b32fe1586076516.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15860763714947000715e899ad3434891586076371.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15860763838591673105e899adf9cfd41586076384.PNG"
+  ]
+}

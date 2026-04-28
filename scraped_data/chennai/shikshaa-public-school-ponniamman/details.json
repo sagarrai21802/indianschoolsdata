@@ -1,0 +1,281 @@
+{
+  "slug": "/school/chennai/shikshaa-public-school-ponniamman",
+  "url": "https://yellowslate.com/school/chennai/shikshaa-public-school-ponniamman",
+  "city": "chennai",
+  "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN ",
+  "scraped_at": "2026-04-28T17:34:38.653692",
+  "html_length": 361223,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PONNIAMMAN",
+          "item": "https://yellowslate.com/schools/chennai/ponniamman"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/ponniamman/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SHIKSHAA PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/chennai/shikshaa-public-school-ponniamman"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/shikshaa-public-school-ponniamman",
+      "telephone": "+91 917 640 7863",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "#8, Ponniamman Koil St, Maruthi Nagar, Hasthinapuram, Chromepet, Chennai, Tamil Nadu 600064, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9395521,
+        "longitude": 80.1537765
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "#8, Ponniamman Koil St, Maruthi Nagar, Hasthinapuram, Chromepet, Chennai, Tamil Nadu 600064, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/shikshaa-public-school-ponniamman-ponniamman-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst cbse school for your child. No good experience teachers . Way of teaching is tamil only. Every year so many teachers are moved. There is no transport specialty in all area, and the transport head does not have authority over the school principal. He is very rude.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SRINIVASAN SUBRAMANIAN"
+          },
+          "datePublished": "2023-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Shikshaa Public School has a good environment with appropriate infrastructure.\nThe teachers are very dedicated and hardworking and put in their maximum efforts.\nIt imparts a holistic education on cbse norms to empower every student to dream high and aim at achieving futuristic goals.\n\nDream Big dream high.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nathendra Kumar"
+          },
+          "datePublished": "2023-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is studying with shikshaa public school , they are providing good coaching and extra curricular activities, teachers is having a thorough knowledge of their field, good infrastructure and amenities, teachers are more active and accessible",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thanga Nirmala"
+          },
+          "datePublished": "2023-05-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good coaching is provided by well qualified staffs and well equipped lab facilities. 10th and 12th class coaching is very good when compared to nearby schools. Teachers are available online even after school hours to clear students doubt. Friendly coaching is given.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mydeen Nisha"
+          },
+          "datePublished": "2023-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This one star is for an consideration.\nOne of the worst cbse school for your child.\nThink before joining and never come for admission at 10th and 12th .\nNo free time , till 5pm school , no extra curricular .\nNo good experience teachers .\nWay of teaching is tamil only .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHIKSHAA PUBLIC SCHOOL - PONNIAMMAN"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meenakshi Akilan"
+          },
+          "datePublished": "2023-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi All\n\nMy name is Meenakshi I am happy to provide a feedback on the Tech Buddies workshop based on Artificial Intelligence (AI) that my son attended in Shiksha Public School, Hasthinapuram, Chromepet.\n\nIam writing this  based on my son's experience and feedback in the last five days of the workshop.\n\nThis is completely his experience written below.\n\nFirstly, I want to commend the organizers for putting together a well-structured and engaging training session. The content was presented in a clear and concise manner, which made it easy for everyone to understand even the most complex concepts.\n\nThe training session covered a wide range of topics on AI, starting from the fundamentals of machine learning and deep learning to the latest advancements in natural language processing and computer vision. The hands-on exercises and demonstrations were especially helpful in giving us a practical understanding of how AI works.\n\nThe trainer was knowledgeable, articulate, and passionate about the subject matter. He/she had a deep understanding of the subject matter and was able to answer all our questions with ease. The trainer also encouraged active participation from the attendees, which made the session even more interactive and engaging.\n\nThe training session was well-paced, and the breaks were timed perfectly, allowing us to rest and refresh our minds with provided refreshments. The training materials, including the slides and resources provided, were of high quality and very helpful in reinforcing what we learned.\n\nIn conclusion, the best training session on AI that he attended  has  provided him with valuable information and experience. The knowledge gained from the training session has provided him with a solid foundation to build upon in his pursuit of AI skills. would definitely recommend this training session to anyone looking to enhance their AI skills.\n\nSpecial thanks to Management Team and school principal for Organising such useful workshop and would definitely request and recommend to organize more workshops in future.\n\nThank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.5",
+  "views": "641",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "PONNIAMMAN",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SHIKSHAA PUBLIC SCHOOL ?\nAsk a Question\nSHIKSHAA PUBLIC SCHOOL Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 3.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

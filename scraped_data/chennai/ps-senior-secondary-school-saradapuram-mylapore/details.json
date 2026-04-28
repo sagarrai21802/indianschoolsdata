@@ -1,0 +1,257 @@
+{
+  "slug": "/school/chennai/ps-senior-secondary-school-saradapuram-mylapore",
+  "url": "https://yellowslate.com/school/chennai/ps-senior-secondary-school-saradapuram-mylapore",
+  "city": "chennai",
+  "name": "P.S. Senior Secondary School - Mylapore ",
+  "scraped_at": "2026-04-28T17:49:25.163640",
+  "html_length": 360159,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mylapore",
+          "item": "https://yellowslate.com/schools/chennai/mylapore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/mylapore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "P.S. Senior Secondary School",
+          "item": "https://yellowslate.com/school/chennai/ps-senior-secondary-school-saradapuram-mylapore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "P.S. Senior Secondary School - Mylapore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/ps-senior-secondary-school-saradapuram-mylapore",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "33, Alamelu Manga Puram Rd, Alamelu Manga Puram, Saradapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0312467,
+        "longitude": 80.2645327
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "P.S. Senior Secondary School - Mylapore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "33, Alamelu Manga Puram Rd, Alamelu Manga Puram, Saradapuram, Mylapore, Chennai, Tamil Nadu 600004, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/ps-senior-secondary-school-saradapuram-mylapore-mylapore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "siva subu"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school , My son loving to go school everyday,   We deeply very much grateful to the excellent teacher VEDHA MAM  UKG , This teacher moulded my son in excellent manner, thank you 🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "P.S. Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mahalakshmi Gunasekaran"
+          },
+          "datePublished": "2023-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Both my kids loved going to P.S. Senior. They had wonderful memories in this school. Their teaching methods are amazing. This school will be truly missed by my kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "P.S. Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vicky Raj"
+          },
+          "datePublished": "2023-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My childhood memoirs over here, good school with all the skills the teachers possess, they have git huge ground and facilities for all students. They promote cricket as the prior sport",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "P.S. Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "koushik Ganesh"
+          },
+          "datePublished": "2023-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a good school, but they favour Brahmin students..\n\nTheir teachers never cared about the fact that I did not speak proper English when I was studying there..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "P.S. Senior Secondary School - Mylapore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bindu Malik"
+          },
+          "datePublished": "2022-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rubbish school. The school is really a academic torture. Most kids in this school lose it by 8th standard. My son was shamed by teacher in front of class. Worst school...the management is taking fees and not developing the school. Rooms look teachers dont know what is entrophy....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158470508719567862925e74ae3f61ad61584705087.PNG\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.8",
+  "views": "625",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Mylapore",
+  "board": "CBSE, State Board\n\nBoys\n\nAbout P",
+  "established": "1976",
+  "category": "Day Schools",
+  "classes": "500 - 38",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

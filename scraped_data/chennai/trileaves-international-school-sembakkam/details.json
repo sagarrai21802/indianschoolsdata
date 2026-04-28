@@ -1,0 +1,412 @@
+{
+  "slug": "/school/chennai/trileaves-international-school-sembakkam",
+  "url": "https://yellowslate.com/school/chennai/trileaves-international-school-sembakkam",
+  "city": "chennai",
+  "name": "Trileaves International School - Sembakkam ",
+  "scraped_at": "2026-04-28T17:37:47.112120",
+  "html_length": 449040,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sembakkam",
+          "item": "https://yellowslate.com/schools/chennai/sembakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/chennai/sembakkam/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Trileaves International School",
+          "item": "https://yellowslate.com/school/chennai/trileaves-international-school-sembakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Trileaves International School - Sembakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859198692477535055e87377dcd8761585919870.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/trileaves-international-school-sembakkam",
+      "telephone": "044 - 22284447, 9940073842",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Madambakkam Main Road Behind Hansa Garden Apartments, Thirumagal Nagar, Rajakilpakkam, Chennai, Tamil Nadu 600073",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9116367,
+        "longitude": 80.1534775
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Madambakkam Main Road Behind Hansa Garden Apartments, Thirumagal Nagar, Rajakilpakkam, Chennai, Tamil Nadu 600073",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/trileaves-international-school-sembakkam-sembakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "53"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narendar Kumar"
+          },
+          "datePublished": "2024-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Money minded school 🎒",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajkumar R"
+          },
+          "datePublished": "2024-02-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "With my kid studying here for a while now, it’s the fastest growing school in the locality with very good focussed academic and management teams rigorously working  to improve and develop further the school in this locality with as much facilities possible ,like other older and new schools here in this area. They have registered  international and cbse curriculums and the feedback for both streams are good  with attentive well qualified teachers also as other parent's say . Even the facilities are good with new building built with a great design and all kids enjoy it. Also now they brought in private NEET and IIT coaching classes. In summary, keep it up and grow. Few Cons, is more focus to cultural and sports activities ( with a big expanded playground  for both schools ) be given along with academia and fees at slightly higher end for this locality so to be adjusted or maintained inline with other schools in this area.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jasma Kathiresan"
+          },
+          "datePublished": "2024-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Trileaves is an excellent platform for kids. When we admit our kids , they literally make sure that our kids have got all the knowledge about reading writing and everything. Special mention to Julitha mam who is doing an excellent job in upskilling the kindergarten kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhu Mitha"
+          },
+          "datePublished": "2023-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A wonderful school,great teachers and excellent infrastructure.The sports activities are excellent and are very well conducted.we are very happy with the school and would strongly recommend the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A.Harshini"
+          },
+          "datePublished": "2023-11-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great place for kids to learn and explore with fun.and joy",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramesh RN"
+          },
+          "datePublished": "2023-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kid is studying in trileaves global school and completed UKG and pursuing 1st standard. The teachers are very nice and friendly. Hats off  for good efforts to the teachers. My kid is improved a lot in reading, writing and solving problems.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Seluka"
+          },
+          "datePublished": "2023-11-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter has been studying for the last 3 years in this school, she has improved his writing and reading skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranuthy Reddy"
+          },
+          "datePublished": "2023-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kid is enrolled in Trileaves Global School from PRE-KG till now.\nWe are very much satisfied with the way how he is being taught on basic things. His reading skills and writing skills are very good.\nThe teachers take personal interest in providing quality education to the kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Jagan"
+          },
+          "datePublished": "2023-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son was enrolled in Trileaves Global School for the academic year 2023-2024 for UKG.\n\nJust in few months, we could see the change in his reading skills and writing skills though we keep minimal training at home.\n\nI am very delighted to opt Trileaves global school at first place. The teachers take personal interest in providing a quality education to the kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trileaves International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "abirami s"
+          },
+          "datePublished": "2023-10-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Trileaves Global School has a great team of dedicated and friendly educators who have provided my child a nurturing and conducive environment to learn. We appreciate the motivating and open culture of the school. The supportive environment helps the children to excel in academics as well as in their areas of interest. I commend the effort put in by the teachers in giving timely, valuable feedback and suggestions that are quintessential for the development of children’s. Kudos to the management and the teachers for their unstinting support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859198692477535055e87377dcd8761585919870.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971207930284935e748f208c7da1584697121.PNG\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160198162111758786915f7c4cb5e05da1601981622.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859198692477535055e87377dcd8761585919870.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16034197844117778105f923e886884c1603419784.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859198692477535055e87377dcd8761585919870.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\"
+  ],
+  "rating": "3.4",
+  "views": "1388",
+  "reviews_count": "53",
+  "phone": "+919513238818",
+  "locality": "Sembakkam",
+  "board": "IGCSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "1 - 9",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158591988413151910755e87378c4bc111585919884.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160198162111758786915f7c4cb5e05da1601981622.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971207930284935e748f208c7da1584697121.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158591988620326911185e87378eba2321585919887.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158591988418129637825e87378c4c5f21585919884.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859198692477535055e87377dcd8761585919870.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158591988213075122235e87378a56c6e1585919882.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15859198867367526025e87378eb6d391585919887.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15859198827182159305e87378a52d481585919882.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png"
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "slug": "/school/chennai/chinmaya-vidyalaya-kilpauk",
+  "url": "https://yellowslate.com/school/chennai/chinmaya-vidyalaya-kilpauk",
+  "city": "chennai",
+  "name": "Chinmaya Vidyalaya - Kilpauk ",
+  "scraped_at": "2026-04-28T17:38:22.630128",
+  "html_length": 370056,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kilpauk",
+          "item": "https://yellowslate.com/schools/chennai/kilpauk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/kilpauk/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chinmaya Vidyalaya",
+          "item": "https://yellowslate.com/school/chennai/chinmaya-vidyalaya-kilpauk"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Chinmaya Vidyalaya - Kilpauk",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/chinmaya-vidyalaya-kilpauk",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "9b, Taylors Rd, Kilpauk, Chennai, Tamil Nadu 600010, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0809242,
+        "longitude": 80.2389461
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9b, Taylors Rd, Kilpauk, Chennai, Tamil Nadu 600010, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/chinmaya-vidyalaya-kilpauk-kilpauk-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.1",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are ot that knowledgable.there is one physics teacher who doesn't know anything .she does not know integration and calculus and teaches derivation by skipping.when asked she bluntly say I don't know integration just mug it up.waste teachers in plus 2.one biology teacher who is a botany teacher also takes zoology.even in government school they have both to teach biology.this teacher doesn't know zoology and find fault in the answer paper.at that time the principal was dumb without knowing the subject she will simplify write comments on the paper.how do an English teacher write comments about physics and biology without knowledge.simply this school is a waste and no playground to play.it is like a tution centre what ever they say we have to shake out head.waste of money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sim Simran"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience. Always keep giving lots of things to study and not educating about discipline and manners. Instead, the teachers ask the child to be sent to counseling. The main aspect of a teacher is to teach discipline and manners and academics is secondary. They have to mold the child with good character to be a good person in the future. I will not recommend the school to anyone. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anandapadmanabhan H"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A shame to Chinmaya vidyalaya Jaya shankar Unnithan is worst person in the world. Very unprofessional unethical a disgrace to Chinmaya community itself",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Eashwar Kumar"
+          },
+          "datePublished": "2023-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the city.. studied from UKG to class 12.. school that changed my life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "gautam m"
+          },
+          "datePublished": "2021-12-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Highly over rated school. very little infrastructure for sports. As you can see in the pictures the whole school is in the size of an apartment. Teachers are good but other than that there is nothing in this school. They preach Regressive cultural Values and they don't teach anything valuable that helps a child to be independent in future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Senthil kumar"
+          },
+          "datePublished": "2021-10-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience ever. God only knows about admission procedures and so called criteria. I personally tried for my kids continously 2 year. No response post interview. I m wondering so many people are praising a lot about school. School administration should think about it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chinmaya Vidyalaya - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "saindhavi ramanujam"
+          },
+          "datePublished": "2021-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "as far as education is considered, chinmaya has skilled teachers and the cultural and holistic approach is too good.  I have been studying here from the very beginning. Its an amazing place to join if your shifting schools. Students are very welcoming and so are teachers. The sports in the schools not that good though. more effort could be put into it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159108152412449774125ed5fa34f1d241591081525.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15972284693710374545f33c5b5a722a1597228470.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "2.1",
+  "views": "932",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "Kilpauk",
+  "board": "CBSE\n\nCo",
+  "established": "1968",
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15972284693710374545f33c5b5a722a1597228470.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159108152412449774125ed5fa34f1d241591081525.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

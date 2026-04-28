@@ -1,0 +1,388 @@
+{
+  "slug": "/school/chennai/maharishi-vidya-mandir-chetpet",
+  "url": "https://yellowslate.com/school/chennai/maharishi-vidya-mandir-chetpet",
+  "city": "chennai",
+  "name": "Maharishi Vidya Mandir - Chetpet ",
+  "scraped_at": "2026-04-28T17:38:39.059934",
+  "html_length": 420963,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chetpet",
+          "item": "https://yellowslate.com/schools/chennai/chetpet"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/chetpet/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Maharishi Vidya Mandir",
+          "item": "https://yellowslate.com/school/chennai/maharishi-vidya-mandir-chetpet"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Maharishi Vidya Mandir - Chetpet",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873036437102893345e9c54dba36871587303644.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/maharishi-vidya-mandir-chetpet",
+      "telephone": "044 - 26427088 / 30527077",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No. 28, Inside Maharishi Gardens, Dr. Gurusamy Swamy Road, Chetpet, Chennai, Tamil Nadu 600031",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0839882,
+        "longitude": 80.2483858
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No. 28, Inside Maharishi Gardens, Dr. Gurusamy Swamy Road, Chetpet, Chennai, Tamil Nadu 600031",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/maharishi-vidya-mandir-chetpet-chetpet-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bb Vvv"
+          },
+          "datePublished": "2022-11-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Trash",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sundareswari Selva"
+          },
+          "datePublished": "2022-10-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Looks nice and majestic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "tooru iwaizumi"
+          },
+          "datePublished": "2022-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "id like to share my concerns as a student of this school. the main one being regarding the school washrooms. there is no nice way to put this but absolutely disgusting. there is no ventilation nor proper cleaning. there is an evident lack of privacy and is a very congested space. and this isnt one specific washroom but washrooms around the whole campus. and sanitary pads disposal is at a very pathetic condition. there used to be only one pad disposal machine in the ladies washroom which is also not functioning currently. this needs to be taken care immediately. to everybody whos contemplating on joining maharishi, kindly consider this issue.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Science and Us"
+          },
+          "datePublished": "2022-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Chennai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "chitra v"
+          },
+          "datePublished": "2022-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kid has joined maharishi Vidya mandir @ Thiruvarur branch... Highly dissatisfied... No proper coaching or no carrying... I donno how I'm gng to complete dis one year here... I made 5kids parents to join here. But now, I'm planning to get TC by next year. She studying grade 1 and she is 5years only. No proper carrying for kids. No aunty were sitting along with kids for lunch hours. Teachers texting me like, u have to teach ur kid to eat by herself.nan eh teach pandraduku nan yeduku school ku send pananum. After lock down, 1st time she gone to school.kids who were not eating themselves, aunty should feed them.but mam saying, no they have another work nu... Highly dissatisfied. Chetpet branch was always top in tamilnadu and by seeing that I was excited that thiruvarur they opened another branch. But in thiruvarur, MVM was not that much good in everything. Please takecare of kids and plz avoid opening during Saturdays atleast for primary children. Most of the schools were holiday today but my kid have school full day today and she studying grade 1 only.in thiruvarur MVM",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhuvanesh Sivan"
+          },
+          "datePublished": "2022-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Azeez Neyamthulla"
+          },
+          "datePublished": "2022-06-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm a student of this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nithya jai"
+          },
+          "datePublished": "2022-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school nice service",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Maharishi Vidya Mandir - Chetpet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "t jothi"
+          },
+          "datePublished": "2022-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Traditional and systematic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873036437102893345e9c54dba36871587303644.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873036437102893345e9c54dba36871587303644.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1587309780394714235e9c6cd4ae9e81587309781.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158453197519657537185e720a07b1b731584531976.PNG\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/embed/-Rb7H6R268c\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873036437102893345e9c54dba36871587303644.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\"
+  ],
+  "rating": "3.6",
+  "views": "2903",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "Chetpet",
+  "board": "CBSE\n\nCo",
+  "established": "1983",
+  "category": "Public Schools",
+  "classes": "1 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587303739878583545e9c553b6268a1587303739.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873037418679968785e9c553d3c9521587303741.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873037392874244395e9c553b513871587303739.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158453197519657537185e720a07b1b731584531976.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873036437102893345e9c54dba36871587303644.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158730374018796834565e9c553cbc0c51587303741.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

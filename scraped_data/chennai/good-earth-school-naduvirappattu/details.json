@@ -1,0 +1,404 @@
+{
+  "slug": "/school/chennai/good-earth-school-naduvirappattu",
+  "url": "https://yellowslate.com/school/chennai/good-earth-school-naduvirappattu",
+  "city": "chennai",
+  "name": "Good Earth School - Naduvirappattu ",
+  "scraped_at": "2026-04-28T17:44:42.342593",
+  "html_length": 430763,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Naduvirappattu",
+          "item": "https://yellowslate.com/schools/chennai/naduvirappattu"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/chennai/naduvirappattu/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Good Earth School",
+          "item": "https://yellowslate.com/school/chennai/good-earth-school-naduvirappattu"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Good Earth School - Naduvirappattu",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158600125810928849165e88756a8c7ed1586001259.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/good-earth-school-naduvirappattu",
+      "telephone": "044 27178238, 8239, 8310",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No. 83, Naduveerapattu - Manimangalam Road, Naduveerapattu Village, Somangalam Post, Sriperumbudur Taluk, Chennai, Tamil Nadu 600069",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9140202,
+        "longitude": 80.0240586
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No. 83, Naduveerapattu - Manimangalam Road, Naduveerapattu Village, Somangalam Post, Sriperumbudur Taluk, Chennai, Tamil Nadu 600069",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/good-earth-school-naduvirappattu-naduvirappattu-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "23"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "naveen kumar"
+          },
+          "datePublished": "2024-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good. My observation for the people who are looking for admission: They have admissions each year for less than 30 kids(only prekg), in which male/female ratio is 50% , in which 90% seats filled by siblings, alumni and so on. Open seats will be around 5 which goes to most influential or most eligible parents, your kids may be super bright but school does not care. If you fall into 10% remaining category keep your expectations very low on securing seat for your kid. All the very best, good luck.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anitha Jayaseelan"
+          },
+          "datePublished": "2022-12-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Franklin Premraj"
+          },
+          "datePublished": "2022-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a great school in this vicinity and my kid studies here.. she's just gone UKG and her way of developing all the skills are incredible.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navneet S"
+          },
+          "datePublished": "2022-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "my favorite heaven !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raksha S"
+          },
+          "datePublished": "2022-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No transparency in the admission process",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kali Raj"
+          },
+          "datePublished": "2021-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sathish Yadav D"
+          },
+          "datePublished": "2021-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been waiting for the last ten years. In fact, even before my marriage, I was very interested in having my children study here. Because a lot of my clients' children are studying here.\nI had a dream of what school would be like. This is the only school that fits that dream very well.  Schooling is an important goal for me to have an understanding of life.\nI talk a lot to some of my clients about schools. I will find out by asking about the school where their children attend. Good Earth school is one of my favorite and most agreeable of them all.\nThis year my son has to study LKG. I look forward to enrolling in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Varshitha .S.A"
+          },
+          "datePublished": "2020-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school is litraly  amazing😍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narayanan Tamil"
+          },
+          "datePublished": "2020-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "(Translated by Google) India culture cultural ethics and mother way education is wonderful joy happiness and language excellent education roads thank you 🌹🙏\n\n(Original)\nIndia பண்பாடு கலாச்சார நெறிமுறை மற்றும் தாய் வழி கல்வி அற்புதம் ஆனந்தம் மகிழ்ச்சி மும் மொழி சிறப்பான கல்வி சாலைகள் நன்றி🌹🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Good Earth School - Naduvirappattu"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S Sunitha"
+          },
+          "datePublished": "2019-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "very very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "goodearthschooladmissions@gmail.com"
+  ],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158600125810928849165e88756a8c7ed1586001259.PNG",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158600125810928849165e88756a8c7ed1586001259.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158600125810928849165e88756a8c7ed1586001259.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\"
+  ],
+  "rating": "4.3",
+  "views": "5944",
+  "reviews_count": "23",
+  "phone": "+919513238818",
+  "locality": "Naduvirappattu",
+  "board": "ICSE\n\nCo",
+  "established": "1993",
+  "category": "Public Schools",
+  "classes": "2020 - 2021",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158600125810928849165e88756a8c7ed1586001259.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158600129917453512385e8875930d9881586001299.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158600129219230970695e88758cecec61586001293.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158600129313550573205e88758d7e7421586001294.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15860013066741872905e88759ab90191586001307.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158600130620671386605e88759a9ddec1586001307.PNG"
+  ]
+}

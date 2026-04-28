@@ -1,0 +1,373 @@
+{
+  "slug": "/school/chennai/abs-global-smart-school-korattur",
+  "url": "https://yellowslate.com/school/chennai/abs-global-smart-school-korattur",
+  "city": "chennai",
+  "name": "ABS Global Smart School - Korattur ",
+  "scraped_at": "2026-04-28T17:28:45.733553",
+  "html_length": 394258,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Korattur",
+          "item": "https://yellowslate.com/schools/chennai/korattur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/korattur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ABS Global Smart School",
+          "item": "https://yellowslate.com/school/chennai/abs-global-smart-school-korattur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ABS Global Smart School - Korattur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/abs-global-smart-school-korattur",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Dr, ysr Street, near varadaraja perumal temple, Agraharam, Korattur, Chennai, Puthagaram, Tamil Nadu 600076",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1177224,
+        "longitude": 80.1895065
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Dr, ysr Street, near varadaraja perumal temple, Agraharam, Korattur, Chennai, Puthagaram, Tamil Nadu 600076",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/abs-global-smart-school-korattur-korattur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "24"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Satisfied ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yogeshwaran Yogesh"
+          },
+          "datePublished": "2024-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Management is not good they are focus is to collect money from us , no proper ground and play area and it’s not clean to play lot of gross in the side and when snake will come don’t know",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kovendan Thilakaran"
+          },
+          "datePublished": "2024-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The academic planning and execution is very well, as well as extra curricular activities. All the teachers are friendly behaviour and taking care in kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "chitra v"
+          },
+          "datePublished": "2024-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeev Lakhanpal"
+          },
+          "datePublished": "2023-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karthika Venkatesan"
+          },
+          "datePublished": "2023-09-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying here from ukg.. now he is in grade 1.. I'm sharing my experience.. I'm not going to share about infrastructure because they are improving now.. as a parent we didn't get what they have committed during admission.. we are expecting more in extra curriculars.. they are not involving all the kids in programs like dance music and etc.. only repeated kids are participating.. atleast they should give opportunity to participate , unfortunately they are not doing that.. some staffs are demotivating the kids directly , they are not trying to improve their knowledge.. if we teach anything at home they'll use that.. but not all the staffs.. some staffs are good too.. also no improvement at all in communication ..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rosh31 Official"
+          },
+          "datePublished": "2023-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great learning experience with focus on academics and extra curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "James “கிருபாகரன்” J"
+          },
+          "datePublished": "2023-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Puzhal looks more elegant than this structure",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Usha srivastav"
+          },
+          "datePublished": "2022-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They are new to korattur and avadi but old to the education field",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ABS Global Smart School - Korattur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suman Ramanathan"
+          },
+          "datePublished": "2022-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi All,\n\nTo be very frank! I am posting this review only based on my experience as a parent of a Kindergarten Kid:\n\nPros:\n1. Great vision towards kids education and extra curricular activities.\n2. Teachers are very friendly, caring and supportive with kids. Regular activities are conducted.\n\nCons:\n1. False commitments and lack of response from Management\n2. Incomplete infrastructure\n-> No indoor play area for Kindergarten kids (this makes lack of engagement for kids during rainy season) and only classroom/projector sessions will be there during rainy days which leads to their zero learning.\n-> Montessori method of teaching was committed but there has been no progress on it and its been more than 6 months now.\n->unsafe/shaggy pathway from gate to class rooms\n\nI decided to admit my kid in this school was only because of the promises made on indoor/outdoor play area setup and Montessori ways of teaching that every children should learn & experience to lead their life and learning but it is very disappointing that promises are not being kept. There has been slow and nil progress in action towards the infrastructures. I am sure that this would be every parent’s expectation from school.\n\nLooking forward to witness timely differences!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15970512451348020575f31116d2d94a1597051245.PNG\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "4.0",
+  "views": "79",
+  "reviews_count": "24",
+  "phone": "+919513238818",
+  "locality": "Korattur",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "ABS Global Smart School ?\nAsk a Question\nABS Global Smart School Reviews\nView All Reviews\nOverall Experience\n 3.0\nTeaching Excellence\n 3.0\nValue for Money\n 2.0\nCampus & Facilities\n 4.0\nCo-curricular Activities\n 2.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15970512451348020575f31116d2d94a1597051245.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

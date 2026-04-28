@@ -1,0 +1,330 @@
+{
+  "slug": "/school/chennai/temple-school-kolathur",
+  "url": "https://yellowslate.com/school/chennai/temple-school-kolathur",
+  "city": "chennai",
+  "name": "Temple school - Kolathur ",
+  "scraped_at": "2026-04-28T17:24:50.609619",
+  "html_length": 362872,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kolathur",
+          "item": "https://yellowslate.com/schools/chennai/kolathur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/kolathur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Temple School",
+          "item": "https://yellowslate.com/school/chennai/temple-school-kolathur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Temple school - Kolathur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169026987383769517164bf78b1507501690269873.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/temple-school-kolathur",
+      "telephone": "9988556633",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "46G4+27G, 100 Feet Rd, Selvi Nagar, Kolathur, Chennai, Tamil Nadu 600099, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0648499,
+        "longitude": 80.2114132
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "46G4+27G, 100 Feet Rd, Selvi Nagar, Kolathur, Chennai, Tamil Nadu 600099, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/temple-school-kolathur-kolathur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "8"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saravanan Mohan"
+          },
+          "datePublished": "2024-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Temple school was a landmark. Now the school was taken over by Everwin group school. Renovation was happening. Its a kids school of everwin now.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DURAISELVI DURAISELVI"
+          },
+          "datePublished": "2024-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "subramani ammuru"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education, fine discipline.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "J sam moses"
+          },
+          "datePublished": "2022-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice atmosphere",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NIKHIL SINGH RAJPUT"
+          },
+          "datePublished": "2021-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Helpful landmark, good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "krishna narayan"
+          },
+          "datePublished": "2021-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Another excellent unique landmark in a school building with a pious name.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Myorganic Shop"
+          },
+          "datePublished": "2021-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Temple school - Kolathur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yuvaraj Yuvaraj"
+          },
+          "datePublished": "2021-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16044877918389114615fa28a6f941bb1604487792.PNG\\",
+    "https://schema.org/",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169026987383769517164bf78b1507501690269873.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169026987383769517164bf78b1507501690269873.png",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159775575413099922065f3bd16ac4ad81597755755.PNG\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169026987383769517164bf78b1507501690269873.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\"
+  ],
+  "rating": "4.4",
+  "views": "1323",
+  "reviews_count": "8",
+  "phone": "+919513238818",
+  "locality": "Kolathur",
+  "board": "CBSE, IGCSE\n\nCo",
+  "established": "5006",
+  "category": "Play Schools, Special Education Schools",
+  "classes": "Nursery - 4",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Temple school ?\nAsk a Question\nTemple school Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159775575413099922065f3bd16ac4ad81597755755.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169026987383769517164bf78b1507501690269873.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

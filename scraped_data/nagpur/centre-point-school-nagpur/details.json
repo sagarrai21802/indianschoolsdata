@@ -1,0 +1,367 @@
+{
+  "slug": "/school/nagpur/centre-point-school-nagpur",
+  "url": "https://yellowslate.com/school/nagpur/centre-point-school-nagpur",
+  "city": "nagpur",
+  "name": "Centre Point School - Nagpur ",
+  "scraped_at": "2026-04-28T23:55:42.821514",
+  "html_length": 313688,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Centre Point School",
+          "item": "https://yellowslate.com/school/nagpur/centre-point-school-nagpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Centre Point School - Nagpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/nagpur/centre-point-school-nagpur",
+      "telephone": " 080 6983 2160",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Bhisen Khori, Dabha, Amravati Rd, Nagpur, Maharashtra 440023",
+        "addressLocality": "Nagpur",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Bhisen Khori, Dabha, Amravati Rd, Nagpur, Maharashtra 440023",
+              "addressLocality": "Nagpur",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/nagpur/centre-point-school-nagpur-nagpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ASR FAVORITES"
+          },
+          "datePublished": "2025-02-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was designed and organized perfectly... energy levels of the team cps was awesome on the day... we felt pleasure attending the event... keep it up ... congratulations  🎊 👏 💐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritu Inani"
+          },
+          "datePublished": "2025-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing Sports Day! Loved the drills, the performances the races and the atmosphere. Thanks CPS",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritu K"
+          },
+          "datePublished": "2025-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"The event was a remarkable success\"\n\"It was a wonderful, well co-ordinated event\"\n\"The efforts made by teachers and students, staff was visible and commendable\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "harshita singh"
+          },
+          "datePublished": "2025-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Got to witness a wonderful display of Sports at CPSAB today on the theme Continental. Loved the way how kids performed with all their confidence and sportsmanship spirit. It was indeed a gala event. Huge shout out to the kids and the entire staff for such an amazing Sports Event. Taking back a lot of good memories 🤩",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sheetal Sharan"
+          },
+          "datePublished": "2024-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Each piece seemed to transport the audience into a different world, with the intricate arrangements and powerful solos showcasing the depth and range of the performers' abilities. The seamless blend of artistry and precision was truly remarkable. The crowd responded with a well-deserved standing ovation, their applause echoing throughout the venue as a testament to the unforgettable experience that had unfolded before them.\n\nIt was a night of sheer musical magic, and the standing ovation was not just a gesture of appreciation, but a heartfelt acknowledgment of a performance that will be remembered for years to come.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sameep “-” Shirbhayye"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Got a chance to visit this school while volunteering for an event. Like that school staff was not only supportive but also making sure that everyone followed rules to avoid the unnecessary issue. The campus is quite big and quite clean.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tejas Agrawal"
+          },
+          "datePublished": "2024-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best acadmics best sports and best teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saurabh Vivek"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A well-thought-out program that brilliantly combines education with creativity, making giving an idea of G-20 countries to young kids. The interactive approach and enthusiastic participation of both teachers and students reflect the remarkable success of the program. Kudos...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gopika Srivastava"
+          },
+          "datePublished": "2024-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The presentation was superb , I specifically appreciate the research done by kids .the meticulous training and execution by the teachers.the parade was the cheery on the cake . Kudos  and hats off to everyone behind this fantastic show",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Centre Point School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek Narain Singh"
+          },
+          "datePublished": "2024-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has a holistic curriculum to cater to the developmental needs of the students. Through innovative projects and group/individual activities students learn from their peers. The recent G20 project was one such amazing experience which provided knowledge and exposure to students about various countries, their culture, customs, famous places, food etc. it was fun to watch students learn while they do such projects with full enthusiasm. Kudos to the teachers and management for keep doing such activities time to time.\nI am very happy and satisfied as a parent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.7",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Nagpur",
+  "board": "CBSE\n\nGot Questions About Centre Point School",
+  "established": "2005",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Centre Point School ?\nAsk a Question\nCentre Point School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

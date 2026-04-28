@@ -1,0 +1,373 @@
+{
+  "slug": "/school/bhopal/international-public-school-mandideep",
+  "url": "https://yellowslate.com/school/bhopal/international-public-school-mandideep",
+  "city": "bhopal",
+  "name": "International Public School - Mandideep ",
+  "scraped_at": "2026-04-29T00:02:02.949686",
+  "html_length": 339602,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mandideep",
+          "item": "https://yellowslate.com/schools/bhopal/mandideep"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/bhopal/mandideep/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "International Public School",
+          "item": "https://yellowslate.com/school/bhopal/international-public-school-mandideep"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "International Public School - Mandideep",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/international-public-school-mandideep",
+      "telephone": "+91 896 688 4422",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Misrod, Mandideep Road, Bhopal, Madhya Pradesh",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.1103234,
+        "longitude": 77.5087001
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Misrod, Mandideep Road, Bhopal, Madhya Pradesh",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/international-public-school-mandideep-mandideep-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "140"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Sneha Pandey"
+          },
+          "datePublished": "2024-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shabana Islam"
+          },
+          "datePublished": "2024-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Zaib Ansari (Zaib)"
+          },
+          "datePublished": "2024-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ye school h paiso ka bhukha . Bilkul bhi isme admission na hi le to aacha h . Google pe rating dekhke bilkul bhi admission lene ka vichaar na hi ķare to aacha h",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yashika Rao"
+          },
+          "datePublished": "2024-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm student of IPS this school only, this school is nice 👍 I'm studying in this school from 10 years ago all things are good definately try it",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpa Sharma"
+          },
+          "datePublished": "2024-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sabse bakwas school h. Bas paise ke bhuke h baki bachoo ki education se koi mtlb nh h 2 year experience....👎👎👎👎👎👎",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Munindra Nagar"
+          },
+          "datePublished": "2024-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "International Public School offers a comprehensive educational experience with dedicated teachers and a vibrant learning atmosphere. Notably, the music classes shine, earning a commendable 4.5/5 rating. However, there are areas for improvement. The limited emphasis on physical activity suggests a need for a more balanced approach to enhance student well-being. Teacher dedication is evident, yet there's room for growth in knowledge depth, earning a 3/5 rating. Similarly, the washroom facilities, rated 3/5, require attention for an enhanced overall experience. Constructive feedback aims at continuous improvement, ensuring a holistic and enriching environment. By addressing these aspects, International Public School can further elevate its educational setting, providing a more comfortable and well-rounded experience for students and staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aaradhya Sachan"
+          },
+          "datePublished": "2024-01-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied here 2 years but this school is best please open a branch in lucknow",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankit Puri Goswami"
+          },
+          "datePublished": "2023-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Neither went Inside nor experienced their way teaching, but Look from outside is good,,,,,APG-007",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diti Arora"
+          },
+          "datePublished": "2023-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very poor school even this school teacher and even the hostel also poor school. Atmosphere is also bad please parents I suggest you apne bacho ko yaha admission na karvaye",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "International Public School - Mandideep"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akshat Jain"
+          },
+          "datePublished": "2023-10-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "very high fees and poor management, the teachers of pcm are so biased and bad, in 12 th where every school for a good record student gives practical marks they ate my practical marks, if they have awarded unbiased practical marks, i would have scored to my real percentage, but no worries as my theory marks were high enough . itna paisa lgane ka kya mtlb jb school sath hi na de baki schools mein practical mein sabko acche diye hain , yahan har cheez mein pareshan krte bs fees dedo aur bhaad mein jao. kash school badal leta 10th ke baad paise toh bach hi jate raddi school se.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "4.3",
+  "views": "166",
+  "reviews_count": "140",
+  "phone": "+919513238818",
+  "locality": "Mandideep",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

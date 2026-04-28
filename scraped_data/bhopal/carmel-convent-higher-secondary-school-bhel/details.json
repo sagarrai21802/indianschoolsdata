@@ -1,0 +1,370 @@
+{
+  "slug": "/school/bhopal/carmel-convent-higher-secondary-school-bhel",
+  "url": "https://yellowslate.com/school/bhopal/carmel-convent-higher-secondary-school-bhel",
+  "city": "bhopal",
+  "name": "Carmel Convent Higher Secondary School - BHEL ",
+  "scraped_at": "2026-04-29T00:00:09.503852",
+  "html_length": 324095,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BHEL",
+          "item": "https://yellowslate.com/schools/bhopal/bhel"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/bhopal/bhel/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Carmel Convent Higher Secondary School",
+          "item": "https://yellowslate.com/school/bhopal/carmel-convent-higher-secondary-school-bhel"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Carmel Convent Higher Secondary School - BHEL",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/carmel-convent-higher-secondary-school-bhel",
+      "telephone": "755-2660488",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "BHEL, Bhopal, Madhya Pradesh - 462022",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "BHEL, Bhopal, Madhya Pradesh - 462022",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/carmel-convent-higher-secondary-school-bhel-bhel-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shanika"
+          },
+          "datePublished": "2025-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is clean and academically excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Gujar"
+          },
+          "datePublished": "2025-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been an ex student of this school. 2000 alumina ii batch. A fantastic school which has live up every time and tremendous teaching staff. One of the best school for girls in india ....i would say. Simple living high thinking.👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rupali Patel"
+          },
+          "datePublished": "2025-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Love the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hari Kumar"
+          },
+          "datePublished": "2025-02-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good School 👌",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aadya Jha"
+          },
+          "datePublished": "2025-01-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Everything is fine else the washroom’s",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajveer Saini"
+          },
+          "datePublished": "2024-12-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school so far. Carmel's degrading, not because of the students but the teachers. If you want to see your child \"alive\" then Carmel convent isn't the ideal school for you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NIVEDITA DOUR"
+          },
+          "datePublished": "2024-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice education method",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shaynn heart"
+          },
+          "datePublished": "2024-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Educational Institute",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Palak Mulchandani"
+          },
+          "datePublished": "2024-10-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Carmel convent bhopal  is the worst school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Carmel Convent Higher Secondary School - BHEL"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditi Soni"
+          },
+          "datePublished": "2024-10-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "4.3",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "BHEL",
+  "board": "CBSE\n\nGot Questions About Carmel Convent Higher Secondary School",
+  "established": "1968",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Carmel Convent Higher Secondary School ?\nAsk a Question\nCarmel Convent Higher Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

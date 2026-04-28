@@ -1,0 +1,367 @@
+{
+  "slug": "/school/vadodara/navrachana-international-school-bhayli",
+  "url": "https://yellowslate.com/school/vadodara/navrachana-international-school-bhayli",
+  "city": "vadodara",
+  "name": "Navrachana International School - Bhayli ",
+  "scraped_at": "2026-04-29T00:12:36.786572",
+  "html_length": 311234,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vadodara",
+          "item": "https://yellowslate.com/schools/vadodara"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhayli",
+          "item": "https://yellowslate.com/schools/vadodara/bhayli"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/vadodara/bhayli/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Navrachana International School",
+          "item": "https://yellowslate.com/school/vadodara/navrachana-international-school-bhayli"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Navrachana International School - Bhayli",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/vadodara/navrachana-international-school-bhayli",
+      "telephone": "+91 942 750 6581",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Vasna-Bhayli Road, Vadodara, Gujarat",
+        "addressLocality": "Vadodara",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.2833454,
+        "longitude": 73.127752
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Vasna-Bhayli Road, Vadodara, Gujarat",
+              "addressLocality": "Vadodara",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/vadodara/navrachana-international-school-bhayli-bhayli-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "51"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddhartha R. Nayak"
+          },
+          "datePublished": "2025-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My both children stidiedat navrachna Sama. Story continues.......\nMy grandson(anay) is also now with nisv IB.\nBest in gujarat",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alpesh Solanki"
+          },
+          "datePublished": "2025-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ગુજરાત સરકાર ના નિયમો નથી એટલા તો આ સ્કૂલ માં છે\nરોજ ના કય ના કય નાટકો હોય છે સ્કૂલ માં ચૂતીયા સ્કૂલ હૈ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DrHemant Anant Sant"
+          },
+          "datePublished": "2024-12-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Education given with care",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Spongerubber 12"
+          },
+          "datePublished": "2024-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I went there for ISSO and fields were amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "int vil"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "former student who unfortunately spent over 10 years here. lovely people, made great friends, but the school is just not it, it poses itself as a top tier ib school, when in reality, compared to nearly any ib school in the country, its not even close. the management is in shambles, the leadership is weak, the teachers and coaches are not treated well, let alone the students.\nthe few great teachers and coaches that we did have were forced to leave to better institutions since the school seemed to just not want to pay these incredible educators. having now attended another io school in india, i truly see the enormous difference between what an ib school should be, vs whatever nisv is. even as a student it was woefully apparent how much the school was run on terribly skewed internal politics and favoritism. the dwindling reputation of this school is apparent in the attitude of students throughout vadodara, where it was once a coveted school, but near the end of my journey with nisv, i felt embarrassed to tell people my school.\noverworked teachers, mismanaged allocation of resources, unchecked leadership and a generally lousy management cultures were the norm and me and my fellow students bore the brunt of it all. this is not an institution i would recommend to anyone, purely for the mental strain it caused, let alone the lack of academic prowess.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Mehta"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Go fr this school.only if u r a rich influential parent .not meant fr kids who wish to excel in academics,  but for them who want to show off .The principal Theo is the most partial man who would favour the wrong doings of kids coz they belong to high class and he would see to it that ur innocent kid is mentally tortured giving them suicidal tendencies ..would never probe into an inquiry fr a kid who is not at fault and the counseling services are only fr name sake..very soon ul see kids having waip in their hand instead of a pen as school  hides under the carpets the pics of the liquor party of their Secondary kids.\nThe staff is not that qualified as the school boasts.\nThe school has been often under scanner by the DEO because of the partial attitude  but they buy their awards with money and power and displays on social media.just a hyped school, parents do check other school in baroda and dnt go by this brand name   .if u want ur kids to be grounded and want a good mental and psychological balance.\nEveryone in Baroda is hoping when will the management of nisv be taken over by other prestigious educational bodies...feedback frm a parent whose bright  kid has suffered worst humiliation and demotivating and lost self confidence coz of Theo and management attitude",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jagruti Gohil"
+          },
+          "datePublished": "2024-05-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Unprofessional behavior of admin staff. No one picking call on admin reception. no one even bother to give response on email. Especially Darshan mam' in admin department, she keeps shouting if parent reach directly to school as no response of email or call.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meghna Shah"
+          },
+          "datePublished": "2024-04-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Doesn't deserve even a 1 star..if u have moved from a metro city, then will realize it is just an overly hyped school locally,  with zero quality in education,  sports selection only fr selected few students,except for few faculties ,rest are just average teachers,  The staff especially the principal is very partial towards affluent parents, we spent 2 precious  years of our children here after moving from a metro city n all we have is just regrets..If parents want to be in a circle of the who's and who's of baroda and boast abt their economic standards then this school is the best but if u want to secure child's future by focus on education and also better infrastructure then there are better options around which are less popular but really maintain quality in education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jasmin Shah"
+          },
+          "datePublished": "2024-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "NISV is good. Fees are too high.\n\n\"Admission fees are equivalent to 1 month Tuition fees for new admission & at the time of getting promoted to Grades I, IX & XI.\"\n\nEven if your kid is studying in same school, then also they are charging Admission fees. I am not sure where this rule comes from.  This in not justifiable.\n\nIf from other school, then it's fine.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Navrachana International School - Bhayli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parag Vyas"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school with the best infrastructure for sports and good education facility. One of the oldest and top school of baroda.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://wa.me/919513238818",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "3.5",
+  "views": "184",
+  "reviews_count": "51",
+  "phone": "+919513238818",
+  "locality": "Bhayli",
+  "board": "CBSE, IB\n\nCo",
+  "established": null,
+  "category": "Boarding Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/bhopal/billabong-high-international-school-neelbad",
+  "url": "https://yellowslate.com/school/bhopal/billabong-high-international-school-neelbad",
+  "city": "bhopal",
+  "name": "Billabong High International School - Neelbad ",
+  "scraped_at": "2026-04-29T00:04:16.363390",
+  "html_length": 327567,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Neelbad",
+          "item": "https://yellowslate.com/schools/bhopal/neelbad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/bhopal/neelbad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Billabong High International School",
+          "item": "https://yellowslate.com/school/bhopal/billabong-high-international-school-neelbad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Billabong High International School - Neelbad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/billabong-high-international-school-neelbad",
+      "telephone": "8889533346",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Near Hajarat Nizamuddin Dargah, Bhadbhada Road, Neelbad, Bhopal, Madhya Pradesh - 462044",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Near Hajarat Nizamuddin Dargah, Bhadbhada Road, Neelbad, Bhopal, Madhya Pradesh - 462044",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/billabong-high-international-school-neelbad-neelbad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "brijesh vishwakarma"
+          },
+          "datePublished": "2025-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teacher name minita in 6 grade is so selfish and mean from volume 1 till vol-3 I decided to leave the school. DO NOT GO TO BILABONG HIGH INTERNATIONAL SCHOOL BHOPAL.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S J"
+          },
+          "datePublished": "2025-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the top ranking schools of bhopal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priti Patidar"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice experience. Curriculum is excellently designed. The best branch of Billabong. My kid misses it. Highly recommended.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nishu Gupta"
+          },
+          "datePublished": "2024-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In their school worksheets they have many mistakes",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "dr swati jain"
+          },
+          "datePublished": "2023-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have my kid join this school for 7 years and they have improved in every class . Awesome school and you should put your child in this school. 100 percent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kashish Waryani"
+          },
+          "datePublished": "2023-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school, is great I have put both my children in this school and they are doing great.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Juber Khan"
+          },
+          "datePublished": "2023-10-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best education from this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gunjan Pamnani"
+          },
+          "datePublished": "2023-10-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My children are studying in billabong since grade1. The curriculum and infrastructure of the school is so good, that it will always enhance out  the best version of my child. I am so happy and proud regarding the overall advancement of my kids. It’s the best school available in Bhopal .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fauzia Shahid"
+          },
+          "datePublished": "2023-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I like the way they are preparing all rounders here in this school that is ready to excel in academics, sports and performing arts. Students are very confident and smart.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Billabong High International School - Neelbad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Firdous Jahan"
+          },
+          "datePublished": "2023-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Billabong High International School in Bhopal stands out for its exceptional standard of education, a cadre of highly committed educators, and a comprehensive curriculum that ensures a well-rounded educational experience. As a parent, I wholeheartedly applaud the nurturing atmosphere fostered within its walls and the school's unwavering dedication to the holistic development of every child. Without a doubt, it merits earnest consideration as an educational institution for your precious child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "4.6",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Neelbad",
+  "board": "CBSE, IGCSE\n\nGot Questions About Billabong High International School",
+  "established": "2011",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Billabong High International School ?\nAsk a Question\nBillabong High International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

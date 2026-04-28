@@ -1,0 +1,369 @@
+{
+  "slug": "/school/nagpur/k-john-public-school-nagpur",
+  "url": "https://yellowslate.com/school/nagpur/k-john-public-school-nagpur",
+  "city": "nagpur",
+  "name": "K. John Public School - Nagpur ",
+  "scraped_at": "2026-04-28T23:56:05.170548",
+  "html_length": 313678,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "K. John Public School",
+          "item": "https://yellowslate.com/school/nagpur/k-john-public-school-nagpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "K. John Public School - Nagpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/nagpur/k-john-public-school-nagpur",
+      "telephone": "08806060672",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Assoli Village , Bhandara Road, Dighori (Kale) Post, Nagpur -441202 BETWEEN, AND, KAPSI, Malgaon, NH 6",
+        "addressLocality": "Nagpur",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Assoli Village , Bhandara Road, Dighori (Kale) Post, Nagpur -441202 BETWEEN, AND, KAPSI, Malgaon, NH 6",
+              "addressLocality": "Nagpur",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/nagpur/k-john-public-school-nagpur-nagpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "62"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S S"
+          },
+          "datePublished": "2024-12-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "K John Public School, led by a dedicated  Principal Anjali Ma'am and Dr. John.It has excellent teachers, modern facilities, and balanced focus on studies and activities. Also provides excellent education for all grades, especially 10th standard.It provides a supportive environment for students to learn, grow, and succeed.\nI always recommend KJPS.⭐⭐⭐⭐⭐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohammadali Sheikh"
+          },
+          "datePublished": "2024-12-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is an excellent choice for all Classes, offering strong academics, experienced faculty, and well-equipped facilities. The school conducts regular tests and doubt-clearing sessions to prepare students for board exams. Alongside academics, it emphasizes holistic development through co-curricular activities and sports. Career guidance and counseling ensure students make informed decisions. While the school excels in most areas, adding skill-based courses could further benefit students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Supriya Motghare"
+          },
+          "datePublished": "2024-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school. Experienced teachers, helpfull and cooperative staff, beautiful campus . Studies and activities are given equal importance",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunita Sharma"
+          },
+          "datePublished": "2024-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school, lovely place, warm staff, and mostly you'll improve your English.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiran Sharma"
+          },
+          "datePublished": "2024-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I highly recommend k.john public school for its strong focus on individual students needs and supportive learning environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiran Sharma"
+          },
+          "datePublished": "2024-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is best for overall development of child which highlights both strengths and areas for improvement to provide a balanced perspective.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aginmariya"
+          },
+          "datePublished": "2024-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am proud to be a KJPS student ( batch 2014). Very good teaching style and I never relied on any tuitions which enabled me to score 92%. My sisters also studied in the same school and scored very well. We all participated in extra curriculars and had a good balance between studies and personal growth. Principal Anjali Ma'am and Dr. John provided immense support through out my studies. Teachers especially from 10th standard are very helpful and provided us extra classes to practice questions and for revising lessons.\nI always recommend KJPS.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monika Sharma"
+          },
+          "datePublished": "2024-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All other schools has completed syllabus of X std on priority, but this school didn't completed, they kept on focusing in rubbish such as annual days and other stuff.  The practice of annual days used to be near X std classroom,so students will not be able to focus bcos of noise. The syllabus of major subjects is incomplete till now and teachers are just finishing it for the sake of finishing without explaining anything in detail and giving the work to students to just finish notes from phone. There is one bhavna miss for physics, she showed video to students in a jiffy and just showed that her syllabus of physics is completed.  Like this teachers are trying to finish the syllabus anyhow and not even considering if students are understands it. There is no proper planning of lesson plans, teaching & schedule as in how to properly complete syllabus before time and make students understand concept. Teachers like bhawna miss and others are playing with future of students and principal Anjali madam is not paying any serious attention to it. Also they do not keep proper record of fees. Even when the fees is paid, they will not have a record of it. And will not give exam ticket to students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Lohakare"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school and teachers are friendful",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K. John Public School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naitik Dhawale"
+          },
+          "datePublished": "2024-05-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1750994537729-tjbq6yjf.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.5",
+  "views": "0",
+  "reviews_count": "62",
+  "phone": "+919513238818",
+  "locality": "Nagpur",
+  "board": "CBSE\n\nGot Questions About K",
+  "established": "2012",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "K. John Public School ?\nAsk a Question\nK. John Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

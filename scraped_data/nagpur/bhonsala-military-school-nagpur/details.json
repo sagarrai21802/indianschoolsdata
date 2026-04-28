@@ -1,0 +1,369 @@
+{
+  "slug": "/school/nagpur/bhonsala-military-school-nagpur",
+  "url": "https://yellowslate.com/school/nagpur/bhonsala-military-school-nagpur",
+  "city": "nagpur",
+  "name": "Bhonsala Military School - Nagpur ",
+  "scraped_at": "2026-04-28T23:56:12.533555",
+  "html_length": 316525,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bhonsala Military School",
+          "item": "https://yellowslate.com/school/nagpur/bhonsala-military-school-nagpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bhonsala Military School - Nagpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/nagpur/bhonsala-military-school-nagpur",
+      "telephone": "+91 712 266 9201",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Panchawat, Post Bag No. 2, Koradi T. P. S, Nagpur, Maharashtra",
+        "addressLocality": "Nagpur",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 21.1831597,
+        "longitude": 79.078598
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Panchawat, Post Bag No. 2, Koradi T. P. S, Nagpur, Maharashtra",
+              "addressLocality": "Nagpur",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/nagpur/bhonsala-military-school-nagpur-nagpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "69"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kishor Mehta"
+          },
+          "datePublished": "2024-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am going next year to this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vinod Chauhan “Vinod Chauhan” chauhan"
+          },
+          "datePublished": "2024-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good habits and strict discipline.Best school for defence education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akanksha Dhodre"
+          },
+          "datePublished": "2024-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best military school in the Nagpur region. The cadets go there as boys but return as responsible young men..they stand true to their motto. Not only these cadets are well-versed in both academics but also sports which opens up an ocean of opportunities for them even if they were to choose a career other than military service. Great school for students looking to have an overall personality development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amar patil"
+          },
+          "datePublished": "2024-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "New MCB Panel all bhawan's cantrol in room",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santosh Kankaney"
+          },
+          "datePublished": "2024-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "स्कूल बहुत ही अच्छा है",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dnyaneshwar Kamdi"
+          },
+          "datePublished": "2024-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Guddu Paswan"
+          },
+          "datePublished": "2024-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My sun admission my address\nNagpur kalamna market pin\nNo440035",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mahesh patidar"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Exlent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "victor paul"
+          },
+          "datePublished": "2024-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "हरियाली प्रकृति की गोद में बसा यह मिलिट्री स्कूल है। पढ़ाई के साथ साथ बच्चों को खेलकूद और शारीरिक मानसिक रूप से मजबूत बनाया जाता है और बच्चों को सभी तरह की सुविधाएं यहां उपलब्ध है।",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhonsala Military School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sachin pitale"
+          },
+          "datePublished": "2024-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Inka ek landline number kabhi lagta nai,aur mobile number hamesha band rahte hai...ye kya bat Hui..ek contact number to dhang se shuru rakho.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1750994537729-tjbq6yjf.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "3.7",
+  "views": "200",
+  "reviews_count": "69",
+  "phone": "+919513238818",
+  "locality": "Nagpur",
+  "board": "State Board\n\nOnly Boys School\n\nAbout Bhonsala Military School\nEnquire Now\n\nBhonsala Military School, Nagpur was established on June 1996 and on 15th Nov 1999 it moved into its present campus",
+  "established": "1996",
+  "category": "Boarding Schools",
+  "classes": "000 - 200",
+  "gender": "Boys",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

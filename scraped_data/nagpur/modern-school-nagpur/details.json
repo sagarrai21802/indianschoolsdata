@@ -1,0 +1,368 @@
+{
+  "slug": "/school/nagpur/modern-school-nagpur",
+  "url": "https://yellowslate.com/school/nagpur/modern-school-nagpur",
+  "city": "nagpur",
+  "name": "Modern School - Nagpur ",
+  "scraped_at": "2026-04-28T23:55:12.002508",
+  "html_length": 306866,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Modern School",
+          "item": "https://yellowslate.com/school/nagpur/modern-school-nagpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Modern School - Nagpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/nagpur/modern-school-nagpur",
+      "telephone": "09766778611",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Koradi Rd, Opp. Sunder Biscuit Factory, Vidhya Nagar, Nagpur, Maharashtra 441111",
+        "addressLocality": "Nagpur",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Koradi Rd, Opp. Sunder Biscuit Factory, Vidhya Nagar, Nagpur, Maharashtra 441111",
+              "addressLocality": "Nagpur",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/nagpur/modern-school-nagpur-nagpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "69"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naved Khan"
+          },
+          "datePublished": "2025-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Viry Nice school & teacher Staff manegement\nAre very good 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohmmad Afzal"
+          },
+          "datePublished": "2025-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school good ethics",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pramita Dupare"
+          },
+          "datePublished": "2024-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amol Raut"
+          },
+          "datePublished": "2024-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shubham Sayam"
+          },
+          "datePublished": "2024-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School Is Amazing Good Place to Study and have Many Activities to Do for Kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vidhi Bhabra"
+          },
+          "datePublished": "2023-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Modern School, Nagpur, holds a special place in my heart as an alum. The teachers' unwavering support and the principal, Ma'am's encouragement, made my academic journey truly enriching. The classes were not only informative but also engaging, fostering a sense of unity with friends that added to the overall enjoyment. Grateful for the cherished memories from my time at Modern School!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prajwal Walke"
+          },
+          "datePublished": "2023-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Modern School was a unique experience which shaped my childhood through constant support from the teachers and friends. The takeaway from this learning environment will forever be valuable to me.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SDE ADMIN"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school's washroom is sooo disgusting 🤮🤮🤮🤮",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KUMAR VINAY"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Most",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Modern School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VIREN SHAH"
+          },
+          "datePublished": "2023-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ITS BEST SCHOOL AT NAGPUR KORADI ROAD NEAR VIDYANAGAR BOKHARA THE RESULTS ARE VERY EXCELLENT",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1744439685300-grkwzisw.svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10-1.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "0",
+  "reviews_count": "69",
+  "phone": "+919513238818",
+  "locality": "Nagpur",
+  "board": "CBSE\n\nGot Questions About Modern School",
+  "established": "1987",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Modern School ?\nAsk a Question\nModern School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

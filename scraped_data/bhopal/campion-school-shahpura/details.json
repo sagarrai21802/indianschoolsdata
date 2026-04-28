@@ -1,0 +1,370 @@
+{
+  "slug": "/school/bhopal/campion-school-shahpura",
+  "url": "https://yellowslate.com/school/bhopal/campion-school-shahpura",
+  "city": "bhopal",
+  "name": "Campion School - Shahpura ",
+  "scraped_at": "2026-04-29T00:01:41.451143",
+  "html_length": 323617,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shahpura",
+          "item": "https://yellowslate.com/schools/bhopal/shahpura"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/bhopal/shahpura/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Campion School",
+          "item": "https://yellowslate.com/school/bhopal/campion-school-shahpura"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Campion School - Shahpura",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/campion-school-shahpura",
+      "telephone": "755-2492460",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Shahapura, Bhopal, Madhya Pradesh - 462016",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Shahapura, Bhopal, Madhya Pradesh - 462016",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/campion-school-shahpura-shahpura-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "152"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-08-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Campion school arera colony bhopal has been a great school since past many years. But very few teachers are not good for children. One of them is URDU TEACHER AMBER ABID MAM. she has been very rude and disrespectful to students and kids and harasses some children without any reason and calls the parents and talks very rubbishly and rudely. Due to her behaviour reputation of the school could be degraded. Father principal should look into the matter. As she is not at all co operative also. And give less attention to students who want to learn urdu language",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyambada Rai"
+          },
+          "datePublished": "2025-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in the world",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shaily shrivastava"
+          },
+          "datePublished": "2025-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Proud to be a part of this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinay Jain"
+          },
+          "datePublished": "2025-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Campion School is best school in the world I love study and cultural activities in the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ameen Jamali"
+          },
+          "datePublished": "2025-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent Campus and discipline for overall growth of children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ravindra khare"
+          },
+          "datePublished": "2024-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I love this school this is the best institute in bhopal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arshad baig"
+          },
+          "datePublished": "2024-11-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in bhopal & very good atmosphere",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sapna Dubey"
+          },
+          "datePublished": "2024-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a really good school with great teachers if you want to talk to teachers then English is compulsory",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vaishali Koshta"
+          },
+          "datePublished": "2024-10-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school I am studing in this school form kg-1 it means 7years i am in class 6th C SARAS KOSHTA roll no.33",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Campion School - Shahpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nida Shakir Ali"
+          },
+          "datePublished": "2024-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Campion school is the most prestigious and renowned school of bhopal .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "4.6",
+  "views": "0",
+  "reviews_count": "152",
+  "phone": "+919513238818",
+  "locality": "Shahpura",
+  "board": "CBSE\n\nGot Questions About Campion School",
+  "established": "1965",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Campion School ?\nAsk a Question\nCampion School Reviews\nView All Reviews\nOverall Experience\n 4.0\nTeaching Excellence\n 3.0\nValue for Money\n 4.0\nCampus & Facilities\n 3.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

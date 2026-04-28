@@ -1,0 +1,373 @@
+{
+  "slug": "/school/bhopal/bachpan-play-school-bhopal",
+  "url": "https://yellowslate.com/school/bhopal/bachpan-play-school-bhopal",
+  "city": "bhopal",
+  "name": "Bachpan Play School - Bhopal ",
+  "scraped_at": "2026-04-29T00:02:26.824830",
+  "html_length": 332354,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bachpan Play School",
+          "item": "https://yellowslate.com/school/bhopal/bachpan-play-school-bhopal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bachpan Play School - Bhopal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/bachpan-play-school-bhopal",
+      "telephone": "+91-98260 52425",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "E-2/189, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "E-2/189, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/bachpan-play-school-bhopal-bhopal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "24"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Girish Makwana"
+          },
+          "datePublished": "2025-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepak KUMAR VERAGI"
+          },
+          "datePublished": "2025-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is best in Gulmohar colony",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikhat Khan"
+          },
+          "datePublished": "2024-06-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very well planned academic programme. Soothing atmosphere for kids with such a nice  staff . Good efforts by teachers coordinators n principal. Every child is going to be groomed very well.this is going to be the best school for ur little one .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranshu Shrivastava"
+          },
+          "datePublished": "2024-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best playschool in gulmohar with best quality tools like mini gym for kids, kids theatre, ball room, etc with best quality teachers and the director mam is  very humble and friendly, she love kids as if they are there own kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kavita Manke"
+          },
+          "datePublished": "2024-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's very nice School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratibha Saxena"
+          },
+          "datePublished": "2024-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mamta Uday"
+          },
+          "datePublished": "2024-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Superb",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kriti Patel"
+          },
+          "datePublished": "2024-05-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child is not even 2 years, but I joined him to their summer camp, my child is very happy and the staff is very caring",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "REENA EDWIN"
+          },
+          "datePublished": "2024-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best play school in Gulmohar Bhopal Bachpan play school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bachpan Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Namrata Dubey"
+          },
+          "datePublished": "2024-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bohut achha school h good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1777229316361-hbywuzbn.jpeg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/sv",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "http://www.",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "5.0",
+  "views": "0",
+  "reviews_count": "24",
+  "phone": "+919513238818",
+  "locality": "Bhopal",
+  "board": "Other Boards\n\nGot Questions About Bachpan Play School",
+  "established": "2004",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": null,
+  "fees_range": null,
+  "about": "Bachpan Play School ?\nAsk a Question\nBachpan Play School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

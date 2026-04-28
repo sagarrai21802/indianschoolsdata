@@ -2,129 +2,43 @@
   "statistics": {
     "total_cities": 1,
     "processed_cities": 1,
-    "total_schools": 48,
-    "total_pages": 5,
-    "start_time": "2026-04-28T21:51:51.187949",
-    "end_time": "2026-04-28T21:52:19.838753"
+    "total_schools": 8,
+    "total_pages": 1,
+    "start_time": "2026-04-29T00:16:35.400215",
+    "end_time": "2026-04-29T00:16:52.396875"
   },
   "cities": {
-    "lucknow": {
-      "city": "lucknow",
-      "total_schools": 48,
-      "pages_scraped": 5,
+    "agra": {
+      "city": "agra",
+      "total_schools": 8,
+      "pages_scraped": 1,
       "listing_only": true,
-      "scraped_at": "2026-04-28T21:52:19.837964",
-      "stop_reason": "reached_end",
-      "completed": true,
+      "scraped_at": "2026-04-29T00:16:52.396453",
+      "stop_reason": "next_page_unavailable",
+      "completed": false,
       "max_pages_limited": false,
       "validation_passed": true,
       "validation_errors": [],
       "pages_visited": [
-        1,
-        2,
-        3,
-        4,
-        5
+        1
       ],
-      "highest_visible_page_seen": 5,
+      "highest_visible_page_seen": null,
       "pages_with_zero_new_schools": [],
-      "duplicate_hits": 2,
-      "cross_city_skips": 1,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
       "missing_slug_skips": 0,
-      "saved_school_folders": 48,
+      "saved_school_folders": 8,
       "page_stats": [
         {
           "page": 1,
-          "cards_found": 13,
-          "unique_schools_found": 12,
-          "new_schools_saved": 12,
+          "cards_found": 8,
+          "unique_schools_found": 8,
+          "new_schools_saved": 8,
           "duplicate_hits": 0,
           "cross_city_skips": 0,
           "missing_slug_skips": 0,
-          "visible_numbers": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "visible_last_page": 5,
-          "has_exact_next": true,
-          "signature_seen_on_page": null
-        },
-        {
-          "page": 2,
-          "cards_found": 14,
-          "unique_schools_found": 12,
-          "new_schools_saved": 11,
-          "duplicate_hits": 1,
-          "cross_city_skips": 1,
-          "missing_slug_skips": 0,
-          "visible_numbers": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "visible_last_page": 5,
-          "has_exact_next": true,
-          "signature_seen_on_page": null
-        },
-        {
-          "page": 3,
-          "cards_found": 13,
-          "unique_schools_found": 12,
-          "new_schools_saved": 12,
-          "duplicate_hits": 0,
-          "cross_city_skips": 0,
-          "missing_slug_skips": 0,
-          "visible_numbers": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "visible_last_page": 5,
-          "has_exact_next": true,
-          "signature_seen_on_page": null
-        },
-        {
-          "page": 4,
-          "cards_found": 13,
-          "unique_schools_found": 12,
-          "new_schools_saved": 11,
-          "duplicate_hits": 1,
-          "cross_city_skips": 0,
-          "missing_slug_skips": 0,
-          "visible_numbers": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "visible_last_page": 5,
-          "has_exact_next": true,
-          "signature_seen_on_page": null
-        },
-        {
-          "page": 5,
-          "cards_found": 3,
-          "unique_schools_found": 2,
-          "new_schools_saved": 2,
-          "duplicate_hits": 0,
-          "cross_city_skips": 0,
-          "missing_slug_skips": 0,
-          "visible_numbers": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ],
-          "visible_last_page": 5,
+          "visible_numbers": [],
+          "visible_last_page": null,
           "has_exact_next": false,
           "signature_seen_on_page": null
         }

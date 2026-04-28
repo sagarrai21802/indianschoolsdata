@@ -1,0 +1,370 @@
+{
+  "slug": "/school/bhopal/saplings-the-play-school-bhopal",
+  "url": "https://yellowslate.com/school/bhopal/saplings-the-play-school-bhopal",
+  "city": "bhopal",
+  "name": "Saplings The Play School - Bhopal ",
+  "scraped_at": "2026-04-29T00:01:13.189143",
+  "html_length": 332902,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Saplings The Play School",
+          "item": "https://yellowslate.com/school/bhopal/saplings-the-play-school-bhopal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Saplings The Play School - Bhopal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/saplings-the-play-school-bhopal",
+      "telephone": "+91 98 2755 2667",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "11th Mile, Garden City, Bhojpur Road, Bhopal​",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "11th Mile, Garden City, Bhojpur Road, Bhopal​",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/saplings-the-play-school-bhopal-bhopal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "34"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rayar Geeta"
+          },
+          "datePublished": "2024-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best play school inthe Bhopal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanishka Rathore"
+          },
+          "datePublished": "2024-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "best play school in Bhopal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "atul jain"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "अशोका गार्डन में ये बहुत अच्छा प्ले स्कूल है। मेरी बेटी ने भी अपने भविष्य की शुरुवात यहीं से की थी प्ले स्कूल में जाकर।यहाँ का स्टाफ भी बहुत अच्छा है खास तौर पर यहाँ की जो डायरेक्टर ओनर है सोनिका मेडम वो बच्चो का बहुत अच्छे से ध्यान रखती है बिल्कुल घर की तरह।",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti Kushwaha"
+          },
+          "datePublished": "2024-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best Play school in Bhopal,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monika Malviya"
+          },
+          "datePublished": "2024-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best play school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti Rajput"
+          },
+          "datePublished": "2024-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Supportive and strong community 😍😍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nisha sahu"
+          },
+          "datePublished": "2024-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the most favorite and caring play school, in this area ashoka garden. Principal mam very supportive and lovely nature. I have always thankful sapling play school and love her team",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shubham Singh"
+          },
+          "datePublished": "2024-02-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best Play school in Ashoka Garden and near by area",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KAPIL BHAVSAR"
+          },
+          "datePublished": "2023-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Saplings The Play School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raqeeb Khan"
+          },
+          "datePublished": "2023-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is very bad please do not admit any baby",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "4.7",
+  "views": "0",
+  "reviews_count": "34",
+  "phone": "+919513238818",
+  "locality": "Bhopal",
+  "board": "Other Boards\n\nGot Questions About Saplings The Play School",
+  "established": null,
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": null,
+  "fees_range": null,
+  "about": "Saplings The Play School ?\nAsk a Question\nSaplings The Play School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

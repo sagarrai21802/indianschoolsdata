@@ -1,0 +1,369 @@
+{
+  "slug": "/school/nagpur/central-provincial-school-nagpur",
+  "url": "https://yellowslate.com/school/nagpur/central-provincial-school-nagpur",
+  "city": "nagpur",
+  "name": "Central Provincial School - Nagpur ",
+  "scraped_at": "2026-04-28T23:55:22.755241",
+  "html_length": 312701,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Central Provincial School",
+          "item": "https://yellowslate.com/school/nagpur/central-provincial-school-nagpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Central Provincial School - Nagpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/nagpur/central-provincial-school-nagpur",
+      "telephone": "72760 55999",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " 52, Rameshwari Rd, Banarjee Layout, kukde layout, Rameshwari, Nagpur, Maharashtra 440027",
+        "addressLocality": "Nagpur",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " 52, Rameshwari Rd, Banarjee Layout, kukde layout, Rameshwari, Nagpur, Maharashtra 440027",
+              "addressLocality": "Nagpur",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/nagpur/central-provincial-school-nagpur-nagpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "22"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tripti Malik"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I like this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "lavanshu khadatkar"
+          },
+          "datePublished": "2024-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "CPS provides an excellent learning environment with dedicated teachers, well-structured programs, and a focus on both academics and extracurricular activities. The facilities are modern, fostering creativity and growth, while the supportive staff ensures the overall development of students. Highly recommended for quality education and nurturing young minds.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anchor Ajay Jangid"
+          },
+          "datePublished": "2024-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"I highly recommend Central Provincial School in Nagpur for any parent seeking a school that genuinely focuses on both academic and personal growth. With two branches in the city, they have created a safe and stimulating environment where students can excel. The school is fully equipped with top-tier amenities, including a well-stocked library, a sports-dedicated arena, and advanced facilities that foster an ideal learning environment.\n\nWhat stands out most is their dedication to each student's success. The teachers and staff ensure that every student receives personalized attention, identifying their strengths and areas of improvement to help them shine in both academics and extracurricular activities. Their education system is thoughtfully designed to build strong foundational knowledge while also preparing students for the skill-driven, competitive world.\n\nAdditionally, the school emphasizes character-building, leadership skills, and moral values, giving students the confidence to tackle challenges both in and outside of school. They frequently organize various activities and competitions, encouraging students to explore and develop a broad range of skills.\n\nCentral Provincial School is a fantastic choice in Nagpur for any parent looking to provide their child with a well-rounded education that truly prepares them for the future!\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshal Tamatkar"
+          },
+          "datePublished": "2024-10-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I found good school campus along with all the facilities for sport activities. School is also having excellent educational record. They are focusing on growth of each and every student personally. Highly recommended 👌",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RUCHI FALE"
+          },
+          "datePublished": "2024-10-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yadav shanu"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the best school for learning.well educated teaching staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rupali Sonarkar"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Central Provincial School is doing excellent in all the fields especially giving a lot of exposure to student by providing healthy environment. Very nicely planned and organized Academic programme.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Asmita sudame"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the best school in my knowledge I just love the school education and atmosphere",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "abhiruchi bhadke"
+          },
+          "datePublished": "2024-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school...school atmosphere is good. Activity based teaching is conducted.Students enjoy studies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Central Provincial School - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suchita deogade"
+          },
+          "datePublished": "2024-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is best school in my knowledge because my son has improved lot in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1750994537729-tjbq6yjf.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1749269861334-1sqom1ev.jpeg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.8",
+  "views": "0",
+  "reviews_count": "22",
+  "phone": "+919513238818",
+  "locality": "Nagpur",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Central Provincial School ?\nAsk a Question\nCentral Provincial School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/bhopal/shanti-juniors-preschool--bhopal",
+  "url": "https://yellowslate.com/school/bhopal/shanti-juniors-preschool--bhopal",
+  "city": "bhopal",
+  "name": "Shanti Juniors Preschool - Bhopal ",
+  "scraped_at": "2026-04-29T00:03:19.956542",
+  "html_length": 335847,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shanti Juniors Preschool ",
+          "item": "https://yellowslate.com/school/bhopal/shanti-juniors-preschool--bhopal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shanti Juniors Preschool  - Bhopal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/shanti-juniors-preschool--bhopal",
+      "telephone": "School Phone: ",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "E8/1006, Sahara Estate, Kolar Road, Bhopal, Madhya Pradesh 462042",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "E8/1006, Sahara Estate, Kolar Road, Bhopal, Madhya Pradesh 462042",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/shanti-juniors-preschool--bhopal-bhopal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "51"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Divya Sharma"
+          },
+          "datePublished": "2025-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good environment for growth of a child 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kamlesh Malviya"
+          },
+          "datePublished": "2025-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school focuses on holistic development with a strong foundation in early childhood education, making learning enjoyable for kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jitendra Lodhi"
+          },
+          "datePublished": "2025-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good teaching good\nmanagement",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kapil Vyas"
+          },
+          "datePublished": "2025-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A wonderful play school with a caring environment, engaging activities, and dedicated teachers. My child loves learning here and feels happy!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Er. shikha raje"
+          },
+          "datePublished": "2025-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good experience and my child learning,speeking, playing capacity improve",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Garvit Richhariya"
+          },
+          "datePublished": "2025-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "PROFESSIONAL TEAM AND ONE BY ONE STUDENTS CONSULTANT SYSTEM",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Singh"
+          },
+          "datePublished": "2025-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best pre school in kolar road bhopal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sangita Shukla"
+          },
+          "datePublished": "2024-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "shanti juniors best school in the area...great & child friendly environment supportive staff . overall too good 😊🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpi Sharma"
+          },
+          "datePublished": "2024-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very much happy to be part of sj family.the bond between staff with principal and the bond between teachers and students is essential for growth..it is here..annual function day was memorable event ..proud of you kiddos..kudos to all sheons",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shanti Juniors Preschool  - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S Tomar"
+          },
+          "datePublished": "2024-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am truly impressed with Shanti Juniors Preschool, Kolar Road, Bhopal. My daughter has been studying here, and I couldn’t be happier with the nurturing and enriching environment the school provides. The balance of fun and learning is perfect, ensuring my child enjoys every moment while growing academically and socially.\n\nThe staff and teachers are incredibly dedicated, always focusing on each child’s individual development. I also appreciate the emphasis on values, manners, and life skills, which are so important for a strong foundation.\n\nIt’s wonderful to see my daughter thriving and learning with so much enthusiasm. I am grateful to the school for their constant efforts and highly recommend it to other parents looking for a great preschool.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "5.0",
+  "views": "0",
+  "reviews_count": "51",
+  "phone": "+919513238818",
+  "locality": "Bhopal",
+  "board": "Other Boards\n\nGot Questions About Shanti Juniors Preschool",
+  "established": "2010",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": null,
+  "fees_range": null,
+  "about": "Shanti Juniors Preschool ?\nAsk a Question\nShanti Juniors Preschool Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

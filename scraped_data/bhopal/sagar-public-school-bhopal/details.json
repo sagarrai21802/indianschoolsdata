@@ -1,0 +1,370 @@
+{
+  "slug": "/school/bhopal/sagar-public-school-bhopal",
+  "url": "https://yellowslate.com/school/bhopal/sagar-public-school-bhopal",
+  "city": "bhopal",
+  "name": "Sagar Public School - Bhopal ",
+  "scraped_at": "2026-04-29T00:00:28.478717",
+  "html_length": 343137,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhopal",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/bhopal/bhopal/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sagar Public School",
+          "item": "https://yellowslate.com/school/bhopal/sagar-public-school-bhopal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sagar Public School - Bhopal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/bhopal/sagar-public-school-bhopal",
+      "telephone": "76977 00300",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+        "addressLocality": "Bhopal",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.1677259,
+        "longitude": 77.4436101
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+              "addressLocality": "Bhopal",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/bhopal/sagar-public-school-bhopal-bhopal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "131"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Singh"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sagar Public School is the best school in Bhopal. SPS strives to celebrate LIFE in totality - it wishes to teach its students to celebrate tradition and progress, celebrate peace and harmony simultaneously. It ensures that students are always in touch with their roots. It nurtures students mentally, morally, physically and culturally to become worthy citizens of free India, to zealously guard and retain its noble traditions and make progress in a modern, scientific way.\nSagar Public School encourages qualities of initiative and leadership in students making them disciplined, with open and educated mind and spirit, and thus enabling them to be the best to serve their country; to be best fitted to lead others and to be best trained to fulfil their own dreams and aspirations.\nThe competent and committed faculty and the vibrant learning atmosphere enable the all-round growth of the students while instilling in them a positive and healthy, physical, emotional and intellectual attitude. As enterprise and endeavour are its watchwords, the School always keeps an eye on new educational initiatives, so that the road to excellence, on which the institution has already launched itself, becomes smoother, more navigable and more accessible. It tries to create a win-win situation for its students with a personalized and positive approach towards education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "c r"
+          },
+          "datePublished": "2024-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very average school with mess facility we chose this school thinking long hourse will nurture r child bt its very basic school normal cbse school with long hours nothing special lots of homework given to small kids spending whole day in school whats the point that if parents have to make them sit and do all the homework bache k pass kisi chiz k time hi nai isse ache dps mount carmel jaise school me hi krwa do",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anand Bhutda"
+          },
+          "datePublished": "2024-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful place to learn",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alvira Mansuri"
+          },
+          "datePublished": "2024-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinod Meena"
+          },
+          "datePublished": "2024-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall good but Transport staff not like professionals. They are gating almost double of transport charges still not cooperating",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepika Dubey"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Bhopal for all round development of children, dedication of the teachers and staff is commendable.Infrastructure wise also properly lit and airy classrooms, sports rooms\nSkill Enrichment and tasty ,healthy ,hygenic satvik food are there USPs\nChildren never want to miss a single day to school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanchi Chaturvadi"
+          },
+          "datePublished": "2024-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dear Sagar Public School Administration,\nAs a parent, I am grateful for the efforts made by the school to provide a supportive learning environment, especially during these challenging times. The dedication of the teachers and staff in ensuring continuity of classes and providing resources for remote learning, and maintaining communication with parents/students has not gone unnoticed.\n\nI would like to take this opportunity to commend the school for its proactive approach in addressing the needs of students and fostering a sense of community, even in a virtual setting. Your commitment to academic excellence and the holistic development of students is truly commendable.\n\nThank you for your unwavering dedication and hard work. I am confident that with the continued support of the Sagar Public School community, we will overcome any challenges and continue to thrive.\n\nWarm regards,\n\nSanchi Tiwari\nMother of Nyesha Tiwari",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhay Savita"
+          },
+          "datePublished": "2024-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience with the school policy discussion was extremely disappointing. The policymakers have established a one-way communication system where parents are not allowed to question or provide input. This approach is particularly frustrating for parents who sacrifice so much to educate their children. I cannot recommend this school to anyone, especially to parents who prioritize their children's education and want to be actively involved",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shumela Khan"
+          },
+          "datePublished": "2024-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best schools",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sagar Public School - Bhopal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "preeti dixit"
+          },
+          "datePublished": "2024-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school Is amazing do you know everything is good and best,👌👌🥰🥰",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "http://www.w3.org/2000/svg\\",
+    "https://8views.com/\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://schema.org\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0"
+  ],
+  "rating": "4.3",
+  "views": "1",
+  "reviews_count": "131",
+  "phone": "+919513238818",
+  "locality": "Bhopal",
+  "board": "CBSE\n\nCo Education\n\nGot Questions About Sagar Public School",
+  "established": "2014",
+  "category": "Boarding Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Sagar Public School ?\nAsk a Question\nSagar Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/Best-schools-in-Bhopal.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/06/2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

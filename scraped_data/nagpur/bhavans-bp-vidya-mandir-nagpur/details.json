@@ -1,0 +1,370 @@
+{
+  "slug": "/school/nagpur/bhavans-bp-vidya-mandir-nagpur",
+  "url": "https://yellowslate.com/school/nagpur/bhavans-bp-vidya-mandir-nagpur",
+  "city": "nagpur",
+  "name": "Bhavan's B.P. Vidya Mandir - Nagpur ",
+  "scraped_at": "2026-04-28T23:55:36.981650",
+  "html_length": 316129,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nagpur",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/nagpur/nagpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bhavan'S B.P. Vidya Mandir",
+          "item": "https://yellowslate.com/school/nagpur/bhavans-bp-vidya-mandir-nagpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bhavan's B.P. Vidya Mandir - Nagpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/nagpur/bhavans-bp-vidya-mandir-nagpur",
+      "telephone": "07122230142",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Trimurti Nagar, Bhamti, Bhange Layout, Nagpur, Maharashtra 440022",
+        "addressLocality": "Nagpur",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Trimurti Nagar, Bhamti, Bhange Layout, Nagpur, Maharashtra 440022",
+              "addressLocality": "Nagpur",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/nagpur/bhavans-bp-vidya-mandir-nagpur-nagpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "64"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "People should stop giving importance to such institutes which are implementing faulty selection process. \nLots based system is beeinc followed just to portray that they are fair. But in reality they are lazy to evaluate the child`s background, family, parents education and profession. Behind the curtains they are giving admissions to ultra rich students on hidden management seats. Not prioritising the students who lives nearby. No sports Infra, Modern teaching facilities\n\nWhen you visit for enquiry they just tell that admissions will be done on lots. \nNo school walk- through, no proper orientation is provided. \n\nRude admin staff just says if you have ultra high leve of contacts then you may get the management seat else just rely on lottery. There are much better schools in the city. People should stop giving unnecessary importance to such arrogantly administrated institute.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jagdish dandgawhal"
+          },
+          "datePublished": "2025-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Only high profile people's gets admission.\nNot for middle class people's.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praful Kochar"
+          },
+          "datePublished": "2024-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Varsha Deogade"
+          },
+          "datePublished": "2024-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "P R K"
+          },
+          "datePublished": "2024-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shubham ingole"
+          },
+          "datePublished": "2023-10-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Such a nice and co-operative staff .\nGreat and polite staff. Must visit once",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ap Ap"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonl Sinha"
+          },
+          "datePublished": "2023-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Non transparent admission system. We stay very near to the school but didn't get admission in first batch.\n\nWe resubmitted the form and got our son (2.5 yrs old) in nursery.\n\n50 students in nursery each section. There are 4 sections. For 3 hours my son was kept without food. The tiffin which we used to send with him was returned back. When asked the class teacher why the tiffin is not being fed to him various excuses like he's not eating, the tiffin was locked, he did not allow the bag to be touched.\n\nAre you kidding? A 2.5 year old can do such stuff?\n\nThen within a week later the class teacher complained to my wife that my son has beaten someone. How's that even possible and what is the teachers (2 teacher) and the bai doing all this while?\n\nA day later i don't know what happened but my son returned from school crying (as if someone has beaten him badly).\n\nWhen enquired with the class teacher no explanation was offered. From there on my son would refuse to wear the school uniform or go to the school altogether.\n\nWe were worried and then sought attention from a doctor who suggested switching the school.\n\nWe took him to Kidzee which is also nearby and immediately he was happy.\n\nIts been 1 week he is now going to kidzee and enjoys the time there. They have playzone area where they can also play which was missing at Bhavans. Only classroom sitting was done.\n\nThey make him eat the food, they take care of him and i never heard any complaints as well.\n\nI asked Kidzee does he beat anyone and they said he is a very good child.\n\nI would ask everyone to avoid getting their children admitted to Bhavans.\n\nThey are just banking on the Bhavan's Brand name and nothing else.\n\nEven the admission process is fishy where they allow kids of far places to take admission whereas nearby kids are not given admission.\n\nAlso they use loud speakers and do not have closed auditorium means full day all activities are being played loudly and nearby areas have to listen to this. Means noise pollution.\n\nAlso parents coming from distant places drop their children and pick up using cars means at 9 am and 4pm it causes traffic jam and lot of horn honking daily.\n\nSchool management never bothered to have a system to collect their children by parking their cars at a distant so as to not cause any noise pollution.\n\nOverall i am very happy that we tried this school and came to know about its shortcomings.\n\nMy daughter studies in DPS Lava and it is one of the better schools out there. Bhavan's on the other hand is just using their brand name and nothing else.\n\nOverall curriculum does not involve any play or fun activities and no physical education. Only studies won't get your child to shine out there in real world.\n\nOld methods and techniques do not work nowadays. I am a student of Somalwar and during our time it was the best school but nowadays Somalwar isn't sought after because people want wholesome school with all facilities and better education with overall growth of child.\n\nMy suggestion there are better schools out there. And if Bhavans wants to be better school it has to change its attitude and curriculum.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yogesh patil"
+          },
+          "datePublished": "2023-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "High education and very talented teaching staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhavan's B.P. Vidya Mandir - Nagpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nanty Salwatkar"
+          },
+          "datePublished": "2023-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not happy with the system they follow... Other childrens should also get chance for addmition.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1744439685300-grkwzisw.svg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-10-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1749269861334-1sqom1ev.jpeg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1744177139554-tan9dj7q.png\\",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "0",
+  "reviews_count": "64",
+  "phone": "+919513238818",
+  "locality": "Nagpur",
+  "board": "CBSE\n\nGot Questions About Bhavan",
+  "established": "1938",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Bhavan's B.P. Vidya Mandir ?\nAsk a Question\nBhavan's B.P. Vidya Mandir Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

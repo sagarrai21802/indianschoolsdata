@@ -1,0 +1,373 @@
+{
+  "slug": "/school/noida/gaurs-international-school-gautam-buddha-nagar",
+  "url": "https://yellowslate.com/school/noida/gaurs-international-school-gautam-buddha-nagar",
+  "city": "noida",
+  "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR ",
+  "scraped_at": "2026-04-28T21:16:36.129302",
+  "html_length": 390220,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GAUTAM BUDDHA NAGAR",
+          "item": "https://yellowslate.com/schools/noida/gautam-buddha-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/gautam-buddha-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "GAURS INTERNATIONAL SCHOOL",
+          "item": "https://yellowslate.com/school/noida/gaurs-international-school-gautam-buddha-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/gaurs-international-school-gautam-buddha-nagar",
+      "telephone": "8929442975",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "SIDDHARTH VIHAR GHAZIABAD",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6590525,
+        "longitude": 77.4049277
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "SIDDHARTH VIHAR GHAZIABAD",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/gaurs-international-school-gautam-buddha-nagar-gautam-buddha-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gazala Hussain"
+          },
+          "datePublished": "2024-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Had to chase them multiple times for for any query. Staff not responsive. They do not give any response and simply disconnect the call without giving any ear to the concerns",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "saif azhar"
+          },
+          "datePublished": "2024-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "To all the parants, never take admission in Gaur international school.\n\n1:-School is forcing parants to make quarterly payments in the middle of the year.\n2:-School is increasing fee every year.\n3:-School administration has do not care attitude.\n4:-Only sanskrit language option.\n5:- No invitation to parants for the Annual Function, unless you pay 1500rs.\n6:-Academics not properly followed.\n7:-NCRT test book which parants purchase is costing around 7700+rs. class 7th, and most of the books are not even used.\n8:-Bus fee is 3000+rs. every month, and they dont switch on the AC in the bus during morning.\n\nOver all its a waste of money as this is a builder's school with no ethics.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitesh Harit"
+          },
+          "datePublished": "2024-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They are not using NCERT books in Junior classes, costly private publisher books are used that too changed every year. Class 4 book set is 6300 Rs. The vendor who is notified by school gives zero discount.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Niyati Khurana"
+          },
+          "datePublished": "2024-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "staff harass each other. very much, especially in front of student,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SACHIN NAGAR"
+          },
+          "datePublished": "2024-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shikha Jain"
+          },
+          "datePublished": "2024-02-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a very good school for academics as well as extra curriculum activities. Here the teachers are also very good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rakesh Srivastava"
+          },
+          "datePublished": "2024-02-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying in school since last 7 years. Overall I am satisfied with school and teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ankit garg"
+          },
+          "datePublished": "2024-02-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is doing excellent in all the fields especially giving a lot of exposure to children. Good efforts by all the teachers. I am very grateful to all teachers, HMs and HODs. They are approachable.  My child is being groomed very well. Various Co-Curricular activities are organized by the school which helps a child to develop confidence and overcome stage fear. Keep it up! I wish great success to Gaurs International School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini Bhardwaj"
+          },
+          "datePublished": "2024-02-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The academic programs at Gaurs International School are well-structured and diverse. The curriculum is engaging, offering a good balance between core subjects and electives.\nThe teachers demonstrate a strong commitment to student success, providing support and encouragement.The teaching staff at is knowledgeable and passionate about their subjects. They go beyond the curriculum to foster a positive learning environment.\nI appreciate the accessibility of teachers for additional assistance when needed.The school's facilities are well-maintained and conducive to learning. The classrooms are equipped with modern technology, and the library provides a resourceful space for research. One of the highlights is its vibrant extracurricular scene. From sports to arts and cultural activities, there is something for everyone. These activities contribute significantly to the holistic development of students. The overall atmosphere at GIS is inclusive and friendly. Students are encouraged to express themselves, fostering a sense of community. The school promotes diversity and embraces different perspectives.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GAURS INTERNATIONAL SCHOOL - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurvinder Singh"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School is excelling in all the fields especially giving a lot of exposure to children. The Academic and Co-curricular  programmes are organised very nicely. The teachers are putting their best efforts in guiding the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1761905470091-qal8rfm9.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR"
+  ],
+  "rating": "3.8",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "GAUTAM BUDDHA NAGAR",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "GAURS INTERNATIONAL SCHOOL ?\nAsk a Question\nGAURS INTERNATIONAL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

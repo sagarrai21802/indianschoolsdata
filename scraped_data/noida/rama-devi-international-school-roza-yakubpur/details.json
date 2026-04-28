@@ -1,0 +1,256 @@
+{
+  "slug": "/school/noida/rama-devi-international-school-roza-yakubpur",
+  "url": "https://yellowslate.com/school/noida/rama-devi-international-school-roza-yakubpur",
+  "city": "noida",
+  "name": "Rama Devi International School - Roza Yakubpur ",
+  "scraped_at": "2026-04-28T21:16:47.356534",
+  "html_length": 354639,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Roza Yakubpur",
+          "item": "https://yellowslate.com/schools/noida/roza-yakubpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/roza-yakubpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rama Devi International School",
+          "item": "https://yellowslate.com/school/noida/rama-devi-international-school-roza-yakubpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rama Devi International School - Roza Yakubpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/rama-devi-international-school-roza-yakubpur",
+      "telephone": "+91 956 018 3610",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "greater noida, near phatak, Roza Jalalpur Village, Chhapraula, Uttar Pradesh 201009, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6168523,
+        "longitude": 77.4776626
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rama Devi International School - Roza Yakubpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "greater noida, near phatak, Roza Jalalpur Village, Chhapraula, Uttar Pradesh 201009, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/rama-devi-international-school-roza-yakubpur-roza-yakubpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nirmala goswami"
+          },
+          "datePublished": "2023-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rama Devi is one of the finest and most acclaimed schools in the area where I live. Their premises are not only huge but run by some of the nicest people I have ever met. My daughter studies there in grade 8 and I have seen improved results in her academics. My daughter is a geek and very rarely does she participate in extracurricular activities. On my request, her teachers motivated her to come out of her comfort zone and take part in sports, dance and music competitions. Today, she participates & performs well in co-curricular and it makes me proud.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rama Devi International School - Roza Yakubpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Singh"
+          },
+          "datePublished": "2023-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In my personal opinion, this school should rank among the top 10 schools in Noida. The reason why I am saying this is because I am a dad of two sons and both of them weren’t scoring well in their previous schools. I even tried sending them to the best tuition classes post-school but that didn’t help. One day, one of my colleagues recommended Rama Devi school and after a few enquiries, I decided to admit both of my sons to this school. Here they are backed up by experienced teachers who teach in an easily understandable manner. Today, my kids are setting a benchmark for themselves in academics and I am happy about it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rama Devi International School - Roza Yakubpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sudhanshu Sharma"
+          },
+          "datePublished": "2023-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s a fantabulous school, one I have been to for my child’s admission. As soon as I stepped into their premises, the staff greeted me and offered me water. The welcome was quite impressive as I wasn’t expecting that coming. They helped me and my husband with the entire school tour and we were fascinated to see their goodwill. We even went forward and enquired about the school from offline sources",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rama Devi International School - Roza Yakubpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Urvashi Yadav"
+          },
+          "datePublished": "2023-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi there,\nI just want to express my thoughts about Rama Devi School. I’m happy that I selected Rama Devi for my little one’s education. Both- my kid and I are satisfied with the study pattern the school follows. They have great teaching staff that makes my child understand every concept clearly. The environment here is friendly, amenities are good, and they have many extra curriculum activities to help their students in grow better.\nThanks Rama Devi International School!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rama Devi International School - Roza Yakubpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KoKajal Chaudhary"
+          },
+          "datePublished": "2023-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School environment is pleasant and healthy. Staff members are cooperative and helpful. Teachers  are highly educated,they really care and want best for your child",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR"
+  ],
+  "rating": "5.0",
+  "views": "585",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Roza Yakubpur",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

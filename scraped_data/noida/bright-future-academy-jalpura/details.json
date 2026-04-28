@@ -1,0 +1,258 @@
+{
+  "slug": "/school/noida/bright-future-academy-jalpura",
+  "url": "https://yellowslate.com/school/noida/bright-future-academy-jalpura",
+  "city": "noida",
+  "name": "Bright Future Academy - Jalpura ",
+  "scraped_at": "2026-04-28T21:16:26.323931",
+  "html_length": 347065,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jalpura",
+          "item": "https://yellowslate.com/schools/noida/jalpura"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/jalpura/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bright Future Academy",
+          "item": "https://yellowslate.com/school/noida/bright-future-academy-jalpura"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bright Future Academy - Jalpura",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/bright-future-academy-jalpura",
+      "telephone": "+91 9312090009",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P 64, Jalpura, Greater Noida, Uttar Pradesh 201306, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.550735,
+        "longitude": 77.441187
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bright Future Academy - Jalpura",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P 64, Jalpura, Greater Noida, Uttar Pradesh 201306, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/bright-future-academy-jalpura-jalpura-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Upendra Sharma"
+          },
+          "datePublished": "2023-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in jalpura",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bright Future Academy - Jalpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ap Fun king"
+          },
+          "datePublished": "2023-03-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have never seen that type school there is every facility and good atmosphere and good teacher and good behavior of principal I observe lot of thing in these school #verygoodschool",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bright Future Academy - Jalpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RASTOGI"
+          },
+          "datePublished": "2023-03-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello, This school is very good. Some teacher are very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bright Future Academy - Jalpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jaynendra kumar"
+          },
+          "datePublished": "2022-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello, I am the student of bright future academy.This school is very bad. Some teacher are very good and some teacher has no manners to speak parents some teacher are rudely behaviour with parents. And one most bad think is school building is very bad. This school hasn't any play ground.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bright Future Academy - Jalpura"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanshu Sing"
+          },
+          "datePublished": "2021-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad and illtrete teacher they are talking rubbish\nThey have no idea how to teach child\nThere teacher teach students how to talk abusive language",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR"
+  ],
+  "rating": "3.2",
+  "views": "549",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Jalpura",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "200 - 115",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Bright Future Academy ?\nAsk a Question\nBright Future Academy Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

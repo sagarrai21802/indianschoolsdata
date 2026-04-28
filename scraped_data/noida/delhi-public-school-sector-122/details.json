@@ -1,0 +1,376 @@
+{
+  "slug": "/school/noida/delhi-public-school-sector-122",
+  "url": "https://yellowslate.com/school/noida/delhi-public-school-sector-122",
+  "city": "noida",
+  "name": "Delhi public School - Sector 122 ",
+  "scraped_at": "2026-04-28T21:15:59.436458",
+  "html_length": 392447,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 122",
+          "item": "https://yellowslate.com/schools/noida/sector-122"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/sector-122/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/noida/delhi-public-school-sector-122"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi public School - Sector 122",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/delhi-public-school-sector-122",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Block C, Sector 122, Noida, Uttar Pradesh 201307, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5908302,
+        "longitude": 77.3963179
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Block C, Sector 122, Noida, Uttar Pradesh 201307, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/delhi-public-school-sector-122-sector-122-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "67"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ms. Payal"
+          },
+          "datePublished": "2026-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The DPS 122 school maintains an excellent balance between academics and co-curricular activities. The academic curriculum is well-structured, focusing on conceptual clarity and overall intellectual growth of students. At the same time, equal importance is given to extracurricular activities such as sports, clubs, and creative programs, which help in developing confidence, teamwork, and leadership skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mr. Atul"
+          },
+          "datePublished": "2026-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have seen my daughter growing up  from a shy toddler in prep to a confident 2nd grader. She has turned expressive with lots of things to say and full of curiosity. Kudos to all the teachers and the staff of DPS 122 for their exceptional teaching and excellent framework of clubs and personality development activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would like to share my experience with DPS sector 122 Noida. The teachers are dedicated, approachable, and genuinely care about each student’s growth and well-being. The learning environment is warm, supportive, and encourages curiosity and confidence in children. The school management is also proactive and ensures smooth communication with parents. Overall I am satisfied with the quality of education imparted by the school. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good environment , focus on academics and sports activities. Exposure to AI ,Robotics and 3D printing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Growing school achieving all the milestones ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers give individual attention to each child , many opportunities to develop talent and confidence",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A perfect blend of high tech facilities and forward thinking pedagogy that prepare the student for the world not, just for exams",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school \nRecommend for kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi public School - Sector 122"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS 122 Noida provides a great learning environment with modern infrastructure and well-maintained facilities. The staff is supportive, experienced, and pays individual attention to students. Strong focus on academics along with co-curriculars, clubs, and values like Service Before Self and Shramdaan. Good choice for overall development of students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://twitter.com/yellow_slate",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167369088833447515063c27f08058f61673690888.jpg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR"
+  ],
+  "rating": "3.7",
+  "views": "1327",
+  "reviews_count": "67",
+  "phone": "+919513238818",
+  "locality": "Sector 122",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Delhi public School ?\nAsk a Question\nDelhi public School Reviews\nView All Reviews\nOverall Experience\n 4.2\nTeaching Excellence\n 4.0\nValue for Money\n 4.1\nCampus & Facilities\n 4.0\nCo-curricular Activities\n 4.1\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/169260943014422384564e32b9678d691692609430.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167369088833447515063c27f08058f61673690888.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

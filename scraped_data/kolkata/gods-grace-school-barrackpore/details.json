@@ -1,0 +1,370 @@
+{
+  "slug": "/school/kolkata/gods-grace-school-barrackpore",
+  "url": "https://yellowslate.com/school/kolkata/gods-grace-school-barrackpore",
+  "city": "kolkata",
+  "name": "God's Grace School - Barrackpore ",
+  "scraped_at": "2026-04-28T16:34:07.264110",
+  "html_length": 389160,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Barrackpore",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "God'S Grace School",
+          "item": "https://yellowslate.com/school/kolkata/gods-grace-school-barrackpore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "God's Grace School - Barrackpore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/gods-grace-school-barrackpore",
+      "telephone": "913325941228",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "60, Barrack Rd, Barrackpore, Kolkata, Barrackpur Cantonment, West Bengal 700120",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7674005,
+        "longitude": 88.2638253
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "60, Barrack Rd, Barrackpore, Kolkata, Barrackpur Cantonment, West Bengal 700120",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/gods-grace-school-barrackpore-barrackpore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "26"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I feel proud to be a part of this wonderful institution. My school is not just a place of education; it is a second home where dreams are nurtured and futures are shaped.\nApart from academics, my school gives equal importance to sports, cultural activities, and competitions. Various events, celebrations, and educational trips are organized throughout the year, which help students explore their talents and build confidence.\nThe discipline system of the school is excellent. It teaches us punctuality, respect, teamwork, and responsibility. The principal and management are dedicated and always strive to provide the best opportunities for students.\nThe teachers are highly supportive, caring, and always ready to guide us not only in academics but also in life values. They explain every concept clearly and encourage us to ask questions without hesitation.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arghya Kar"
+          },
+          "datePublished": "2024-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"God's Grace School is an exceptional institution that nurtures young minds in a supportive and inclusive environment.\n\nThe dedicated faculty, cutting-edge facilities, and comprehensive curriculum make it an ideal place for students to grow academically, socially, and spiritually. The school's emphasis on character development, critical thinking, and innovation equips students with skills to excel in an ever-changing world.\n\nI highly recommend God's Grace School to parents seeking a well-rounded education for their children. The school's commitment to excellence shines through in every aspect, making it a truly exceptional learning experience.\"\n\n\"God's Grace School offers a world-class education with caring teachers, state-of-the-art facilities, and a focus on character development.\n\nHighly recommend!\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gopa Basu"
+          },
+          "datePublished": "2024-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am too much happy for todays workshop.\nThank u so much all the teachers of God Grace School. 👍👍👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ettesam Parveen"
+          },
+          "datePublished": "2024-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am happy with Teachers and with school education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Contact Beltuz"
+          },
+          "datePublished": "2024-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "God's Grace School, Barrackpore: Providing a solid academic and moral basis for developing minds.\nExcellent teachers, helpful positive environment.\nThey place a strong emphasis on extracurricular activities and academics as part of their holistic development model. A strong focus on essential subjects, pupils who are ready for a higher education.\n\nInspired by God's Grace Academy Barrackpore\n\nStrongly advised!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Shaw"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am absolutely delighted with the education and experience provided by this school.\nit's been incredible to see my brother thrive in such a supportive and stimulating environment. The teachers are truly exceptional - knowledgeable, passionate, and dedicated to helping each student reach their full potential.\n\nThe curriculum is well-rounded and engaging, with a perfect balance of academics, arts, and extracurricular activities.\n\nThe facilities are modern and well-maintained, providing a comfortable and safe space for learning and growth.\n\nCommunication between teachers, administrators, and parents is seamless, ensuring that everyone is always on the same page.\n\nI couldn't be more grateful for the opportunity to be a part of this community and I highly recommend this school to anyone seeking an exceptional education for their child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "samayeta chattopadhyay"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school to study, teacher's are so good and friendly and environment of the school is also too well maintained.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satyajit Chowdhury"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "God Grace School in Barrackpore is a reputable institution that provides a balanced education. It is an excellent choice for parents looking for a school that not only focuses on academics but also on the holistic development of their children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Menka Jaiswal"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is the best school in the India",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "God's Grace School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Waheeda khanam"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is Good  teachers are very helpful ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.6",
+  "views": "2",
+  "reviews_count": "26",
+  "phone": "+919513238818",
+  "locality": "Barrackpore",
+  "board": "ICSE\n\nCo",
+  "established": "2019",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "God's Grace School ?\nAsk a Question\nGod's Grace School Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 5.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

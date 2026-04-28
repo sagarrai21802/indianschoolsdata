@@ -1,0 +1,374 @@
+{
+  "slug": "/school/kolkata/ramakrishna-mission-vidyalaya-narendrapur",
+  "url": "https://yellowslate.com/school/kolkata/ramakrishna-mission-vidyalaya-narendrapur",
+  "city": "kolkata",
+  "name": "Ramakrishna Mission Vidyalaya - Narendrapur ",
+  "scraped_at": "2026-04-28T16:40:03.288390",
+  "html_length": 382788,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Narendrapur",
+          "item": "https://yellowslate.com/schools/kolkata/narendrapur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/narendrapur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ramakrishna Mission Vidyalaya",
+          "item": "https://yellowslate.com/school/kolkata/ramakrishna-mission-vidyalaya-narendrapur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ramakrishna Mission Vidyalaya - Narendrapur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/ramakrishna-mission-vidyalaya-narendrapur",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": null,
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.4373073,
+        "longitude": 88.3990448
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": null,
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/ramakrishna-mission-vidyalaya-narendrapur-narendrapur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "85"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ABHISHEK DAS"
+          },
+          "datePublished": "2024-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Abode of education..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SWATI BAGDI"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever ✨",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prasant Kumar Rout"
+          },
+          "datePublished": "2024-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prabir Kumar Debnath"
+          },
+          "datePublished": "2024-10-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ভারতীয় সভ্যতার সংস্কৃতিকে সমুন্নত রেখে শারীরিক মানসিক বৌদ্ধিক বিকাশ সাধনের লক্ষ্যে সুযোগ্য শিক্ষক মন্ডলীর মাধ্যমে শিক্ষা প্রদান করা হয়।",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suprova Biswas"
+          },
+          "datePublished": "2024-10-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best place for education............",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pushpa Mondal"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Is this english medium school????",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arindam Bhairav"
+          },
+          "datePublished": "2024-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very well organised and disciplined",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ATANU MITRA"
+          },
+          "datePublished": "2024-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in India.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rafshan"
+          },
+          "datePublished": "2024-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Madhyamik Batch (2015), HS (2017) -memorable days of my life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ramakrishna Mission Vidyalaya - Narendrapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kherwal Saren"
+          },
+          "datePublished": "2024-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The identity of this school is one of the best schools in West Bengal...from here almost students are toppers in HS and Madhyamik...very good school. By studying in this school one can become not only a brilliant student but also a person of good character. According to me it is the best school in West Bengal.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16006881014830769525f688fe599ffe1600688102.PNG\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885910984563705945eaff9fa5da491588591098.PNG\\"
+  ],
+  "rating": "4.7",
+  "views": "340",
+  "reviews_count": "85",
+  "phone": "+919513238818",
+  "locality": "Narendrapur",
+  "board": "CBSE\n\nCo",
+  "established": "1958",
+  "category": "Public Schools",
+  "classes": "1 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Ramakrishna Mission Vidyalaya ?\nAsk a Question\nRamakrishna Mission Vidyalaya Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16006881014830769525f688fe599ffe1600688102.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

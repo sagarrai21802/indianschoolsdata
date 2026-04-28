@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/patha-bhavan-ballygunge-place-ballygunge",
+  "url": "https://yellowslate.com/school/kolkata/patha-bhavan-ballygunge-place-ballygunge",
+  "city": "kolkata",
+  "name": "Patha Bhavan - Ballygunge ",
+  "scraped_at": "2026-04-28T16:38:07.903956",
+  "html_length": 352625,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballygunge",
+          "item": "https://yellowslate.com/schools/kolkata/ballygunge"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/ballygunge/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Patha Bhavan",
+          "item": "https://yellowslate.com/school/kolkata/patha-bhavan-ballygunge-place-ballygunge"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Patha Bhavan - Ballygunge",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/patha-bhavan-ballygunge-place-ballygunge",
+      "telephone": "+91 334 758 4885",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5271228,
+        "longitude": 88.3672221
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Patha Bhavan - Ballygunge",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/patha-bhavan-ballygunge-place-ballygunge-ballygunge-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MASUD IKBAL"
+          },
+          "datePublished": "2023-05-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "GOOD CONDITION TO SIT FOR COMPETITIVE EXAMINATION AND TO ATTEND LECTURES AS ROOMS ARE WELL FURNISHED AND HAVING BOTH THE AC AND FAN TO CONTROL THE ROOM TEMPERATURE 🌡️.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Patha Bhavan - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aparna Banerjee"
+          },
+          "datePublished": "2023-03-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a best school in Kolkata. I'm also study in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Patha Bhavan - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Hazra"
+          },
+          "datePublished": "2022-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was settled by the Patha Bhavan Society on 28th June, 1965. The president of the society Satyajit Ray and Uma Shehanoibis had a great role behind the foundation of the school. This school goes along the principle of secular education. The Sahitya Sabhas are annual meets where students partake in the writing, reading and recitation. It is one of the excellent quality co-educational school in Kolkata. Teachers are well qualified. A very few ex-students are Ditipriya Roy, Srabani Sen, Gargi Roychowdhury, Sandip Ray, Amit Kumar, Maitreesh Ghatak, Anik Dutta, Siddhartha Chatterjee, Parambrata Chatterjee, Soham Chakraborty, Lagnajita Chakraborty, Kushal Chakraborty, Kaushiki Chakraborty, Parama Banerjee etc etc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Patha Bhavan - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandip Nasker"
+          },
+          "datePublished": "2021-09-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "An old building structure with a play ground within the school campus. G+1 building.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Patha Bhavan - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunayana Basu"
+          },
+          "datePublished": "2019-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My little nephew studies there. He's very happy with the school, his teachers, and friebfs. Plus, the curriculum they set there is unique and rewarding. So far, so good...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158814497213772760335ea92b4c43b1a1588144972.PNG\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158738923318478402545e9da33113b591587389233.PNG\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.6",
+  "views": "568",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Ballygunge",
+  "board": "State Board\n\nCo",
+  "established": "1965",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158814497213772760335ea92b4c43b1a1588144972.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158738923318478402545e9da33113b591587389233.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

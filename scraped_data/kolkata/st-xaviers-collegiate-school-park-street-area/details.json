@@ -1,0 +1,418 @@
+{
+  "slug": "/school/kolkata/st-xaviers-collegiate-school-park-street-area",
+  "url": "https://yellowslate.com/school/kolkata/st-xaviers-collegiate-school-park-street-area",
+  "city": "kolkata",
+  "name": "St. Xaviers Collegiate School - Park Street area ",
+  "scraped_at": "2026-04-28T16:28:07.553110",
+  "html_length": 428142,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Park Street Area",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Xaviers Collegiate School",
+          "item": "https://yellowslate.com/school/kolkata/st-xaviers-collegiate-school-park-street-area"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Xaviers Collegiate School - Park Street area",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739286720402538505e9db163da6671587392868.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-xaviers-collegiate-school-park-street-area",
+      "telephone": "+91 33 22551171",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "30, Park St, Mullick Bazar, Park Street area, Kolkata, West Bengal 700016",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5489406,
+        "longitude": 88.3560179
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "30, Park St, Mullick Bazar, Park Street area, Kolkata, West Bengal 700016",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-xaviers-collegiate-school-park-street-area-park-street-area-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "10"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Basudev Pal"
+          },
+          "datePublished": "2022-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Spent 16 years of my life and proud of it",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sourav mondal"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "St. Xavier's College is a private, Catholic, autonomous higher education college under Calcutta University run by the Calcutta Province of the Society of Jesus in Kolkata, India. It was founded by the Jesuits in 1860 and named after St. Francis Xavier, a Jesuit saint of the 16th century, who travelled to India. In 2006, it became the first autonomous college in West Bengal, India,and is affiliated to the University of Calcutta.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ananda Ghosh"
+          },
+          "datePublished": "2022-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAJYESWAR ROY"
+          },
+          "datePublished": "2022-11-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best educational institution of the World.Studying here is the only religion fallowed.Jesuit Father's are the real backbone of this institution who keep corruption and politics away.Luckiest of the lucky get a chance to study here. Generally intake in KG and age should be 4+.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soumya Dutta"
+          },
+          "datePublished": "2022-11-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is my institution",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mary Mehra"
+          },
+          "datePublished": "2022-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A autonomous school and institutions.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Agnes Riya"
+          },
+          "datePublished": "2022-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One word very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Daigon Pamei"
+          },
+          "datePublished": "2022-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Perfect place",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Tupper"
+          },
+          "datePublished": "2022-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nostalgic place to come back to, where I had studied . One of the best institutions in the country .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Xaviers Collegiate School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lionel Gunnion"
+          },
+          "datePublished": "2022-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Alma Mater...Impressive as always",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739286720402538505e9db163da6671587392868.PNG\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739286720402538505e9db163da6671587392868.PNG",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739286720402538505e9db163da6671587392868.PNG\\\\\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.9",
+  "views": "2203",
+  "reviews_count": "10",
+  "phone": "+919513238818",
+  "locality": "Park Street area",
+  "board": "ICSE\n\nCo",
+  "established": "1860",
+  "category": "Public Schools",
+  "classes": "400 - 32",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739289419665226555e9db17e19d161587392894.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739289413915988335e9db17e185211587392894.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739288715399352275e9db1774badb1587392887.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873929025553219865e9db186852921587392903.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873928957526319115e9db17fad0a21587392896.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587392900498634035e9db184a6e271587392901.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739286720402538505e9db163da6671587392868.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873929073835601395e9db18b8cc6c1587392908.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739288711983450465e9db177594ce1587392887.PNG"
+  ]
+}

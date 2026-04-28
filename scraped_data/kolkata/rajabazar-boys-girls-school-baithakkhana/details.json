@@ -1,0 +1,256 @@
+{
+  "slug": "/school/kolkata/rajabazar-boys-girls-school-baithakkhana",
+  "url": "https://yellowslate.com/school/kolkata/rajabazar-boys-girls-school-baithakkhana",
+  "city": "kolkata",
+  "name": "Rajabazar Boys &amp; Girls School - Baithakkhana ",
+  "scraped_at": "2026-04-28T16:28:35.836133",
+  "html_length": 347500,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Baithakkhana",
+          "item": "https://yellowslate.com/schools/kolkata/baithakkhana"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/baithakkhana/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rajabazar Boys &Amp; Girls School",
+          "item": "https://yellowslate.com/school/kolkata/rajabazar-boys-girls-school-baithakkhana"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rajabazar Boys &amp; Girls School - Baithakkhana",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/rajabazar-boys-girls-school-baithakkhana",
+      "telephone": "+91 332 354 7619",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2B/H/48/1, Dr. M.N. Chatterjee Sarani (Gas Street), Garpar, Machuabazar, Kolkata, West Bengal 700009, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5764211,
+        "longitude": 88.3743187
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajabazar Boys &amp; Girls School - Baithakkhana",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2B/H/48/1, Dr. M.N. Chatterjee Sarani (Gas Street), Garpar, Machuabazar, Kolkata, West Bengal 700009, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/rajabazar-boys-girls-school-baithakkhana-baithakkhana-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashgari Begum"
+          },
+          "datePublished": "2022-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teach good behaviour to your students because no one studies good only some students studies good i am not talking about girls i am talking about boys because girls studies good but boys are very bad in studies only some boys are good in studies and after school some bad student says my child who is boy to give his copy to him so that he can copy his Homework sometimes he also came our home to ask him to give his copy to him my child is very afraid of him because he is older than him",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajabazar Boys &amp; Girls School - Baithakkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sana Asif"
+          },
+          "datePublished": "2019-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Okk so it was a heaven on Earth for us i completed my secondary from thz school that day,s  will never  come only tears came from eyes while remembering those memories all teachers was very supportive and cooperative very lucky to have a teachers like them😊😊😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajabazar Boys &amp; Girls School - Baithakkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mod droid"
+          },
+          "datePublished": "2019-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "danish sir ko bagh oo school se",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajabazar Boys &amp; Girls School - Baithakkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Asif Nawaz"
+          },
+          "datePublished": "2018-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had completed my secondary education in this school ,I m really miss my school life the best  nd memorable day of my life , thanks to school teachers ,staff nd principal of my school who is always motivated nd guide me when I m doing something wrong ,,,",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajabazar Boys &amp; Girls School - Baithakkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maroof Alam"
+          },
+          "datePublished": "2016-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I love this school very much!..\n. And my adolescence times which I spent in this school, it warm me up !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.4",
+  "views": "620",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Baithakkhana",
+  "board": "State Board\n\nCo",
+  "established": "1972",
+  "category": "Day Schools",
+  "classes": "360 - 27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Rajabazar Boys &amp; Girls School ?\nAsk a Question\nRajabazar Boys &amp; Girls School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

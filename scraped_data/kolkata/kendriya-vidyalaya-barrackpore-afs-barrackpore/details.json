@@ -1,0 +1,368 @@
+{
+  "slug": "/school/kolkata/kendriya-vidyalaya-barrackpore-afs-barrackpore",
+  "url": "https://yellowslate.com/school/kolkata/kendriya-vidyalaya-barrackpore-afs-barrackpore",
+  "city": "kolkata",
+  "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore ",
+  "scraped_at": "2026-04-28T16:32:49.902767",
+  "html_length": 386015,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Barrackpore",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kendriya Vidyalaya Barrackpore AFS",
+          "item": "https://yellowslate.com/school/kolkata/kendriya-vidyalaya-barrackpore-afs-barrackpore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/kendriya-vidyalaya-barrackpore-afs-barrackpore",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "BARRACKPORE (AFS) , PALTA, 24 PGS (N), PALTA, BENGAL ENAMEL, Barrackpur, North Barrackpur, West Bengal 743122",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7883077,
+        "longitude": 88.3606009
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "BARRACKPORE (AFS) , PALTA, 24 PGS (N), PALTA, BENGAL ENAMEL, Barrackpur, North Barrackpur, West Bengal 743122",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/kendriya-vidyalaya-barrackpore-afs-barrackpore-barrackpore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "92"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preeti Shekhawat"
+          },
+          "datePublished": "2024-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fabulous",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "its_ Koyel_"
+          },
+          "datePublished": "2024-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avijit Paul"
+          },
+          "datePublished": "2024-05-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajender Hermon"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied in this school.  Great school. 1972 to 73. Pl",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipak Thakur"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shamik Mazumder"
+          },
+          "datePublished": "2023-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I passed out from this school after studying for 12 years. Best of times spent here. Currently under renovation. It will definitely be competing with best schools in the region",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankita Nandi"
+          },
+          "datePublished": "2023-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been here for 7 years !! And I'm so proud of myself that I studied in this school!😌❤️\n\nTeachers focus on Value system towards School, Teachers, subject, parents, etc. For report card gradings which is good actually! I haven't seen any other KV school focusing on Value system, they blindly give A grades (or grades according to the teacher's liking the student).\n\nI never understood the value of Value system until I got transferred to another KV where students didn't had manners at all!\n\nThis School is an achiever, participates in various competitions nationwide. It produces students with a competitive nature and a bit urban Kolkata City like attitude.\n\nDo admit your child(ren) if you want all round exposure and development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "25 din maay mark Double"
+          },
+          "datePublished": "2023-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school 🎒🎒",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PARTHA BHATTACHARJEE"
+          },
+          "datePublished": "2022-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school. I studied in this school from class I to class XII. Passed out in 1981. I still remember my days here with all my friends. So nostalgic.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya Barrackpore AFS - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bapi Das"
+          },
+          "datePublished": "2022-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.5",
+  "views": "86",
+  "reviews_count": "92",
+  "phone": "+919513238818",
+  "locality": "Barrackpore",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Govt Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Kendriya Vidyalaya Barrackpore AFS ?\nAsk a Question\nKendriya Vidyalaya Barrackpore AFS Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png"
+  ]
+}

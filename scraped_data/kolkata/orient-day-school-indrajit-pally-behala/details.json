@@ -1,0 +1,280 @@
+{
+  "slug": "/school/kolkata/orient-day-school-indrajit-pally-behala",
+  "url": "https://yellowslate.com/school/kolkata/orient-day-school-indrajit-pally-behala",
+  "city": "kolkata",
+  "name": "Orient Day School - Behala ",
+  "scraped_at": "2026-04-28T16:46:23.922038",
+  "html_length": 363600,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Behala",
+          "item": "https://yellowslate.com/schools/kolkata/behala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/behala/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Orient Day School",
+          "item": "https://yellowslate.com/school/kolkata/orient-day-school-indrajit-pally-behala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Orient Day School - Behala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/orient-day-school-indrajit-pally-behala",
+      "telephone": "+91 332 397 6810",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "33B, James Long Sarani, Indrajit Pally, Behala, Kolkata, West Bengal 700034, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.4960782,
+        "longitude": 88.319651
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orient Day School - Behala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "33B, James Long Sarani, Indrajit Pally, Behala, Kolkata, West Bengal 700034, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/orient-day-school-indrajit-pally-behala-behala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.8",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Falguni Banerjee "
+          },
+          "datePublished": "2026-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst behaved staff. Never admit your kid in this worst school ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orient Day School - Behala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Moumita Singha"
+          },
+          "datePublished": "2023-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I think this is the best school because the teachers try to help each and every students to understand and all the ODS 's students are well behave which is very good point of the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orient Day School - Behala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAJAT DAS"
+          },
+          "datePublished": "2023-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School staffs are very rude and provides low quality of exercise books with a much higher price than any branded exercise  books.  Canteen area is the  most unhygienic 🤢 and 0 encouragement for carrear opportunities . Never expect extracurricular activities or inter school competitions , they neither have a playground nor do they have any sort of sports group. 😑Labs are literally graveyards fr , compacted and lack of equipments , being an CICSE affiliated school it doesn't provide the updated curriculum subjects to its students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orient Day School - Behala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhasish Chakraborty"
+          },
+          "datePublished": "2022-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have studied  in this school and the teachers are very nice and they try to teach the students in a more easier and finer detailed way but the students never learned from there heart that how to show respect to teachers and to the school itself.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orient Day School - Behala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankita Pramanik"
+          },
+          "datePublished": "2022-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad experience.\n\nUnhygienic environment: The corridors stink like a public toilet. The school canteen (which sells unhealthy, improperly cooked food) is situated 2-3 metres away, just opposite of an open urinal and it smells horrible there.\n\nThe washrooms are dirty. And don't be surprised if you get to see names of female students written on the walls of washrooms.\n\nThere is no discipline in the students. Many students of this school can be seen smoking cigarettes just outside the school premises or in small lanes around the school. Most (if not all) students act typical of rowdies, using slangs and abusive words without any guilt at all.\n\nLaboratories are modestly equipped.\nSchool does not provide drinking water facility to students. During summer, the tap water is so hot that it becomes next to impossible to even wash your hands with it. Often, the handbasin area becomes wet and slippery and students are at a great risk of slipping and injuring themselves.\n\nThe school sells substandard quality notebooks at higher prices than the best brands in market. And they don't allow students to use notebooks other than the ones the school sells.\n\nThere is no playground for children to play. There is a small campus, one-third of which is occupied by parked bicycles. Half of the remaining space is used as parking space for the principal and his family's cars.\n\nThere is a hall in the topmost floor which is used as a makeshift \"auditorium\" during functions. Students have to sit on the floor for the entire duration of the program. The same hall is used for Physical Training (PT class) and the height of the ceiling is so low that a student of average height has a cent percent chance of getting his/her hands injured badly if he/she happens to raise their hands above their head.\n\nThe school does not provide any platform to students so they can enhance their skills . There are no inter-house competitions or any such activities.\n\nThere are other schools in Behala that are far better than this one.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orient Day School - Behala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Imperfect soul"
+          },
+          "datePublished": "2020-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As an ex student who has spend 14 years in this school (from nursery 2 , transition to 12), this makes me nostalgic. This is the first English medium school in Behala, even long before there was an National Gems or MP Birla. As an English medium school this is good. Some points on my part:\n\n° Don't expect any extracurricular activities. It's almost zero tbh.\n°The administration needs to be strict and check the students they're admitting. Believe me, some students belong in Alipore Central Jail. If fighting breaks out, give TC not suspension ffs.\n°Labs are good. Most of the teachers are good.\n°Dress needs to be improved. Navy blue pants look bad, and 11, 12 dress is that of Kolkata traffic police 😅\n°Close to school, there is W book centre, where you will get all the books.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160491358519359809255fa909b11e3931604913585.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15936864096030727695efdb98986bae1593686410.PNG\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "2.8",
+  "views": "611",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Behala",
+  "board": "ICSE\n\nCo",
+  "established": "1977",
+  "category": "Day Schools",
+  "classes": "000 - 20",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15936864096030727695efdb98986bae1593686410.PNG"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "/school/kolkata/bridge-international-school-hazra-road",
+  "url": "https://yellowslate.com/school/kolkata/bridge-international-school-hazra-road",
+  "city": "kolkata",
+  "name": "Bridge International School - Hazra Road ",
+  "scraped_at": "2026-04-28T16:34:00.947952",
+  "html_length": 356024,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hazra Road",
+          "item": "https://yellowslate.com/schools/kolkata/hazra-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/kolkata/hazra-road/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bridge International School",
+          "item": "https://yellowslate.com/school/kolkata/bridge-international-school-hazra-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bridge International School - Hazra Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/bridge-international-school-hazra-road",
+      "telephone": "+91 908 851 3117",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "77/1/1, Hazra Rd, Dover Terrace, Kalighat, Kolkata, West Bengal 700029, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5243407,
+        "longitude": 88.3532428
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bridge International School - Hazra Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "77/1/1, Hazra Rd, Dover Terrace, Kalighat, Kolkata, West Bengal 700029, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/bridge-international-school-hazra-road-hazra-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arushi Das"
+          },
+          "datePublished": "2023-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I joined Bridge International School in the fifth grade. Thinking back, it was one of the best decisions of my life. BIS' focus on holistic development not only helped me understand what study methods were the best for me and helped me achieve certain grades, but the numerous activities that were offered also helped me build up my confidence and other soft skills throughout the years.\n\nThis school has also provided me with some of the most unforgettable memories. From looking over the younger ones when the teachers were preparing for Children's Day to us sneaking around them to create charts for Teachers' Day, I had a lovely time outside of my studies. Even during COVID, the teachers went out of their way to keep the classes lively by making us watch videos and telling stories related to the subjects. Not to forget how motivating they were even during the smallest achievements.\n\nLike any other person, there have been ups and downs in my school life, but I will always remain thankful to all of my teachers, non-teaching staff, and fellow students who have been on this journey. You have all helped me become the person I am today, and I will forever miss my school days.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bridge International School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sheikh Mohedul"
+          },
+          "datePublished": "2023-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kolkata to benapole last Steel Bridge 🇦🇷🇦🇷",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bridge International School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ahan Agarwal"
+          },
+          "datePublished": "2023-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nobody should send their child to this school because all the good teachers have left. It is a waste of money and time.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bridge International School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddhant Thacker"
+          },
+          "datePublished": "2022-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been in this school for 9 years ANd I really love all the teachers who are there to teach us about different things and also take good care for our health and Education .  And I am still loving it as I am in class 9 .\nBy Siddhant Thacker",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bridge International School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratik Basu"
+          },
+          "datePublished": "2018-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is probably not the International school that you have in mind. They offer A level & AS level of studies. If you are not sure how A level study works, please do a research before approaching the school as they will put you in confusion. British IGCSE which is equivalent to our class X board exam is taught here, with much lower grades.\nAlso if you apply for Class XI A level (which we did without proper research) , this is not the place to put your ward admitted to. Fees are high compared to the Academic achievements.\nAll their class XII A level achievers are graded in O level standard; basically our class X standard!! You wont get admission in reputed colleges/Universities in that grade.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16049236057011951285fa930d579b7a1604923605.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.4",
+  "views": "553",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Hazra Road",
+  "board": "IGCSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "000 - 52",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16049236057011951285fa930d579b7a1604923605.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

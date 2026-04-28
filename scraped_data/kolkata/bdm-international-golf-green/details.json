@@ -1,0 +1,254 @@
+{
+  "slug": "/school/kolkata/bdm-international-golf-green",
+  "url": "https://yellowslate.com/school/kolkata/bdm-international-golf-green",
+  "city": "kolkata",
+  "name": "B.D.M International - Golf Green ",
+  "scraped_at": "2026-04-28T16:35:49.325411",
+  "html_length": 344931,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Golf Green",
+          "item": "https://yellowslate.com/schools/kolkata/golf-green"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/golf-green/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "B.D.M International",
+          "item": "https://yellowslate.com/school/kolkata/bdm-international-golf-green"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "B.D.M International - Golf Green",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/bdm-international-golf-green",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Post, Pratapgarh, Narendrapur, Kolkata, West Bengal 700103, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.4487284,
+        "longitude": 88.3900833
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.D.M International - Golf Green",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Post, Pratapgarh, Narendrapur, Kolkata, West Bengal 700103, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/bdm-international-golf-green-golf-green-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NISHAN DUTTA"
+          },
+          "datePublished": "2023-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "B.D.M International , it's one of the most eminent school in the city of joy , Kolkata. It is fully Air Conditioned and has smart Classroom and Good and Qualified Teachers. It not only focus on studies but also pays a lot of attention towards Cultural Programs and Physical Fitness. It also has Lab, Library, Lift/elevator and canteen facilities. The school has CCTV surveillance all around the school and Staircases. I know bdmi had some ink splashes regarding the behaviour of some students, but to be honest the situation is changing. As a student of this school who is ready for 14 years I would like to say that : Over all the School is a good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.D.M International - Golf Green"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anamika Saha"
+          },
+          "datePublished": "2023-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BDM International has been  providing  value  based  education  to young  minds since  the last 57 years. The school is  doing excellent  in all the fields especially  giving a lot of  exposure to children. Curriculum  is designed in a way to encourage  students to play,perform,experiment and interact.The school is preparing  the  students in such a way so that  they become  mentally  alert,morally sound and academically  strong. Moreover the school  has committed  teachers who always extend their hands for betterment of the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.D.M International - Golf Green"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sayani Sengupta"
+          },
+          "datePublished": "2023-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It has been an amazing journey with BDMI. Being an alumni, and now a teacher....has been worth cherishing... Really happy with the growing infrastructure and the interactive learning process.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.D.M International - Golf Green"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lopamudra pal choudhuri"
+          },
+          "datePublished": "2023-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is an excellent CBSE school having very good infrastructure. There is a very good library, Science laboratories, Computer lab, big play ground, smart boards which help the students to enjoy their school life. The student centric education system is being followed here. The teachers are dedicated and are concerned about the overall development of the children . The classes are interactive. Apart from studies they are involved with a lot of activities which they enjoy. After completion of the school education they get opportunity to get admission in various reputed institutions in the country & abroad. Hope the school will be one of the best schools in our country in near future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.D.M International - Golf Green"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gargi Mukherjee"
+          },
+          "datePublished": "2023-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have read some reviews from some current and ex-students of this school about how the teachers are money mongers and how pathetic the education system is over here and so on. I passed out from this school only, years back though and I believe if I am able to write even one line of review also it's because my teachers taught me to do so. If I am able to earn a single rupee of salary by doing whatsoever is because of those beautiful teachers who always with a smile solved all our queries. I believe there is good and bad in everything but what we choose to see is our conscience. So dear juniors or seniors who are posting all the negative things here, please try to remember one good thing that you yourself did for this school because a healthy relationship is a two way bridge.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.8",
+  "views": "644",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Golf Green",
+  "board": "CBSE\n\nCo",
+  "established": "1966",
+  "category": "Day Schools",
+  "classes": "000 - 36",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png"
+  ]
+}

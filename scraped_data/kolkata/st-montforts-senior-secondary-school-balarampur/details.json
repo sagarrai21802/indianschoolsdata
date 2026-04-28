@@ -1,0 +1,254 @@
+{
+  "slug": "/school/kolkata/st-montforts-senior-secondary-school-balarampur",
+  "url": "https://yellowslate.com/school/kolkata/st-montforts-senior-secondary-school-balarampur",
+  "city": "kolkata",
+  "name": "St. Montforts Senior Secondary School - Balarampur ",
+  "scraped_at": "2026-04-28T16:36:51.383869",
+  "html_length": 343295,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Balarampur",
+          "item": "https://yellowslate.com/schools/kolkata/balarampur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/balarampur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Montforts Senior Secondary School",
+          "item": "https://yellowslate.com/school/kolkata/st-montforts-senior-secondary-school-balarampur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Montforts Senior Secondary School - Balarampur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-montforts-senior-secondary-school-balarampur",
+      "telephone": "+91 943 235 7378",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Balarampur , P.O- Madarat P.S. Baruipur Dt, Balarampur, Baruipur, Beralia, West Bengal 743610, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.3632197,
+        "longitude": 88.446444
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Montforts Senior Secondary School - Balarampur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Balarampur , P.O- Madarat P.S. Baruipur Dt, Balarampur, Baruipur, Beralia, West Bengal 743610, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-montforts-senior-secondary-school-balarampur-balarampur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bubai Mazumder"
+          },
+          "datePublished": "2023-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi, I am Asmita. Now I am in class 10 & it's been 11 years of me studing there. All the teachers are caring and teaches well. It's q great thing to be the student of this school from just 100+ students to 2000+ students. It had been a great journey with good memories with our ex students(seniors), juniors, freinds and of course the teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Montforts Senior Secondary School - Balarampur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sohom Das"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am sohom from class 10 from monfort school\nThis school is poor English school Don't go to this school this school one of the bad school in Kolkata\nYou have other options also go to that school we can also go in welkin or jyotirmoy or vivekananda school one of the best school in Kolkata and monfort one of the worst school so plz don't study in monfort i wish monfort school get close poor education poor lap room 😂",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Montforts Senior Secondary School - Balarampur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BAKI Hanma"
+          },
+          "datePublished": "2023-04-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As being a student, I am proud to be a student of this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Montforts Senior Secondary School - Balarampur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manas Kumar Sau"
+          },
+          "datePublished": "2022-10-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Send school reading as beautiful as school infrastructure is beautiful, so is it wonderful। And one of the things is incomparable love for the students of the school। In a single word everything is beautiful",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Montforts Senior Secondary School - Balarampur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atul Kumar"
+          },
+          "datePublished": "2021-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "St. Montforts Senior Secondary School (SMSSS) located at Balarampur, P O Madarat, P S Baruipur South 24-Pargana West Bengal is one of the popular schools in India. The School has been rated by 7 people on iCBSE. The School has been recognized by Central Board of Secondary Education since a long time. The St. Montforts Senior Secondary School has been viewed 147 times by the visitors on iCBSE. This School is counted among the top-rated Schools in West Bengal with an excellent academic track record. If you're looking for more details regarding application forms, results, syllabus, admission procedure and examinations schedule, kindly contact the relevant department of the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.0",
+  "views": "464",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Balarampur",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "800 - 24",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. Montforts Senior Secondary School ?\nAsk a Question\nSt. Montforts Senior Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png"
+  ]
+}

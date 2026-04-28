@@ -1,0 +1,371 @@
+{
+  "slug": "/school/kolkata/salt-lake-school-sector-1-salt-lake-city",
+  "url": "https://yellowslate.com/school/kolkata/salt-lake-school-sector-1-salt-lake-city",
+  "city": "kolkata",
+  "name": "Salt Lake School - Sector 1,Salt Lake City ",
+  "scraped_at": "2026-04-28T16:36:14.578189",
+  "html_length": 392086,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 1,Salt Lake City",
+          "item": "https://yellowslate.com/schools/kolkata/sector-1-salt-lake-city"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/sector-1-salt-lake-city/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Salt Lake School",
+          "item": "https://yellowslate.com/school/kolkata/salt-lake-school-sector-1-salt-lake-city"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Salt Lake School - Sector 1,Salt Lake City",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/salt-lake-school-sector-1-salt-lake-city",
+      "telephone": "+91 332 337 1477",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Salt Lake School, CA - 221, 2nd Avenue, CA Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5867592,
+        "longitude": 88.3993047
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Salt Lake School, CA - 221, 2nd Avenue, CA Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/salt-lake-school-sector-1-salt-lake-city-sector-1-salt-lake-city-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "155"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chayan Chakraborty"
+          },
+          "datePublished": "2025-02-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My children's are studying here. Good focus on studies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shrija G"
+          },
+          "datePublished": "2025-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Unless you want ur child to end up with mental ahh problems or become a bully, dont admit them here. The staff is rubbish, majority of the students bunk, no discipline, no strictness..cams dont work. Bathrooms r dirty as if they dont get cleaned. For girls, staff doesnt take care of pads properly, gives crinkled pads, doesnt carry pads to picnics and stuff. Sooo..?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sourodip Sen ,class _10, Sec _ D , Roll _50"
+          },
+          "datePublished": "2025-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pubali Saha"
+          },
+          "datePublished": "2024-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "9th year in this school(Class 8) and all I can say is this school is hell amazing . It's been no less of a home for all these 9 years , and the teachers are always warm and welcoming . ✨✨Who's the best?SLS!\n(PS:-Rhapsody 2k24 in 1day ✨💜)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kanchan Aich"
+          },
+          "datePublished": "2024-12-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Up to the mark",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SUJATA CHATTERJEE"
+          },
+          "datePublished": "2024-10-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school if you want to start your career!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhijit Das (오비짓 다스)"
+          },
+          "datePublished": "2024-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best English Medium school in North/ East Kolkata.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srijan Chatterjee"
+          },
+          "datePublished": "2024-09-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyam Dutta"
+          },
+          "datePublished": "2024-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school. Went there to appear for an exam. There are ACs in normal classroom. Had a good experience there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Salt Lake School - Sector 1,Salt Lake City"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amrita Mallik"
+          },
+          "datePublished": "2024-06-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "After summer vacation of 1 month, that too when the heat is unbearable, children of Class 4 A are sitting packed in a classroom without fans working! When most schools are turning their classrooms into AC rooms, SLS is making the primary children suffer in this scorching heat. The school has already stooped with poor quality teachers and education. Even the basics are not looked after.😡 very shameful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.0",
+  "views": "683",
+  "reviews_count": "155",
+  "phone": "+919513238818",
+  "locality": "Sector 1,Salt Lake City",
+  "board": "ICSE\n\nCo",
+  "established": "1979",
+  "category": "Day Schools",
+  "classes": "020 - 26",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

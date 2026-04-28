@@ -1,0 +1,373 @@
+{
+  "slug": "/school/kolkata/birla-high-school-senior-section-park-street-area",
+  "url": "https://yellowslate.com/school/kolkata/birla-high-school-senior-section-park-street-area",
+  "city": "kolkata",
+  "name": "Birla high school (Senior Section) - Park Street area ",
+  "scraped_at": "2026-04-28T16:30:21.793137",
+  "html_length": 392509,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Park Street Area",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Birla High School (Senior Section)",
+          "item": "https://yellowslate.com/school/kolkata/birla-high-school-senior-section-park-street-area"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Birla high school (Senior Section) - Park Street area",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/birla-high-school-senior-section-park-street-area",
+      "telephone": "+91 332 287 6420",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1, Moira St, Elgin, Kolkata, West Bengal 700017, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5437115,
+        "longitude": 88.3543718
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1, Moira St, Elgin, Kolkata, West Bengal 700017, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/birla-high-school-senior-section-park-street-area-park-street-area-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.5",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanveer Qaiser"
+          },
+          "datePublished": "2024-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the most corrupted schools of kolkata.just to rob money from parents they are issuing 30 pcs exercise copy for class 5.only money making school and nothing else ..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "s j"
+          },
+          "datePublished": "2024-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A place to learn and make a bright future........... If we accept it",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atharv"
+          },
+          "datePublished": "2024-03-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Traumatised me. Seeing so many people realise how toxic the culture is here and how the boys here develop into \"lafangas\" in the future comforts me 💗burn ☺️☺️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Biswayan Paul"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was a great experience studying there. But as an exStudent I went to school yesterday for saraswati puja and I didn't expect such bad treatment from the security guards. They treated us as if we were some beggers went there to eat prasad. Just after taking prasad they didn't gave us time to talk to our teachers and threw us out of the school. Specially there was a female security. Her treatment towards us was really bad and rude.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhanjana Gupta"
+          },
+          "datePublished": "2023-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst experiences i had with this school students on Rajdhani express. They were on excursion with their teachers and it was my worst journey ever. So many students and teachers were unable to handle them, it was pretty clear that none of them were disciplined and they were so so rude. No ethics and etiquette, on complaining the teachers were very less bothered. Everyone was so annoyed with those students. If they can't keep their manner on while in their uniform in the presence of teachers and other public, i hardly doubt the teaching of this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Debalina Sarkar"
+          },
+          "datePublished": "2023-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school torcher",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sankar Kumar Mukherjee"
+          },
+          "datePublished": "2023-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school for your kids to grow",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Gupta"
+          },
+          "datePublished": "2023-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "True educational institution where students get best quality teaching staff with mature sense of individual subjects",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Sarkar"
+          },
+          "datePublished": "2023-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All schools of birla are worthless.  Rich man's spoiled children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Birla high school (Senior Section) - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amitava Roy"
+          },
+          "datePublished": "2023-03-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School without any parking space..located in a very congested area..Old school but having good review about school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160077590920759141605f69e6e56e3591600775909.PNG\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.5",
+  "views": "563",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Park Street area",
+  "board": "CBSE\n\nBoys\n\nBirla high school",
+  "established": "1997",
+  "category": "Day Schools",
+  "classes": "925 - 108",
+  "gender": "Boys",
+  "fees_range": null,
+  "about": "Birla high school (Senior Section) ?\nAsk a Question\nBirla high school (Senior Section) Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160077590920759141605f69e6e56e3591600775909.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

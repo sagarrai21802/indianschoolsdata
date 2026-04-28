@@ -1,0 +1,279 @@
+{
+  "slug": "/school/kolkata/pearl-rosary-school-serampore",
+  "url": "https://yellowslate.com/school/kolkata/pearl-rosary-school-serampore",
+  "city": "kolkata",
+  "name": "Pearl Rosary School - Serampore ",
+  "scraped_at": "2026-04-28T16:32:13.780428",
+  "html_length": 347221,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Serampore",
+          "item": "https://yellowslate.com/schools/kolkata/serampore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/serampore/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pearl Rosary School",
+          "item": "https://yellowslate.com/school/kolkata/pearl-rosary-school-serampore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Pearl Rosary School - Serampore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/pearl-rosary-school-serampore",
+      "telephone": "+91 727 881 1527",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "158, G T Road, chatra, Tentultala, Hooghly, Sheoraphuli, Serampore, West Bengal 712204, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7711177,
+        "longitude": 88.3289777
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pearl Rosary School - Serampore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "158, G T Road, chatra, Tentultala, Hooghly, Sheoraphuli, Serampore, West Bengal 712204, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/pearl-rosary-school-serampore-serampore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best CBSE Boarding school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pearl Rosary School - Serampore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suranjan Howladar"
+          },
+          "datePublished": "2023-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s situated just beside G T Road. Nearest bus stop is tetultala bus stop.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pearl Rosary School - Serampore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sabita Dey"
+          },
+          "datePublished": "2022-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school very good👍👍 top school 🎒📚 my daughter is read this school 7 year and this time and again nursery to again time cbsc school is very good👍 so the school is a great 😇😇",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pearl Rosary School - Serampore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soma Chatterjee"
+          },
+          "datePublished": "2019-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pearl Rosary School - Serampore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suparna Ghosh Kar"
+          },
+          "datePublished": "2019-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Too good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pearl Rosary School - Serampore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mili Dey"
+          },
+          "datePublished": "2019-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👌 nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "5.0",
+  "views": "638",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Serampore",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Boarding Schools",
+  "classes": "000 - 120",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Pearl Rosary School ?\nAsk a Question\nPearl Rosary School Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 5.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

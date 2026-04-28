@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/south-point-high-school-ballygunge-place-ballygunge",
+  "url": "https://yellowslate.com/school/kolkata/south-point-high-school-ballygunge-place-ballygunge",
+  "city": "kolkata",
+  "name": "South Point High School - Ballygunge ",
+  "scraped_at": "2026-04-28T16:49:19.534307",
+  "html_length": 360011,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballygunge",
+          "item": "https://yellowslate.com/schools/kolkata/ballygunge"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/ballygunge/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "South Point High School",
+          "item": "https://yellowslate.com/school/kolkata/south-point-high-school-ballygunge-place-ballygunge"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "South Point High School - Ballygunge",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/south-point-high-school-ballygunge-place-ballygunge",
+      "telephone": "+91 332 440 5115",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "82/7A, Ballygunge Pl, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.525837,
+        "longitude": 88.3689665
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "82/7A, Ballygunge Pl, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/south-point-high-school-ballygunge-place-ballygunge-ballygunge-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous Guy"
+          },
+          "datePublished": "2023-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Honest review from an ex-pointer:\n\nI consider myself an above average student in studies. I am posting as anonymous due to obvious reasons.\nI consider South Point to be an average school and nothing extraordinary. Not all teachers are good in teaching the students. Some faculties were just average and some were very good.\n\nOne of the things I really hated about South Point is the tuition culture. Most students go to school just for attendance and depend upon the tuitions only. These students disturb the few students who really want to study at school and ruin the class atmosphere. Also, some teachers earn way more money from their private tuitions than they earn from the school. I won't name the teachers over here but some of those teachers won't teach properly at school deliberately so that students are forced to come to their tuitions. During the exams South Point would give extra hard questions but they don't teach at that level in the school. So average students would automatically flock to the tuitions otherwise they won't be able to cope up. The school management says they discourage private tuitions by it's an utter nonsense claim.\n\nAnother negative point is the slang culture. Some students (including girls) would use extremely bad slangs. There is no difference between the language of the autowalas and these so called well educated students. It's extremely shameful.\n\nOne of the positive things was that the libraries are awesome. Fully air conditioned and lots of good quality books avaliable. So studious students can spend their free time in the libararies.\n\nAnother positive thing is that school provides lots of opportunities for extra curricular activities for students who are interested. Also, it regularly organizes exams like Science Olympiads, Maths Olympiads etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rima Chowdhury"
+          },
+          "datePublished": "2023-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Doctor is a professional chiropractor who has a personal approach to his patients with detailed explanation of what is wrong and what is needed in order to be healthy again.\nI had a sharp chronic pain in my hip a was not able to sit for longer periods. I am pain free and doing my exercises in order to keep myself this way. I would highly recommend him.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pritam Nandy"
+          },
+          "datePublished": "2023-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is quite a nice school although it does get crowded especially at noon when the morning students are dispersed and afternoon students are entering, it is a great place to visit. Because the strength of the school is so high, you can find extremely diverse people of every age between 12 and 18. In the evening after the afternoon students have been dispatched, you can speak to them and know more about the school and learn about communities made by the students themselves.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Debdas Mandal"
+          },
+          "datePublished": "2023-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "South point high school is a co-educational school. Its an old reputed school in kolkata but now a days the school management is not well.The school is overcrowded. The school is under CBSE board. Teachers student relationship is not satisfactory. It is a private school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Md Soyed Anowar"
+          },
+          "datePublished": "2023-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "√√√Hello\nI recently had the pleasure of visiting South Point High School and was thoroughly impressed with everything about the school. The faculty and staff were incredibly friendly and welcoming, and the facilities were top-notch. The school's commitment to academic excellence was evident in the quality of the classrooms, library, and other learning spaces...\n\n●What impressed me most, however, was the dedication of the teachers and administrators to their students. It was clear that every member of the school community was invested in the success and well-being of each student. As someone who values education and community, I couldn't be happier with the experience I had at South Point High School●◆●\n【 I highly recommend this school to anyone looking for a positive, enriching educational experience】👍👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158822261212716972215eaa5a94c16e61588222613.PNG\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1588231666279797165eaa7df20b1ff1588231666.PNG\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "517",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Ballygunge",
+  "board": "CBSE\n\nCo",
+  "established": "1954",
+  "category": "Day Schools",
+  "classes": "500 - 58",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1588231666279797165eaa7df20b1ff1588231666.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

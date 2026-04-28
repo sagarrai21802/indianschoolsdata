@@ -1,0 +1,285 @@
+{
+  "slug": "/school/kolkata/shri-shikshayatan-school-hazra-road",
+  "url": "https://yellowslate.com/school/kolkata/shri-shikshayatan-school-hazra-road",
+  "city": "kolkata",
+  "name": "Shri Shikshayatan School - Hazra Road ",
+  "scraped_at": "2026-04-28T16:46:40.449192",
+  "html_length": 395215,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hazra Road",
+          "item": "https://yellowslate.com/schools/kolkata/hazra-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/hazra-road/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shri Shikshayatan School",
+          "item": "https://yellowslate.com/school/kolkata/shri-shikshayatan-school-hazra-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shri Shikshayatan School - Hazra Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1740064259134428757867b746037ffe31740064260.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/shri-shikshayatan-school-hazra-road",
+      "telephone": "+91 332 282 1450",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "11, Lord Sinha Road, Elgin, Kolkata, West Bengal 700071, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5430929,
+        "longitude": 88.3492811
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shri Shikshayatan School - Hazra Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "11, Lord Sinha Road, Elgin, Kolkata, West Bengal 700071, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/shri-shikshayatan-school-hazra-road-hazra-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Hazra"
+          },
+          "datePublished": "2023-08-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sri Jugal Kishore Birla and Sri Ghanashyam Das Birla had a great role in setting up this school in 1920. It is an English medium, higher secondary and private school. It is run by a parent body 'Shikhshayatan Foundation '.  It is affiliated to the Central Board of Secondary Education. Here additional features are swimming pool, basketball, karate, canteen, computer etc. It has been acquired as a result of contesting the British Council International School Award many times. The outcome is satisfactory.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shri Shikshayatan School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Babar Akhtar"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child studies in this school from pre primary to class x passed out in 2020. It had class room with two fan for 40 student  and desk for the student was too small & classes have no proper ventilation (with only 2 fans for 40 student) as I found out during my orientation for new classes. Student are discourage to opt particular stream(science) even if student have good marks and offered humanities stream. Science stream for class xi is offered to the student of other school so that they can get  maximum admission charges. As I think my experience with school for 13(Thirteen) years was not encouraging.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shri Shikshayatan School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ifrah Khan"
+          },
+          "datePublished": "2023-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very good school for academics and co-curricular activity. I was a student in this school from class L.K.G to class 10 AISSCE 2020. Twelve years spent in this school.Nice environment, teachers are strict, discipline is maintained and good facilities of library, swimming pool, basketball, karate, computer classes and affordable canteen and high fees from class 9.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shri Shikshayatan School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poushali Dutta"
+          },
+          "datePublished": "2023-05-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I've spent 13 yrs of my life here.. In 2017 I completed schooling from here.. Now I am a teacher in a CBSE school. But in these 6yrs I realise how my I miss my school. The spent the most golden period of my life here... My heart still lies there.. They have made me what I'm today. I shall always be thankful to this school and all the teachers who have guided me ❤",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shri Shikshayatan School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shabana"
+          },
+          "datePublished": "2023-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I wouldn't have given a single star.... worst school.... don't take admission here... most of the teachers are very rude here ... specially in class XI science stream teachers they harass the students ...... torcher the students.... if you want your child future to be secure please go for some other schools... there are many other good schools in kolkata but don't take admission here.... the teachers here destroys the students future .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16049201282555938935fa923404bb751604920128.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1740064259134428757867b746037ffe31740064260.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1740064259134428757867b746037ffe31740064260.jpg\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1740064259134428757867b746037ffe31740064260.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.0",
+  "views": "790",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Hazra Road",
+  "board": "CBSE\n\n2\n\nAbout Shri Shikshayatan School\nEnquire Now\n\nEchoing the above motto, Shri Shikshayatan School was founded on January 3, 1954 to empower education amongst young",
+  "established": "1954",
+  "category": "International Schools",
+  "classes": "Nursery - 5",
+  "gender": null,
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740064312139425625367b74638781421740064312.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740064286130183434867b7461e78f8d1740064286.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740064318199523316667b7463e4f0231740064318.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174006427688868618967b74614613e41740064276.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740064345104494862867b74659489de1740064345.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740064278191918935967b74616c98631740064279.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174006430321050946367b7462f826391740064304.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174006428258258776267b7461a7b6c21740064283.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1740064259134428757867b746037ffe31740064260.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740064291200543784367b7462397ad91740064292.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174006429833666797167b7462aadcce1740064299.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png"
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "slug": "/school/kolkata/apeejay-school-sector-ii",
+  "url": "https://yellowslate.com/school/kolkata/apeejay-school-sector-ii",
+  "city": "kolkata",
+  "name": "Apeejay School - Sector II ",
+  "scraped_at": "2026-04-28T16:40:32.925691",
+  "html_length": 436582,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector II",
+          "item": "https://yellowslate.com/schools/kolkata/sector-ii"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/sector-ii/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Apeejay School",
+          "item": "https://yellowslate.com/school/kolkata/apeejay-school-sector-ii"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Apeejay School - Sector II",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158753774117924582965e9fe74d47f6a1587537741.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/apeejay-school-sector-ii",
+      "telephone": "+91 33 23215151",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "BG-Â­180 Salt Lake, Sector II, Kolkata, West Bengal 700091",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.6019962,
+        "longitude": 88.4331417
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "BG-Â­180 Salt Lake, Sector II, Kolkata, West Bengal 700091",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/apeejay-school-sector-ii-sector-ii-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "114"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Venkatraman Behera"
+          },
+          "datePublished": "2024-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the whole world hardworking teachers to help students boost their knowledge,the staff work hard for the school.overall it is a 5 star school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soma Das"
+          },
+          "datePublished": "2024-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi. I like school because I like this school.....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanchayan Chatterjee"
+          },
+          "datePublished": "2024-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "CBSE affiliated school. But very bad behaviour of principal.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CGS ADVERTISEMENT"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A CBSE affiliated school under the Apeejay group. However, looks are sub-par not well maintained. Facilities are below standard compared to the name and standard it should uphold.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Purnendu Kundu"
+          },
+          "datePublished": "2024-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school. Very satisfactory experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "15.MANGALDEEP PAL"
+          },
+          "datePublished": "2024-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fake Location",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Puspalata Mishra"
+          },
+          "datePublished": "2024-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in West Bengal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hari Barman"
+          },
+          "datePublished": "2023-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Today I went to take an competitive exam at this school (17.12.2023). After the exam, when I wanted to go to the bathroom, a guard spoke to me very badly.  I want to know if your school children are taught to urinate under trees?  That's what I was told when I wanted to go to the bathroom today.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rekha Ghosh"
+          },
+          "datePublished": "2023-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teacher's are very caring",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Sector II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Jalan"
+          },
+          "datePublished": "2023-08-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Respected Mam/Moni Acharya/Shantona Maam\n\nGood Day\n\nNow that i look back i feel fortunate and overwhelmed to have completed my schooling from Apeejay School Saltlake.\n\nBut, on the contrary, it shattered me too. Though I don't want to dig old graves, I still distinctly recall you calling me a \" Drug Addict \".\n\nThe word devastated me as the same was openly called out to me. The reason best known to you.\n\nTill date when ever i think about it I get goosebumps. A teacher's projection is to motivate, inspire and boost a student irrespective of his behaviour in class. An amicable behaviour and consistent motivation helps a student to overcome it's hindrances and obstacles.\n\nWhen a child is in school every parent feels secure of it's child's education and not being abused or being demoralized or called upon with a psedeuo name. It's heart breaking.\n\nMy earnest request to you even today is please stop addressing such vulnerable words and endeavor to solve and overcome the stress the students are bestowed upon.\n\nMy sincere apologies to you if my message depicts disrespect to you.\n\nRegards Rahul Jalan",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "http://www.apeejayschool.in/lib_mission.html\\u003c/p\\u003e",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158753774117924582965e9fe74d47f6a1587537741.PNG",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158858960016372261115eaff4202c3531588589600.PNG\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "http://www.apeejaygroup.com/apeejayEducation.html\\u003c/p\\u003e\\r\\n\\u003cp\\u003eApeejay",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158753774117924582965e9fe74d47f6a1587537741.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "http://www.apeejaygroup.com/anandlibrary.html\\u003c/p\\u003e\\r\\n\\u003cp\\u003eTo",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158753774117924582965e9fe74d47f6a1587537741.PNG\\\\\\"
+  ],
+  "rating": "3.6",
+  "views": "1432",
+  "reviews_count": "114",
+  "phone": "+919513238818",
+  "locality": "Sector II",
+  "board": "CBSE\n\nCo",
+  "established": "1975",
+  "category": "Public Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158858960016372261115eaff4202c3531588589600.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158753774117924582965e9fe74d47f6a1587537741.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158753778410502010485e9fe77864be71587537784.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587537770934589565e9fe76abd0151587537771.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15875377874764134135e9fe77b6edf31587537787.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158753778410244537745e9fe778ab80a1587537785.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15875377932517281995e9fe781e7b681587537794.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158753779219301761405e9fe780b0faa1587537793.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587475565806375305e9ef46d3f2a81587475565.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png"
+  ]
+}

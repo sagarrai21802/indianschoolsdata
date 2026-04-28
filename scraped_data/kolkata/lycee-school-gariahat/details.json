@@ -1,0 +1,258 @@
+{
+  "slug": "/school/kolkata/lycee-school-gariahat",
+  "url": "https://yellowslate.com/school/kolkata/lycee-school-gariahat",
+  "city": "kolkata",
+  "name": "Lycee School - Gariahat ",
+  "scraped_at": "2026-04-28T16:42:28.557487",
+  "html_length": 352211,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gariahat",
+          "item": "https://yellowslate.com/schools/kolkata/gariahat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/gariahat/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Lycee School",
+          "item": "https://yellowslate.com/school/kolkata/lycee-school-gariahat"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Lycee School - Gariahat",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/lycee-school-gariahat",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "10/1, Hindustan Rd, Gariahat, Kolkata, West Bengal 700029, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.520597,
+        "longitude": 88.3626599
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lycee School - Gariahat",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "10/1, Hindustan Rd, Gariahat, Kolkata, West Bengal 700029, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/lycee-school-gariahat-gariahat-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Doyel's Nest"
+          },
+          "datePublished": "2022-09-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Today I was going to pick up my daughter from school two boys from lycee sat beside me. They started their conversation with two to three slangs in every sentence. It was not at all expected. Even the auto driver was feeling irritated. They were openly discussing about taking drugs during Puja and passing lure remarks regarding women. I had no idea about this school but it is however not expected. I hope after seeing this message the teachers will take care about their students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lycee School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anirban bose"
+          },
+          "datePublished": "2021-09-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lots of memories to cherish here and teachers who really cares of their students, with ample notes, any issues or special classes, special activity sessions and lots of fun and enjoyment. Even when I walk across Hindustan park it's a nostalgia to see the LYCEE logo, feel proud of. #1998 ICSE",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lycee School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratyasha Majumder"
+          },
+          "datePublished": "2021-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school I have seen in my life. The  teachers  does not know actually how to talk decently with the parents and students also . Yeah  I was not so good in studies but they don't  have any  right to say any one abnormal by the way let me say this that abnormal is commencing with BBA and got a good job also . I am glad to be a student of Calcutta Public School from where I have passed  my  ISC examination . At least they tried to understand my problems and tried to help me out . Actually teachers of Lycee should learn how to behave before they teach  students how to behave.\nAfter  I passed out from I always discouraged others who wanted to take admission in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lycee School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shreyosi Chakraborty"
+          },
+          "datePublished": "2021-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied here for 3 years(batch of 2013) and those were the best 3 years of my school life. The best things about lycee are its environment and the teachers. They are very helpful, non judgemental and friendly. The english faculty was amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lycee School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Marisha Ghosh"
+          },
+          "datePublished": "2014-05-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have spent seventeen years on this earth and my most gorgeous ones were spent in lycee!!! It's the best school in the world I feel but then again that's my opinion..... It's the environment really... The teachers are amazing the people are amazing and if you are in need of a school that imparts good education and is big on morals..... Lycee is the place you need!!!!!!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008634755182424165f6b3cf386a541600863476.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.4",
+  "views": "619",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Gariahat",
+  "board": "State Board\n\nCo",
+  "established": "1982",
+  "category": "Day Schools",
+  "classes": "600 - 21",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008634755182424165f6b3cf386a541600863476.PNG"
+  ]
+}

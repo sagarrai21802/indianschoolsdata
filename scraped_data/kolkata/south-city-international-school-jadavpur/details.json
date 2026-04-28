@@ -1,0 +1,423 @@
+{
+  "slug": "/school/kolkata/south-city-international-school-jadavpur",
+  "url": "https://yellowslate.com/school/kolkata/south-city-international-school-jadavpur",
+  "city": "kolkata",
+  "name": "South City International School - Jadavpur ",
+  "scraped_at": "2026-04-28T16:40:08.714702",
+  "html_length": 444890,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jadavpur",
+          "item": "https://yellowslate.com/schools/kolkata/jadavpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/jadavpur/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "South City International School",
+          "item": "https://yellowslate.com/school/kolkata/south-city-international-school-jadavpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "South City International School - Jadavpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15879767721017813265ea69a44bdad31587976773.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/south-city-international-school-jadavpur",
+      "telephone": "+91 033 4007 2000",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "375, Prince Anwar Shah Rd, South City Complex, Jadavpur, Kolkata, West Bengal 700068",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5007408,
+        "longitude": 88.3608896
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "375, Prince Anwar Shah Rd, South City Complex, Jadavpur, Kolkata, West Bengal 700068",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/south-city-international-school-jadavpur-jadavpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "122"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diya"
+          },
+          "datePublished": "2026-02-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They are a farce in the name of being inclusive. They dont even bother understanding a child's needs and are quick at rejecting the application within 2 mins of seeing the child",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddhartha Dutta"
+          },
+          "datePublished": "2024-08-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "most unproffesional.. they dosen't.pick up phones.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Firoj Sk"
+          },
+          "datePublished": "2024-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Beautiful school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SWAPNIL BHATTACHARJEE"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Today (1/8/24), some students of our school went to a competition to their school. They didn't provide food to everyone but only to the students who participated in Monsoon Delights which is fireless cooking. Thankfully we brought our own food or else we would've starved. The competition only gave out 1st positions in every event and 2nds and 3rds weren't announced. This is not expected from a School like South City International.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aadrika Nandi"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is the worst we go for an inter school fest and THEY GET 1ST IN EVERYTHING !!\n\nplus the 2nd 3rd prises was not announced 🙄",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pragati Agarwal"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We went to school for a competition and we were provided with very little food\nThey did cheating .they didn't inform us that we could use eco-friendly plastic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sparsh"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "0 star school if you are a rich wealthy greedy  person send your children to this very great school.\nThey are drunk and hold competitions just to win and show we have won this competition \"fairly\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "i am not the only"
+          },
+          "datePublished": "2024-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipak Sharma"
+          },
+          "datePublished": "2024-06-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South City International School - Jadavpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samrat Banerjee"
+          },
+          "datePublished": "2024-06-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "South City International School is a very good school. My daughter studies here. It has location advantages and the school is equipped with all modern amenities for learning and extra curricular activities. Only concern is recent change in top management. Would love to see the school to flourish under the leadership of new management team.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15879767721017813265ea69a44bdad31587976773.PNG\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15879767721017813265ea69a44bdad31587976773.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885946599727883925eb007e3d982a1588594660.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Golf.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160501056916651202175faa8489aafa71605010570.PNG\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15879767721017813265ea69a44bdad31587976773.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158874551311964662295eb255294915c1588745513.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.9",
+  "views": "1450",
+  "reviews_count": "122",
+  "phone": "+919513238818",
+  "locality": "Jadavpur",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15879767309186389525ea69a1a53c8f1587976730.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15879767304725848855ea69a1a64ad31587976730.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15879767721017813265ea69a44bdad31587976773.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15885946599727883925eb007e3d982a1588594660.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15879767431930040625ea69a279c10c1587976744.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15879767458605170825ea69a29c865e1587976746.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158797674316851127105ea69a2789c271587976744.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587976732634541265ea69a1cb529e1587976733.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158797674510735852365ea69a29cadd01587976746.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15879767326074585215ea69a1cb49251587976733.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Golf.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158874551311964662295eb255294915c1588745513.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png"
+  ]
+}

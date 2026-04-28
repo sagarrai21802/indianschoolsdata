@@ -1,0 +1,257 @@
+{
+  "slug": "/school/kolkata/aaloke-bharti-model-school-sonarpur",
+  "url": "https://yellowslate.com/school/kolkata/aaloke-bharti-model-school-sonarpur",
+  "city": "kolkata",
+  "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur ",
+  "scraped_at": "2026-04-28T16:51:08.078377",
+  "html_length": 347373,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sonarpur",
+          "item": "https://yellowslate.com/schools/kolkata/sonarpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/sonarpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "AALOKE BHARTI MODEL SCHOOL",
+          "item": "https://yellowslate.com/school/kolkata/aaloke-bharti-model-school-sonarpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/aaloke-bharti-model-school-sonarpur",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Bikas Guha Colony ,Garia,Rana Para, Aatghara,Nayabad Garia, Atghara, Panchpota, Kolkata, West Bengal 700152, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.4794872,
+        "longitude": 88.4125157
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Bikas Guha Colony ,Garia,Rana Para, Aatghara,Nayabad Garia, Atghara, Panchpota, Kolkata, West Bengal 700152, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/aaloke-bharti-model-school-sonarpur-sonarpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Namrata Nandy"
+          },
+          "datePublished": "2023-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Admin/reception staff behaviour is very very bad. They didn't get respect to others .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hitbout It"
+          },
+          "datePublished": "2022-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great..! Educational Project for a Rapid develouping Kolkata Area.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kaustubh Kanti Ghoshal"
+          },
+          "datePublished": "2020-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please note that the school is actually situated here , not at the place near the post office. The dropped showing on this date 13th September 2020 is not the school. But the direction is correct.Anyone must follow the directions given in the map, not the dropped pin.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajit Kumar Hembram"
+          },
+          "datePublished": "2020-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The address is wrong , according to gps and the location (as i\nwent there physically) , its near pirr tola (a little ahead of NSC Engineering College).\nThese are the coordinates to the School - 22.4814836, 88.4181085\nIf you are travelling to the School by toto or rickshaw , tell the driver to take you the cbse school near pirr tola where exams are held , they will take you exactly to the location..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AALOKE BHARTI MODEL SCHOOL - Sonarpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sambaran Das"
+          },
+          "datePublished": "2018-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Under developed school. If coming for competitive exams where bags,wallet , electronic devices not allowed ,the institute does provide facility to keep the bags but not as a secured place ..but still provides that's a good thing..\n\nOne good thing about the place is Google maps does provide the right info to reach here...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15940435889790329645f032cc42e64e1594043588.PNG\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://wa.me/919513238818",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.2",
+  "views": "497",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sonarpur",
+  "board": "CBSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "AALOKE BHARTI MODEL SCHOOL ?\nAsk a Question\nAALOKE BHARTI MODEL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

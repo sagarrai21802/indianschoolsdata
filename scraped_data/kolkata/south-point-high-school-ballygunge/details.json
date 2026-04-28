@@ -1,0 +1,417 @@
+{
+  "slug": "/school/kolkata/south-point-high-school-ballygunge",
+  "url": "https://yellowslate.com/school/kolkata/south-point-high-school-ballygunge",
+  "city": "kolkata",
+  "name": "South Point High School - Ballygunge ",
+  "scraped_at": "2026-04-28T16:46:29.030911",
+  "html_length": 459037,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ballygunge",
+          "item": "https://yellowslate.com/schools/kolkata/ballygunge"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/ballygunge/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "South Point High School",
+          "item": "https://yellowslate.com/school/kolkata/south-point-high-school-ballygunge"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "South Point High School - Ballygunge",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873892331904982375e9da331142a01587389233.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/south-point-high-school-ballygunge",
+      "telephone": "+91 33 2440 6208 , 7209 , 5213 , 6385",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "82/7A, Ballygunge Pl, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.525837,
+        "longitude": 88.3689665
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "82/7A, Ballygunge Pl, Ballygunge Place, Ballygunge, Kolkata, West Bengal 700019",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/south-point-high-school-ballygunge-ballygunge-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "167"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Eric Cantona kicks fan"
+          },
+          "datePublished": "2024-09-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It definitely wasn't the best school but it was good while it lasted.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayush Panja"
+          },
+          "datePublished": "2024-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very dirty school not gonna lie very undeveloped school😭",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VictoryBOY"
+          },
+          "datePublished": "2024-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school pretty much.  Studies are serious here alongside co curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipankar Dhar"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is an ex pointer of this school.. this school has given my son a very good environment to study, friend circle and good teachers .. it is one of the best schools in Kolkata never matter ..\nAlthough there is a catch here. There are cases of bullies and ragging in this school Often students face mental problems like depression and anxiety because this institution gives a lot of pressure on students through academics . The admission test of class 11 for the science stream is conducted in pcm subject and believe me it is the next jee advanced paper after IIT. Sphs sets that level of question for admission of internal students in class 11.\nDon't be afraid . If you are planning your son / daughter to study in this school then I would recommend it . I can promise that this school will groom your child perfectly in science, maths and English that his/her basics in the subjects will be very strong .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyansh Bhowmick"
+          },
+          "datePublished": "2024-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am studying in this school for 10 years...I thought the school was good but there are many bullies than good children after many years of realisation..Always fighting,they think they are the boss of this school..They never let us play,they think that they should only play not us..Teachers are very good..Playing with plastic balls in the classroom..This is not right.This is my last year in this school then I am leaving..I wish I could leave the school now only..I am in Class 10 now..My father used to study in this school nothing happened on that time..But now the school has become a disaster..As soon as possible,I will leave this school and I study in a gay idiotic section full of gays and idiots for the last 10 years..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayan Ganguly"
+          },
+          "datePublished": "2024-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the most reputed schools in Kolkata",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Radhe Techz"
+          },
+          "datePublished": "2024-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever, never go to this school, no allowance to be freely play, the guards takes the ball when we play, teachers dont teach properly",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "abhishek roy"
+          },
+          "datePublished": "2024-06-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter study in class 3... This is the one of the best school in kolkata",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kazi Papai"
+          },
+          "datePublished": "2024-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point High School - Ballygunge"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hasnat Alamgir"
+          },
+          "datePublished": "2024-06-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "South Point High School, located in Kolkata, is one of the largest and most reputed educational institutions in the city. Known for its academic excellence, rich cultural heritage, and holistic development programs, South Point High School stands as a beacon of quality education. Here's an overview:\n\n1. Academic Excellence:\nSouth Point High School is affiliated with the West Bengal Board of Secondary Education (WBBSE) and WBCHSE for secondary and higher secondary education. It maintains high academic standards, preparing students for board examinations and competitive entrance tests.\n\n2. Holistic Development:\nThe school emphasizes holistic development, offering a well-rounded education that includes academics, sports, arts, and extracurricular activities. It focuses on nurturing students' overall growth and personality development.\n\n3. Infrastructure:\nSouth Point High School boasts modern infrastructure with spacious classrooms, science and computer laboratories, libraries, auditoriums, and sports facilities to support comprehensive learning and development.\n\n4. Faculty:\nThe school has a team of experienced and dedicated teachers who are committed to providing quality education. They use innovative teaching methods to engage students and foster a passion for learning.\n\n5. Cultural Heritage:\nSouth Point High School has a rich cultural heritage with a legacy spanning decades. It organizes various cultural events, festivals, and celebrations, promoting cultural diversity and harmony among students.\n\n6. Extracurricular Activities:\nThe school offers a wide range of extracurricular activities including sports, music, dance, drama, debates, and clubs. Students have ample opportunities to explore their interests and talents beyond academics.\n\n7. Community Engagement:\nSouth Point High School encourages parental involvement and organizes various events, seminars, and workshops where parents actively participate. It fosters a strong sense of community and collaboration.\n\n8. Leadership Opportunities:\nThe school provides leadership opportunities through student council, clubs, and various events, allowing students to develop leadership skills and teamwork.\n\n9. Alumni Network:\nSouth Point High School has a strong alumni network comprising successful professionals in various fields. The alumni provide support, guidance, and mentorship to current students.\n\n10. Achievements and Recognition:\nThe school has received numerous accolades and recognition for academic achievements, sports accomplishments, and contributions to society, maintaining its reputation as a leading educational institution.\n\nSouth Point High School continues to uphold its legacy of excellence in education, shaping the lives of students and preparing them to excel in all spheres of life with knowledge, skills, and values.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158814497213772760335ea92b4c43b1a1588144972.PNG\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873892331904982375e9da331142a01587389233.PNG",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873892331904982375e9da331142a01587389233.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008573765917432965f6b2520ab7a61600857377.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873892331904982375e9da331142a01587389233.PNG\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.0",
+  "views": "2822",
+  "reviews_count": "167",
+  "phone": "+919513238818",
+  "locality": "Ballygunge",
+  "board": "CBSE\n\nCo",
+  "established": "1954",
+  "category": "Public Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008573765917432965f6b2520ab7a61600857377.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873892464107996605e9da33ec615c1587389247.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15873892331904982375e9da331142a01587389233.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587389246350191005e9da33e6ed541587389246.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158738924618904882815e9da33e817891587389247.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Handball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873892468026414765e9da33eb19821587389247.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158738924621341963075e9da33e8ce251587389247.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873892461422072075e9da33e990ba1587389247.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158738924615941074895e9da33eaa56a1587389247.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158738924610251451635e9da33ec9d6e1587389247.PNG"
+  ]
+}

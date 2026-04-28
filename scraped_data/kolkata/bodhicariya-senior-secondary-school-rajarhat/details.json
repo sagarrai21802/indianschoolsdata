@@ -1,0 +1,371 @@
+{
+  "slug": "/school/kolkata/bodhicariya-senior-secondary-school-rajarhat",
+  "url": "https://yellowslate.com/school/kolkata/bodhicariya-senior-secondary-school-rajarhat",
+  "city": "kolkata",
+  "name": "Bodhicariya Senior Secondary School - Rajarhat ",
+  "scraped_at": "2026-04-28T16:43:20.441106",
+  "html_length": 384628,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rajarhat",
+          "item": "https://yellowslate.com/schools/kolkata/rajarhat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/rajarhat/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bodhicariya Senior Secondary School",
+          "item": "https://yellowslate.com/school/kolkata/bodhicariya-senior-secondary-school-rajarhat"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bodhicariya Senior Secondary School - Rajarhat",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/bodhicariya-senior-secondary-school-rajarhat",
+      "telephone": "+91-9051781207",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Maitree Nagar, New Town, Rajarhat Kolkata–700135 West Bengal, INDIA",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Maitree Nagar, New Town, Rajarhat Kolkata–700135 West Bengal, INDIA",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/bodhicariya-senior-secondary-school-rajarhat-rajarhat-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "96"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bulbul Biswas"
+          },
+          "datePublished": "2025-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is very poor school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanuja Mukherjee"
+          },
+          "datePublished": "2024-08-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school in Newtown",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Joy Naskar"
+          },
+          "datePublished": "2024-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school in this area.Teachers do know CBSE curriculum and follow Sample Papers that is based on old syllabus.For exams at secondary level they just print the Sample Papers from online education websites....\nNot only that the teachers don't even bother to check once the question paper wheather it's based on CBSE format or not...In EVERY exam there will be some corrections in the question paper which in turn waste time for writing.\nMany other policies of the school I've not mentioned ..You may check the other 1 star reviews .\nAt last I would say if you have to admit your children to school, avoid taking admission in this...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Animesh Biswas"
+          },
+          "datePublished": "2024-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad education system, disrespectful and students use slang in front teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Zaki Ahmed"
+          },
+          "datePublished": "2024-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Test Dummy 1"
+          },
+          "datePublished": "2023-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dumb school from class 11 onwards",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lipika Biswas"
+          },
+          "datePublished": "2023-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad education system , classrooms are very dirty etc etc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "T-REX"
+          },
+          "datePublished": "2023-10-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Joyjeet Roy"
+          },
+          "datePublished": "2023-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was the best school I saw ever. The behavior is very polite.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bodhicariya Senior Secondary School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sourab Barua"
+          },
+          "datePublished": "2023-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16006894684757305145f68953ca3ff61600689469.PNG\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008597197063092835f6b2e47274d61600859719.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.6",
+  "views": "0",
+  "reviews_count": "96",
+  "phone": "+919513238818",
+  "locality": "Rajarhat",
+  "board": "CBSE\n\nGot Questions About Bodhicariya Senior Secondary School",
+  "established": "1990",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Bodhicariya Senior Secondary School ?\nAsk a Question\nBodhicariya Senior Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008597197063092835f6b2e47274d61600859719.PNG"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "/school/kolkata/loreto-day-school-lebutala-bowbazar",
+  "url": "https://yellowslate.com/school/kolkata/loreto-day-school-lebutala-bowbazar",
+  "city": "kolkata",
+  "name": "Loreto Day School - Lebutala,Bowbazar ",
+  "scraped_at": "2026-04-28T16:43:49.369270",
+  "html_length": 345114,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lebutala,Bowbazar",
+          "item": "https://yellowslate.com/schools/kolkata/lebutala-bowbazar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/lebutala-bowbazar/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Loreto Day School",
+          "item": "https://yellowslate.com/school/kolkata/loreto-day-school-lebutala-bowbazar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Loreto Day School - Lebutala,Bowbazar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/loreto-day-school-lebutala-bowbazar",
+      "telephone": "+91 332 265 3845",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "122, Acharya Jagadish Chandra Bose Rd, Sealdah, Bowbazar, Kolkata, West Bengal 700014, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5646216,
+        "longitude": 88.3681935
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Lebutala,Bowbazar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "122, Acharya Jagadish Chandra Bose Rd, Sealdah, Bowbazar, Kolkata, West Bengal 700014, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/loreto-day-school-lebutala-bowbazar-lebutala-bowbazar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shabana Khan"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is very good, i have completed my studies in this school.. all the teachers and staff are very good and kind every girls should go in this school..♥️♥️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Lebutala,Bowbazar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "REYAN AHMED"
+          },
+          "datePublished": "2023-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Definitely a place which is deep down to its roots as compared to its counterparts and it is a great place for learning just like any other school but what makes this institution special are the values that it passes down to its students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Lebutala,Bowbazar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Debashis Chatterjee"
+          },
+          "datePublished": "2022-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is a student of this school. The conduct, responsibility,  of the teachers as well as every non-teaching staffs are really unbelievable. The Teacher-student relation what I observed specially in the lock down period is fabulous.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Lebutala,Bowbazar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snehal Doshi"
+          },
+          "datePublished": "2018-12-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school caters to low and middle income group students.  It has a good teaching and administrative staff. Located opposite NRS Medical College and a little down the footpath from Prachi Cinema towards Moulali.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.8",
+  "views": "655",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Lebutala,Bowbazar",
+  "board": "State Board\n\nGirls\n\nAbout Loreto Day School\nEnquire Now\n\nOur goal is to form women alive to the needs of our world, with the knowledge which gives them power to act and",
+  "established": "1857",
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/kolkata/stem-world-school-barrackpore",
+  "url": "https://yellowslate.com/school/kolkata/stem-world-school-barrackpore",
+  "city": "kolkata",
+  "name": "STEM World School - Barrackpore ",
+  "scraped_at": "2026-04-28T16:39:14.608626",
+  "html_length": 385986,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Barrackpore",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/barrackpore/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "STEM World School",
+          "item": "https://yellowslate.com/school/kolkata/stem-world-school-barrackpore"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "STEM World School - Barrackpore",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/stem-world-school-barrackpore",
+      "telephone": "9007200999, 9007999657",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kalyani Expy, Wireless Gate, near Barrackpore, Kolkata, West Bengal 700121",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7576083,
+        "longitude": 88.3063283
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kalyani Expy, Wireless Gate, near Barrackpore, Kolkata, West Bengal 700121",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/stem-world-school-barrackpore-barrackpore-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "95"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "madhu seth"
+          },
+          "datePublished": "2024-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child and he have a great manners thank you so much",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shreya Goswami"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Money eating insect, no good facilities and teachers are very rude, the principal dose not provide a good academic environment and the student use slangs and bully the innocent students and teacher heartlessly beat up the student and the academic structure is as weak as the molecules of gases very very bad school for god says don't takes admission in this school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trisani Nandi"
+          },
+          "datePublished": "2023-11-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There education level is very high..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Susmita Biswas"
+          },
+          "datePublished": "2023-10-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best International School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SANJUKTA MANNA"
+          },
+          "datePublished": "2023-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best International school of W.B.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandeepan Pramanick"
+          },
+          "datePublished": "2023-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School at Barrackpore",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Singh"
+          },
+          "datePublished": "2023-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Know this place ....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suvasis Bag"
+          },
+          "datePublished": "2023-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ok",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nishant Dey"
+          },
+          "datePublished": "2022-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I t best school than aaryans",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "STEM World School - Barrackpore"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S B"
+          },
+          "datePublished": "2022-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The principal recites stories and talks funny rather than focusing to find out lucrative solution for the holistic development of childrens. Some guys in school management have created nuisance and involved in cunning activites. They tell lie to parents to escape from their responsibilites.\n\nAfter two years in this school, we decided not to continue and took transfer. This school was pushing my gold medalist and scholar child's carrier to darkness like a slow poison. Lots of fake commitments. Indiscipline is a issue of great concern for students and parents. Mostly unprofessional teachers and staff in school and its transport system. The school management in the school bully and make fun of students. A lot of politics and extremely shocking act in the environment. Harasses parents unbearably.\n\nAcademic standard and amenities are of low standard. Fees structure is not worth the poor education standard and lack of proper service to students and parents. Suspend students for many months conditionally. Students of any standard are made to sit in a isolated room without study for days and months is a common practice. Issues among students are so high that sometimes it needs medical attention. Special child is let unattended in the class with normal child who are afflicted so.\n\nCurrent principal is a short-tempered and ill-mannered. He walk up with mobile phone to capture videos of students unnecessarily. He frequently force the father of the child to come for a face-to-face meeting otherwise, the child will remain suspended until the father is present in the school for meeting. He deny meeting with grand parents or the mother of the child. He shows the recorded video baselessly to the parents and humiliates them badly in presence of staff members. Hatched conspiracies are also noted. Failure to enforce proper discipline and harmony in school, the principal and his followers in school management force parents to see psychiatric for the children considering the child as mentally ill. Wrong practice of few staff members are a menace to the future of students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.3",
+  "views": "1",
+  "reviews_count": "95",
+  "phone": "+919513238818",
+  "locality": "Barrackpore",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "STEM World School ?\nAsk a Question\nSTEM World School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

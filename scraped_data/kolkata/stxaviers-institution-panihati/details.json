@@ -1,0 +1,233 @@
+{
+  "slug": "/school/kolkata/stxaviers-institution-panihati",
+  "url": "https://yellowslate.com/school/kolkata/stxaviers-institution-panihati",
+  "city": "kolkata",
+  "name": "St.Xaviers Institution - Panihati ",
+  "scraped_at": "2026-04-28T16:35:26.794620",
+  "html_length": 346136,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Panihati",
+          "item": "https://yellowslate.com/schools/kolkata/panihati"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/panihati/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St.Xaviers Institution",
+          "item": "https://yellowslate.com/school/kolkata/stxaviers-institution-panihati"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St.Xaviers Institution - Panihati",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/stxaviers-institution-panihati",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Harish Chandra Dutta Rd, Panihati, Kolkata, Khardaha, West Bengal 700114, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.7031911,
+        "longitude": 88.3711019
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Xaviers Institution - Panihati",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Harish Chandra Dutta Rd, Panihati, Kolkata, Khardaha, West Bengal 700114, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/stxaviers-institution-panihati-panihati-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nupur Banerjee"
+          },
+          "datePublished": "2023-05-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school I have ever read. They shows off everthing to u ..but is a big zero.... the faculty member dont teach the toppers oroginated there....but the toppers read in their house of their own so they get their desired rank. Please consult the students.... before admitting  ur child. St xaviers panihati and ruiya is a gold digger of money. My freinds only got 70 to 78 percent in class 12 isc.... so u can understand the rsults there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Xaviers Institution - Panihati"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avik Das Poddar"
+          },
+          "datePublished": "2023-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in North Kolkata.. But need to be more organised in communicating important things to guardians.. Often they used to inform the required things at the very last moment which create problems within the parents.. Otherwise teachers are good and helpful.. School is also focused on the quality of education..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Xaviers Institution - Panihati"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parthib Dey Sarkar"
+          },
+          "datePublished": "2023-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I spent my whole childhood in these classrooms and fields; completed my schooling here. Its always a delight to return as an alumni.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Xaviers Institution - Panihati"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Burnwal"
+          },
+          "datePublished": "2023-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the school where students secure top 10 ranks every year. Located at Sodepur, near to Dunlop. It is following best teaching and labs, in a cheaper price than other famous schools in Kolkata.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.8",
+  "views": "847",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Panihati",
+  "board": "ICSE\n\nCo",
+  "established": "1967",
+  "category": "Day Schools",
+  "classes": "000 - 70",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1758000333138491335468c8f4cd89d0f1758000334.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/the-cambridge-school-hazra-road",
+  "url": "https://yellowslate.com/school/kolkata/the-cambridge-school-hazra-road",
+  "city": "kolkata",
+  "name": "The Cambridge School - Hazra Road ",
+  "scraped_at": "2026-04-28T16:36:22.564651",
+  "html_length": 356234,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hazra Road",
+          "item": "https://yellowslate.com/schools/kolkata/hazra-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/kolkata/hazra-road/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Cambridge School",
+          "item": "https://yellowslate.com/school/kolkata/the-cambridge-school-hazra-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Cambridge School - Hazra Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/the-cambridge-school-hazra-road",
+      "telephone": "+91 823 204 2019",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Manohar Pukur Rd, Hazra, Kalighat, Kolkata, West Bengal 700026, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5216961,
+        "longitude": 88.3498545
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Hazra Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Manohar Pukur Rd, Hazra, Kalighat, Kolkata, West Bengal 700026, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/the-cambridge-school-hazra-road-hazra-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ranveer singh"
+          },
+          "datePublished": "2023-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are focusing on each students, teaching staffs are very good and polite with students.\n\nSchool environment & management is also very good for overall growth of students.\n\nI recommend this school to everyone.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aishwarya Bhattacharyya"
+          },
+          "datePublished": "2023-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Cambridge School stands true to its reputation as one of the best international schools of KOLKATA. It offers quality education with its qualified faculty and good infrastructure. What is truly admirable is that the school offers a homely environment to its students and provides them individualized attention and academic assistance in every possible way.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankani Kanjilal"
+          },
+          "datePublished": "2023-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Cambridge school is a fantastic place for not only study as well as the overall growth of a child. It not only teaches syllabus but also encourages students to involve in all type of extracurricular activities. Also the school has a homely environment where the bonding between the students and the teachers are friendly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abdur Rab Gazi"
+          },
+          "datePublished": "2023-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good IGCSE school in South Kolkata. Various extra curricular activities are offered to students and teachers are very supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Cambridge School - Hazra Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sachin vashisht"
+          },
+          "datePublished": "2022-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Cambridge International school is one great place for big events, both indoor and outdoor. They have lush green fields, a great spacious auditorium and a fantastic cafe cum canteen. Sports and Cultural events here will be a great one as there is a lot of space to host a lot of people like 500-600 at a time. The school part is a premium one as it's one of the most premium schools of Kolkata.\nThe place is great for events, auditions and outdoor activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://g.page/InternationalschoolinKolkata?gm",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16049236057011951285fa930d579b7a1604923605.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.8",
+  "views": "513",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Hazra Road",
+  "board": "IGCSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "000 - 61",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16049236057011951285fa930d579b7a1604923605.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

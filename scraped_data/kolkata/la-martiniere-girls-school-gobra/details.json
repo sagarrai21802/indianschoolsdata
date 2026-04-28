@@ -1,0 +1,404 @@
+{
+  "slug": "/school/kolkata/la-martiniere-girls-school-gobra",
+  "url": "https://yellowslate.com/school/kolkata/la-martiniere-girls-school-gobra",
+  "city": "kolkata",
+  "name": "La Martiniere Girls School - Gobra ",
+  "scraped_at": "2026-04-28T16:47:09.896139",
+  "html_length": 431792,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gobra",
+          "item": "https://yellowslate.com/schools/kolkata/gobra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/gobra/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "La Martiniere Girls School",
+          "item": "https://yellowslate.com/school/kolkata/la-martiniere-girls-school-gobra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "La Martiniere Girls School - Gobra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1587390369607243945e9da7a12d66c1587390369.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/la-martiniere-girls-school-gobra",
+      "telephone": "+91 33 4040 6605 ,+91 33 4040 6606",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Minto Park, Rawdon St, beside Vodafone, Kolkata, West Bengal",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.541109,
+        "longitude": 88.355116
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Minto Park, Rawdon St, beside Vodafone, Kolkata, West Bengal",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/la-martiniere-girls-school-gobra-gobra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "19"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushi Saraf"
+          },
+          "datePublished": "2022-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Modern High is the best.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ranajoy C"
+          },
+          "datePublished": "2022-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School, well behavior with Good discipline",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thirupathi Gugulothu"
+          },
+          "datePublished": "2022-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ARYAN KUMAR"
+          },
+          "datePublished": "2022-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the finest & famed Education Institution (Ranking - among the top 10 schools in India), with historic European (French) architectural building - \"La Martiniere for Girl's\" boasts of a glorious Heritage. The Institute (ICSE board) has dedicatedly enlightened the Calcuttans over the past 186 years. The school management has a strict & diligent vigil over Academics & Discipline, along with other vocational courses & sports activities. The sprawling school campus is one the finest in the city with all amenities. Though this is an Upscale School yet students thrive to get admissions in the elite institution.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya Jalan"
+          },
+          "datePublished": "2022-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our children are in the hands of amazing teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Zaman Badiuz"
+          },
+          "datePublished": "2022-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lovely School in India",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soumak Bardhan"
+          },
+          "datePublished": "2022-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best in India !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pradip Singh"
+          },
+          "datePublished": "2022-05-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best day schools in India and best in the east. This is a Girl's only school the La Martiniere for Boys has a different campus just 50 meters away from the Girl's block. The school have produced a number of renowned scholars and also business personalities. One of the oldest schools in India.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sukanta mondal"
+          },
+          "datePublished": "2022-05-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Located at Minto Park, Rawdon St, Kolkata, West Bengal, La Martiniere for Girls is a heritage institution that has served the cause of education for 184 years, established in 1836 by Frenchman major general, Claude Martin.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "La Martiniere Girls School - Gobra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aurobindo Kar"
+          },
+          "datePublished": "2022-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "La Martiniere for Girls School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15873904364556545355e9da7e4ea87d1587390437.PNG\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1587390369607243945e9da7a12d66c1587390369.PNG",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158936647717750399195ebbcecd9c5571589366478.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1587390369607243945e9da7a12d66c1587390369.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1587390369607243945e9da7a12d66c1587390369.PNG\\\\\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.4",
+  "views": "1678",
+  "reviews_count": "19",
+  "phone": "+919513238818",
+  "locality": "Gobra",
+  "board": "ICSE\n\nCo",
+  "established": "1836",
+  "category": "Public Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158936647717750399195ebbcecd9c5571589366478.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873903927997882525e9da7b8a85bf1587390393.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1587390369607243945e9da7a12d66c1587390369.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739039214841323295e9da7b8d39681587390393.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873903924892549035e9da7b8b70641587390393.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739039211029586615e9da7b8799b51587390392.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873903922827277035e9da7b8848871587390393.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873903922983143385e9da7b8d2f361587390393.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158739039218990113015e9da7b89226b1587390393.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15873904364556545355e9da7e4ea87d1587390437.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png"
+  ]
+}

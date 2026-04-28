@@ -1,0 +1,370 @@
+{
+  "slug": "/school/kolkata/shree-jain-vidyalaya-murgighata-bbd-bagh",
+  "url": "https://yellowslate.com/school/kolkata/shree-jain-vidyalaya-murgighata-bbd-bagh",
+  "city": "kolkata",
+  "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh ",
+  "scraped_at": "2026-04-28T16:38:00.512348",
+  "html_length": 381474,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Murgighata,BBD Bagh",
+          "item": "https://yellowslate.com/schools/kolkata/murgighata-bbd-bagh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/kolkata/murgighata-bbd-bagh/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shree Jain Vidyalaya",
+          "item": "https://yellowslate.com/school/kolkata/shree-jain-vidyalaya-murgighata-bbd-bagh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/shree-jain-vidyalaya-murgighata-bbd-bagh",
+      "telephone": "+91 833 595 8941",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "18-D, Phusraj Bachhawat Path, 18/d, Sukeas Ln, Murgighata, B.B.D. Bagh, Kolkata, West Bengal 700001, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5766689,
+        "longitude": 88.3515583
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "18-D, Phusraj Bachhawat Path, 18/d, Sukeas Ln, Murgighata, B.B.D. Bagh, Kolkata, West Bengal 700001, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/shree-jain-vidyalaya-murgighata-bbd-bagh-murgighata-bbd-bagh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anita Karnani"
+          },
+          "datePublished": "2024-03-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the best school for students who really love studies and teacher will give full try to make students sincere and disciplined.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "10 D 32 RAJIV SHAW"
+          },
+          "datePublished": "2024-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The celebration republic day and annual function",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gourav Kotecha"
+          },
+          "datePublished": "2024-01-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhya Gupta"
+          },
+          "datePublished": "2023-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worse school and environment..parents are requested to not to admission there",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek yadav"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school plz don't waste your 11 &12 here",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reet Gupta"
+          },
+          "datePublished": "2023-11-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school I have seen in this entire planet. The school is very unhygienic there are garbage everywhere in the corridor and classrooms are also very dirty. Some teachers beat students that hard that the student body becomes red. And some teachers also eat tobacco and spit it anywhere and some teachers give extra benefit to those students who are in their tution.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "U.Shubham Rao"
+          },
+          "datePublished": "2023-10-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Discipline before education.....this principle is followed by our prestigious institution....👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DEVANSH JAISWAL"
+          },
+          "datePublished": "2023-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school behavior of the teachers iw very bad 👎 third class school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bijay Shaw"
+          },
+          "datePublished": "2023-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First of all its my biggest mistake of my life that I have taken admission in class 11 this year in computer science stream\nTeacher will not care for you if you are good in studies they will care about that student only who have 100℅ attendance if you are preparing for competitive exam and you are looking for this worst school then you are doing the biggest mistake of your life. The maths teacher of computer science chopra always come sleeping mood and teaches the student and always tell you that you will get tc in just 2min he will tell because you are absent for two days  and the worst thing what I have seen that the coordinator verma will always tell you that which school from you did your class 10  and you will tell the name of your previous school then he will tell oo that school its a raddi school go back to that raddi school he will talk with you like a sadakchap please don't do the mistake to take admission in this school they will never understand your problems always make you trouble the only teacher is best is physics teacher Sandeep sir he is only the best teacher and other are very very very very worst i am currently crying while writing this review why I havetaken admission in this school Hindi teacher will come and will do time pass with you the first day I was shocked why the s jv give salary to this teacher I was a don Bosco student the don Bosco is also very strictstrict but they look after evry student they are not like this sjv who always tell i am very strict this worst school is only strict in attendance please erase this from your mind about the name SHREE JAIN VIDYALAY otherwise just because of attendance your career will destroy 🤬🤬🤬🤬 plzz take admission at your own risk look for government school they are best like vikram they are the best from Sjv the sjv will take money and will always blackmail for private tution the vikram vidyalaya is best for wbchse its a government school but hundred times best from this worst sjv private school\nI will like to tell some line for this school\n\"Jab shikshak kaamchor honge to bharat kese aage badhega tere jese sab bangaye to har bacha piche hirahega\nJab bhi pase ki bhuk jagti he inko bacchon ki yaad aati he na jane ham jeso ko kitna inhone luta he par fir bhi kya kare name hi school ka kuch asa he\nHar saal bache idhar aake rote he\nMano jase apne maa baap ko khote he\nKab ya daldal khatam hoga ab intezaar hi nhi hota h\nMe har din  khuda se kehta hu ya kya hogai he meri zindagi\nKhuda bhi awaj dete he ab tamanh hogi poori meri\nHar din yeh pal mujhe yad rahega ki mane kyu apna 2 saal idhar barbad karvaya\nMano jase apne hath ko talwar se katwaya\n\nThank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shree Jain Vidyalaya - Murgighata,BBD Bagh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krishna Gupta"
+          },
+          "datePublished": "2023-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is the worst school of all time I have ever seen. The teachers of this school doesn't care about education they only wants money and some teachers beats students very hard. Some teachers eats pan masala. Some teachers give extra facilities to those students whom they know or they are in their tution. Classes are also overcrowded like a  fishmarket.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.7",
+  "views": "676",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Murgighata,BBD Bagh",
+  "board": "State Board\n\nCo",
+  "established": "1934",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Shree Jain Vidyalaya ?\nAsk a Question\nShree Jain Vidyalaya Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png"
+  ]
+}

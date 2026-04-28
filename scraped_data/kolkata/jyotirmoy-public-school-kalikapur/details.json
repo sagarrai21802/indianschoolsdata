@@ -1,0 +1,373 @@
+{
+  "slug": "/school/kolkata/jyotirmoy-public-school-kalikapur",
+  "url": "https://yellowslate.com/school/kolkata/jyotirmoy-public-school-kalikapur",
+  "city": "kolkata",
+  "name": "Jyotirmoy Public School - Kalikapur ",
+  "scraped_at": "2026-04-28T16:33:54.933128",
+  "html_length": 391889,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kalikapur",
+          "item": "https://yellowslate.com/schools/kolkata/kalikapur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/kalikapur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jyotirmoy Public School",
+          "item": "https://yellowslate.com/school/kolkata/jyotirmoy-public-school-kalikapur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Jyotirmoy Public School - Kalikapur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741328721147101818867ca9151535351741328721.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/jyotirmoy-public-school-kalikapur",
+      "telephone": "+91 769 999 9988",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Jyotirmoy Knowledge Park, Kalikapur, Soarpur, kolkata, West Bengal",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.4259712,
+        "longitude": 88.5027332
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Jyotirmoy Knowledge Park, Kalikapur, Soarpur, kolkata, West Bengal",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/jyotirmoy-public-school-kalikapur-kalikapur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "65"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subha Chowdhury"
+          },
+          "datePublished": "2024-07-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Recently I have visited this school for attending a chess tournament. There are few things which I would like to highlight regarding this school.\n1. The school is in an extreme interior place where transportation is definitely a thing on which people need to think repeatedly before visiting there.\n2. The school was arranging a tournament where more than two hundred students came to participate along with their parents ( elderly persons were also there to accompany their grandchildren) but the horrible school management didn't arrange any seating facility for anyone.\n3. I was there from 9am to 5pm without any chair literally sitting on the floor and no school officials were found to guide us regarding anything about the event. Few attendants were there who were only able to guide us about the dustbins.\n4. The projector was continuously showing the recording of their succesful students in board examinations ( both class X and XII) which was definitely an advertisement but with such horrible management and infrastructure the school needs to work hard before arranging such event.\n5. After a full day tournament, the school was not willing to provide any certificate for participation ( who scored below 3.5) which was also informed after waiting almost for another one hour. Yes I do agree that providing certificate was totally their own decision but if it was declared earlier then the tired students and parents didn't need to wait for long.\n6. Two more things I definitely want to request the school management are to maintain the scheduled time and a hygienic washroom. Both are equivalently important for everyone.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhimitra Mondal"
+          },
+          "datePublished": "2024-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school, I am an ex student, don't fall for the buttery words of amarjit sir, this school is always craving for money 💰💰💰",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soumi Purkait"
+          },
+          "datePublished": "2024-05-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "JPS is the best school ever I saw. It is the best school in Kolkata I think. My son study at this school .He also like this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swapan Das"
+          },
+          "datePublished": "2024-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The upper strata has no right to humiliate others. Really it was a very bad experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sayani Sarkar"
+          },
+          "datePublished": "2024-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Administration is not systematic leading to unsatisfactory outcome 🙂",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shireen Francis"
+          },
+          "datePublished": "2024-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not up to the mark.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanvi Dwivedi"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "good school. i had fun ngl. it is literally in the middle of farms , you can get fresh air and teachers were nice to me.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Chatterjee"
+          },
+          "datePublished": "2024-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in 24 parganas because of the faculties and the system they follow",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samrat Mondal"
+          },
+          "datePublished": "2023-12-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a very good exam centre, bus and auto are available from sonarpur railway station.. All teachers and staff's are very good and helpful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jyotirmoy Public School - Kalikapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SATYABRATA DEY"
+          },
+          "datePublished": "2023-12-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "HOW TO GO FROM KARUNAMOYEE ???",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741328721147101818867ca9151535351741328721.jpg\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741328721147101818867ca9151535351741328721.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160068090911595381655f6873cdd27be1600680910.PNG\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159342108019131810935ef9ad18963261593421081.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741328721147101818867ca9151535351741328721.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "3.6",
+  "views": "0",
+  "reviews_count": "65",
+  "phone": "+919513238818",
+  "locality": "Kalikapur",
+  "board": "CBSE, To be affiliated to CBSE\n\nCo",
+  "established": "2004",
+  "category": "Boarding Schools, Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159342108019131810935ef9ad18963261593421081.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1741328721147101818867ca9151535351741328721.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160068090911595381655f6873cdd27be1600680910.PNG"
+  ]
+}

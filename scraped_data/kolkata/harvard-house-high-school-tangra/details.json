@@ -1,0 +1,279 @@
+{
+  "slug": "/school/kolkata/harvard-house-high-school-tangra",
+  "url": "https://yellowslate.com/school/kolkata/harvard-house-high-school-tangra",
+  "city": "kolkata",
+  "name": "Harvard House High School - Tangra ",
+  "scraped_at": "2026-04-28T16:38:57.208392",
+  "html_length": 349363,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tangra",
+          "item": "https://yellowslate.com/schools/kolkata/tangra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/tangra/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Harvard House High School",
+          "item": "https://yellowslate.com/school/kolkata/harvard-house-high-school-tangra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Harvard House High School - Tangra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/harvard-house-high-school-tangra",
+      "telephone": "+91 9836330019",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "18, New Tangra Rd, Tangra, Kolkata, West Bengal 700010, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5522837,
+        "longitude": 88.3868719
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Harvard House High School - Tangra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "18, New Tangra Rd, Tangra, Kolkata, West Bengal 700010, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/harvard-house-high-school-tangra-tangra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "abhinandan kumar"
+          },
+          "datePublished": "2025-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "it is very beautifull ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Harvard House High School - Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sheikh Moinuddin"
+          },
+          "datePublished": "2022-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I don't think I can really sum up my feelings for Harvard House in a few words but to be precise, Harvard House has instilled in me the qualities that I know would be beneficial for me in this sweet-sour journey of life.\nIt gave me a platform to explore myself: my attributes and skills and it's nothing but the culmination of all these bcoz of which I managed to clear my ICSE with 94.4% from Harvard House.\nThe bonding that I shared with the students as well as the staff is just impeccable.\nI thank the school management and the staff for encouraging the students to unlock their true potential.\nA special thank I would like to convey to that teacher whose presence in my life helped me a lot in grooming up and she is none other than Mrs Ranjana Das. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Harvard House High School - Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritesh Jaiswal"
+          },
+          "datePublished": "2021-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent teachers are there. There are numerous of Curricular Activities and Sports Activites. Management needs to be improved but quality education is provided. I've studied here for 12 years, and I just loved the way teachers teach.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Harvard House High School - Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shresth Shaw"
+          },
+          "datePublished": "2021-05-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best set of teachers who are always ready to guied and help you !!!! Studying here is altogether a different experience!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Harvard House High School - Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Debopriyo Bhowmick"
+          },
+          "datePublished": "2020-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school, has best teachers and the principal is great.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Harvard House High School - Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sk Karim"
+          },
+          "datePublished": "2018-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best ever school in Kolkata.The school is one of the most disciplined school in Kolkata.The principal of the school and other teachers are highly educated and proved to be very helpful for students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160067684320680533325f6863ebbf1201600676844.PNG\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.8",
+  "views": "731",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Tangra",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Harvard House High School ?\nAsk a Question\nHarvard House High School Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 5.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160067684320680533325f6863ebbf1201600676844.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

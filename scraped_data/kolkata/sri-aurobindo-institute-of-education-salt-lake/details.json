@@ -1,0 +1,373 @@
+{
+  "slug": "/school/kolkata/sri-aurobindo-institute-of-education-salt-lake",
+  "url": "https://yellowslate.com/school/kolkata/sri-aurobindo-institute-of-education-salt-lake",
+  "city": "kolkata",
+  "name": "Sri Aurobindo Institute of Education - Salt Lake ",
+  "scraped_at": "2026-04-28T16:40:55.320496",
+  "html_length": 386652,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Salt Lake",
+          "item": "https://yellowslate.com/schools/kolkata/salt-lake"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/salt-lake/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sri Aurobindo Institute Of Education",
+          "item": "https://yellowslate.com/school/kolkata/sri-aurobindo-institute-of-education-salt-lake"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sri Aurobindo Institute of Education - Salt Lake",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/sri-aurobindo-institute-of-education-salt-lake",
+      "telephone": "033 2358 5267",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "CL 9 - 12, Sector II, Salt Lake, Kolkata - 700091,BK Block, Sector II, Salt Lake, Kolkata - 700091",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.599654,
+        "longitude": 88.425156
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "CL 9 - 12, Sector II, Salt Lake, Kolkata - 700091,BK Block, Sector II, Salt Lake, Kolkata - 700091",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/sri-aurobindo-institute-of-education-salt-lake-salt-lake-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "118"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rishi Pal"
+          },
+          "datePublished": "2026-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I faced continuous bullying in thos school . The school authorities doesn't even take any actions . Worst school ever . ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhisek Pal"
+          },
+          "datePublished": "2025-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ICSE Affiliated",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suman Ghosh"
+          },
+          "datePublished": "2025-02-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Let me clear one thing, Here admission is totally based on talent and how you rank in entrence exam. No kaka mama dada neta reference works here.\n\nIt took two days for my daughter.\nFirst admission test\n2nd admission process in 10 minutes",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Xiaa"
+          },
+          "datePublished": "2025-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ivantill ❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suplob Dutta"
+          },
+          "datePublished": "2024-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I LOVE THIS INSTITUTE",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRIYAADARSHINI DASGUPTA"
+          },
+          "datePublished": "2024-12-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the 3rd class school. Their main concern is families earning. They are not even interested in the child's upbringing..The Principal of this school is very very talkative and overbearing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhadip Paul"
+          },
+          "datePublished": "2024-12-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best cbse board school in Kolkata.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "iCANcook"
+          },
+          "datePublished": "2024-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A really nice school with brilliant faculty",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "maitrayee datta"
+          },
+          "datePublished": "2024-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Recently I was given a interview session for LKG ..they pass child only 85 seat...if they have only 85 seat in their school then why so many form distributed... because earn of money...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sri Aurobindo Institute of Education - Salt Lake"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hridaya Roy Chowdhury"
+          },
+          "datePublished": "2024-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is so bad school.they learn me in this school very badly.I am in class 12",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16007739524775474315f69df40388501600773952.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.2",
+  "views": "870",
+  "reviews_count": "118",
+  "phone": "+919513238818",
+  "locality": "Salt Lake",
+  "board": "ICSE\n\nCo",
+  "established": "1983",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Sri Aurobindo Institute of Education ?\nAsk a Question\nSri Aurobindo Institute of Education Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16007739524775474315f69df40388501600773952.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

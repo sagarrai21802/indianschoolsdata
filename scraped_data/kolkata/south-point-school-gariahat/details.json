@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/south-point-school-gariahat",
+  "url": "https://yellowslate.com/school/kolkata/south-point-school-gariahat",
+  "city": "kolkata",
+  "name": "South Point School - Gariahat ",
+  "scraped_at": "2026-04-28T16:31:32.653351",
+  "html_length": 356113,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gariahat",
+          "item": "https://yellowslate.com/schools/kolkata/gariahat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/gariahat/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "South Point School",
+          "item": "https://yellowslate.com/school/kolkata/south-point-school-gariahat"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "South Point School - Gariahat",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/south-point-school-gariahat",
+      "telephone": "+91 332 440 6385",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "16, Mandeville Gardens, Ekdalia, Ballygunge, Kolkata, West Bengal 700019, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5213621,
+        "longitude": 88.366023
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point School - Gariahat",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "16, Mandeville Gardens, Ekdalia, Ballygunge, Kolkata, West Bengal 700019, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/south-point-school-gariahat-gariahat-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DAVID DAS"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The good thing is that no donation is required for admission. Otherwise most of the so-called reputed schools in Kolkata require donations. School campus is not up to the mark. It is heard the campus is going to be shifted soon.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ronin m"
+          },
+          "datePublished": "2023-06-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Horrible for parking 4 wheeler. So if you plan to bring in a 4 wheeler please plan accordingly with time in hand. The roads are very congested during school start and end time ( precisely around 9 am and around 11:15 to 11:45 am).",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "gautam mutsuddi"
+          },
+          "datePublished": "2023-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "South Point School (Nursery to Class V), South Point High School (Classes VI to XII) and South Point Education Society (administrative authority). The school operates in two shifts for all classes – Morning and Afternoon. The school opened in 1954, and was the first co-educational school in Kolkata. Higher Secondary (10+2) education was introduced in 1960. Initially operation as a single unit, the school split into two buildings with the high school shifting to Ballygunge Place in 1980. It is claimed to be the only school in Kolkata to have a Nobel Laureate as an alumnus.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sayantani Ghosh"
+          },
+          "datePublished": "2023-04-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is an age old school which we know from our very childhood. My son visited there recently for a interschool fest called Ullas.\nThe school has an option for both morning as well as afternoon timings",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "South Point School - Gariahat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sutapa Patra"
+          },
+          "datePublished": "2023-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter had studied in South Point Junior School and currently studying South Point High school. I think she is learning a lot, the teachers are very helpful and cooperative. I think the way the teachers teach the young ones are very good. As a mother I would definitely suggest other parents to enroll their kids in South Point School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008634755182424165f6b3cf386a541600863476.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739720919886447525e9dc259a8f461587397210.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.0",
+  "views": "681",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Gariahat",
+  "board": "CBSE\n\nCo",
+  "established": "1954",
+  "category": "Day Schools",
+  "classes": "200 - 61",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158739720919886447525e9dc259a8f461587397210.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16008634755182424165f6b3cf386a541600863476.PNG"
+  ]
+}

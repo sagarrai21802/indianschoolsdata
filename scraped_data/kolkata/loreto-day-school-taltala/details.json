@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/loreto-day-school-taltala",
+  "url": "https://yellowslate.com/school/kolkata/loreto-day-school-taltala",
+  "city": "kolkata",
+  "name": "Loreto Day School - Taltala ",
+  "scraped_at": "2026-04-28T16:30:27.701019",
+  "html_length": 418467,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taltala",
+          "item": "https://yellowslate.com/schools/kolkata/taltala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/taltala/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Loreto Day School",
+          "item": "https://yellowslate.com/school/kolkata/loreto-day-school-taltala"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Loreto Day School - Taltala",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/loreto-day-school-taltala",
+      "telephone": "+91 332 229 4256",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "9, Elliot Rd, Taltala, Kolkata, West Bengal 700016, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5529174,
+        "longitude": 88.358314
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Taltala",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9, Elliot Rd, Taltala, Kolkata, West Bengal 700016, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/loreto-day-school-taltala-taltala-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shoppers Hub"
+          },
+          "datePublished": "2023-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in town for girls. The teachers are very kind and they look after the overall development of the child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mary Mehra"
+          },
+          "datePublished": "2022-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best girls school located on Elliott Road.\nIt's has very good teachers and it shape the students in overall development.\nMany activities and programs takes place for ample growth of individual children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Inaara Amin"
+          },
+          "datePublished": "2021-04-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am still a student at Loreto Elliot Road and this place is my second home, my safe place, all the teachers and the staff cross their borders and help the children with everything. The discipline, the education system, the activities cannot be any better. And my school doesn't only teaches us what's in our book but also life values. Loreto is the place we unite 💫♥",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nandini Bhattacharjee"
+          },
+          "datePublished": "2020-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a teacher, I am happy to say we have a cosmopolitan crowd. In school, eyery child is treated as an individual. The discipline and academics are just like a typical Loteto school. A school with a hear with the best students and equally supportive parents. The office staff are polite and know their work while the Support Staff are sincere and hardworking.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Loreto Day School - Taltala"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Roomi Rahman"
+          },
+          "datePublished": "2016-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Its a lovely school.I love it . All the teachers are very caring and loving.It has basketball courts.The auditorium is very nice and huge. The compound is very large and children enjoy being here .Children are sensible and they behave very well.There are many good teachers like Mrs Chopra.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15893500652167644675ebb8eb1c87581589350066.PNG\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15934368969728970615ef9eae05d4c41593436896.PNG\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "5.0",
+  "views": "640",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Taltala",
+  "board": "ICSE\n\nGirls\n\nAbout Loreto Day School\nEnquire Now\n\nThe School was Founded in 1956 by Gertrude O",
+  "established": "1956",
+  "category": "Day Schools",
+  "classes": "500 - 6",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15893500652167644675ebb8eb1c87581589350066.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15934368969728970615ef9eae05d4c41593436896.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

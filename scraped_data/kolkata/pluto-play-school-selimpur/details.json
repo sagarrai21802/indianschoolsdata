@@ -1,0 +1,381 @@
+{
+  "slug": "/school/kolkata/pluto-play-school-selimpur",
+  "url": "https://yellowslate.com/school/kolkata/pluto-play-school-selimpur",
+  "city": "kolkata",
+  "name": "PLUTO - Play School - Selimpur ",
+  "scraped_at": "2026-04-28T16:42:33.319426",
+  "html_length": 416896,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Selimpur",
+          "item": "https://yellowslate.com/schools/kolkata/selimpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/kolkata/selimpur/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "PLUTO - Play School",
+          "item": "https://yellowslate.com/school/kolkata/pluto-play-school-selimpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "PLUTO - Play School - Selimpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160094719919690162175f6c83ff618251600947199.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/pluto-play-school-selimpur",
+      "telephone": "+919231500174",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "110, 21A, Selimpur Rd, Dhakuria, Selimpur, Kolkata, West Bengal 700031",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.50391,
+        "longitude": 88.373641
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "110, 21A, Selimpur Rd, Dhakuria, Selimpur, Kolkata, West Bengal 700031",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/pluto-play-school-selimpur-selimpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "51"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rodoshi Paul"
+          },
+          "datePublished": "2024-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very  Good institute",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sampurna Bhattacharjee Ghosh Sampurna"
+          },
+          "datePublished": "2024-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My 6 years old daughter loved their fun & activity in Summar Camp, this is her second year to attend Pluto's Summer Camp. I must say their Camp is very pocket friendly. all teachers and attendants are very caring and loving... wish you a great success in future....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abitha Choudhury"
+          },
+          "datePublished": "2024-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A nice place to send your child for working mothers.My daughter is growing up in a wonderful and safe atmosphere with great care and love.Thank you Pluto for making everything easy for me😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "chandrani chakraborty"
+          },
+          "datePublished": "2024-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am writing to let you know how very pleased I am with the education my son , Bihan Mitra is receiving at Pluto montessori . The care and development of my child is briliant . I always feel 100% confident they will be well looked after. They do a varity of activities. The care , teaching , unconditional love , varity event work to grow my child faster .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bipasha Saha Neogi"
+          },
+          "datePublished": "2024-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very happy with Pluto play school.My son joined the summer camp and it was a great experience.We are very happy with the activities which were performed during the camp.Thanks to all the teachers and supporting staffs for their great efforts for the children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samsun Nahar"
+          },
+          "datePublished": "2024-06-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is a ex student of Pluto dhakuria....but he doesn't miss any program of Pluto... because he enjoy a lot there and we r so satisfied... thank you specially Debashree maa'm to invite us and always being a part of Pluto..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sharmistha Chowdhury"
+          },
+          "datePublished": "2024-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I consider admitting my child with Pluto was a great decision. The school really lives up to their commitments and reputation. Each and everyone deserves credit for the way they take care of the children and nurture them for the future. Hope they continue the fantastic work in the future as well",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Urmimala Maitra"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good day care and activity centre. My son has been going there since he was 3 yrs old. He is taken good care of. He has also joined different activity classes and he enjoys them. Summer camps are his favourite.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanusree Das"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I heard about PLUTO from various sources, especially about this Dhakuria branch of PLUTO located near Selimpur bus stand. My daughter finds it difficult to communicate. After learning about their contributions towards helping in the overall growth and development of kids from one of my friends, I decided to take a trial session by sending my daughter to their Summer Camp. And trust me, she started keeping so happy after joining the Summer Camp, that I finally put her to their Day Care this month onwards. I am very happy at the care taken by the caregivers there. The Teachers at PLUTO, Dhakuria Branch are extremely helpful and approachable. Being a working Professional it becomes really difficult to find a right place that you can call a 2nd abode for your child, but PLUTO is the answer to all those worries and concerns. With the presence and intervention of well trained teachers, their guidance and the scientific model of PLUTO Day Care caters to the needs of my daughter and I am much relieved now. Would love to engage her in more such camps in the near future. I am extremely hopeful that PLUTO shall be able to help my daughter overcome her present challenges and she would experience an all round development out there.Thank you PLUTO for all the support ❤️.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PLUTO - Play School - Selimpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sudipto Chakraborty"
+          },
+          "datePublished": "2024-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our daughter Sunayana has been attending the summer camps during the last two years. She also attends the day care from time to time. We have found the team to be caring, responsive and to provide the kids with innovative activities to foster their all round development. Our daughter feels safe there which is why she enjoys herself during the activities and stays there for long durations. Hope the good work continues.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160094719919690162175f6c83ff618251600947199.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158883086211489935025eb3a28e4e0231588830862.PNG\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069207720280911715f689f6d6a1c61600692077.PNG\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160094719919690162175f6c83ff618251600947199.PNG",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160094719919690162175f6c83ff618251600947199.PNG\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.7",
+  "views": "787",
+  "reviews_count": "51",
+  "phone": "+919513238818",
+  "locality": "Selimpur",
+  "board": "Other Boards\n\nCo",
+  "established": "2009",
+  "category": "Play Schools",
+  "classes": "600 - 129",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16009472119127749935f6c840b8af5c1600947212.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069207720280911715f689f6d6a1c61600692077.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16009472114992470045f6c840b6bf331600947211.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160094719919690162175f6c83ff618251600947199.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16009472113982984275f6c840b52d4f1600947211.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16009472118923514765f6c840b47ca31600947211.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/160094721110716786305f6c840b6e9d61600947211.PNG"
+  ]
+}

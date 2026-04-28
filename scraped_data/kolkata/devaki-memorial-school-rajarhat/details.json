@@ -1,0 +1,372 @@
+{
+  "slug": "/school/kolkata/devaki-memorial-school-rajarhat",
+  "url": "https://yellowslate.com/school/kolkata/devaki-memorial-school-rajarhat",
+  "city": "kolkata",
+  "name": "Devaki Memorial School - Rajarhat ",
+  "scraped_at": "2026-04-28T16:41:21.298729",
+  "html_length": 384911,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rajarhat",
+          "item": "https://yellowslate.com/schools/kolkata/rajarhat"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/rajarhat/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Devaki Memorial School",
+          "item": "https://yellowslate.com/school/kolkata/devaki-memorial-school-rajarhat"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Devaki Memorial School - Rajarhat",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/devaki-memorial-school-rajarhat",
+      "telephone": " 033 2573 7190",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": ": JFHJ+3C9, Reckjoani Hospital Rd, Reckjoani Rd, Newtown, Kolkata, West Bengal 700135",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": ": JFHJ+3C9, Reckjoani Hospital Rd, Reckjoani Rd, Newtown, Kolkata, West Bengal 700135",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/devaki-memorial-school-rajarhat-rajarhat-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "41"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Miraj Aktar"
+          },
+          "datePublished": "2025-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good faculties with average service and average facilities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikas Gupta"
+          },
+          "datePublished": "2024-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is having all due facilities. Mostly covered area of basket ball area. One of renowned school in this area.\n\nIt meets all standards and required infrastructure. Teachers are good and caring.\nThey allow some extra circular activities like karate in after school hours",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harish Shaw"
+          },
+          "datePublished": "2024-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice Environment... Good Teachings And Faculty Members... Spacious Playground And Assembly Area...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Biplab Mistry"
+          },
+          "datePublished": "2024-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunita Singh"
+          },
+          "datePublished": "2023-12-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dheeraj Prasad"
+          },
+          "datePublished": "2023-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I love this school 🏫🏫🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Putus NTR"
+          },
+          "datePublished": "2023-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They have serious issue regarding safety measures. One student got seriously injured by another , hardly any thing done on this matter.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sreedipta Dey"
+          },
+          "datePublished": "2023-05-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school 💕 Loved it\nThe atmosphere inside the school is lovely, There a beautiful flowers and Butterflies 🌸🦋is the play ground, There are slide, Swings many more, They provide us to play busket ball, cricket & badminton as well, Teachers are very polite and friendly, They will help you in the study, I love all the teachers but I would like to mention (Shatabdi mam) She is a Teacher, Very friendly and sweet , She will help you in every condition, Even while exams, I would just suggest them to clean the washroom a Lil bit more and provide hand soap 🧼, Thank u☺️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suman bhattacheryya"
+          },
+          "datePublished": "2023-04-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Devki memorial school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Devaki Memorial School - Rajarhat"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sujoy Gupta"
+          },
+          "datePublished": "2023-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi I am Sujoy Gupta, I studied in this school since class 8th and completed 10th from here. I am thankful to respected KC Agarwal Sir for helping me during pandemic situation. School's Environment is very calm and peaceful. Only problem is all teachers are not that Good......👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160094111720287594575f6c6c3d9fc011600941118.PNG\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158882926419928729705eb39c50c14ff1588829265.PNG\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1679245483914198205641740ab18a581679245483.jpg\\"
+  ],
+  "rating": "4.2",
+  "views": "0",
+  "reviews_count": "41",
+  "phone": "+919513238818",
+  "locality": "Rajarhat",
+  "board": "ICSE\n\nGot Questions About Devaki Memorial School",
+  "established": "2002",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Devaki Memorial School ?\nAsk a Question\nDevaki Memorial School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158882926419928729705eb39c50c14ff1588829265.PNG"
+  ]
+}

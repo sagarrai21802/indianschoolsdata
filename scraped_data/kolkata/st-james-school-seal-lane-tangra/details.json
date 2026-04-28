@@ -1,0 +1,408 @@
+{
+  "slug": "/school/kolkata/st-james-school-seal-lane-tangra",
+  "url": "https://yellowslate.com/school/kolkata/st-james-school-seal-lane-tangra",
+  "city": "kolkata",
+  "name": "St. James School - Seal Lane,Tangra ",
+  "scraped_at": "2026-04-28T16:30:59.475302",
+  "html_length": 432670,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Seal Lane,Tangra",
+          "item": "https://yellowslate.com/schools/kolkata/seal-lane-tangra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/seal-lane-tangra/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. James School",
+          "item": "https://yellowslate.com/school/kolkata/st-james-school-seal-lane-tangra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. James School - Seal Lane,Tangra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737160473958285e9d5e542d7ad1587371604.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/st-james-school-seal-lane-tangra",
+      "telephone": "+91-33-22841546, +91-33-22842788,+91-33-22842788",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "165, Acharya Jagadish Chandra Bose Rd, Entally, Kolkata, West Bengal 700014",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5541673,
+        "longitude": 88.3655428
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "165, Acharya Jagadish Chandra Bose Rd, Entally, Kolkata, West Bengal 700014",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/st-james-school-seal-lane-tangra-seal-lane-tangra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "130"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sadatullah Khan (Guide 4 ever1 in kolkata)"
+          },
+          "datePublished": "2024-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Central kolkata for boys.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aryaman Kar"
+          },
+          "datePublished": "2024-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a class 9 student, I understand how outdated the equipment is in this school and would kindly request them to update it and place some air conditioning. Thank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shagufta Hassan"
+          },
+          "datePublished": "2024-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very disappointing behavior\nof the school regarding admission",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lynn Reys"
+          },
+          "datePublished": "2024-04-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "!DO NOT JOIN THIS SCHOOL AT ANY COST!\nThis is the worst school to ever exist. My brother studies in this school and he's in 7th grade. The teachers judge the students upon financial stuff and also use a logic of nepotism. They also use slurs and literally hit the students. The equipments are also very outdated",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Brett Dcosta"
+          },
+          "datePublished": "2024-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I spent a few years at that school, alot of memories and close friends, granted i had moved to a different country at the age of 12 and had left that school, i still remember a few memorable teachers and students i had left behind, live long St. James",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ahmed imran"
+          },
+          "datePublished": "2024-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Elizabeth A Banerjee TEACHER JUNIOR VERRY BAD BEHAVOIUR LIKE CORPORATION SCHOOL",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "wajahat jamal"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of few schools to have playground and a swimming pool. Amazing teaching atmosphere.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "School eStore"
+          },
+          "datePublished": "2023-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school of area.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dawood Ahmed Khan THE TELEGRAPH"
+          },
+          "datePublished": "2023-11-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the oldest school in Kolkata, founded by Bishop Cotton, celebrated 150 years in the year 2014. Mr. T. H. Ireland, one of the best educationist, is the Principal of the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. James School - Seal Lane,Tangra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reshmi Majumder"
+          },
+          "datePublished": "2023-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://8views.com/\\",
+    "https://schema.org/",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737160473958285e9d5e542d7ad1587371604.PNG\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737160473958285e9d5e542d7ad1587371604.PNG",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cycling.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737160473958285e9d5e542d7ad1587371604.PNG\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\"
+  ],
+  "rating": "4.2",
+  "views": "2219",
+  "reviews_count": "130",
+  "phone": "+919513238818",
+  "locality": "Seal Lane,Tangra",
+  "board": "ICSE\n\nCo",
+  "established": "1864",
+  "category": "Public Schools",
+  "classes": "000 - 90",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158737162512879299065e9d5e69585501587371625.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587371622993163255e9d5e66b5e3e1587371623.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737160473958285e9d5e542d7ad1587371604.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158737162720451516435e9d5e6b102771587371627.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873716262961434085e9d5e6aae24e1587371627.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873716269797646325e9d5e6aa65b31587371627.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1587371625632663055e9d5e696b1551587371625.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15873716228645624165e9d5e66c80041587371623.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cycling.png"
+  ]
+}

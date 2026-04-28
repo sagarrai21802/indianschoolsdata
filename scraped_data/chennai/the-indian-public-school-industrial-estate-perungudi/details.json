@@ -1,0 +1,373 @@
+{
+  "slug": "/school/chennai/the-indian-public-school-industrial-estate-perungudi",
+  "url": "https://yellowslate.com/school/chennai/the-indian-public-school-industrial-estate-perungudi",
+  "city": "chennai",
+  "name": "The Indian Public School - Industrial Estate,Perungudi ",
+  "scraped_at": "2026-04-28T18:05:12.204126",
+  "html_length": 402466,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Industrial Estate,Perungudi",
+          "item": "https://yellowslate.com/schools/chennai/industrial-estate-perungudi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/chennai/industrial-estate-perungudi/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Indian Public School",
+          "item": "https://yellowslate.com/school/chennai/the-indian-public-school-industrial-estate-perungudi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Indian Public School - Industrial Estate,Perungudi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/the-indian-public-school-industrial-estate-perungudi",
+      "telephone": "+91 924 498 8990",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No. 50, 51, 1st Main Rd, Industrial Estate, Perungudi, Chennai, Tamil Nadu 600096, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9576562,
+        "longitude": 80.2465074
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No. 50, 51, 1st Main Rd, Industrial Estate, Perungudi, Chennai, Tamil Nadu 600096, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/the-indian-public-school-industrial-estate-perungudi-industrial-estate-perungudi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "152"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Balamurugan.S"
+          },
+          "datePublished": "2026-01-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please don't join here, check any other good School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepika M"
+          },
+          "datePublished": "2024-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School administration is poor in handling queries and complaints from parents and nowadays there is no response at all for any complaints reg transport, food etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pethumani .V"
+          },
+          "datePublished": "2024-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The driver is driving the vehicle very fast and in a rush. He is talking very rudely. I don't know how he will take the child's life. The management should take discipline action",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vaibhav Yadav"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience, won't even let people visit the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tricolor Army"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not well behaved",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naman Sharma"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They don't let the people meet the receptionist, they directly say take appointments with the receptionist too. So unprofessional.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vaibhav Yadav"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst management, won't even let people in and meet at reception. Just hated the administration",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rathipriya Jayaraman"
+          },
+          "datePublished": "2023-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "When we were looking for a new school for Anikketh, we had to look into many things. He was not only moving into a new school, but a new country too. We were worried if he would adapt to the new environment and adjust. Thankfully TIPS was all into making him comfortable in the school zone. The teachers were patient and guided him until he got along with everything in the new year. A big thank you for that.\nWhat I like about the school is, education is never forced into the child, which would otherwise be a stress factor to them. Children do not face the education race in the primary section and hence they are not graded. This creates a positive and happy environment for the child to learn at their own pace without any stress at that age.\nAnother factor is the amount of importance they give to extra curricular activities. This makes the children understand that schools are not meant for academics alone, but other activities are equally important in the education system. The school understands that active involvement in sports and cultural activities are important for the mental and physical growth of the children. This is something we didn't see in many other schools.\nParents are never stopped when they raise an issue the children are facing, instead the coordinators and teachers listen to us the parents.\nI pray and hope the school maintains the same responsibilities they show now and grow further.\n\nParent of Anikketh Thangavelu Saravanan\n5A",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Senthil Kumar"
+          },
+          "datePublished": "2023-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If you want to join as a kg teacher it's a suicide mission...no work life balance .even after school hours they will torture you with chart work, meetings etc...don't even think of joining this school as a teacher..this review applies to all branches in chennai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Indian Public School - Industrial Estate,Perungudi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Senthil Kumar"
+          },
+          "datePublished": "2023-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If you want to join as a kg teacher it's a suicide mission...no work life balance .even after school hours they will torture you with chart work, meetings etc...don't even think of joining this school as a teacher..this review applies to all branches in chennai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1756198701147686040968ad772d2d8fd1756198701.webp\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.9",
+  "views": "685",
+  "reviews_count": "152",
+  "phone": "+919513238818",
+  "locality": "Industrial Estate,Perungudi",
+  "board": "IB, IGCSE\n\nCo",
+  "established": null,
+  "category": "Boarding Schools",
+  "classes": "000 - 115",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1756198701147686040968ad772d2d8fd1756198701.webp"
+  ]
+}

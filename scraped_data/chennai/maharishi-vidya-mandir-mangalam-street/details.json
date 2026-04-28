@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/maharishi-vidya-mandir-mangalam-street",
+  "url": "https://yellowslate.com/school/chennai/maharishi-vidya-mandir-mangalam-street",
+  "city": "chennai",
+  "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET ",
+  "scraped_at": "2026-04-28T18:03:14.365807",
+  "html_length": 346926,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MANGALAM STREET",
+          "item": "https://yellowslate.com/schools/chennai/mangalam-street"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/mangalam-street/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "MAHARISHI VIDYA MANDIR",
+          "item": "https://yellowslate.com/school/chennai/maharishi-vidya-mandir-mangalam-street"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/maharishi-vidya-mandir-mangalam-street",
+      "telephone": "+91 994 015 9191",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Mangalam Street, Vasanthapuram Main Rd, Pavendar Nagar, MGR Nagar, Mangadu, Chennai, Tamil Nadu 600122, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.031039,
+        "longitude": 80.124905
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Mangalam Street, Vasanthapuram Main Rd, Pavendar Nagar, MGR Nagar, Mangadu, Chennai, Tamil Nadu 600122, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/maharishi-vidya-mandir-mangalam-street-mangalam-street-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "G Prasad"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would give a negative rating for this school located in the Mangadu area.\nA total disaster ! This school greatly lacks teachers with the required proficiency. Children will put-in their hard efforts and the school will put up a banner taking credits! .... Parents who hope that their children will evolve & grow studying here, will surely be disappointed...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thanvika M"
+          },
+          "datePublished": "2023-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thank you so much Naga Mam (I std F section) for the positive influence on my child....😊 Having you as a teacher this year was the best experience for Thanvika🧚🏻‍♀️ , after covid this was a challenging year for my daughter and you helped make it easier👍.  I know that my daughter  has learned a lot from you this year and we will certainly miss you next year😔😔😔 I wish you good luck in your future endeavors🌹🌹🌹💐💐💐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anusha G"
+          },
+          "datePublished": "2023-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son Aahnik is studying in grade 1. I must say that I am very satisfied with the school especially with  his class teacher Sathiya mam. She is an amazing teacher. I could see a lot of improvements in his studies as well as in his behaviour. I am satisfied with my child's progress.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KARTHIK DURAI"
+          },
+          "datePublished": "2023-03-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Special education teaching staff doing great job,\nMy kid performance(reading, writing, attention)developing satisfactrily.Thanks to the staff and\nSchool management.\nRequest to increase more attention to these kids in terms of sports, and other extra curricular activities too.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MAHARISHI VIDYA MANDIR - MANGALAM STREET"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neelufuransari Thamim"
+          },
+          "datePublished": "2020-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dhanalakshmi mam of 4 B,way of teaching online classes is ausim.It is difficult to make kids concentrate in online classes but today her video presentation was really interesting.👍🏼",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.8",
+  "views": "484",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "MANGALAM STREET",
+  "board": "CBSE\n\nCo",
+  "established": "2017",
+  "category": "Day Schools",
+  "classes": "100 - 39",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "MAHARISHI VIDYA MANDIR ?\nAsk a Question\nMAHARISHI VIDYA MANDIR Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

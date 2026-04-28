@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/narayana-e-techno-school-abirami-nagar-poonamallee",
+  "url": "https://yellowslate.com/school/chennai/narayana-e-techno-school-abirami-nagar-poonamallee",
+  "city": "chennai",
+  "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee ",
+  "scraped_at": "2026-04-28T18:05:01.456898",
+  "html_length": 352304,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Abirami Nagar,Poonamallee",
+          "item": "https://yellowslate.com/schools/chennai/abirami-nagar-poonamallee"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/abirami-nagar-poonamallee/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Narayana E-Techno School",
+          "item": "https://yellowslate.com/school/chennai/narayana-e-techno-school-abirami-nagar-poonamallee"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/narayana-e-techno-school-abirami-nagar-poonamallee",
+      "telephone": "+91 735 801 7579",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No: 152, Poonamallee High Rd, near Saveetha Dental College, Velappanchavadi, Maduravoyal, Chennai, Tamil Nadu 600077, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0563035,
+        "longitude": 80.1255977
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No: 152, Poonamallee High Rd, near Saveetha Dental College, Velappanchavadi, Maduravoyal, Chennai, Tamil Nadu 600077, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/narayana-e-techno-school-abirami-nagar-poonamallee-abirami-nagar-poonamallee-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anshika Pandey"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Staff and principal is good behaviour very polite no extra pressure on student like another branch.\nVery good overall im missing my all teachers and friends.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sagaya rani"
+          },
+          "datePublished": "2023-06-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Oh god what school it is everyone as paying fee are you  are seeing this . It is a jail for you all boys are taking bad words and transport everyone school as leaving 3.30 but our school 4.50  and no ace only olympaid only ace and don't waste your money here pls.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinothkumar Porselvi"
+          },
+          "datePublished": "2022-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Satisfied with the materials provided in the school.  Good teaching . Helps children learn and understand better.  Teachers are friendly with the children so that they can understand their behavior and problems and they try to bring the child in the right path.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sweta Ramsisaria"
+          },
+          "datePublished": "2022-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Associated with this institution for 8yrs now...both my kids go to Narayana. Their curriculum and the study material they give is the best in the country..the efforts put in to mould each child is outstanding . They have highly qualified teachers (especially from 6th standard onwards )who train the kids so well and give such motherly care to each and every student .\nThanks a lot to the Principal madame for being so understanding and for taking the school to new heights,Always available to help the parents with their queries.\nThanks a ton to the management and the faculty for their constant support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Narayana e-Techno School - Abirami Nagar,Poonamallee"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRATHIPATI PRATAP"
+          },
+          "datePublished": "2022-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A SCHOOL THAT YOUR WARD'S DREAM CAN COME TRUE. AS A PARENT I AM EXTREMELY HAPPY WITH THE FEE STRUCTURE WHICH IS PRETTY LESS,, MANAGEMENT  WHICH IS MAGNANIMOUSLY MINDBLOWING AND TEACHERS THAT ARE TRULY TALENTED.. IT PROVIDES THE BEST EDUCATION, TEACHES LIFE SKILLS  TRAINS IN STRONG PSYCHE AND BETTER SOCIAL LIFE. CHILDREN DEVELOP THEIR ALL ROUND SKILLS AS STUDENTS.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.2",
+  "views": "497",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Abirami Nagar,Poonamallee",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "031 - 59",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Narayana e-Techno School ?\nAsk a Question\nNarayana e-Techno School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

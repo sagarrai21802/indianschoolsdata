@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/bvm-global-sithalapakkam-selaiyur",
+  "url": "https://yellowslate.com/school/chennai/bvm-global-sithalapakkam-selaiyur",
+  "city": "chennai",
+  "name": "B.V.M. Global - Sithalapakkam, Selaiyur ",
+  "scraped_at": "2026-04-28T18:04:46.466405",
+  "html_length": 351414,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sithalapakkam, Selaiyur",
+          "item": "https://yellowslate.com/schools/chennai/sithalapakkam-selaiyur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/sithalapakkam-selaiyur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "B.V.M. Global",
+          "item": "https://yellowslate.com/school/chennai/bvm-global-sithalapakkam-selaiyur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "B.V.M. Global - Sithalapakkam, Selaiyur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/bvm-global-sithalapakkam-selaiyur",
+      "telephone": "+91 4449578110",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Campus, Bollineni Hillside, Perumbakkam Main Rd, Nookampalayam, Post, Sithalapakkam, Chennai, Tamil Nadu 600131, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8801886,
+        "longitude": 80.2031598
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.V.M. Global - Sithalapakkam, Selaiyur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Campus, Bollineni Hillside, Perumbakkam Main Rd, Nookampalayam, Post, Sithalapakkam, Chennai, Tamil Nadu 600131, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/bvm-global-sithalapakkam-selaiyur-sithalapakkam-selaiyur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manikandan"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Be it the interest of the student to participate in any extracurricular activities or studies or students seeking clear cut career options for higher secondary students or anything, the school is very supportive. The principal and vice-principal are very practical to parents and students when it comes to studies or games or anything related to the student. My son is studying in this school since UKG and has been happy throughout years. He has never wanted to change schools. Principal and vice principal are easily approachable, understanding, and address all concerns of parents. Teachers were exceptionally supportive during the COVID-19 lockdown days and some of the teachers even gone beyond their duty to call in late evenings to clarify  doubts online.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.V.M. Global - Sithalapakkam, Selaiyur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lakshmi Priya"
+          },
+          "datePublished": "2023-06-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son had to leave this school as we got transferred over to an other State. Its been 4 years now.. if at all we go back to Chennai, my son still would want to go back to this school only.\nAs per me this is the best school ever.. I strongly recommend this school as they have best teachers and stress free environment for students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.V.M. Global - Sithalapakkam, Selaiyur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maheswari Nagula"
+          },
+          "datePublished": "2023-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our two sons have been attending BVM Global Bolleneni Hillside school for the past 5 years. Both absolutely love the school and its friendly, stress free and motivating environment\nThe teachers are friendly and very encouraging and give personalized care to the children. My younger son joined the school from first standard and initially he had anxiety of going to school, but the teachers took care of him and now he enjoys going to school.\nIn addition to the excellent learning facilities the school also provides opportunities to excel in sports and arts. I strongly recommend the school for all round development of children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.V.M. Global - Sithalapakkam, Selaiyur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sreenivasa Nagula"
+          },
+          "datePublished": "2023-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BVM Global School at Bollineni Hillside is an excellent place for kid’s education and holistic development of personality\nI have two kids attending this school, since we moved here 5 years ago. The school provides stress free and motivating environment for the kids to excel in academics, sports, arts and leadership skills.\nThe school curriculum includes the latest courses necessary to develop the next generation skills of the students, including Robotics, AI and other STEM courses. The school also collaborates with other organizations to expose the kids to the latest knowledge.\nThe school also encourages talent in various sports, arts, debates etc by providing excellent training and opportunities to participate in inter school competitions at various levels.\nThe teachers are knowledgeable, friendly, supportive and provide the utmost care to each child. When my elder kid had a medical emergency just before the board exams, the entire staff and management of the school went way out of their way to provide special facilities to him, constantly followed up on his behalf with the board and ensured that he was able to appear for the board exams. This has further reinforced my belief and trust that this is the right school for my kids\nI strongly recommend BVM school at Bollineni Hillside for the stress-free learning and overall personality development of the children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "B.V.M. Global - Sithalapakkam, Selaiyur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Uma R"
+          },
+          "datePublished": "2023-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our son has been attending BVM Global since UKG. He has transformed into an independent, confident, intelligent kid. The school provides stress free and motivating environment for the kids to excel in academics, sports, and arts. The teachers are knowledgeable, friendly, and supportive, which helped our son to get high score in his board exam. The school also awards scholarship for meritorious students. We appreciate the school management and teachers for providing a good learning environment to all the kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "5.0",
+  "views": "456",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sithalapakkam, Selaiyur",
+  "board": "CBSE\n\nCo",
+  "established": "2013",
+  "category": "Day Schools",
+  "classes": "000 - 150",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "B.V.M. Global ?\nAsk a Question\nB.V.M. Global Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

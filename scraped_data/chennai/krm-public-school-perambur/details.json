@@ -1,0 +1,425 @@
+{
+  "slug": "/school/chennai/krm-public-school-perambur",
+  "url": "https://yellowslate.com/school/chennai/krm-public-school-perambur",
+  "city": "chennai",
+  "name": "KRM Public School - Perambur ",
+  "scraped_at": "2026-04-28T18:03:54.634091",
+  "html_length": 438202,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Perambur",
+          "item": "https://yellowslate.com/schools/chennai/perambur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/perambur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "KRM Public School",
+          "item": "https://yellowslate.com/school/chennai/krm-public-school-perambur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "KRM Public School - Perambur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158451230819010198845e71bd34f123a1584512309.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/krm-public-school-perambur",
+      "telephone": "+91-9940469900, +91-9500046188",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Block No: 11, Shanthi Nagar, 2nd Lane, Sembium, (Perambur), Chennai, Tamil Nadu 600011",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.118136,
+        "longitude": 80.240495
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Block No: 11, Shanthi Nagar, 2nd Lane, Sembium, (Perambur), Chennai, Tamil Nadu 600011",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/krm-public-school-perambur-perambur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.3",
+              "reviewCount": "10"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suraj R D"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pretty large school though entrance and parking is a bit difficult.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parthiban Nedunchezhian"
+          },
+          "datePublished": "2022-08-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fire beast Sb"
+          },
+          "datePublished": "2022-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VENKET Kannan BJP"
+          },
+          "datePublished": "2022-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice infrastructure and good atmosphere to the children's",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Selvakumaran"
+          },
+          "datePublished": "2022-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saravanan D"
+          },
+          "datePublished": "2022-04-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great ambience. Very big playground.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Govu PushpaNagarajan"
+          },
+          "datePublished": "2022-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Normal UKG 56k fee.... 4standerd 76k .it's fast and easy earning business....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NANBENDA Gaming TECH"
+          },
+          "datePublished": "2022-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not worth for money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "prem rajendran"
+          },
+          "datePublished": "2022-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad Experience,\nYesterday and today (21.02.2022 and 22.02,2022 )school reopened for SKG and PKG.\nParent are coming along with kids to leave the children but teachers are not ready to take the kids and they asking us to wait for 5 to 10 minutes once everyone settled, Teachers are announcing in the MIC to leave the SKG and JKG students due to these crowd is getting formed some kids are taking vomiting and kids are looking tired while standing in the big queue under the Sunlight but the Principal and teachers are standing under the trees welcoming the kids.\nand they are not bothered about anything. And I don't know why none of the parents are not asking anything about these.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "KRM Public School - Perambur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sathish kumar"
+          },
+          "datePublished": "2022-01-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience with staff members rough behaviour.... Not at all recommended...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://www.youtube.com/embed/L4ut1d9edEo\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/embed/RovSqQaOlCE\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/embed/qnxedC-fbrY\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.youtube.com/embed/tDzJRKChGhk\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158451230819010198845e71bd34f123a1584512309.PNG\\\\\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15845126613744834135e71be9551fce1584512661.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158451230819010198845e71bd34f123a1584512309.PNG",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/embed/ZhlYbaDTr9c\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158451230819010198845e71bd34f123a1584512309.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158589658518158309325e86dc89580361585896585.jpg\\"
+  ],
+  "rating": "3.3",
+  "views": "3509",
+  "reviews_count": "10",
+  "phone": "+919513238818",
+  "locality": "Perambur",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Public Schools",
+  "classes": "500 - 22",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://img.youtube.com/vi/L4ut1d9edEo/hqdefault.jpg",
+    "https://img.youtube.com/vi/qnxedC-fbrY/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845123332810324495e71bd4d9b1e11584512334.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158451233112425494765e71bd4b3297a1584512331.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158451239010983384465e71bd8607e711584512390.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845123907401230165e71bd860ad881584512390.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845123862513565295e71bd82527291584512386.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158451238613385640285e71bd825527c1584512386.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845123318591484785e71bd4b2c15f1584512331.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://img.youtube.com/vi/tDzJRKChGhk/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158451233312434863595e71bd4d9919f1584512334.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15845126613744834135e71be9551fce1584512661.PNG",
+    "https://img.youtube.com/vi/ZhlYbaDTr9c/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158451230819010198845e71bd34f123a1584512309.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://img.youtube.com/vi/RovSqQaOlCE/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

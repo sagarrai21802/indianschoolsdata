@@ -1,0 +1,381 @@
+{
+  "slug": "/school/chennai/vaels-international-school-injambakkam",
+  "url": "https://yellowslate.com/school/chennai/vaels-international-school-injambakkam",
+  "city": "chennai",
+  "name": "Vaels International School - Injambakkam ",
+  "scraped_at": "2026-04-28T18:03:01.793563",
+  "html_length": 439727,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Injambakkam",
+          "item": "https://yellowslate.com/schools/chennai/injambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/injambakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vaels International School",
+          "item": "https://yellowslate.com/school/chennai/vaels-international-school-injambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vaels International School - Injambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1584530374651950355e7203c67f3241584530375.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/vaels-international-school-injambakkam",
+      "telephone": "+ 91 96000 39910, 97909 57622",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Pon Vidhyashram Gardens, Off, SH 49, Injambakkam, Chennai, Tamil Nadu 600115",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9178527,
+        "longitude": 80.2471544
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pon Vidhyashram Gardens, Off, SH 49, Injambakkam, Chennai, Tamil Nadu 600115",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/vaels-international-school-injambakkam-injambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "8"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dorothy Kennedy"
+          },
+          "datePublished": "2022-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very pleasant and nice staffs",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DeepaPriya Gopal"
+          },
+          "datePublished": "2022-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A lovely school to grow and nurture your children. I have been with them since eight years and have found them to be very polite and kind.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sapnaraviyadav"
+          },
+          "datePublished": "2022-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great School, lovely Campus, been with them since 2008 and they have grown and branched out very well. Easy to access with the admin department so addressing any problems is smooth. Teachers are patient and understanding. All in all a great place to grow at.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A D"
+          },
+          "datePublished": "2022-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers behaved badly to the little children thinking that they werent being watched. After reporting to principal rohini she covered up the whole issue. The teachers are not qualified and they are very partial to celebrity kids and those who are rich, they dont treat everyone equally. Not a place for value education and learning. Worst attitude of mrs. Rohini. Very few good teachers are good but they too get spoiled by the show off attitude unfortunately. Good infrastructure and efforts by most parents for their kids growth are positives.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Murali Paramesh"
+          },
+          "datePublished": "2021-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school with experienced, qualified and compassionate teachers. Has a state-of-the art sports and academic infrastructure. The school has consistently produced national and global ranks in the board examinations.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRABHAKARAN R"
+          },
+          "datePublished": "2021-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice Place",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maislyn W"
+          },
+          "datePublished": "2020-11-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school that asks for parents to teach in school,wherein,such teachers and students will be bestowed with special ‘status’-making them eligible for everything,panning from the special attention of fellow teachers,special gestures from school,nominations as heads of various clubs to many ‘firsts’ in school competitions,none of which are deserving.So if you are a parent otherwise free,please sign up as a teacher to avail all the above said privileges.And to those who care about real education,focusing on the overall development of your child, get ready to be agitated from day 1.Lastly,to the students who really possess some talent or good in what you do,please don’t expect anything from the school,they won’t even notice you.This school is for inane and flippant,vocal braggarts and regressive ‘staff Caucus’ - and the centrepiece of this drama is a revolving door of principals, who are, in turn, often bootlicked and influenced.\nHaving witnessed everything,the only few teachers who really know their job,make their imminent exit ,as the ‘caucus’ flourishes like the water weed Salvinia Molesta,by receiving awards and recognitions from the management.\n\nPositively, if the child is intelligent enough,they can get accustomed with a future hypocrite society where good is never recognised and evil is being nurtured by the system itself.\n\nAll the best parents and children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vaels International School - Injambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gnaneswaran A"
+          },
+          "datePublished": "2020-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I need the swimming pool photos",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1584530374651950355e7203c67f3241584530375.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/embed/qCvvumbynyY\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15872870691601407865e9c141dab8691587287070.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15867827537530918065e94622140e801586782753.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/embed/cXE-RQzwRWs\\",
+    "https://www.youtube.com/embed/eG69bgRXLbw\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/embed/c_EObbSSG2o\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1584530374651950355e7203c67f3241584530375.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1584530374651950355e7203c67f3241584530375.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\"
+  ],
+  "rating": "4.0",
+  "views": "3634",
+  "reviews_count": "8",
+  "phone": "+919513238818",
+  "locality": "Injambakkam",
+  "board": "CBSE, IGCSE\n\nCo",
+  "established": "1992",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158453046817602172335e7204247d0bc1584530469.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158453044314920232505e72040bca59b1584530444.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1584530386333535005e7203d259f251584530386.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1584530374651950355e7203c67f3241584530375.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845303903140777145e7203d6edec71584530391.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://img.youtube.com/vi/c_EObbSSG2o/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845303864844836565e7203d26261c1584530386.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1584530388435721285e7203d4bc1531584530389.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15867827537530918065e94622140e801586782753.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158453039019887837125e7203d6eeb901584530391.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845304686657168645e7204247dd151584530469.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://img.youtube.com/vi/eG69bgRXLbw/hqdefault.jpg",
+    "https://img.youtube.com/vi/cXE-RQzwRWs/hqdefault.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15845303885018358575e7203d4bcd361584530389.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://img.youtube.com/vi/qCvvumbynyY/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158453044317791115195e72040bcd8411584530444.PNG"
+  ]
+}

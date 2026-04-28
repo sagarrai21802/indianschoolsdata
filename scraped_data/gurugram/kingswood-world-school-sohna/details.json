@@ -1,0 +1,370 @@
+{
+  "slug": "/school/gurugram/kingswood-world-school-sohna",
+  "url": "https://yellowslate.com/school/gurugram/kingswood-world-school-sohna",
+  "city": "gurugram",
+  "name": "Kingswood World School - Sohna ",
+  "scraped_at": "2026-04-28T15:16:45.999333",
+  "html_length": 393558,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sohna",
+          "item": "https://yellowslate.com/schools/gurugram/sohna"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sohna/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kingswood World School",
+          "item": "https://yellowslate.com/school/gurugram/kingswood-world-school-sohna"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kingswood World School - Sohna",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/kingswood-world-school-sohna",
+      "telephone": "093109 01090",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kingswood World School, Damdama Lake Road, Sohna, Gurugram Road, Gurugram, Haryana 122102",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3444232,
+        "longitude": 77.0695704
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kingswood World School, Damdama Lake Road, Sohna, Gurugram Road, Gurugram, Haryana 122102",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/kingswood-world-school-sohna-sohna-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "121"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-09-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am deeply concerned about the quality of education and management at this school. The teaching standards are extremely poor, and many staff members display unprofessional and disrespectful behavior. The principal appears more interested in leisure activities and outings with staff, reportedly funded by parents’ contributions, rather than focusing on academics or student welfare.\n\nThe school lacks proper academic rigor, sports facilities, and extracurricular activities beyond singing and dancing. Some teachers show unprofessional conduct towards colleagues, and there is a noticeable lack of training and professionalism among the staff. Their heavy regional accents are also affecting students’ speech and confidence.\n\nOverall, this school is failing to provide a safe, disciplined, and academically enriching environment for children. I strongly recommend that CBSE or relevant authorities conduct a thorough inspection and take corrective measures to ensure the school meets basic educational standards.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vasundhara Raghav"
+          },
+          "datePublished": "2024-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mahesh Rathaur"
+          },
+          "datePublished": "2024-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience with Kingswood has been highly disappointing.\n\nThe school prioritizes course completion over the child's actual understanding of the material. Parent-Teacher Meeting (PTM) follow-ups are entirely neglected.\n\nWhile the school offers arts, sports, and other extracurricular activities, there is no system in place for parents to assist their child in making selections or receiving updates on their progress.\n\nClass teachers seem unaware of why certain rules are abruptly implemented. For instance, they used to show parents the Unit Test answer sheets, which helped parents gauge their child's performance. However, this practice was suddenly stopped, and the class teacher stated that principal approval is now required to view notebooks. This is completely unreasonable, especially given how crowded PTM days already are.\n\nAdditionally, the lunch break is only 20 minutes long, which is insufficient for students to eat and relax properly.\n\nMoreover, there appears to be no clear point of contact for addressing complaints or suggestions, which is deeply concerning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shivani singh"
+          },
+          "datePublished": "2024-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "- What did you enjoy most about the program?\nEverything you organised with these kids are wonderful. Starting of an event by remembering the God is grateful. The way you teach them in class with stories and fun is so much remarkable and appreciable. 🎀💟\n\n*Special Thanks to Tapasya and Pooja for being always  your kind and patient with these little stars.*.. !!\n\n- Do you have any suggestions for future improvements?\n- No",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MANISHA Pradhan"
+          },
+          "datePublished": "2024-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I highly recommend Kingswood School's nursery program! Tapasya Mam and Pooja Mam are exceptional teachers who create a warm and nurturing environment. They engage the children with fun and educational activities, fostering both creativity and social skills. Communication with parents is excellent, making us feel involved in our child's progress. We're so glad to be part of this wonderful institution!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mansi dhankhar"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Firstly,The teachers are amazing.My son love to attend and learn.This School set a solid foundation for their learning path.Every single student is treated with love and care..both the teachers Tapasya Sharma and Pooja Kashyap are really great.They helped my child grow and learn new things everyday.My Child loves to go to school and I appreciate his bondings with his teachers..Also the staff is friendly and caring and trained well for the safety of the child.I feel the environment of School is very warm and positive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandeep Nain"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is in Mont 1 Lilly , I am so satisfied with the experience till now . Tapasya and Pooja Ma’am are the best teachers my son could have gotten in his first school days. Both the teachers are in a way his best friends , he talk about them at home and when he is sick , teachers miss him and call him thru video calling to make sure he is well . More than studies , I wanted my son’s environment to be caring and supportive and which is why I feel he is living his best days right now , thank you so much teachers and entire staff including sisters at school and at buses( Sheelu Pandey is another person he has bonded so well). kudos to the principal Ma’am as well , so lively.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanchi Narula"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter and son is studying in this school this is very good school teachers are also good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Sharma"
+          },
+          "datePublished": "2024-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kingswood School is doing excellent in all the fields especially giving a lot of exposure to children. Very nicely planned and organized Academic programme. Good efforts by all teachers. I am very grateful to all teachers, specially Bhawna Mam and Principal. My daughter is being groomed very well. Different teaching and learning style is used with Interactive Digiboards which makes learning a fun for my child. Keep it up! I wish a great success to all faculties.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kingswood World School - Sohna"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sunil Raghav"
+          },
+          "datePublished": "2024-09-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A good academic institution with knowledgeable teachers and supportive staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.7",
+  "views": "57",
+  "reviews_count": "121",
+  "phone": "+919513238818",
+  "locality": "Sohna",
+  "board": "CBSE\n\nCo",
+  "established": "2002",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Kingswood World School ?\nAsk a Question\nKingswood World School Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 3.0\nValue for Money\n 1.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

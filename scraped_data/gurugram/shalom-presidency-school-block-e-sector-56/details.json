@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/shalom-presidency-school-block-e-sector-56",
+  "url": "https://yellowslate.com/school/gurugram/shalom-presidency-school-block-e-sector-56",
+  "city": "gurugram",
+  "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56 ",
+  "scraped_at": "2026-04-28T15:20:00.271857",
+  "html_length": 349652,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Block E,Sector 56",
+          "item": "https://yellowslate.com/schools/gurugram/block-e-sector-56"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/block-e-sector-56/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SHALOM PRESIDENCY SCHOOL",
+          "item": "https://yellowslate.com/school/gurugram/shalom-presidency-school-block-e-sector-56"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/shalom-presidency-school-block-e-sector-56",
+      "telephone": "+91 783 829 7733",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Golf Course Ext Rd, Sushant Lok II, Sector 56, Gurugram, Haryana 122011, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4120642,
+        "longitude": 77.0740202
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Golf Course Ext Rd, Sushant Lok II, Sector 56, Gurugram, Haryana 122011, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/shalom-presidency-school-block-e-sector-56-block-e-sector-56-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Katyal"
+          },
+          "datePublished": "2023-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Learning can be so majestic....yes recently we visited the science exhibition organised by one of the prestigious school of Gurgaon, Shalom Presidency School.\nEverything seemed to be so perfect and flawless....\n\nThe school works on the overall development and grooming of a student.\nThe compassion, commitment and dedication of the of the Founder of the school, Dr Lilly George, also known as MD Ma'am, is outstanding and sets an example for her teachers and her students.\nA highly recommended school with world class amenities, the indoor swimming pool, a home away from home day care, the labs are well equipped.\nWorld class education under one roof.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satya Deepak"
+          },
+          "datePublished": "2023-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a very happy and satisfied parent of Shalom Presidency School since last 8 years.   The school provides a very secure environment for my son . The management is very cooperative and easily approachable. There is a perfect balance between Academics and Co curricular activities. They have well qualified teachers and other staffs who are very helpful at all times.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SONI VOHRA"
+          },
+          "datePublished": "2023-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for academics and extracurricular activities for children with highly educated teachers and qualified staff. School focuses on overall development of kids. My child has become more expressive  and communication skill has improved tremendously .\nAll the students are given equal intention which is pretty great. It prepares a child to a future leader. Overall it is one of the best school with great infrastructure.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Aneja"
+          },
+          "datePublished": "2023-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child has been attending Shalom Presidency School for the past six years, and I am happy with the education and experience he has received. The teachers are knowledgeable, compassionate, and go above and beyond to ensure that each child is receiving personalized attention and support. The school's emphasis on character development and community involvement has helped my child develop important social and emotional skills that will benefit them for a lifetime. I highly recommend Shalom Presidency School to any parent looking for an excellent education for their child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SHALOM PRESIDENCY SCHOOL - Block E,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kalpana Dixit"
+          },
+          "datePublished": "2023-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Shalom Presidency is one of the best schools in Gurgaon with high class infrastructure for kids specially their new galaxy wing is loaded with world class facilities for the tiny tots to learn in the most facilitative and propitious environment.\nTheir classrooms, play areas and learning rooms are very spacious, well ventilated and visually appealing.  My son is always excited to go to school and this is such a relief as a mother.\nI highly recommend this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "5.0",
+  "views": "422",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Block E,Sector 56",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

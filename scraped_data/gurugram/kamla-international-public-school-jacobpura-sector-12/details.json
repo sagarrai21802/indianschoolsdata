@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/kamla-international-public-school-jacobpura-sector-12",
+  "url": "https://yellowslate.com/school/gurugram/kamla-international-public-school-jacobpura-sector-12",
+  "city": "gurugram",
+  "name": "Kamla International Public School - Jacobpura,Sector 12 ",
+  "scraped_at": "2026-04-28T15:14:00.857188",
+  "html_length": 351563,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Jacobpura,Sector 12",
+          "item": "https://yellowslate.com/schools/gurugram/jacobpura-sector-12"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/jacobpura-sector-12/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kamla International Public School",
+          "item": "https://yellowslate.com/school/gurugram/kamla-international-public-school-jacobpura-sector-12"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kamla International Public School - Jacobpura,Sector 12",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/kamla-international-public-school-jacobpura-sector-12",
+      "telephone": "+91 1242325925",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "near Sonia Service Station, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4607842,
+        "longitude": 77.0414969
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kamla International Public School - Jacobpura,Sector 12",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "near Sonia Service Station, Sector 15 Part 2, Sector 15, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/kamla-international-public-school-jacobpura-sector-12-jacobpura-sector-12-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NILESH KUMAR"
+          },
+          "datePublished": "2023-07-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's big name but quilty faltu type",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kamla International Public School - Jacobpura,Sector 12"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikas Sharma"
+          },
+          "datePublished": "2020-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "How do I get in touch with Admin.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kamla International Public School - Jacobpura,Sector 12"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramjeet"
+          },
+          "datePublished": "2019-05-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kamla International Public School - Jacobpura,Sector 12"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kamal Kumar"
+          },
+          "datePublished": "2019-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kamal  kumar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kamla International Public School - Jacobpura,Sector 12"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Supreet Singh"
+          },
+          "datePublished": "2018-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A small school built within residential area on a plot of 500 sqft.\n\nSchool provides teaching till 8th standard.\n\nThey hardy have strength of 100 students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.2",
+  "views": "438",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Jacobpura,Sector 12",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "600 - 45",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

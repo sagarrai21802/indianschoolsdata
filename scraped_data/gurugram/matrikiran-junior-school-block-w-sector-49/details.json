@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/matrikiran-junior-school-block-w-sector-49",
+  "url": "https://yellowslate.com/school/gurugram/matrikiran-junior-school-block-w-sector-49",
+  "city": "gurugram",
+  "name": "MatriKiran Junior School - Block W,Sector 49 ",
+  "scraped_at": "2026-04-28T15:42:34.098995",
+  "html_length": 357036,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Block W,Sector 49",
+          "item": "https://yellowslate.com/schools/gurugram/block-w-sector-49"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/gurugram/block-w-sector-49/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "MatriKiran Junior School",
+          "item": "https://yellowslate.com/school/gurugram/matrikiran-junior-school-block-w-sector-49"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "MatriKiran Junior School - Block W,Sector 49",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/matrikiran-junior-school-block-w-sector-49",
+      "telephone": "+91 965 069 0222",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Vatika City, Block W, Uppal Southend, Sector 49, Vatika City, Block W, Uppal Southend, Sector 49, Gurugram, Haryana 122018, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4065921,
+        "longitude": 77.0463023
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MatriKiran Junior School - Block W,Sector 49",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Vatika City, Block W, Uppal Southend, Sector 49, Vatika City, Block W, Uppal Southend, Sector 49, Gurugram, Haryana 122018, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/matrikiran-junior-school-block-w-sector-49-block-w-sector-49-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjeev Kumar"
+          },
+          "datePublished": "2023-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is good but while doing admission they mention all kind of rules to get your child admitted to a lower class so that they can mint money for one more year.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MatriKiran Junior School - Block W,Sector 49"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poulomi Chatterji"
+          },
+          "datePublished": "2023-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A happy parent. If you are only looking for academic excellence then should avoid. The school rather concentrates in making the student a good and a resilient human. It also has a very green campus and very approachable and down to earth staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MatriKiran Junior School - Block W,Sector 49"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "D.Senthil Kumar"
+          },
+          "datePublished": "2023-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great achool individual student attend. Small class size. Commited set of teachers. Good infrastructure!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MatriKiran Junior School - Block W,Sector 49"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonu Singh"
+          },
+          "datePublished": "2022-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If you are looking for a school which gives your child a holistic growth along with imparting knowledge and discipline then this is the school. They have a beautiful campus which is spread across a wide area.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MatriKiran Junior School - Block W,Sector 49"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "FANTASTIC ME"
+          },
+          "datePublished": "2022-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is Nabanita. I am Darsh Dutta’s mommy, he is in Nursery B. Today I am very happy with his progress. Today he could spell his name along with mine and his dad. He did this with phonic sound. He is learning about meditation, yoga, Swami Sri Aurobindoji, Mother Nature. I want to thank Principal Jyoti Guha, Matrikiran Team and Specially thank you to all teachers of Nursery Class.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1720089374196116907866867b1e53a6e1720089374.jpeg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.4",
+  "views": "520",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Block W,Sector 49",
+  "board": "ICSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "000 - 125",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1720089374196116907866867b1e53a6e1720089374.jpeg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

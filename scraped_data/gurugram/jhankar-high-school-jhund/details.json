@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/jhankar-high-school-jhund",
+  "url": "https://yellowslate.com/school/gurugram/jhankar-high-school-jhund",
+  "city": "gurugram",
+  "name": "JHANKAR HIGH SCHOOL - JHUND ",
+  "scraped_at": "2026-04-28T15:35:38.232629",
+  "html_length": 345603,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JHUND",
+          "item": "https://yellowslate.com/schools/gurugram/jhund"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/jhund/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "JHANKAR HIGH SCHOOL",
+          "item": "https://yellowslate.com/school/gurugram/jhankar-high-school-jhund"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "JHANKAR HIGH SCHOOL - JHUND",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/jhankar-high-school-jhund",
+      "telephone": "+91 931 060 3060",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Jhund Sarai at Babra Bakirpur Farrukhnagar Gurugram, Babra Bakipur, Khawaspur, Haryana 122503, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.389075,
+        "longitude": 76.8461167
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JHANKAR HIGH SCHOOL - JHUND",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Jhund Sarai at Babra Bakirpur Farrukhnagar Gurugram, Babra Bakipur, Khawaspur, Haryana 122503, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/jhankar-high-school-jhund-jhund-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurpreet Singh"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We went 19Aug 2023 for bank exam.\nRoad under construction in front of school it's good aproach from Periferal express way and pataudi road cuts each other.0be careful on roads due to huge vehical on the road there may be ware houses adani etc.\nThere is adjoining Petrol pump to the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JHANKAR HIGH SCHOOL - JHUND"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "HP Pavilion"
+          },
+          "datePublished": "2023-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One can reach here for competitive exams by:-\nFirst, take metro to M.G Road, from there take auto/bus to reach gurgaon bus stand  and from there 3 options are available.\n1. Take bus from either bus stand or Mahavir chowk/ Gaushala ground bus stand going to pataudi, get down at jhankar high school (they will charge around 20rs.)\n2. Take shared auto to hayatpur/wazirpur chowk and then take another auto to jhankar high school.\n3. Take direct auto to jhankar high school.\n\nLocker facilities- either deposit outside for 20rs Or place inside the school in the rack (at your own risk)\n\nFor washrooms/ toilets, one can use nearby petrol pump washrooms as no facility provided outside the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JHANKAR HIGH SCHOOL - JHUND"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aastha Pandey"
+          },
+          "datePublished": "2023-08-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "How do we reach there from Delhi I HV rrb exam there",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JHANKAR HIGH SCHOOL - JHUND"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti Brijwal"
+          },
+          "datePublished": "2023-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good environment and very cooperative teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JHANKAR HIGH SCHOOL - JHUND"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "preet"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "How do we reach here I have my rrb exam here and I don't know how to reach this place can someone please help",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "3.4",
+  "views": "534",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "JHUND",
+  "board": "CBSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "400 - 19",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "JHANKAR HIGH SCHOOL ?\nAsk a Question\nJHANKAR HIGH SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

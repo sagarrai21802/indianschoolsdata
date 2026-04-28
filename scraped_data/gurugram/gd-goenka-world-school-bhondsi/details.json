@@ -1,0 +1,367 @@
+{
+  "slug": "/school/gurugram/gd-goenka-world-school-bhondsi",
+  "url": "https://yellowslate.com/school/gurugram/gd-goenka-world-school-bhondsi",
+  "city": "gurugram",
+  "name": "GD Goenka World School - Bhondsi ",
+  "scraped_at": "2026-04-28T15:12:51.413589",
+  "html_length": 393054,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhondsi",
+          "item": "https://yellowslate.com/schools/gurugram/bhondsi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/gurugram/bhondsi/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "GD Goenka World School",
+          "item": "https://yellowslate.com/school/gurugram/gd-goenka-world-school-bhondsi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "GD Goenka World School - Bhondsi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/gd-goenka-world-school-bhondsi",
+      "telephone": "95136-31471",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "G.D. Goenka Education City, Sohna - Gurgaon Rd, Sohna, Haryana ",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.2692976,
+        "longitude": 77.0665622
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "G.D. Goenka Education City, Sohna - Gurgaon Rd, Sohna, Haryana ",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/gd-goenka-world-school-bhondsi-bhondsi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "32"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Uttam Sharma"
+          },
+          "datePublished": "2023-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School for Education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diptansu Rijal"
+          },
+          "datePublished": "2022-12-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school great facilities and the food and canteen is amazing I had great 2 years experience at GDGWS",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kriti Garg"
+          },
+          "datePublished": "2022-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super school teachers are so caring studies are so good for every grade .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "singing world"
+          },
+          "datePublished": "2022-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good but you can learn",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sourav Kaushik"
+          },
+          "datePublished": "2022-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best university in gurugram",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Archit"
+          },
+          "datePublished": "2022-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please if you care even a bit about yourself. Don't go to this school. It ruins lives.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Devansh Sharma"
+          },
+          "datePublished": "2020-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience this school. They are spammers and scammers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pradhaan pradhaan"
+          },
+          "datePublished": "2020-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice educational city.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ashutosh kumar"
+          },
+          "datePublished": "2019-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing infrastructure, and really well maintained School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GD Goenka World School - Bhondsi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krishna Rathi"
+          },
+          "datePublished": "2019-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School didnt give a merit certificate for coming first in the inter school competetion",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/scrnli_7_9_2024_4-03-37-PM.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "3.9",
+  "views": "279",
+  "reviews_count": "32",
+  "phone": "+919513238818",
+  "locality": "Bhondsi",
+  "board": "IB, IGCSE\n\nCo",
+  "established": "2003",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

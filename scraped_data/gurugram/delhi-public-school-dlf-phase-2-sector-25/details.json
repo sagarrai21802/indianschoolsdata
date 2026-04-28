@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/delhi-public-school-dlf-phase-2-sector-25",
+  "url": "https://yellowslate.com/school/gurugram/delhi-public-school-dlf-phase-2-sector-25",
+  "city": "gurugram",
+  "name": "Delhi Public School - DLF Phase 2,Sector 25 ",
+  "scraped_at": "2026-04-28T15:35:17.441354",
+  "html_length": 349339,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DLF Phase 2,Sector 25",
+          "item": "https://yellowslate.com/schools/gurugram/dlf-phase-2-sector-25"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/dlf-phase-2-sector-25/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/gurugram/delhi-public-school-dlf-phase-2-sector-25"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - DLF Phase 2,Sector 25",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/delhi-public-school-dlf-phase-2-sector-25",
+      "telephone": "+91 1244291548",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P5, Akashneem Marg, Behind Oakwood Estate, DLF City, DLF Phase 2, Sector 25, Gurugram, Haryana 122008, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4843402,
+        "longitude": 77.0862264
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - DLF Phase 2,Sector 25",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P5, Akashneem Marg, Behind Oakwood Estate, DLF City, DLF Phase 2, Sector 25, Gurugram, Haryana 122008, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/delhi-public-school-dlf-phase-2-sector-25-dlf-phase-2-sector-25-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aaditya S"
+          },
+          "datePublished": "2023-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "the school is good, but I was student in this a few years ago, its transport facility isn't good for students as I have  experienced many accidents while traveling in the school transport. Kindly be aware of it and be safe",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - DLF Phase 2,Sector 25"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "radhika malhotra"
+          },
+          "datePublished": "2021-11-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child has been a dipsite for the last five years.We are extremely fortunate to be associated with Delhi Public School,Maruti Kunj.\nI greatly appreciate the qualified and dedicated teachers, who are leaving no stone unturned ,to make online teaching innovative and effective.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - DLF Phase 2,Sector 25"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "varchasvee sehgal"
+          },
+          "datePublished": "2021-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Brilliant experience with DPS DLF City. My child joined the school 4 years ago. Me and my wife has always been following the ethics and rules of the school and it been an excellent experience to be a part of DPS family.  A special thanks to all the members of tthehe school to conduct the studies as well as co-curricular activities so well.  has taken another step higher during online classes since last year. Our  Gratitude to DPS DLF City for their unending and  sincere support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - DLF Phase 2,Sector 25"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Uttam Sharma"
+          },
+          "datePublished": "2020-08-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS DLF City is governed by DPS Maruti Kunj. Good campus. Lovely environment, good teaching standard. Qualified teachers all well behaved and trained. Greenery all sides of the school. Field is too big and well managed. Overall good school with good curriculum activities with affordable price. Maruti Group is playing good role to govern the school. Sometime unrealistic fee hike is a problem with this school. Overall 4 stars out of 5 from my side.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - DLF Phase 2,Sector 25"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "M n M"
+          },
+          "datePublished": "2019-02-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school. Less show off, more substance. And they dont fleece you like some other schools in Gurgaon whose sole motive appears to be earning a profit at any cost. I have only had good experiences so far.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.2",
+  "views": "727",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "DLF Phase 2,Sector 25",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "400 - 66",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

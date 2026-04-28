@@ -1,0 +1,261 @@
+{
+  "slug": "/school/gurugram/presidium-school-sector-2-palam-vihar",
+  "url": "https://yellowslate.com/school/gurugram/presidium-school-sector-2-palam-vihar",
+  "city": "gurugram",
+  "name": "Presidium School - Palam Vihar ",
+  "scraped_at": "2026-04-28T15:41:41.865709",
+  "html_length": 356250,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palam Vihar",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Presidium School",
+          "item": "https://yellowslate.com/school/gurugram/presidium-school-sector-2-palam-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Presidium School - Palam Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/presidium-school-sector-2-palam-vihar",
+      "telephone": "+91 783 865 3150",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Near Spanish Court Pocket C Krishna Chowk B &, Block C, Sector 2, Palam Vihar, Gurugram, Haryana 122017, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.502524,
+        "longitude": 77.029255
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Presidium School - Palam Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Near Spanish Court Pocket C Krishna Chowk B &, Block C, Sector 2, Palam Vihar, Gurugram, Haryana 122017, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/presidium-school-sector-2-palam-vihar-palam-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saini TV"
+          },
+          "datePublished": "2023-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No need to see it alredy sold to Sri chetanya future pathways",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Presidium School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S S"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever. Teachers are biased and deaf to any queries that parents enquire. My kid us depressed on how he is treated here. Management never responds to any emails you write. Fully commercial school who don't track and reconcile fee records keep sending reminders despite no dues.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Presidium School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kavita kavita"
+          },
+          "datePublished": "2021-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I Enrolled my ward in the school during the starting of the pandemic and he has not visited the school since then and in online classes also he is facing many issues, the teachers didn't respond to the problems which I have complaint . There is no solution from the teachers and even academic head not responds to the problems. The staff doesn't treats all children equally. There is no worth of my money by seeing the behaviour, management and the ignorance of the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Presidium School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitesh Saxena"
+          },
+          "datePublished": "2019-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School with all advance technology. Good infrastructure.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Presidium School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaysenjx “Travel India”"
+          },
+          "datePublished": "2019-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Presidium School is a very famous school. This school can been seen from the main road itself. It's near Krishna Chowk. This school has all the facilities like Digital classroom, library, Science lab, computer lab all at state of art building. Students here are very secure as they are every strict with their security. Admission here is very easy as they don't have much students as per their Brand name. Teachers here are well qualified, earlier management had salary issues now its solved. They also has a play school in the name of Mother's Pride, which grooms your child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15966256471387878385f2a92efe23491596625648.PNG\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "2.0",
+  "views": "580",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Palam Vihar",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15966256471387878385f2a92efe23491596625648.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

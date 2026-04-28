@@ -1,0 +1,420 @@
+{
+  "slug": "/school/gurugram/shiv-nadar-school-sector-26a",
+  "url": "https://yellowslate.com/school/gurugram/shiv-nadar-school-sector-26a",
+  "city": "gurugram",
+  "name": "Shiv Nadar School - Sector 26A ",
+  "scraped_at": "2026-04-28T15:25:42.968676",
+  "html_length": 460264,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 26A",
+          "item": "https://yellowslate.com/schools/gurugram/sector-26a"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-26a/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shiv Nadar School",
+          "item": "https://yellowslate.com/school/gurugram/shiv-nadar-school-sector-26a"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shiv Nadar School - Sector 26A",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168650649992440600264860c031744e1686506499.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/shiv-nadar-school-sector-26a",
+      "telephone": "0124-4549200",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Pahari Road, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122011",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4651734,
+        "longitude": 77.1003323
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pahari Road, Block E, DLF Phase 1, Sector 26A, Gurugram, Haryana 122011",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/shiv-nadar-school-sector-26a-sector-26a-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "77"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ceo panacea"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent faculty and outstanding infrastructure.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tara"
+          },
+          "datePublished": "2023-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Shiv Nadar school is very good, the staff is nice and the teachers are pacient. Definitely recommend sending your child their",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhruv Kumar Malhotra"
+          },
+          "datePublished": "2023-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good infrastructure and design",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yaksh Bansal"
+          },
+          "datePublished": "2023-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This place is amazing I am student you will love this school it is just the best I used to be in SUNCITY school but I like shiv nadar way better!!!😎☺️the teachers are the best!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "soulmountain23"
+          },
+          "datePublished": "2023-08-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Many points before i really moved my kid out -\n1. They dont teach but take exams. (ASL, Steam and hundreds of pointless crafts but they teach nothing, guide in nothing, help in nothing just take test and score ...god knows on what basis). More effort in MUN and OLE than actual study.\n\n2. Teachers dont coordinate with each others. One asks for a session the other stops. in the end kids suffer no grade level or even section level coordination.\n\n3. Shady scoring method that even god will not understand so you never know how your kid is progressing some weighted average and not score on term exams.\n\n4. many many many art sports teachers. but zero in sports zero arts zero crafts or  any other extra curricular. Every extra session sometime come with extra cost.\n\n5. If you survived the above then last goes the deadly blow. Miserable results in board or any entrance (read NEET JEE etc) or olympiad. They are just not anywhere in any list of any importance.\n\nIf you want your kid to learn and make a career as well, you know what to do.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "avv ndb"
+          },
+          "datePublished": "2023-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good taste",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mansi M Chandok"
+          },
+          "datePublished": "2023-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school where children expand their mindset and get out of their comfort zone!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Safdar Naiyar"
+          },
+          "datePublished": "2023-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Heaven for children 😍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kartik Yadav"
+          },
+          "datePublished": "2023-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "...,...............................................................................................................................................................................................,,............,...............................................................................................................................................................................................,,.........us",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiv Nadar School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "gopal david"
+          },
+          "datePublished": "2023-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice place",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "principal.ggn@sns.edu.in",
+    "u003egurgaon@sns.edu.in"
+  ],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/image4-4.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16884526718304225464a3be3fa39251688452672.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168650649992440600264860c031744e1686506499.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168650649992440600264860c031744e1686506499.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/embed/HyDu8tw6tss\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168650649992440600264860c031744e1686506499.jpg\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/embed/bngvtq7wapQ\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/10/Ib-schools.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png\\"
+  ],
+  "rating": "3.9",
+  "views": "1455",
+  "reviews_count": "77",
+  "phone": "+919513238818",
+  "locality": "Sector 26A",
+  "board": "CBSE, IB, IGCSE\n\nCo",
+  "established": "2012",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://img.youtube.com/vi/HyDu8tw6tss/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506570169021670064860c4acced21686506571.jfif",
+    "https://img.youtube.com/vi/bngvtq7wapQ/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168650655580044248064860c3b09bfd1686506555.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506612154617046564860c7424efe1686506612.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168650652185256837264860c198bb261686506522.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506553205162815264860c39d92161686506554.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168650649992440600264860c031744e1686506499.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168650663079706970564860c860ffd81686506630.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506584113518368464860c580f7ac1686506584.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16884526718304225464a3be3fa39251688452672.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/10/Ib-schools.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506614200321114264860c76213e51686506614.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168650652285702106264860c1a8d7841686506523.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506537180328084464860c297a3a61686506538.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/image4-4.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/168650658474300576564860c58335bd1686506584.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506571174375255764860c4b063021686506571.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506537190577856264860c29b96891686506538.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1686506598137274270764860c6638e731686506598.jfif",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Gymnastics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png"
+  ]
+}

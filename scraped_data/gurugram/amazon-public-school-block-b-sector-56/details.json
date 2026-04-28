@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/amazon-public-school-block-b-sector-56",
+  "url": "https://yellowslate.com/school/gurugram/amazon-public-school-block-b-sector-56",
+  "city": "gurugram",
+  "name": "Amazon Public School - Block B,Sector 56 ",
+  "scraped_at": "2026-04-28T15:36:07.752698",
+  "html_length": 353224,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Block B,Sector 56",
+          "item": "https://yellowslate.com/schools/gurugram/block-b-sector-56"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/block-b-sector-56/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Amazon Public School",
+          "item": "https://yellowslate.com/school/gurugram/amazon-public-school-block-b-sector-56"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Amazon Public School - Block B,Sector 56",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/amazon-public-school-block-b-sector-56",
+      "telephone": "+91 9811611315",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No 4, near Anand Hospital, Block B, Sector 56, Gurugram, Haryana 122002, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4272233,
+        "longitude": 77.1010516
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amazon Public School - Block B,Sector 56",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No 4, near Anand Hospital, Block B, Sector 56, Gurugram, Haryana 122002, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/amazon-public-school-block-b-sector-56-block-b-sector-56-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manisha Raghav"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazon public school is an outstanding school. The teachers and staff are always available to answer questions, provide support, and communicate regularly about child's progress. There are lots of extra circular activities for student conducted by the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amazon Public School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mohit arora"
+          },
+          "datePublished": "2022-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are passionate about seeing their students succeed. They are so great about sharing moments of pride they see within your child – their good behavior and achievements; and they know the importance of getting the parents involved should an issue arise, and do it in a very respectful, approachable manner. Fee structure is very nominal and outdoor play area provides kids opportunity for physical activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amazon Public School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Yadav"
+          },
+          "datePublished": "2019-11-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazon is a very good school with a very positive learning environment. Everyone from principle to entire staff always motivates and encourage students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amazon Public School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhay Nigam"
+          },
+          "datePublished": "2019-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "school till 12th class with reasonable fee. Wonderful and helpful staff. Regular competitions are held , building wonderful positive  attitude of every  individual child  and fully secured.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amazon Public School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jyoti saini"
+          },
+          "datePublished": "2019-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazon public school is very good school with reasonable fees structure , good infrastructure with big playground for a child's mental and physical growth.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/10/Ib-schools.jpg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "5.0",
+  "views": "532",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Block B,Sector 56",
+  "board": "CBSE, State Board\n\nCo",
+  "established": "2001",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Amazon Public School ?\nAsk a Question\nAmazon Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/10/Ib-schools.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

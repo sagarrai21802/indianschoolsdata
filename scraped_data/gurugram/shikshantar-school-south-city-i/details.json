@@ -1,0 +1,304 @@
+{
+  "slug": "/school/gurugram/shikshantar-school-south-city-i",
+  "url": "https://yellowslate.com/school/gurugram/shikshantar-school-south-city-i",
+  "city": "gurugram",
+  "name": "Shikshantar school - South City I ",
+  "scraped_at": "2026-04-28T15:20:49.028982",
+  "html_length": 369232,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "South City I",
+          "item": "https://yellowslate.com/schools/gurugram/south-city-i"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/gurugram/south-city-i/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shikshantar School",
+          "item": "https://yellowslate.com/school/gurugram/shikshantar-school-south-city-i"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shikshantar school - South City I",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/shikshantar-school-south-city-i",
+      "telephone": "+91 1244889100",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "F337+PM4, Block J, South City I, Sector 41, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4542625,
+        "longitude": 77.0642031
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "F337+PM4, Block J, South City I, Sector 41, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/shikshantar-school-south-city-i-south-city-i-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.1",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shruti"
+          },
+          "datePublished": "2025-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Do not consider Shikshantar. I had personal experience with my 3 year old kid when their pre primary teacher used to push and punish the 3 year old kids. i have proofs of the moms of kids mentioning that their girl’s hair were pulled by the teacher and some of the kids got their cheeks pulled and scrathed on their cheeks. My own kid got blue bruises when he mentioned after school that the teachr - Anchal didi she clutched his arm and he was crying alot. i have withdrawn my kid and many other parents too. Above all they do not refund the caution money and admission fee alone is 2 lac INR. totally cheated our sentiments and harassed the kids.\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shruti"
+          },
+          "datePublished": "2025-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Do not consider Shikshantar. I had personal experience with my 3 year old kid when their pre primary teacher used to push and punish the 3 year old kids. i have proofs of the moms of kids mentioning that their girl’s hair were pulled by the teacher and some of the kids got their cheeks pulled and scrathed on their cheeks. My own kid got blue bruises when he mentioned after school that the teacher - Anchal didi she clutched his arm and he was crying alot. i have withdrawn my kid and many other parents too. Above all they do not refund the caution money and admission fee alone is 2 lac INR. totally cheated our sentiments and harassed the kids.\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dude Khanna"
+          },
+          "datePublished": "2023-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Better than any other school in gurgaon, teachers are kind. The Footballers are well trained and the coaches have great experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arpita Kar"
+          },
+          "datePublished": "2023-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very unprofessional and rude..They don't allow walkin enquiry parent.\nDidn't allow to enter the gate even. I mean this is something really unapollogetic. If they are so rude how they can disburse quality education what they vouch for!!!!!!\nREALLY BAD!!!!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sangeeta Singh"
+          },
+          "datePublished": "2023-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pathetic school! I wanted my son to go to a school that allowed him to learn and grow up in a toxic free space. My 8 year old son was bullied for months and one day he was beaten up came home with torn clothes, yet the authorities paid no heed. I withdrew him without admission anywhere else as Shikshantar school declined taking any responsibility about things happening on their campus and during school hours.\nOther incidents of bullying of younger children by older students keep happening but the school turns a blind eye.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sivas Viswa (Viswa)"
+          },
+          "datePublished": "2023-02-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi, School should do a awareness for the parents who come n pick the wards, who park their car on wrong direction, speeding, honking, wrong side driving, parking bang on the main road leads to Gurudhwara Sahib hapazardly. Is it what they teach their kids for richly lawlessness? Sad to see the behaviour is being rooted to next gen citizens? Its safety issue as well for road users. How this can be taught to them for courtesious on road? They dont even respect the guards, sadly no respect learnt from their own. They must park one sided leaving smooth traffic for cyclist, cars. Is it a rich bratness to show off at roads? IMHO.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shikshantar school - South City I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samapan - Sam Sarkar"
+          },
+          "datePublished": "2019-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "An educational institution with a difference. The campus and grounds are well planned and spread out so that every class and room gets ample air and sunlight 365 days a year. After my own school in Darjeeling this is possibly one of the few schools within a city that has thought about the welfare and wholesome development of a student than concentrating on bookish knowledge only and giving ample space to do so. It is great to see so much being focused on a personality development of our future than just churning out individuals without the guts to face the challenges of life. Love the thoughts that have been implemented behind such a niche in the education system.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "2.1",
+  "views": "848",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "South City I",
+  "board": "ICSE\n\nCo",
+  "established": "2002",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/meenakshi-world-school-sector-10a",
+  "url": "https://yellowslate.com/school/gurugram/meenakshi-world-school-sector-10a",
+  "city": "gurugram",
+  "name": "Meenakshi World school - Sector 10A ",
+  "scraped_at": "2026-04-28T15:15:07.358333",
+  "html_length": 350472,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 10A",
+          "item": "https://yellowslate.com/schools/gurugram/sector-10a"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-10a/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Meenakshi World School",
+          "item": "https://yellowslate.com/school/gurugram/meenakshi-world-school-sector-10a"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Meenakshi World school - Sector 10A",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/meenakshi-world-school-sector-10a",
+      "telephone": "+91 880 053 7222",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector-10 A,, Opp-Yadav Hospital, Sector 10A, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4431646,
+        "longitude": 77.0031572
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Meenakshi World school - Sector 10A",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector-10 A,, Opp-Yadav Hospital, Sector 10A, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/meenakshi-world-school-sector-10a-sector-10a-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajay Yadav"
+          },
+          "datePublished": "2019-07-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Gurgaon, where a child gets complete exposure to international education. The teachers are professional, caring and well organized.  They really care and truly want the best for your child. It's in few of those school who are running AS-A level course after IGCSE with good result.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Meenakshi World school - Sector 10A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nabanita's Creative Hub"
+          },
+          "datePublished": "2019-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "“Fantastic school! The teachers are Professional, caring and well organized. Being a teacher as well as a parent i am satisfied with the education qualities provided to the children. May be this is the only school where one to one teaching is provided to the students for senior classes also. Children are looking forward to coming to school as they get the opportunity to participate in a variety of activities and events throughout the year. The school is having a huge playground,  swimming pool, basketball and badminton court. The school is also running an after -school sports academy within the school premises for kids after school hours.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Meenakshi World school - Sector 10A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitu Satija"
+          },
+          "datePublished": "2019-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Gurgaon. Offers environment for holistic devlopment of students. Curriculum both academics & extra curricular activities are well planned. Faculty is experienced & stable. Students always shines in  results. Teachers always keep an eye on progress of every student & introduce innovative interesting methods of teaching.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Meenakshi World school - Sector 10A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lucky Singh"
+          },
+          "datePublished": "2019-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is a great mixture of conventional and new era learning. The focus on academics is really praiseworthy.\nExcellent  infrastructure and set up. School is well equipped with all types of labs.  Wonderful place for education. The educators are experienced and it has a child friendly atmosphere. The school gives equal preference to both curricular and co-curricular activities with well equiped Sports academies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Meenakshi World school - Sector 10A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Sharma"
+          },
+          "datePublished": "2019-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am so glad as my child is studying in Meenakshi World School. It has very good infrastructure. Study pattern is great..  They work on all aspects of learning instead of only academics.  My child enjoys coming school everyday learning new topics.  Best wishes to the team MWS.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "5.0",
+  "views": "524",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 10A",
+  "board": "IGCSE\n\nCo",
+  "established": "2008",
+  "category": "Day Schools",
+  "classes": "200 - 128",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

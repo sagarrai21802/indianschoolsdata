@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/scr-public-school-ashok-vihar-phase-ii",
+  "url": "https://yellowslate.com/school/gurugram/scr-public-school-ashok-vihar-phase-ii",
+  "city": "gurugram",
+  "name": "SCR Public School - Ashok Vihar Phase II ",
+  "scraped_at": "2026-04-28T15:34:06.735474",
+  "html_length": 352491,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ashok Vihar Phase II",
+          "item": "https://yellowslate.com/schools/gurugram/ashok-vihar-phase-ii"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/ashok-vihar-phase-ii/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SCR Public School",
+          "item": "https://yellowslate.com/school/gurugram/scr-public-school-ashok-vihar-phase-ii"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SCR Public School - Ashok Vihar Phase II",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/scr-public-school-ashok-vihar-phase-ii",
+      "telephone": "+91 931 500 9225",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Street Number 3, Sheetla Colony Phase 2, Opposite, Sector 5, Gurugram, Haryana 122017, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.488842,
+        "longitude": 77.0210497
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SCR Public School - Ashok Vihar Phase II",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Street Number 3, Sheetla Colony Phase 2, Opposite, Sector 5, Gurugram, Haryana 122017, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/scr-public-school-ashok-vihar-phase-ii-ashok-vihar-phase-ii-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shruti Kumari"
+          },
+          "datePublished": "2023-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Cbse board.\nInfrastructure is good.\nTeacher and all staff are good .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SCR Public School - Ashok Vihar Phase II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Divya Saini"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school. The teachers, explain the chapter in very detail. From my side it is best school in study as well as in the sports",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SCR Public School - Ashok Vihar Phase II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Namlesh kumari"
+          },
+          "datePublished": "2023-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Scr school is one of the finest institution which is undoubtedly best for our children.\nManagement+ staff et all are very student -oriented.\nInfrastructure is really amazing\nCourses offered here are progressive oriented.\nTry to visit once to know this institution closely.\nThank you .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SCR Public School - Ashok Vihar Phase II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "srishti verma"
+          },
+          "datePublished": "2023-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great School with really good facilities for students,Teachers as well as staff members. Excellent Environment and infrastructure. Provide great opportunity for student and teacher. Helpful staff members. Really Good school for student to learn new things and skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SCR Public School - Ashok Vihar Phase II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Palak Saxena"
+          },
+          "datePublished": "2022-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent environment for teachers and students. Management and staff very helpful. Infrastructure , curriculum , teaching techniques all the suitable for Child overall development. If you are searching for some good school you need to check out SCR group of school. 👍🏿😃",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "5.0",
+  "views": "452",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Ashok Vihar Phase II",
+  "board": "CBSE\n\nCo",
+  "established": "1999",
+  "category": "Day Schools",
+  "classes": "000 - 40",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

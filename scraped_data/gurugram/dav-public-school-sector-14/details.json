@@ -1,0 +1,372 @@
+{
+  "slug": "/school/gurugram/dav-public-school-sector-14",
+  "url": "https://yellowslate.com/school/gurugram/dav-public-school-sector-14",
+  "city": "gurugram",
+  "name": "DAV Public School - Sector 14 ",
+  "scraped_at": "2026-04-28T15:42:04.174931",
+  "html_length": 396275,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 14",
+          "item": "https://yellowslate.com/schools/gurugram/sector-14"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-14/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DAV Public School",
+          "item": "https://yellowslate.com/school/gurugram/dav-public-school-sector-14"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DAV Public School - Sector 14",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/dav-public-school-sector-14",
+      "telephone": "+91 124 425 5976",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "F3G2+GFP, Sector 14, Gurugram, Haryana 122002, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4763375,
+        "longitude": 77.0512031
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "F3G2+GFP, Sector 14, Gurugram, Haryana 122002, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/dav-public-school-sector-14-sector-14-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "125"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kajal Jindal"
+          },
+          "datePublished": "2024-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Old is Gold ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kajal Jindal"
+          },
+          "datePublished": "2024-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kajal jindal"
+          },
+          "datePublished": "2024-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teacher is very co operative",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kajal jindal"
+          },
+          "datePublished": "2024-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiran Kiranprajapati"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Team",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hind Wellness"
+          },
+          "datePublished": "2024-06-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "one of the best school in Gurugram City",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "as gaming"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aayush Gautam"
+          },
+          "datePublished": "2024-05-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nahi holidays and so much of pressure",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "bhupendra chauhan"
+          },
+          "datePublished": "2024-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In my experience with [DAV school, I've observed a complex dynamic between students and teachers, with both facing significant pressures. While the school places a strong emphasis on individual student merit, there seems to be a disconnect in supporting both students and teachers in reaching their full potential.\n\nThe academic pressure on students is palpable, and it appears that teachers, too, are grappling with high expectations. The challenge lies in finding a balance where students are encouraged to excel independently, yet provided with ample support to navigate the academic demands.\n\nIt's evident that the school is striving for excellence, but the current atmosphere can be overwhelming. Perhaps there could be a more collaborative approach to foster an environment where students and teachers work together towards common goals.\n\nIt's crucial to address the perception that the institution is becoming more business-oriented than focused on education. A reevaluation of priorities and a renewed commitment to the core values of education may help align the school's mission more closely with fostering holistic student development.\n\nIn conclusion, [DAV school] has potential, but there's room for improvement in creating a balanced and nurturing environment for both students and teachers. A reexamination of the current approach might lead to a more harmonious and effective educational experience for everyone involved.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Sector 14"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mahesh prasd"
+          },
+          "datePublished": "2024-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent performance school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752670203304-e97r0o6q.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.1",
+  "views": "713",
+  "reviews_count": "125",
+  "phone": "+919513238818",
+  "locality": "Sector 14",
+  "board": "CBSE\n\nCo",
+  "established": "1984",
+  "category": "Day Schools",
+  "classes": "000 - 114",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

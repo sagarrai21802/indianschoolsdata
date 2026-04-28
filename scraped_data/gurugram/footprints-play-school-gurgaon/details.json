@@ -1,0 +1,372 @@
+{
+  "slug": "/school/gurugram/footprints-play-school-gurgaon",
+  "url": "https://yellowslate.com/school/gurugram/footprints-play-school-gurgaon",
+  "city": "gurugram",
+  "name": "Footprints: Play School - Gurgaon ",
+  "scraped_at": "2026-04-28T15:30:48.214750",
+  "html_length": 396705,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gurgaon",
+          "item": "https://yellowslate.com/schools/gurugram/gurgaon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/gurugram/gurgaon/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Footprints: Play School",
+          "item": "https://yellowslate.com/school/gurugram/footprints-play-school-gurgaon"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Footprints: Play School - Gurgaon",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/footprints-play-school-gurgaon",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No 9, Block M, Mayfield Garden, Main Road, nearby Artemis Hospital, Koyal Vihar, Gurugram, Haryana 122001",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4318642,
+        "longitude": 77.0728311
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No 9, Block M, Mayfield Garden, Main Road, nearby Artemis Hospital, Koyal Vihar, Gurugram, Haryana 122001",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/footprints-play-school-gurgaon-gurgaon-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Smeeta"
+          },
+          "datePublished": "2024-12-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dear Footprints Team,\n\nI want to extend my heartfelt gratitude to everyone at Footprints (Mayfield Garden, Gurugram), for making my daughter’s birthday so special. The effort put into celebrating her day with such warmth and joy truly means a lot to us.\n\nMy daughter came home with a big smile, which wouldn’t have been possible without your thoughtful planning. A special thanks to Neha Ma’am for her kindness, care, and for making my daughter feel so loved on her special day.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ridhima Sethi"
+          },
+          "datePublished": "2024-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Footprints have been exceptional in my daughter’s overall development. Highly recommend Surbhi and Priyanka Ma’am. Go for it without a second thought.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vaishali goyal"
+          },
+          "datePublished": "2024-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child has been here from past 6 months, and I would like to share my experience with this wonderful institution.The teachers (Special thanks to Yogeshwari mam, Surbhi Mam(my child's favourite), Priyanka mam) are highly attentive and genuinely care about the well-being and development of the children.\nThey regularly update parents on the child's progress and always welcome any concerns or questions.\nMy son has so much positive impact in case of vocal capabilities, food habits, social skills. We as a parents are extremely happy and recommend this centre specially.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ekta Chahal"
+          },
+          "datePublished": "2024-09-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are doing great with my child ravya.Both the teachers surbhi and priyanka mam are knowledgeable and kind human",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saumya Shrivastava"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our experience of Footprints, Mayfield Garden has truly been an amazing experience. Our child really enjoys going to school and loves his teachers, not one day has passed when he didn't want to go. We have seen so many positive developments in the last 5 months since he joined - he is more independent, communicates clearly, has an interest in learning, eats so much better, and overall physical, mental and emotional growth has also been very good. A special thanks to the three teachers who he has spent most time with - Ms Chandini, Ms Navjot and Ms Nikita - they have been the reason behind all his development, growth and the love he has for his school. He truly loves them! Ms Swati is an amazing leader who is totally involved and very approachable. And all the Didis are also very good.\nI am so grateful to have this home away from home for my child. I completely trust the teachers and have deep sense of gratitude for all of them. Thank you Footprints for making learning and growing a great experience! 😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashu Sehgal"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We have been incredibly pleased with the experience our twins have had at Footprints, Mayfield Garden from the moment we enrolled them, we knew we had made the right choice. The nurturing environment, combined with the well-rounded curriculum, has contributed significantly to their academic and personal development.\nThe educational approach is comprehensive and child-focused. We have seen remarkable growth not only in their academic skills but also in their social and emotional development. The curriculum is thoughtfully designed to strike a balance between structured learning and creative exploration, which has helped our children develop a genuine love for learning.\nWe have seen how the interactive activities  have kept them engaged and excited about going to school every day. Whether it’s in the classroom or during extracurricular activities, the teachers make learning both fun and meaningful. The focus on both academics and creative arts has allowed our children to explore a variety of interests, from reading and writing to music and art.\nThe teachers and staff have been incredibly supportive and caring, treating each child as an individual. They received personalized attention that has made a real difference in their confidence and growth. We’ve been impressed by the patience and kindness of the teachers, who take the time to understand each child's unique needs and strengths.\nAs parents, we feel reassured knowing that our children are in a secure setting where their well-being is a top priority. The facilities are well-maintained, and the school takes safety protocols seriously, giving us peace of mind. We appreciate how the school fosters positive relationships between students, teachers, and parents.\nWe highly recommend to any parent looking for a school that combines strong academics with a warm, nurturing environment. The emphasis on holistic development, coupled with an engaging and supportive community, makes this school a wonderful place for children to thrive. We’re truly grateful for the positive impact it has had on our twins. Thank you Footprints team!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Pandey"
+          },
+          "datePublished": "2024-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Footprint is a best play group school I have experienced in Gurugram. I am happy to onboard my child here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satya Yadav"
+          },
+          "datePublished": "2024-08-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience, no call after interviews and multiple demos on multiple days, they should revert if a candidate selected or not selected.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditi Chauhan"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "You can trust this school for your kids with your eyes closed. I got my daughter’s admission into Play Group, and she was recently promoted to Pre-Nursery. My experience has been beyond fabulous.\n\nI did thorough research before my daughter’s admission and explored other schools as well. But I am so happy that I chose Footprints Mayfield for her.\n\nI would like to highlight the below:\n\n1.\tThe school environment is very positive.\n2.\tThe teachers are calm, polite, and know how to deal with small kids coming to school for the first time.\n3.\tThe Didis are well-trained and handle the kids with utmost care.\n4.\tThe communication from the school is proactive and very regular. They make care calls, which have helped us develop trust. The teachers are easily accessible.\n5.\tThe camera access provides a lot of peace of mind.\n\nI highly, highly recommend this school.\n\nA very special thanks to Ms. Swati Chabba, the Centre Head. She is very approachable, understanding, and pleasant.\n\nBig thanks to her class teachers, Ms. Chandani Bhatia, Ms. Navjot, and Ms. Nikita. You all are doing a job for which words like “thank you” are an understatement.\n\nLots of gratitude for being such a great support. Because of you all, I can go to work peacefully, knowing that you will take care of my daughter holistically. You are not just taking care of her but also contributing to her overall development. Thank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Footprints: Play School - Gurgaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pritika Nehra"
+          },
+          "datePublished": "2024-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi\nMy daughter Zoey was in the branch for two years ( nursery and LKG)  and I couldn’t be content enough. She developed vocational skills, social manners and better food habits.\nMayfield branch particularly is my favourite, because of the location, open ground, spacious naturally lit classrooms. Teachers and centre director are always available for communication and troubleshooting.\n\nLive feed is provided with so many feasible options on the app, but honestly rarely needed it.\nAll sort of festivals and world days are celebrated with so much fun and activities. I always admired and tried to emulate the tactics and ideas used to educate the little curious minds.\n\nAll the best to the team.\nI will always be grateful for the constant nurture and care of my child, so that I could focus on my job ,as a Doctor , without any distractions.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.7",
+  "views": "1",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Gurgaon",
+  "board": "Other Boards\n\nCo",
+  "established": "2010",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Footprints: Play School ?\nAsk a Question\nFootprints: Play School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

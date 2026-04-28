@@ -1,0 +1,379 @@
+{
+  "slug": "/school/gurugram/cyboard-school-mehrauli-gurgaon-road",
+  "url": "https://yellowslate.com/school/gurugram/cyboard-school-mehrauli-gurgaon-road",
+  "city": "gurugram",
+  "name": "Cyboard School - Mehrauli-Gurgaon Road ",
+  "scraped_at": "2026-04-28T15:24:31.051541",
+  "html_length": 404944,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mehrauli-Gurgaon Road",
+          "item": "https://yellowslate.com/schools/gurugram/mehrauli-gurgaon-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/mehrauli-gurgaon-road/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Cyboard School",
+          "item": "https://yellowslate.com/school/gurugram/cyboard-school-mehrauli-gurgaon-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Cyboard School - Mehrauli-Gurgaon Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174245839861351810067dbce1ecf1a61742458399.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/cyboard-school-mehrauli-gurgaon-road",
+      "telephone": "+91 951 951 9521",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2nd floor, Vipul Agora Mall, 201- E, Mehrauli-Gurgaon Rd, Sector 28, Gurugram, Sarhol, Haryana 122002",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4881879,
+        "longitude": 77.0816995
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2nd floor, Vipul Agora Mall, 201- E, Mehrauli-Gurgaon Rd, Sector 28, Gurugram, Sarhol, Haryana 122002",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/cyboard-school-mehrauli-gurgaon-road-mehrauli-gurgaon-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "89"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "suresh Naik"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Quality education at very reasonable fees. It's boon to rural educated parents having less resources to admit in traditional international schools.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh Singh"
+          },
+          "datePublished": "2024-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good online school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manish Singh"
+          },
+          "datePublished": "2024-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pretty good teachers are great and yeah but 2 problems. Teachers don't end the class on time and sometimes continue the class for like till the next class and your technical team tell empty promises.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitin Singh"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best online school in India I would recommend every  single parents how are looking for school for there children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritu Dahiya"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Incredible platform that offers each child to grow and learn with lots of fun-filled activities that help my child boost his confidence. We are very satisfied with the quality of education this school is providing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Seema Thakur"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s been almost a year with Cyboard School, I must say that we’re so happy we chose this school for our son. Darsh has theived in this digital learning space, and we couldn’t be mote pleased.\n\nThank you, team Cyboard school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vipin Kumar"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice Teaching Staff. Next level of education.\nKeep it Up cyboard.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ushvinder kaur"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School with all facilities. This is a beautiful platform for students to experience an online school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rajni rathore"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's the hub forbthe enthusiastic learners..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cyboard School - Mehrauli-Gurgaon Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjali Singh"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Quality Education at the click of a button.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174245839861351810067dbce1ecf1a61742458399.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174245839861351810067dbce1ecf1a61742458399.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.youtube.com/embed/I43ol-_Jt5M\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174245839861351810067dbce1ecf1a61742458399.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/embed/71ZWFb3P9zs\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.7",
+  "views": "1008",
+  "reviews_count": "89",
+  "phone": "+919513238818",
+  "locality": "Gurgaon Road",
+  "board": "CBSE, NIOS\n\nCo",
+  "established": "2021",
+  "category": "Online Schools, International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nReviews",
+  "images": [
+    "https://img.youtube.com/vi/I43ol-_Jt5M/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174245860771036506967dbceef8c5691742458608.JPG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://img.youtube.com/vi/71ZWFb3P9zs/hqdefault.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174245861487474322967dbcef6bea691742458615.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1742458593206934448267dbcee1d43081742458594.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174245844234950354867dbce4a526c11742458442.jpeg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/174245839861351810067dbce1ecf1a61742458399.png"
+  ]
+}

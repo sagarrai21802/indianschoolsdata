@@ -1,0 +1,373 @@
+{
+  "slug": "/school/gurugram/the-vivekananda-school-sector-70-sector-70",
+  "url": "https://yellowslate.com/school/gurugram/the-vivekananda-school-sector-70-sector-70",
+  "city": "gurugram",
+  "name": "The Vivekananda School Sector 70 - Sector 70 ",
+  "scraped_at": "2026-04-28T15:12:42.376136",
+  "html_length": 391121,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 70",
+          "item": "https://yellowslate.com/schools/gurugram/sector-70"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-70/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Vivekananda School Sector 70",
+          "item": "https://yellowslate.com/school/gurugram/the-vivekananda-school-sector-70-sector-70"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Vivekananda School Sector 70 - Sector 70",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/the-vivekananda-school-sector-70-sector-70",
+      "telephone": "088009 02881",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector-70, Tulip Orange, Vatika City Chowk, Sector 70, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3957187,
+        "longitude": 77.0289196
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector-70, Tulip Orange, Vatika City Chowk, Sector 70, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/the-vivekananda-school-sector-70-sector-70-sector-70-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunil Beniwal"
+          },
+          "datePublished": "2024-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We went for Skating championships and found school staff very helpful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanshu Singh"
+          },
+          "datePublished": "2024-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm extremely disappointed with the behavior and attitude of the staff at, particularly towards young students like my 3-year-old sister. Despite her tender age, she has been subjected to rude and unprofessional behavior from the teachers and administrators\n\nI would not recommend to any parent who wants a safe and supportive environment for their child. The school needs to take serious steps to address their behavior and create a more positive and inclusive atmosphere.\n\n_Note:_ Please consider sharing specific incidents and details to support your review, and also be mindful of your tone to ensure it remains constructive and helpful for others.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arnav"
+          },
+          "datePublished": "2024-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Love the school ambiance.teacher is like the second mother of my son.she is too cooperative.even the principal mam is also very nice natured lady.\n100% Happy and satisfied with the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kushal Kant"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Its a very good school. Me nd my family are very happy. All teachers are vry supportive. Principal is doing very good..\nRegards..\nA happy parent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Storage"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Great school! Teachers are nice and help kids as well as parents too. School is safe and clean. My son is very happy here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anubhav"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is an amazing place for children to learn and grow! The teachers are kind, supportive, and dedicated to help each student reach their full potential. The campus is safe, clean, and well-maintained. The curriculum is engaging and challenging, with plenty of opportunities for extracurricular activities.The school is making it feel like a second family to us. We're so grateful to be a part of it!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nimish Bhatnagar"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I express my heartfelt gratitude for the dedication and hardwork showed by teachers especially for kindergarten kids\nThank you Vivekananda School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "manish kumar"
+          },
+          "datePublished": "2024-07-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My concern to all parent's that never select this school.A big incident happened to my child as her shoulder got broken and She was in hardest pain and the management informed late to us.So this shows that how much they are unattentive and carelessness toward children's.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratima Singh"
+          },
+          "datePublished": "2024-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school I ever know. Very rude and inappropriate behaviour with child and parents. When anything occurs they delete cctv footage. They not understand the feeling of children and parents. They all are only money minded. My child's shoulder was broken due to lack of attention of teachers and management. My child was in severe pain for 2 hours. Even then they did not inform. They can go to any extent to hide  mistake. Please don't select this school because it is not safe for our child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Vivekananda School Sector 70 - Sector 70"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ads Attached"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Most bad school for child, Principal is very very bad and i suggest to aviod this school they do not give camera access and beat child and broke them hand nose and delete camera videos as well",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1594970461601506185f11515d928771594970462.PNG\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.6",
+  "views": "636",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Sector 70",
+  "board": "CBSE\n\nCo",
+  "established": "2002",
+  "category": "Public Schools",
+  "classes": "Nursery - 9",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "The Vivekananda School Sector 70 ?\nAsk a Question\nThe Vivekananda School Sector 70 Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1594970461601506185f11515d928771594970462.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

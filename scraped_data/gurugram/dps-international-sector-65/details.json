@@ -1,0 +1,259 @@
+{
+  "slug": "/school/gurugram/dps-international-sector-65",
+  "url": "https://yellowslate.com/school/gurugram/dps-international-sector-65",
+  "city": "gurugram",
+  "name": "DPS International - Sector 65 ",
+  "scraped_at": "2026-04-28T15:41:00.395461",
+  "html_length": 354915,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 65",
+          "item": "https://yellowslate.com/schools/gurugram/sector-65"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/gurugram/sector-65/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DPS International",
+          "item": "https://yellowslate.com/school/gurugram/dps-international-sector-65"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DPS International - Sector 65",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/dps-international-sector-65",
+      "telephone": "+91 8377000164",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "HS-01, Golf Course Ext Rd, Block W, South City II, Sector 50, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4090621,
+        "longitude": 77.0636719
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DPS International - Sector 65",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "HS-01, Golf Course Ext Rd, Block W, South City II, Sector 50, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/dps-international-sector-65-sector-65-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayaansh"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My father school to get me today, make happy me very school amazing it is. School is the because education mine of. No beating father my me",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DPS International - Sector 65"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kingdgr810"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am son of am pro. Papa came school with me today. I show him my mark and school happy me happy me school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DPS International - Sector 65"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj Kamal"
+          },
+          "datePublished": "2022-11-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a very famous school in Gurugram. It was First established in New Delhi in 1949. It's a very prestigious school of New Delhi. Due to its name and fame demand for the DPS was increased and the management took initiative to establish more branches in New Delhi and now it has become a Pan India school. The school in Gurugram has seats for +3 yrs children. Has an elegant building right on main Golf Course Extension Road. The school has it's own bus fleets for its students. Security of junior classes is tight with numerous security staff. Expenditure of Education is on higher side as school provides clean environment for its students. Teaching staff is humble and of the standard of any international school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DPS International - Sector 65"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sunny yadav"
+          },
+          "datePublished": "2022-04-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bus driver drive very rashly, hit my bike and almost hit a old women , here is the bus detail",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DPS International - Sector 65"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhaviya Rana"
+          },
+          "datePublished": "2021-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My opinion for this school has changed as witnessed through online teaching and seeing teachers behaviour. No doubt the curriculum is great but unfortunately teachers are not as per curriculum methodology.\nAs the seniority levels of classes grows the level of teachers just becomes ordinary and nothing IB about it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692710626210272630464e4b6e2929461692710627.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752670712405-o4xwlfm3.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "3.8",
+  "views": "600",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 65",
+  "board": "IB\n\nCo",
+  "established": "1949",
+  "category": "Day Schools",
+  "classes": "660 - 315",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1692710626210272630464e4b6e2929461692710627.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

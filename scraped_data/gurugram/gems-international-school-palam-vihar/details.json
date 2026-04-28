@@ -1,0 +1,372 @@
+{
+  "slug": "/school/gurugram/gems-international-school-palam-vihar",
+  "url": "https://yellowslate.com/school/gurugram/gems-international-school-palam-vihar",
+  "city": "gurugram",
+  "name": "GEMS International school - Palam Vihar ",
+  "scraped_at": "2026-04-28T15:18:05.014162",
+  "html_length": 382054,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palam Vihar",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "GEMS International School",
+          "item": "https://yellowslate.com/school/gurugram/gems-international-school-palam-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "GEMS International school - Palam Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/gems-international-school-palam-vihar",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Block C-2, Palam Vihar, Gurgaon, Haryana-122017",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4937582,
+        "longitude": 77.0173423
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Block C-2, Palam Vihar, Gurgaon, Haryana-122017",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/gems-international-school-palam-vihar-palam-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "111"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Himani Chauhan"
+          },
+          "datePublished": "2023-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti Gaurav"
+          },
+          "datePublished": "2023-09-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a good school for our child. Staff ND teachers are very supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohit Dadhich"
+          },
+          "datePublished": "2023-08-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A Great place for overall growth of Children with international standard of Education, as well great place for work as i jave seen everyone smiling",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti Ahuja"
+          },
+          "datePublished": "2023-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying in Grade 2 and he is looking forward to coming to school. He is learning new things each and every day. He participates in a variety of activities and events and enjoy both his teachers and classmates company. He is  having a great time and lots of fun too!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Simi Sawhney"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Warm coworkers\nSprightly students\nEmpathetic approach towards polishing young minds into rare GEMS!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Art Artist"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful place to work… very friendly and cooperative staff..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bithika Suman"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a teacher at Gems International School, I can confidently say that it is an exceptional institution that values both its students and educators. The school's commitment to academic excellence and holistic development is truly commendable. The well-designed curriculum and modern teaching methods create an engaging learning environment that fosters critical thinking and creativity.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Andrew Kamei"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "GEMS is a great school with a nurturing environment for kids. The staff is caring and dedicated to their education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satya Dev Sharma"
+          },
+          "datePublished": "2023-06-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is the best. It gives much information than other schools and it's environment, displin and cleaness are 5 star.with higher classroom and many trofies.this is perfect school for teachers,students and parent too.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GEMS International school - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karishma Sareen"
+          },
+          "datePublished": "2023-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.1",
+  "views": "825",
+  "reviews_count": "111",
+  "phone": "+919513238818",
+  "locality": "Palam Vihar",
+  "board": "CBSE, IGCSE\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "GEMS International school ?\nAsk a Question\nGEMS International school Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

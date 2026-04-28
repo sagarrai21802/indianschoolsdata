@@ -1,0 +1,259 @@
+{
+  "slug": "/school/gurugram/brahm-dutt-blue-bells-public-school-sector-5",
+  "url": "https://yellowslate.com/school/gurugram/brahm-dutt-blue-bells-public-school-sector-5",
+  "city": "gurugram",
+  "name": "Brahm Dutt Blue Bells Public School - Sector 5 ",
+  "scraped_at": "2026-04-28T15:15:18.685034",
+  "html_length": 357843,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 5",
+          "item": "https://yellowslate.com/schools/gurugram/sector-5"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-5/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Brahm Dutt Blue Bells Public School",
+          "item": "https://yellowslate.com/school/gurugram/brahm-dutt-blue-bells-public-school-sector-5"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Brahm Dutt Blue Bells Public School - Sector 5",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/brahm-dutt-blue-bells-public-school-sector-5",
+      "telephone": "+91 981 194 5543",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Urban Estate, Sector 10, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4536931,
+        "longitude": 77.0009321
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brahm Dutt Blue Bells Public School - Sector 5",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Urban Estate, Sector 10, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/brahm-dutt-blue-bells-public-school-sector-5-sector-5-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suneeta Kaul"
+          },
+          "datePublished": "2023-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful experience with Brahm Dutt Blue Bells Public School as a teacher and as a parent both... No match at all... The best school indeed... I would suggest thus cathedral of learning for all aspiring parents",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brahm Dutt Blue Bells Public School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manju Singh"
+          },
+          "datePublished": "2023-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a good really school discipline wise and ethics wise. Great atmosphere for children to learn and grow. I am a happy parent to send my kid to Blue Bells.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brahm Dutt Blue Bells Public School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "leela Bist"
+          },
+          "datePublished": "2023-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Brahm Dutt Blue Bells Public School Sector 10 is a school with a difference where education and values go hand in hand... They give voice and choice to each child and project based and research based education paves way for the success of each child here..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brahm Dutt Blue Bells Public School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "poonam dhir sao"
+          },
+          "datePublished": "2023-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are well qualified and trained and provide ample opportunities to students to explore and learn. It's great to see that all the teachers are putting their heart and soul to take utmost care of students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Brahm Dutt Blue Bells Public School - Sector 5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kamal Agrawal"
+          },
+          "datePublished": "2022-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Blue Bells Public School offers a great level of educational facilities to students. I visited the school for my cousin's admission and have seen the sheer dedication of the teachers and students while in the classroom, lab or in the sports field. They excel in every area, and I'm sure they'll grow up to become talented & confident individuals.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1763616106770-0pkauufy.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "5.0",
+  "views": "579",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector 5",
+  "board": "CBSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

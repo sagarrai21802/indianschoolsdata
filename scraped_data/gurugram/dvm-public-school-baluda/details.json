@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/dvm-public-school-baluda",
+  "url": "https://yellowslate.com/school/gurugram/dvm-public-school-baluda",
+  "city": "gurugram",
+  "name": "DVM Public School - Baluda ",
+  "scraped_at": "2026-04-28T15:34:39.600043",
+  "html_length": 342998,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Baluda",
+          "item": "https://yellowslate.com/schools/gurugram/baluda"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/baluda/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DVM Public School",
+          "item": "https://yellowslate.com/school/gurugram/dvm-public-school-baluda"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DVM Public School - Baluda",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/dvm-public-school-baluda",
+      "telephone": "+91 124 226 0351",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Daulha Road, Sohna Rural, Baluda, Haryana 122103, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.2481862,
+        "longitude": 77.1053673
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DVM Public School - Baluda",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Daulha Road, Sohna Rural, Baluda, Haryana 122103, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/dvm-public-school-baluda-baluda-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "bainsla Anju"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DVM Public School is one of the best Schools in this area. They take care of academics as well as discipline which is very important in today's time.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DVM Public School - Baluda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manisha Sharma"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "HIGHLY RECOMMEND THIS SCHOOL! The staff of teachers is one of the best (if not the best) in the area.The school provides a safe, loving and secure environment. Children absolutely love attending this school.The curriculum that this school follows is absolutely amazing.All of the teachers are so positive and it is completely apparent how much they care for the children.\nReally fantastic school !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DVM Public School - Baluda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Udayraj Maurya"
+          },
+          "datePublished": "2023-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I felt DVM Public School is an excellent institution where holistic development of the students is the priority.\nI found the atmosphere to be warm and welcoming for the students.\nThe teachers are very cooperative and have a wonderful connect with all their students.\nParent of khushi class 2nd",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DVM Public School - Baluda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harsh Khatana"
+          },
+          "datePublished": "2023-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I take this as an opportunity to thank the DVM school team and the teachers making us feel so special. The curriculum is designed so beautifully which includes audio visual aids. As a teacher it is fantastic experience to work with and being a parent I always recommend this school.😊❤️👍🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DVM Public School - Baluda"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepali Bansal"
+          },
+          "datePublished": "2023-05-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School has a very Holistic Teaching methodology and the Staff make special efforts to make every Child feel special and loved. School is excellent in academics . The teachers and staff works very hard to ensure well being of all their students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "5.0",
+  "views": "473",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Baluda",
+  "board": "CBSE\n\nCo",
+  "established": "1995",
+  "category": "Day Schools",
+  "classes": "600 - 26",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "DVM Public School ?\nAsk a Question\nDVM Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

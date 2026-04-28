@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/gyaananda-school-babupur-village",
+  "url": "https://yellowslate.com/school/gurugram/gyaananda-school-babupur-village",
+  "city": "gurugram",
+  "name": "Gyaananda School - Babupur Village ",
+  "scraped_at": "2026-04-28T15:32:48.316917",
+  "html_length": 348234,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Babupur Village",
+          "item": "https://yellowslate.com/schools/gurugram/babupur-village"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/babupur-village/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Gyaananda School",
+          "item": "https://yellowslate.com/school/gurugram/gyaananda-school-babupur-village"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Gyaananda School - Babupur Village",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/gyaananda-school-babupur-village",
+      "telephone": "+91 999 912 0191",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector 109, Gurugram, Haryana 122017, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5072801,
+        "longitude": 77.0089452
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gyaananda School - Babupur Village",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector 109, Gurugram, Haryana 122017, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/gyaananda-school-babupur-village-babupur-village-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snigdha Mehrotra"
+          },
+          "datePublished": "2023-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Gyaananda provides the best of everything to their students.\nFrom the teachers to the management, everyone is extremely warm and welcoming. I'm highly satisfied by putting my son in Gyaananda school. Excellent way to teaching and methodology. Highly recommend.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gyaananda School - Babupur Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gun Shukla"
+          },
+          "datePublished": "2023-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Gyaananda School is a name to trust when you are looking for your child's education in Dwarka expressway, Gurugram.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gyaananda School - Babupur Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Daral"
+          },
+          "datePublished": "2023-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Gyaananda is not just a school, but a school of Joyful Learning. I started my journey here 4 years back and I have learned and absorbed so much here that I can use for many years to come. It has given me a platform to express myself and be a confident citizen. It's a school for all the students who actually want to be what they want to be. Here dreams of the students turn into reality. Really a proud member of the Gyaananda Family as a Mentor.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gyaananda School - Babupur Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja sharma"
+          },
+          "datePublished": "2023-03-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in Gurgaon! My daughter has been in the school since 3rd grade and now she is in 6th!! Lovely teachers and the sweetest principle you can even meet",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Gyaananda School - Babupur Village"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BestOfSchools Reviews"
+          },
+          "datePublished": "2023-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Gyaananda School is located in Sector 109, Dwarka Expressway, Gurugram. The school was established in 2017 and has been gaining popularity in the local area.\n\nThe school has a relatively small number of teachers, with only 22 teachers, out of which 68.18% are postgraduates. The student-teacher ratio of 16:1 is reasonable, and the classroom size of 11 students per class ensures that each student receives adequate attention.\n\nThe school offers English and Hindi as languages, making it accessible to students from diverse backgrounds. Gyaananda School is affiliated with CBSE, which ensures that students receive a quality education that is recognized nationally.\n\nThe annual fee range of 1lac to 1.62 lacs and transport fee range of 20k to 50k is reasonable compared to other schools in the area.\n\nThe school offers a range of sports facilities such as taekwondo, table tennis, chess, cricket, carrom, and skating, which is a positive aspect of the school.\n\nOverall, Gyaananda School is a decent choice for parents seeking a quality education for their children. The school has good infrastructure, offers a range of sports facilities, and is affiliated with CBSE.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.6",
+  "views": "522",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Babupur Village",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/vivekanand-public-school-harsaru",
+  "url": "https://yellowslate.com/school/gurugram/vivekanand-public-school-harsaru",
+  "city": "gurugram",
+  "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU ",
+  "scraped_at": "2026-04-28T15:42:21.669071",
+  "html_length": 347360,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HARSARU",
+          "item": "https://yellowslate.com/schools/gurugram/harsaru"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/harsaru/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VIVEKANAND PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/gurugram/vivekanand-public-school-harsaru"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/vivekanand-public-school-harsaru",
+      "telephone": "+91 931 391 2437",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "27/7,8, 26, Garhi Harsaru Rd, near PWD Water Tank, Sikhawala, Garhi Harsaru, Gurugram, Haryana 122505, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4508621,
+        "longitude": 76.9331731
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "27/7,8, 26, Garhi Harsaru Rd, near PWD Water Tank, Sikhawala, Garhi Harsaru, Gurugram, Haryana 122505, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/vivekanand-public-school-harsaru-harsaru-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Mansingh Khatana"
+          },
+          "datePublished": "2023-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school,\nVery good teachers,\nVery good facilities,\nVery good english studies.\nStrongly recommended.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajay kumar"
+          },
+          "datePublished": "2023-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "very-very bad school in gurgaon... nothing digital only given name...no education & discipline there...i didn't see so bad school in my life. never i didn't prefer to any one to admission there. they open school only for money. they use the phrase ' come for give money & go for give money to us' only . specially 'principal' is very bad in behavior. he don't have manner's how to talk with parents & behave very rudely. he find out the ways to collect the money unnecessary ( like school bus charges in summer vacation etc. ( even not used by child ). i don't know these types of principal how can give the education & discipline to our children who don't have/know the same. so i never recommended to parents to admission there if you want to make the future of your children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suman Tanwar"
+          },
+          "datePublished": "2023-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school with best education at minimal cost. First digital school 👌🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preeti 76"
+          },
+          "datePublished": "2023-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school with good infrastructure. First digital school of garhi. Very dedicated teachers . Teachers here taught discipline and moral values to the students which is very important for today's generation.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIVEKANAND PUBLIC SCHOOL - HARSARU"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinayak Tripathi"
+          },
+          "datePublished": "2022-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am happy with this school. Teachers are excellent, they teach with passion. The basic concepts of my kid is clear. For that, I thank Nishu mam. From a financial point of view, fees are also reasonable. The staff is careful about the small kids. Anyone can go to this school without taking any doubt in their mind.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.2",
+  "views": "529",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "HARSARU",
+  "board": "CBSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VIVEKANAND PUBLIC SCHOOL ?\nAsk a Question\nVIVEKANAND PUBLIC SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

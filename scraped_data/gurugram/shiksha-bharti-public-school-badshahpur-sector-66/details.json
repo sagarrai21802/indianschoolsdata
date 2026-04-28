@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/shiksha-bharti-public-school-badshahpur-sector-66",
+  "url": "https://yellowslate.com/school/gurugram/shiksha-bharti-public-school-badshahpur-sector-66",
+  "city": "gurugram",
+  "name": "Shiksha Bharti Public School - Badshahpur,Sector 66 ",
+  "scraped_at": "2026-04-28T15:38:50.492777",
+  "html_length": 350791,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Badshahpur,Sector 66",
+          "item": "https://yellowslate.com/schools/gurugram/badshahpur-sector-66"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/badshahpur-sector-66/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shiksha Bharti Public School",
+          "item": "https://yellowslate.com/school/gurugram/shiksha-bharti-public-school-badshahpur-sector-66"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shiksha Bharti Public School - Badshahpur,Sector 66",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/shiksha-bharti-public-school-badshahpur-sector-66",
+      "telephone": "+91 9711557945",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "near Bptp Park Prime, Badshahpur, Sector 66, Gurugram, Haryana 122102, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.3937092,
+        "longitude": 77.0602241
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiksha Bharti Public School - Badshahpur,Sector 66",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "near Bptp Park Prime, Badshahpur, Sector 66, Gurugram, Haryana 122102, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/shiksha-bharti-public-school-badshahpur-sector-66-badshahpur-sector-66-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shruti khanna"
+          },
+          "datePublished": "2023-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "In Shiksha Bharti Public School I am not working as a professional but I am also growing as an individual.\nThe school provides a joyful learning environment which provides the intellectual, social and emotional growth of students.The school administration works hand in hand with the parents and with the other staff members catering to the needs of the students.The school prepare children to face the challenges of life with confidence, imagination and integrity. SBPS also partner with families to bring out the best in every child. The school is committed in creating an environment where children acquire wisdom, lead lives of personal honour, embrace diversity, appreciate beauty, pursue physical well-being and act with generosity and compassion.\nAs a co-ordinator I am very happy with the pedagogy adopted by the school.The safe and the healthy environment provided in the school has made it a second home for me.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiksha Bharti Public School - Badshahpur,Sector 66"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sanjana dixit"
+          },
+          "datePublished": "2023-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school has one of the best environment for students accompanied by a lush green surrounding. The teachers are helpful and are always there to help out and look after every child. It is a great place for children to develop social skills, confidence and independence. Teachers have good relationships and a doing an excellent job motivating their students. Students feel happy, safe and are provided a stimulating learning environment. Teachers use all the advanced digital learning practices to sharpen kid’s intellect.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiksha Bharti Public School - Badshahpur,Sector 66"
+          },
+          "author": {
+            "@type": "Person",
+            "name": ".Anupama Sharan"
+          },
+          "datePublished": "2022-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "* Although it is a small school, it allows for a lower student to teacher ratio and group activities giving children more confidence.\n* It provides opportunities for one - on - one time with teachers.\n* Teachers are passionate about seeing their students succeed.\n** Great team makes it a great school !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiksha Bharti Public School - Badshahpur,Sector 66"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sangeeta Bhardwaj"
+          },
+          "datePublished": "2022-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is good. Curricular & co- curricular activities are also wonderful. Teachers are hardworking & Co-operative.All the facilities are available here like Dance, Music, Sports etc. So that, students can enhance their skills. A A nice school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shiksha Bharti Public School - Badshahpur,Sector 66"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Kaur"
+          },
+          "datePublished": "2022-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really school is the best academically and in co- curricular activities .Every thing is taken extra care whether it is studies Or sanitation.Many workshops are also done to guide the students and many exciting  and educational trips are planned for the children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "5.0",
+  "views": "552",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Badshahpur,Sector 66",
+  "board": "CBSE\n\nCo",
+  "established": "2000",
+  "category": "Day Schools",
+  "classes": "900 - 58",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

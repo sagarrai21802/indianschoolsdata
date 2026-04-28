@@ -1,0 +1,376 @@
+{
+  "slug": "/school/gurugram/lps-global-school-sector-51",
+  "url": "https://yellowslate.com/school/gurugram/lps-global-school-sector-51",
+  "city": "gurugram",
+  "name": "LPS Global School - Sector 51 ",
+  "scraped_at": "2026-04-28T15:28:33.264719",
+  "html_length": 399800,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 51",
+          "item": "https://yellowslate.com/schools/gurugram/sector-51"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-51/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "LPS Global School",
+          "item": "https://yellowslate.com/school/gurugram/lps-global-school-sector-51"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "LPS Global School - Sector 51",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/lps-global-school-sector-51",
+      "telephone": "+91 9205358901",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "LPS GLOBAL SCHOOL, Sector 51, Noida, Uttar Pradesh 201307, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5799411,
+        "longitude": 77.3758673
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "LPS GLOBAL SCHOOL, Sector 51, Noida, Uttar Pradesh 201307, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/lps-global-school-sector-51-sector-51-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "82"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kush Kumar"
+          },
+          "datePublished": "2024-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Unfortunately google not allowed me to give zero star...\nThe Teachers, coordinator, management all are pathetic, they all are No. 1 Liars, when you complaint about anything all (teachers, coordinator and management) trying to hide the truth.\nPlease please search for good school and dont spoil your child's future here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratika Dayal"
+          },
+          "datePublished": "2023-12-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Absolutely hopeless experience- the guards who are the first people you meet are extremely rude. The entrance is really dirty & under construction & extremely unprofessional. Do NOT visit under any circumstances.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpi Banerjee"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Educators have a strong desire to see their pupils succeed. They are wonderful at communicating the positive traits and accomplishments they observe in your child. They also understand how important it is to involve the parents in the event of a problem, and they do it in a kind and friendly way.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arun Kumar"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools of Noida. Affiliated to CBSE board where students have options to learn multiple languages, engage in extracurricular activities via their clubs and participate in sports activities. It focuses on holistic development of the child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akanksha g"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "LPS Global School Noida is a haven for the budding aspirants. It provides the best of infrastructure and aims at holistic development of the child. Perfect place for professional growth as it focuses on team work and lets the staff explore new ideas and innovations.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meera Rathod"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "LPS Global school has fair-minded, passionate, honest, well-mannered, inspiring, skilled, and supportive mentors and staff. The infrastructure is modern and keeps its pace with new technology. This has a strong positive impact on every student's attitude, performance and personality. I highly recommend this school.”",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gulabsha Jahan"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school's infrastructure and environment contribute significantly to a conducive and enriching educational experience. The clean and modern facilities, along with the beautiful surroundings, create a positive atmosphere for both academic and personal growth.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoswita Homray"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has a great working environment, it provides the teachers with a lot of training and workshops for the betterment of the teaching process. The school has modern infrastructure like high-end smart boards which makes the teaching process interactive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nishta bisht"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I feel very blessed to be a part of LPS Global family.  The work atmosphere is very congenial and conducive to the growth of a teacher and student.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LPS Global School - Sector 51"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aastha Vohra"
+          },
+          "datePublished": "2023-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has been successful in striking an appropriate balance between Academic and Co-Curricular activities. Extremely happy with the kind of activities organised in school for children’s physical, social and intellectual development. Clubs like shooting in School makes a child very focused and target oriented.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://8views.com/\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16884526718304225464a3be3fa39251688452672.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.1",
+  "views": "572",
+  "reviews_count": "82",
+  "phone": "+919513238818",
+  "locality": "Sector 51",
+  "board": "CBSE\n\nCo",
+  "established": "2017",
+  "category": "Day Schools",
+  "classes": "000 - 128",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16884526718304225464a3be3fa39251688452672.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "/school/gurugram/nest-pre-school-sector-26a",
+  "url": "https://yellowslate.com/school/gurugram/nest-pre-school-sector-26a",
+  "city": "gurugram",
+  "name": "Nest Pre School - Sector 26A ",
+  "scraped_at": "2026-04-28T15:27:07.535735",
+  "html_length": 391219,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 26A",
+          "item": "https://yellowslate.com/schools/gurugram/sector-26a"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MONTESSORI",
+          "item": "https://yellowslate.com/schools/gurugram/sector-26a/montessori"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Nest Pre School",
+          "item": "https://yellowslate.com/school/gurugram/nest-pre-school-sector-26a"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Nest Pre School - Sector 26A",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/nest-pre-school-sector-26a",
+      "telephone": "099999 81861",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "H No, 47, Gali Number 7, Sector 26, Ambedkar Nagar, Sector 9, Gurugram, Haryana 122001, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4651955,
+        "longitude": 77.0017235
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "H No, 47, Gali Number 7, Sector 26, Ambedkar Nagar, Sector 9, Gurugram, Haryana 122001, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/nest-pre-school-sector-26a-sector-26a-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "112"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "priyanka tripathi"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "M satisfied with shweta ma'am she is very sweet n cooperative with kids as well as parents to.... God bless her. Branch sector 9\nBranch head\nAarti",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "POOJA GOTHWAL"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school for your child and for co co-curricular activities and well behaved staff  . Best option to choose to make your child roots strong.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "meenu rani"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nest play school sector-9 this school is so good for learning and activities. The teachers are amazing and so Frank. My child love this school.i like all the teachers but principal mam (arti saluja ji) she is very nice person and very helpfull. And shweta ma'am you are also a very nice person good by nature and I like your behaviour as well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gunjan Solanki"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school with friendly enviornment. Aarti ma'am is so co-operative in every manner. My ward class teachet jyoti ma'am made my ward learn everything. My all the expectations are fullfilled by the sector 9 branch of nest pre school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Geet Sapra"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thanku Jyoti mam you are very hardworking with kids and your nature is very Politely with kids .My daughter is very happy with you.I am satisfied with school and teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shabnam Arif"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would like to thank all teachers and staff of Sec-9 branch specially Jyoti mam for putting dedicated efforts which has resulted in overall development of our daughter Inaya.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diwakar Rai"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very happy in sharing my experience about Nest Play School, here all teacher are well educated and having good experience and specially Pooja Mam and Aarti Mam.\nMost amazing thing about the culture of this school is that they involve kids in extra activities that includes picnic, informative programs, dance practice and performance etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pallavi Tanwar"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I appreciate with your curriculum & teaching methods as I have notice improvement in my child. I like to take this privilege to congratulate the school team especially Aarti man and Jyoti Mam from sec 9 branch for their endless efforts.\nThanks❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shirsty Patel"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'd like to express my words for class teacher Anita ma’am. And Aarti Mam You both dedication, patience, and guidance have truly made a positive impact on my child. Thank you for your unwavering support in shaping the growth of Prakhyat. Nest play school....sec...9\n\nThanks.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nest Pre School - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravinder Kaliraman"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Name - Anvi\nClass - Nursery",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.9",
+  "views": "493",
+  "reviews_count": "112",
+  "phone": "+919513238818",
+  "locality": "Sector 26A",
+  "board": "Montessori\n\nCo",
+  "established": "2007",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Nest Pre School ?\nAsk a Question\nNest Pre School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

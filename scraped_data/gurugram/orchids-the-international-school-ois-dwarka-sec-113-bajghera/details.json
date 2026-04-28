@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/orchids-the-international-school-ois-dwarka-sec-113-bajghera",
+  "url": "https://yellowslate.com/school/gurugram/orchids-the-international-school-ois-dwarka-sec-113-bajghera",
+  "city": "gurugram",
+  "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera ",
+  "scraped_at": "2026-04-28T15:13:51.355925",
+  "html_length": 349244,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bajghera",
+          "item": "https://yellowslate.com/schools/gurugram/bajghera"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/bajghera/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Orchids The International School, OIS Dwarka Sec 113",
+          "item": "https://yellowslate.com/school/gurugram/orchids-the-international-school-ois-dwarka-sec-113-bajghera"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/orchids-the-international-school-ois-dwarka-sec-113-bajghera",
+      "telephone": "+91 982 051 6096",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Tata Housing, Sector 113, Bajghera, Gurugram, Haryana 122017, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5332181,
+        "longitude": 77.0195626
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Tata Housing, Sector 113, Bajghera, Gurugram, Haryana 122017, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/orchids-the-international-school-ois-dwarka-sec-113-bajghera-bajghera-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya Raj"
+          },
+          "datePublished": "2023-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was good talking with the counselor.. She made us understand the overall year plan properly. Waiting for school to open.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rita Kashyap"
+          },
+          "datePublished": "2023-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great to know that this school is very close to us. Finally a Orchids branch near us. We are planning for admission here in the future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Himani Kashyap"
+          },
+          "datePublished": "2023-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice to know that this school is good at sports and studies too. I have heard many good things about Orchid's branches throughout India.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saumyajit Paul"
+          },
+          "datePublished": "2023-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school.. Work is on.. I liked this school very much. It has good turf and a spacious campus.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School, OIS Dwarka Sec 113 - Bajghera"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashish Garg"
+          },
+          "datePublished": "2023-04-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Feedback :\n1) took admission telling all the lies to parents (Representative Niharika)\n2) when asked for a refund, Niharika started talking rudely.\n3) After giving the warning of the case, she gave number of Moin Khan. he said we are discussing internally.\n4) after 15 days, he directed me to Vicky. Vicky included me in a mail chain. There approval required from Vicky, Seema, sayad and so on.\n\nDo you think it is a good process. While taking admission, only 10 min and money required. And after breaking promises, when asked for a refund, a tedious process of more than a month and that too with continuous reminder. In the refund as well 1500 deducted. this is really bad.\n\nI hope you will understand parent's pain and improve the process",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.2",
+  "views": "625",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Bajghera",
+  "board": "CBSE\n\nCo",
+  "established": "2022",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

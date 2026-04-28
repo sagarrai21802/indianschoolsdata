@@ -1,0 +1,372 @@
+{
+  "slug": "/school/gurugram/little-millennium-preschool-sector-69",
+  "url": "https://yellowslate.com/school/gurugram/little-millennium-preschool-sector-69",
+  "city": "gurugram",
+  "name": "Little Millennium Preschool - Sector 69 ",
+  "scraped_at": "2026-04-28T15:38:16.824570",
+  "html_length": 391187,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 69",
+          "item": "https://yellowslate.com/schools/gurugram/sector-69"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/gurugram/sector-69/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Little Millennium Preschool",
+          "item": "https://yellowslate.com/school/gurugram/little-millennium-preschool-sector-69"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Little Millennium Preschool - Sector 69",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/little-millennium-preschool-sector-69",
+      "telephone": "8071 327 089",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1, Main Branch Rd, nearby State Bank of India ATM, Sector 69, Gurugram, Haryana 122101",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4015858,
+        "longitude": 76.9435375
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1, Main Branch Rd, nearby State Bank of India ATM, Sector 69, Gurugram, Haryana 122101",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/little-millennium-preschool-sector-69-sector-69-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "61"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashutosh Tripathi"
+          },
+          "datePublished": "2024-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I want to share my thoughts about school and faculty. Faculty for School is very good. They upmost take care of our kids. Faculty is very sincere and well trained to attend kids. They are innovative in teaching or training curriculum. They take care each individual kids & give their full effort for child growth. Management of School is very supportive and well organised. They listen every children need and try to fullfill the same.\nI am very happy with their efforts & my child has grown miles after studying in school.\nThank you for your efforts.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumit Koul"
+          },
+          "datePublished": "2024-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent improvement for my children and his class teacher priyanka mam lot of careing for her students so I am very happy for my children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kiran"
+          },
+          "datePublished": "2024-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is very nice for my child. Very understandable way of teaching. Excellent school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raif Hasan"
+          },
+          "datePublished": "2024-10-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter Amara  completes her 6 months in little millennium\n. And I would like to appreciate sheetal ma'am for guiding  my daughter learn .As a teacher you left a positive impression on my daughter, to which she says , \"Sheetal ma'am is the best\". I want to take this opportunity to say thank you for your effort and support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preetika Gupta"
+          },
+          "datePublished": "2024-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are very satisfied. Our child always gets ample opportunities to explore and progress in all aspects. The school has been successful in striking an appropriate balance between Academic and Co-Curricular activities.Highly appreciated the pains taken by the teachers for the academic improvement as well as others activities too.\nSpecial thanks to my daughter's class teacher Ms. Sheetal Ma'am for their efforts and support.\n\nI recommend a little millennium school to everyone!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tripti Srivastava"
+          },
+          "datePublished": "2024-09-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very happy with this place as my child is doing lots of activities in little millennium school and is happy too thanks Poonam mam n all staf",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shivani Yadav"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am impressed with Little Millinium curriculum and teaching methods which is different from other schools and the class teacher ( ms sheetal)is very kind and helpful. She always helps all the children with her best efforts, so special thanks to the class teacher. Ma'am we appreciate your efforts and support. The way you teach all the children is very effective and as a parent we can see the positive changes in Kairav towards his study.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parul A Kumar"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am delighted with my experience at Little Millenium school in Sector 69. The atmosphere is friendly, bright, and thoughtfully designed to make both children and parents feel comfortable.\nRTF 1 class teacher Ms. Sheetal has been an incredible influence on my child’s development. She brings a lot of energy, kindness, and creativity to her teaching. My child looks forward to going to school every day, eager to participate in the different activities Ms. Sheetal plans, from arts and crafts to interactive learning games.\nShe’s also great at keeping parents informed and is always open to feedback and communication.\nHighly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepkaran singh"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good Experience with the school and their academics also their social platforms they are providing. I am very satisfied",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium Preschool - Sector 69"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Rajput"
+          },
+          "datePublished": "2024-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello there🫶…\nI want to take a minute of yours and want to share our beautiful experience with LM pre school , sector - 69..\nInitially when we shifted to gurugram and got our son transferred from pune for my son’s nursery grade ,we were not sure for anything..but from the very 1st day my son was made  so comfortable here..they create super friendly atmosphere within the school..and till date we have gained tremendous growth in my child.The curriculum and teaching methods used by the teachers are very simple and smooth for our kids towards learning..…\nThe excellent and super humble facilitators and nanny didis are USP of the school..\nRight now my kid is in LKG grade…and he loves his class ma’am.Thank you “Sheetal maam “ for your amazing efforts..We are so grateful for all your support and everyday guidance towards these kids..Mrs. Chatterjee (The Director) of the school is lovely person we have ever met..She greeds to everyone with all her heart every-time one visits the school..\nPlease do not get confuse yourself if you’re looking for good school for your child with humble and amazing team of school teachers and ground staffs.. just go ahead with Little Millennium Pre school sector 69.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695706657131407972965126e21744ec1695706657.jpg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.9",
+  "views": "2",
+  "reviews_count": "61",
+  "phone": "+919513238818",
+  "locality": "Sector 69",
+  "board": "Other Boards\n\nCo",
+  "established": "2020",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Little Millennium Preschool ?\nAsk a Question\nLittle Millennium Preschool Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695706657131407972965126e21744ec1695706657.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

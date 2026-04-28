@@ -1,0 +1,280 @@
+{
+  "slug": "/school/gurugram/euro-international-school-sector-37d",
+  "url": "https://yellowslate.com/school/gurugram/euro-international-school-sector-37d",
+  "city": "gurugram",
+  "name": "EURO INTERNATIONAL SCHOOL - Sector 37D ",
+  "scraped_at": "2026-04-28T15:16:00.832578",
+  "html_length": 349463,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 37D",
+          "item": "https://yellowslate.com/schools/gurugram/sector-37d"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-37d/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "EURO INTERNATIONAL SCHOOL",
+          "item": "https://yellowslate.com/school/gurugram/euro-international-school-sector-37d"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "EURO INTERNATIONAL SCHOOL - Sector 37D",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/euro-international-school-sector-37d",
+      "telephone": "+91 971 697 5936",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "BPTP Towers, Sector 37D, Gurugram, Haryana 122004, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4478213,
+        "longitude": 76.9703488
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EURO INTERNATIONAL SCHOOL - Sector 37D",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "BPTP Towers, Sector 37D, Gurugram, Haryana 122004, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/euro-international-school-sector-37d-sector-37d-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha"
+          },
+          "datePublished": "2026-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school i have ever seen.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EURO INTERNATIONAL SCHOOL - Sector 37D"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pronita Barman"
+          },
+          "datePublished": "2023-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A best place where students nurtured with cultural values.\n\nThe class is organised well and there are imaginative ideas used to help the children share ideas and learning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EURO INTERNATIONAL SCHOOL - Sector 37D"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kashish Bhardwaj"
+          },
+          "datePublished": "2023-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School has very good environment for the students. Students learn a lot  via different activities.\nThanks to teachers and the management for providing a tremendous good education and environment for their growth.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EURO INTERNATIONAL SCHOOL - Sector 37D"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yana Agarwal"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A better environment for the development of the children. Thanks to the good faculty, staff and teachers here who genuinely do care about the students and do not take it merely as a job. All the teachers are very nice especially Priyanka ma'am. Fab school 🏫. I am sure you will like it.\n\nHighly recommend!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EURO INTERNATIONAL SCHOOL - Sector 37D"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ambika Rawat"
+          },
+          "datePublished": "2023-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Balanced approach - Academics and extra curricular - are focused and all facilities are provided in the school within the school hours.\nAdmin staff and teachers are patiently handling the kids as well as the parents. All our concerns are taken care well by the school staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EURO INTERNATIONAL SCHOOL - Sector 37D"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santosh Nagar"
+          },
+          "datePublished": "2023-07-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Euro International school is one of the best institution for the students who wants to achieve their goal. It has very efficient and experienced faculty.The allover envirement  of the school is quite healthy. The parents can trust the school for better future of their wards.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://yellowslate.youcanbook.me/",
+    "https://8views.com/",
+    "https://8views.com/\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.3",
+  "views": "516",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Sector 37D",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

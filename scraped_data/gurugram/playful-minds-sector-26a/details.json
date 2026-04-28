@@ -1,0 +1,373 @@
+{
+  "slug": "/school/gurugram/playful-minds-sector-26a",
+  "url": "https://yellowslate.com/school/gurugram/playful-minds-sector-26a",
+  "city": "gurugram",
+  "name": "Playful Minds - Sector 26A ",
+  "scraped_at": "2026-04-28T15:40:20.206419",
+  "html_length": 388761,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 26A",
+          "item": "https://yellowslate.com/schools/gurugram/sector-26a"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MONTESSORI",
+          "item": "https://yellowslate.com/schools/gurugram/sector-26a/montessori"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Playful Minds",
+          "item": "https://yellowslate.com/school/gurugram/playful-minds-sector-26a"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Playful Minds - Sector 26A",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/playful-minds-sector-26a",
+      "telephone": "+91 8800914333",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "H-35 Rd, Block H, DLF Phase 1, Sector 26, Gurugram, Haryana 122002, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.478712,
+        "longitude": 77.0961878
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "H-35 Rd, Block H, DLF Phase 1, Sector 26, Gurugram, Haryana 122002, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/playful-minds-sector-26a-sector-26a-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "13"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "smriti mehta"
+          },
+          "datePublished": "2023-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Son's been studying at this school since 1 year!\nWe haven't seen a better school than this in whole of Gurgaon.\nThe way they teach...conduct classes are just amazing!Best part are there celebratory events conducted in the best possible way!\nI've seen sea ful of change in my child.\nLove Love Love playful minds!\nThank you for all the good work you guys have been doing!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shikha Bachus"
+          },
+          "datePublished": "2023-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful school. A home away from\nHome for my child. He is so well looked after by the entire staff and I have seen such a big developmental leap in his knowledge about the world and his social skills since he has started playful minds.\nIt is heartwarming to see even the owner and principal greet him by his name in every interaction.\nShruti ma’am-the principal- even took him under her wing when he had first started going without me to school. He used to sit in her room and play with her.\nI have seen her do this with other kids during their transition time too. Amazing!\nPersonal attention is to the T!\nOther commercial schools with 20-30 kids in a class will never give this kind of attention.\nHappy to be here! So Happy my child goes here!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nimisha goel"
+          },
+          "datePublished": "2023-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If I could go back in time and attend Playschool I would go to Playful Minds. I am actually jealous of my son for having the best possible play school experience there could be. Playful minds provides a safe haven for all these little babies. My son has been going here since he was 2.5 and now he’s graduating at 4 years old to big school. I am amazed on a daily basis by the things he learns at this little age and the way he has grown in terms of his confidence and knowledge. A special mention for the cleanliness, attention to detail and the planning with which the curriculum is structured. Each and every staff member from the most senior to the ground level takes complete care of the children. I leave my kid here worry free every day, which is the best compliment a parent can give.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankita Mahajan"
+          },
+          "datePublished": "2023-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a wonderful school. The teachers are really dedicated and great with children. The school not only focuses on academics but also on the overall development of the child. The children are taken out for excursions where the teachers and the staff take utmost care of the safety and comfort of the children. The activities events and summer camps held in school are awesome. I have seen a remarkable development in my daughter. The school family is very warm and approachable my daughter has a huge smile every day going to school and excited to meet her teachers. I big shout out to Sonali Ma'am Shruti Ma'am Eesha Ma'am Shivani Ma'am and all the other teachers and staff for taking such good care of our children we know they are in safe hands. It is a lovely experience to be a part of this school (family) 🤗",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aliyah Jaggi"
+          },
+          "datePublished": "2023-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Brilliant school !! Loving, kind and just awesome team .. I’m so glad I zeroed on this lovely early learning step for my little one …",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shreyansh upadhyay"
+          },
+          "datePublished": "2023-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best play schools in the locality. We have been sending our kid for the last 1 year and we are impressed with the pedagogy. We have seen our child develop holistically over the last few months.\nThe teachers are awesome, batch size is small, focus on individual child. Nothing more than you can ask for.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shivani Gupta"
+          },
+          "datePublished": "2023-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Working in Playful minds as a teacher is heartening and a very very fulfilling experience,Sonali ma’am & Shruti ma’am are wonderful teachers and are there for us every step of the way.Each morning when the school gate opens and the little ones come in with their smiles and positivity they add joy in my very being…I am grateful to be here and contributing in my small way for a brighter tomorrow of our country.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Isha Sagar"
+          },
+          "datePublished": "2022-12-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The infrastructure and facilities are amazing. They cater to every need of a child. The curriculum is child-centered. It's a second home for every child who comes here. The teachers are very well-trained and excellent at their work. The director and principal are very hands-on and fully involved in the day to day events.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shashi Garg"
+          },
+          "datePublished": "2022-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a grandmother, I enjoyed the events and appreciate the teaching team and management. I wish all the success to the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Playful Minds - Sector 26A"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anish"
+          },
+          "datePublished": "2022-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has amazing infrastructure and facilities. The staff are highly trained and professionally managed. It is a good experience before going into a big school. The events are very well organized and highly interactive. I'd be suprised if any complaints come from anyone...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.5",
+  "views": "610",
+  "reviews_count": "13",
+  "phone": "+919513238818",
+  "locality": "Sector 26A",
+  "board": "Montessori\n\nCo",
+  "established": "2014",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Playful Minds ?\nAsk a Question\nPlayful Minds Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

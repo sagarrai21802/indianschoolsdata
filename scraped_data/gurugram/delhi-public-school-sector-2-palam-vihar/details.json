@@ -1,0 +1,374 @@
+{
+  "slug": "/school/gurugram/delhi-public-school-sector-2-palam-vihar",
+  "url": "https://yellowslate.com/school/gurugram/delhi-public-school-sector-2-palam-vihar",
+  "city": "gurugram",
+  "name": "Delhi Public School - Palam Vihar ",
+  "scraped_at": "2026-04-28T15:33:32.571489",
+  "html_length": 399631,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palam Vihar",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/gurugram/delhi-public-school-sector-2-palam-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Palam Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/delhi-public-school-sector-2-palam-vihar",
+      "telephone": "+91 1244075063",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Block F, Sector 2, Palam Vihar, Gurugram, Haryana 122017, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5063169,
+        "longitude": 77.0230504
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Block F, Sector 2, Palam Vihar, Gurugram, Haryana 122017, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/delhi-public-school-sector-2-palam-vihar-palam-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "56"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rashi Tiwari"
+          },
+          "datePublished": "2024-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Delhi Public School 67A Gurugram provides a holistic education experience. The faculty is dedicated, and the facilities are top-notch. Children has thrived here academically and socially. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rachita Meena"
+          },
+          "datePublished": "2024-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school offers numerous opportunities for students to pursue their sports passion and lead active lifestyles. Experienced coaches guide DPS students to excel in their chosen sports and learn invaluable lessons in teamwork, discipline, and sportsmanship. It combines traditional teaching methods with an experimental learning methodology that fosters curiosity, creativity, and critical thinking skills through hands-on activities. Integrating activities into the curriculum allows students to explore concepts firsthand and make meaningful connections between theory and practice.DPS emphasizes the importance of experiential learning through a variety of hands-on activities that extend beyond the classroom.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavyansh Jha"
+          },
+          "datePublished": "2024-04-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's the best school in Gurugram. I am saying it as a student of this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ashoka jangid"
+          },
+          "datePublished": "2024-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great environment and good study. Faculty also too good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ragini M"
+          },
+          "datePublished": "2024-01-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am blessed to be a part of DPS 67 A  Gurugram.  I strongly recommend it to everyone looking for holistic development of their child . The facilities at the school are top-notch, providing students with a safe and inspiring space to explore and grow. From well-equipped classrooms to modern technology resources, the school is clearly invested in creating an optimal learning environment. The extracurricular activities and clubs offered provide additional opportunities for students to discover and nurture their interests.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "aashna vyas"
+          },
+          "datePublished": "2024-01-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's an incredible school! The pedagogical learning approach they follow really helps students understand concepts deeply. They also provide plenty of hands-on experiences, which make learning more engaging and practical. The emphasis on experiential learning allows students to apply their knowledge in real-life situations. Overall, DPS is a fantastic school that nurtures holistic development and prepares students for the future. I highly recommend it! 😄👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megha Hari"
+          },
+          "datePublished": "2024-01-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The DPS Sec-67 A is a well-established and reputable institution that offers a comprehensive education for students. The school has a strong academic curriculum with a focus on both traditional subjects and modern technology. The faculty is highly qualified and dedicated to the success of their students.\n\nThe school also places a strong emphasis on extracurricular activities, providing students with opportunities to explore their interests and talents outside of the classroom. The facilities are also top-notch, with well-equipped classrooms, laboratories, and sports facilities.\n\nThe school has a strong sense of community and provides a supportive and nurturing environment for students to learn and grow. The management and staff are committed to the overall development of the students and work tirelessly to ensure their success.\n\nOverall, DPS Sec-67 is a fantastic school that provides a well-rounded education for its students. It is definitely worth considering for parents looking for a quality educational institution for their children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rijina Minj"
+          },
+          "datePublished": "2023-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS Gurugram 67A is one of the best school in gurugram. This school is really DPS with a difference. The staff is really helpful and the teachers are very cooperative with students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "D K Sharma"
+          },
+          "datePublished": "2023-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in gurugram. I am very happy with the staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PREM PRAJAPATI"
+          },
+          "datePublished": "2023-11-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Curriculum is very nice for students. Dps GURUGRAM 67a infrastructure is nice according to new school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15966256471387878385f2a92efe23491596625648.PNG\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.9",
+  "views": "493",
+  "reviews_count": "56",
+  "phone": "+919513238818",
+  "locality": "Palam Vihar",
+  "board": "CBSE, IB\n\nCo",
+  "established": "1987",
+  "category": "Day Schools",
+  "classes": "800 - 302",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

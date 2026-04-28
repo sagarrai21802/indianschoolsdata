@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/golden-heights-school-block-b-sector-56",
+  "url": "https://yellowslate.com/school/gurugram/golden-heights-school-block-b-sector-56",
+  "city": "gurugram",
+  "name": "Golden Heights School - Block B,Sector 56 ",
+  "scraped_at": "2026-04-28T15:31:53.155709",
+  "html_length": 311263,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Block B,Sector 56",
+          "item": "https://yellowslate.com/schools/gurugram/block-b-sector-56"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/gurugram/block-b-sector-56/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Golden Heights School",
+          "item": "https://yellowslate.com/school/gurugram/golden-heights-school-block-b-sector-56"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Golden Heights School - Block B,Sector 56",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/golden-heights-school-block-b-sector-56",
+      "telephone": "+91 995 829 7240",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot no.-4, Devinder Vihar, Sector 56, Gurugram, Haryana 122011, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4286167,
+        "longitude": 77.093139
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Golden Heights School - Block B,Sector 56",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot no.-4, Devinder Vihar, Sector 56, Gurugram, Haryana 122011, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/golden-heights-school-block-b-sector-56-block-b-sector-56-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "bhawna srivastava"
+          },
+          "datePublished": "2021-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been working with the school for 12+ years and working here has helped me grow into a better teacher. I teach and learn at the same time.\nEveryone is really very supportive and helpful. My experience with the school has been nothing but amazing and very memorable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Golden Heights School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megha Srivastava"
+          },
+          "datePublished": "2021-06-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It has been a very enriching and fruitful experience while working in Golden Heights School. Overall environment of the school is oriented toward the growth and development of children under the leadership of our esteemed Principal and Senior Management. The work culture is very conducive for growth as the staff members are quite supportive and collaborative in our day today functioning. It’s an institution which strives towards excellence and development of children.\nIt’s a school where you love to work, as it gives you the freedom to explore your creativity in the field of education and provides ample opportunity for self development. Also from time to time it organizes workshops on latest trends of education which provides us the  opportunity to  grow personally and professionally.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Golden Heights School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Annu Singh"
+          },
+          "datePublished": "2021-06-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Being a teacher at golden heights has been incredible. Everything about golden height is excellent.The school organises various fun and knowledgeable events for students and teachers which help them to interact with each other. The school staff is helpful and polite. It has been 10-15 years I have worked at golden heights and it has always been amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Golden Heights School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "laxami srivastava"
+          },
+          "datePublished": "2021-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Golden Heights School is one of the most renowned institutions of  Gurugram.The school focuses on the overall development of a child. Teachers are well trained and meet all the needs of the students by adopting various teaching methodologies and technology. It is a new age learning school. The school is having a positive environment with all the facilities. Love n light",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Golden Heights School - Block B,Sector 56"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyank Chander"
+          },
+          "datePublished": "2021-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had the pleasure of visiting Golden Heights school on number of occasions. I have participated in their yearly carnivals which is something I always look forward too. It is  an opportunity to interact with the teachers and other staff members who are really very humble and dedicated. I also had a pleasure of visiting the school for an external viva and got an opportunity to interact with students. It was clear that they are well schooled.\n\nGood communication, team work, and effective schools take a lot of hard work. So congratulations to the whole team of Golden Heights school !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "5.0",
+  "views": "478",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Block B,Sector 56",
+  "board": "ICSE\n\nCo",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "000 - 48",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

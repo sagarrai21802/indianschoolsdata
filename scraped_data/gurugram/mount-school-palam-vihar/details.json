@@ -1,0 +1,373 @@
+{
+  "slug": "/school/gurugram/mount-school-palam-vihar",
+  "url": "https://yellowslate.com/school/gurugram/mount-school-palam-vihar",
+  "city": "gurugram",
+  "name": "Mount School - Palam Vihar ",
+  "scraped_at": "2026-04-28T15:13:31.190546",
+  "html_length": 388258,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palam Vihar",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mount School",
+          "item": "https://yellowslate.com/school/gurugram/mount-school-palam-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mount School - Palam Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/mount-school-palam-vihar",
+      "telephone": "09818431225",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Ganga Vihar, New Palam Vihar, Phase-III, Bajghera Rd, Gurugram, Haryana 122017",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5229782,
+        "longitude": 77.0223213
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ganga Vihar, New Palam Vihar, Phase-III, Bajghera Rd, Gurugram, Haryana 122017",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/mount-school-palam-vihar-palam-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "30"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushi Kushwaha"
+          },
+          "datePublished": "2024-05-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have passed out from this school from class 10th and here teachers are too good and of helping nature but if you are (or you will be) a board exam giving student, specially from cbse, I will suggest that you should think once more before entering here ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sania *"
+          },
+          "datePublished": "2024-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school: teachers are also very supportive, I am pass out from there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satyapal Kumar Satyapal Kumar"
+          },
+          "datePublished": "2024-01-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Satyapalkumar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rohtash kumar"
+          },
+          "datePublished": "2023-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Happy",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Isha Singh"
+          },
+          "datePublished": "2023-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "this is not so great that all you talk  there miss princple is so toxic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bimala Rayamajhi"
+          },
+          "datePublished": "2021-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "very nic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kritika Sharma"
+          },
+          "datePublished": "2021-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School staf is very polite and friendly principal is good n inspect each class time to time",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "HIMANSHU KUMAR"
+          },
+          "datePublished": "2020-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I Love My School\n\n10th Batch\n\nSonu Kumar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratibha Singh"
+          },
+          "datePublished": "2020-09-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school in the palam vihar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mount School - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipanshu challengers"
+          },
+          "datePublished": "2020-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15966256471387878385f2a92efe23491596625648.PNG\\",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/10/Ib-schools.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png\\"
+  ],
+  "rating": "4.2",
+  "views": "516",
+  "reviews_count": "30",
+  "phone": "+919513238818",
+  "locality": "Palam Vihar",
+  "board": "CBSE\n\nCo",
+  "established": "1993",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Mount School ?\nAsk a Question\nMount School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/10/Ib-schools.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15966256471387878385f2a92efe23491596625648.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-3.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

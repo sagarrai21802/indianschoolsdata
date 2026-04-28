@@ -1,0 +1,373 @@
+{
+  "slug": "/school/gurugram/the-navyandhra-school-jr-wing-sector-43",
+  "url": "https://yellowslate.com/school/gurugram/the-navyandhra-school-jr-wing-sector-43",
+  "city": "gurugram",
+  "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43 ",
+  "scraped_at": "2026-04-28T15:35:56.315266",
+  "html_length": 391584,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 43",
+          "item": "https://yellowslate.com/schools/gurugram/sector-43"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/sector-43/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "THE NAVYANDHRA SCHOOL (Jr Wing)",
+          "item": "https://yellowslate.com/school/gurugram/the-navyandhra-school-jr-wing-sector-43"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693558494170424477664f1a6dea83441693558495.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/the-navyandhra-school-jr-wing-sector-43",
+      "telephone": "078349 31634",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "NS-16, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122002, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.460365,
+        "longitude": 77.0839869
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "NS-16, Block C, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122002, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/the-navyandhra-school-jr-wing-sector-43-sector-43-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "25"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aabha Fancy Dress"
+          },
+          "datePublished": "2023-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school 👍👍👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nirmala Gusain"
+          },
+          "datePublished": "2022-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj Aggarwal"
+          },
+          "datePublished": "2022-09-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really happy and satisfied with the efforts of the school teachers, and support staff. They show great care, compassion, patience towards every single child. Personalized learning for children is a big plus. Our grandson always talks about his class teachers.\n\nI would surely recommend Jr. Navyandhra School to all parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Gusain"
+          },
+          "datePublished": "2022-09-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thank you Team Navyandhra Jr. Wing for your hard work in supporting my child as they develop. Your patience and commitment to supporting my child has mean a lot to our family.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karishma Mittal"
+          },
+          "datePublished": "2022-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience about this school is pretty good. As a parent I have found the staff, particularly teachers very friendly and approachable. By and large it is pleasant to send my child everyday. It’s like an another home for my kid. I am very happy for my child as he is well looked after in school and learns a lot of things progressing every day.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjay Bhandari"
+          },
+          "datePublished": "2022-09-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a excellent, wonderful school that i have ever seen in my live so far, where a kid gets a atmosphere like at home. Staff is humble and soft spoken, teachers are well educated and talented,  giving first priority to cleanliness, you should must visit this school ones. If you searching a better school for your kid.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meena Rawat"
+          },
+          "datePublished": "2022-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It has a very pleasant environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suraj Prakash Ojha"
+          },
+          "datePublished": "2022-09-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful school for kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raji malphas"
+          },
+          "datePublished": "2022-09-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school have very good infra and the kids here are really learning things quick and most of all kids are happy and safe there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE NAVYANDHRA SCHOOL (Jr Wing) - Sector 43"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Thakran"
+          },
+          "datePublished": "2022-09-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Found the School in our vicinity and just each day passing by seeing my child in the classroom is so much satisfying. Thank you school and teachers for creating such a beautiful experience for students and parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693558494170424477664f1a6dea83441693558495.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693558494170424477664f1a6dea83441693558495.jpg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693558494170424477664f1a6dea83441693558495.jpg\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "5.0",
+  "views": "584",
+  "reviews_count": "25",
+  "phone": "+919513238818",
+  "locality": "Sector 43",
+  "board": "CBSE\n\nCo",
+  "established": "2017",
+  "category": "Public Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "THE NAVYANDHRA SCHOOL (Jr Wing) ?\nAsk a Question\nTHE NAVYANDHRA SCHOOL (Jr Wing) Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1693558494170424477664f1a6dea83441693558495.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

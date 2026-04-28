@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/kdm-public-senior-secondary-school-harinagar",
+  "url": "https://yellowslate.com/school/gurugram/kdm-public-senior-secondary-school-harinagar",
+  "city": "gurugram",
+  "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar ",
+  "scraped_at": "2026-04-28T15:17:32.978653",
+  "html_length": 343388,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Harinagar",
+          "item": "https://yellowslate.com/schools/gurugram/harinagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/harinagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL",
+          "item": "https://yellowslate.com/school/gurugram/kdm-public-senior-secondary-school-harinagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/kdm-public-senior-secondary-school-harinagar",
+      "telephone": "+91 9354340537",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Baluda Rd, Kawasika Express, Sohna, Raipur, Haryana 122103, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.2493546,
+        "longitude": 77.0846803
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Baluda Rd, Kawasika Express, Sohna, Raipur, Haryana 122103, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/kdm-public-senior-secondary-school-harinagar-harinagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Seemu Sharma"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school of education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Seemu Sharma"
+          },
+          "datePublished": "2020-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kdm school is best school. All teacher are very good.mrs.uma rani is the best principal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kuldeep Sharma"
+          },
+          "datePublished": "2020-03-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has very good learning environment. The staff teaches moral values also.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Guru Gill"
+          },
+          "datePublished": "2018-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL - Harinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikas Jangid"
+          },
+          "datePublished": "2016-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice place for educate. Come to Learn , Go to Serve.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "4.6",
+  "views": "476",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Harinagar",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Day Schools",
+  "classes": "000 - 18",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "K.D.M. PUBLIC SENIOR SECONDARY SCHOOL ?\nAsk a Question\nK.D.M. PUBLIC SENIOR SECONDARY SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

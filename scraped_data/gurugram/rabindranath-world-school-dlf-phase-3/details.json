@@ -1,0 +1,375 @@
+{
+  "slug": "/school/gurugram/rabindranath-world-school-dlf-phase-3",
+  "url": "https://yellowslate.com/school/gurugram/rabindranath-world-school-dlf-phase-3",
+  "city": "gurugram",
+  "name": "rabindranath world school - DLF Phase 3 ",
+  "scraped_at": "2026-04-28T15:40:48.835365",
+  "html_length": 390507,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DLF Phase 3",
+          "item": "https://yellowslate.com/schools/gurugram/dlf-phase-3"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/dlf-phase-3/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rabindranath World School",
+          "item": "https://yellowslate.com/school/gurugram/rabindranath-world-school-dlf-phase-3"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "rabindranath world school - DLF Phase 3",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/rabindranath-world-school-dlf-phase-3",
+      "telephone": "01244050022",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Block, Site No. 3120, W 10 Rd, U Block, DLF Phase 3, Sector 24, Gurugram, Haryana 122002",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4916812,
+        "longitude": 77.094897
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Block, Site No. 3120, W 10 Rd, U Block, DLF Phase 3, Sector 24, Gurugram, Haryana 122002",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/rabindranath-world-school-dlf-phase-3-dlf-phase-3-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "144"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sidharth Kumar"
+          },
+          "datePublished": "2024-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very well educated and no indeciplin",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vija Negi"
+          },
+          "datePublished": "2024-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school have really good environment for students.The education and teacher's teaching is excellent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lokesh Kumar"
+          },
+          "datePublished": "2023-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Op school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Wasim Iqbal"
+          },
+          "datePublished": "2023-10-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Feedback for transport -\nWriting this feedback specifically to the transportation team, at root #4 they are asking kids to come 500 meter before the pickup point which is not acceptable. We are paying the transportation fee, if you have any issues with the bus, kindly send the mini bus which can be trun around easily.\n\nThis is conflicting with our daily office routine and costing us 25 minutes extra.\n\nI had several discussions with the transportation team, but they don't have any solution as of now.\n\nAdmin Team, Kindly look into this matter and fix this problem on priority.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monti Joseph"
+          },
+          "datePublished": "2023-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ADVIK SINGH"
+          },
+          "datePublished": "2023-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is just lovely with so many supportive teachers and a whole lot of new experiences.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Seema Rani"
+          },
+          "datePublished": "2023-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well trained, experienced and cooperative staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj Kumar"
+          },
+          "datePublished": "2023-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Education is excellent. And every facilities are available. 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "luky iam"
+          },
+          "datePublished": "2023-09-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Haryana best school for Education and sports ❤️❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "rabindranath world school - DLF Phase 3"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "reena devi"
+          },
+          "datePublished": "2023-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good but they are no posting some videos",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "rt058155@gmail.com"
+  ],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15949674274855617735f11458353d7c1594967427.PNG\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.6",
+  "views": "572",
+  "reviews_count": "144",
+  "phone": "+919513238818",
+  "locality": "DLF Phase 3",
+  "board": "CBSE\n\nCo",
+  "established": "1960",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "rabindranath world school ?\nAsk a Question\nrabindranath world school Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15949674274855617735f11458353d7c1594967427.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "/school/gurugram/narayana-e-techno-school-palam-vihar",
+  "url": "https://yellowslate.com/school/gurugram/narayana-e-techno-school-palam-vihar",
+  "city": "gurugram",
+  "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar ",
+  "scraped_at": "2026-04-28T15:16:35.134721",
+  "html_length": 356846,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palam Vihar",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/palam-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "NARAYANA E-TECHNO SCHOOL",
+          "item": "https://yellowslate.com/school/gurugram/narayana-e-techno-school-palam-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/narayana-e-techno-school-palam-vihar",
+      "telephone": "+91 874 598 6000",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No. C, 1, Palam Vihar Rd, near Bestech Park View Residency, Block C 1, Palam Vihar, Gurugram, Haryana 122017, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5004323,
+        "longitude": 77.024897
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No. C, 1, Palam Vihar Rd, near Bestech Park View Residency, Block C 1, Palam Vihar, Gurugram, Haryana 122017, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/narayana-e-techno-school-palam-vihar-palam-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "1.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ombir Chauhan"
+          },
+          "datePublished": "2023-08-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best institute in Gurgaon. Very experienced teaching staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jitin narwal"
+          },
+          "datePublished": "2023-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Give one star as there is no negative marking else I would have given them minus five (-5) for their management....this group is purely here for making fool of common people... They will ask for same fee as DPS and other better schools are asking ...\nYou will find a fraud and false commitment making person saurabh who will tell you all fake things to grab the admission... Unprofessional staff.... Will never suggest for this school to anyone..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "manvi sharma Sharma"
+          },
+          "datePublished": "2023-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is managed, particularly in the finance team, a bunch of thugs. The school has as many fee structures as many students it has. One student pays, for example, 12k and another pays 18k, in the same class. In my case, they charged me security amount of 10k when I took admission in 2018. This year, I got admission for my kid in a new school. It has been more than four months (filed application in April first week) I have been denied refund of security fee and they are not ready to accept it even when I have submitted all the proofs. can somebody help.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kavita upadhyay"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Horrendous Experience - Unprofessional Behavior and Time Wasted\n\nI had an extremely distressing experience while applying for a TGT position at this school. The treatment I received throughout the process was utterly unprofessional and disrespectful. It is with a heavy heart that I write this review to caution others about the harrowing ordeal I endured.\n\nFirst and foremost, the school's handling of the application process was disorganized and inconsiderate. They kept me waiting for long hours during the initial stages, while my child was left unattended at the school. This lack of consideration for applicants' time and responsibilities is deeply concerning.\n\nMoreover, I was subjected to three consecutive days of interviews, which were exhausting and time-consuming. Despite putting in my best effort during these interviews, I was informed twice that the position was put on hold, leaving me frustrated and bewildered.\n\nWhat made matters worse was the manner in which the school communicated with me. The responses were rude, dismissive, and unapologetic for the inconvenience caused. It was evident that they lacked empathy and failed to acknowledge the time and effort I had invested in the process.\n\nTo add to the distress, they offered me a completely different position, for which I had never applied. This clearly indicated a lack of attention to detail and an unorganized approach to recruitment.\n\nIn the end, after yet another rigorous interview, they nonchalantly informed me that the new position was also on hold. This sequence of events left me feeling disrespected, undervalued, and with a significant amount of wasted time.\n\nI cannot emphasize enough how deeply disappointed I am with this school's handling of the entire application process. Their lack of professionalism, disregard for applicants' time and feelings, and poor communication have left me with a bitter taste in my mouth.\n\nI would strongly advise anyone considering applying for a position at this school to be cautious and prepared for potential mistreatment and unprofessionalism. The experience I had was nothing short of pathetic, and I regret ever considering this school as a potential employer for me or a place of education for my child.\n\nPlease think twice before associating yourself with this institution and subjecting yourself to the distress I faced during this nightmarish application process.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "NARAYANA e-TECHNO SCHOOL - Palam Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "B.R Choudhary"
+          },
+          "datePublished": "2023-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very poor management,techers behavior are good,principal behavior is very bad & she never hear parents, talking behavior of principal like police.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate"
+  ],
+  "rating": "1.8",
+  "views": "810",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Palam Vihar",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Day Schools",
+  "classes": "000 - 95",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "NARAYANA e-TECHNO SCHOOL ?\nAsk a Question\nNARAYANA e-TECHNO SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

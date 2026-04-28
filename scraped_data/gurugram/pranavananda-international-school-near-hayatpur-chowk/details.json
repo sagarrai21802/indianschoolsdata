@@ -1,0 +1,256 @@
+{
+  "slug": "/school/gurugram/pranavananda-international-school-near-hayatpur-chowk",
+  "url": "https://yellowslate.com/school/gurugram/pranavananda-international-school-near-hayatpur-chowk",
+  "city": "gurugram",
+  "name": "Pranavananda International School - Near Hayatpur Chowk ",
+  "scraped_at": "2026-04-28T15:34:14.289643",
+  "html_length": 352360,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gurugram",
+          "item": "https://yellowslate.com/schools/gurugram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Near Hayatpur Chowk",
+          "item": "https://yellowslate.com/schools/gurugram/near-hayatpur-chowk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/gurugram/near-hayatpur-chowk/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pranavananda International School",
+          "item": "https://yellowslate.com/school/gurugram/pranavananda-international-school-near-hayatpur-chowk"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Pranavananda International School - Near Hayatpur Chowk",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/gurugram/pranavananda-international-school-near-hayatpur-chowk",
+      "telephone": "+91 844 829 3021",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector 92, Gurugram, Haryana 122505, India",
+        "addressLocality": "Gurugram",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.407854,
+        "longitude": 76.9153281
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pranavananda International School - Near Hayatpur Chowk",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector 92, Gurugram, Haryana 122505, India",
+              "addressLocality": "Gurugram",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/gurugram/pranavananda-international-school-near-hayatpur-chowk-near-hayatpur-chowk-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhav Pandey"
+          },
+          "datePublished": "2023-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school, school behavior is very bad.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pranavananda International School - Near Hayatpur Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurmeet Anand"
+          },
+          "datePublished": "2023-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "What a great school. I would say completely worth it. Specially I love to interact with Mr. Principal here. They have all the sports and play ground too. Teachers are educated and students are sincere. Not a corporate school but would suggest that your child will be grounded for sure. Could have give 10 stars ….",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pranavananda International School - Near Hayatpur Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "POOJA YADAV"
+          },
+          "datePublished": "2022-11-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school with very dedicated staff and focussing on both academics and culture values",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pranavananda International School - Near Hayatpur Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Paarth Interiors"
+          },
+          "datePublished": "2020-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school as far as human values and cultures err concern. Very well educated staff with nice building. Bharat Seva Sangh (BSS) is doing great for the education of the kids.we wish them good luck.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pranavananda International School - Near Hayatpur Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Biswajit Dey"
+          },
+          "datePublished": "2019-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "About Us\n\nPranavananda International School is a CBSE Affiliated English Medium co-ed school run and managed by the Bharat Sevashram Sangha, situated at Sector – 92 of greater Gurugram, Haryana, India. The school began its noble journey in April, 2014 with a few tiny tots from the nearby area with the core objectives of man-making education as envisaged by Acharya Shrimat Swami Pranavanandaji Maharaj, the founder of the Sangha.\n\nBharat Sevashram Sangha, the century old great philanthropic and a leading monastic organisation initiated this service to the society aiming to impart present day modern education to the students blended with high moral values and strict discipline. It will be a holistic approach towards all round development and progress of present generation– physical, mental, intellectual, moral, spiritual, social and emotional.\n\nWith all modern amenities made available amidst a spiritual environment in presence of the holy monks of the Sangha, the institute has steadily been emerging as a learning hub towards man-making education in a true sense of the term. Thereby, the future generations prepared from this learning institute will become a responsible, accountable, patriotic, dutiful, respectful, successful and worthy citizen of our holy motherland.\n\nThe guiding principles of Acharya Srimat Swami Pranavanandaji Maharaj, the illustrious patriot saint and nation-builder of unparalleled spiritual power and the great founder of Bharat Sevashram Sangha is our core values which can potentially transform manly qualities into divinity.\n\nOver the years, Bharat Sevashram Sangha has established several educational institutes across the country and abroad. The passed-out students from Bharat Sevashram Sangha institutes established themselves across the globe imbibing the ideals & principles of Acharya Srimat Swami Pranavanandaji Maharaj and living a dignified and meaningful life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.2",
+  "views": "747",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Near Hayatpur Chowk",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "800 - 52",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/03/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-2.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/08/2023-04-14.jpg"
+  ]
+}

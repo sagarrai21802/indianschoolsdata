@@ -1,0 +1,375 @@
+{
+  "slug": "/school/chennai/the-psbb-millennium-school-gerugambakkam",
+  "url": "https://yellowslate.com/school/chennai/the-psbb-millennium-school-gerugambakkam",
+  "city": "chennai",
+  "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam ",
+  "scraped_at": "2026-04-28T17:21:11.434529",
+  "html_length": 402866,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gerugambakkam",
+          "item": "https://yellowslate.com/schools/chennai/gerugambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/gerugambakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "THE PSBB MILLENNIUM SCHOOL",
+          "item": "https://yellowslate.com/school/chennai/the-psbb-millennium-school-gerugambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/the-psbb-millennium-school-gerugambakkam",
+      "telephone": "+91 720 004 8441",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "9, Grand Southern Trunk Rd, near PSBB Millenium School, Parangi Malai, Alandur, Chennai, Tamil Nadu 600016, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.001437,
+        "longitude": 80.199312
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9, Grand Southern Trunk Rd, near PSBB Millenium School, Parangi Malai, Alandur, Chennai, Tamil Nadu 600016, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/the-psbb-millennium-school-gerugambakkam-gerugambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "97"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is one of the most suitable options for students who want to have fun in their life\nAcademics wise this school is one of THE MOST PARTIAL and careless school. There is this award called all- rounder which is given to 3 people from a class and it is given to the people who deserve it the least.  If the class teacher likes you, you get it. Im not joking. I got 97 percent in boards, participated and won in many olympiads, participated in many sports events and extra curricular activities, had a good attendance record, but I've never received the award even once. I'm not saying this out of hate or anger, but just worry and sadness. I've worked hard all through my grade and tried my best, and pass with extremely good marks, but only the people who are the favorites of teachers are the ones who are rewarded even if they do not do academically good\nAlso teachers judge students so much, and assume your capability and have vengeance on students\nOne of the worst experiences in the School\nBut otherwise the students, the Cultural all those stuff are real good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Uma Nagalingam"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good coaching with kind teachers... Informations are updating correctly from school side",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepa jayarajan"
+          },
+          "datePublished": "2024-07-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "PSBB is very good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "man kind"
+          },
+          "datePublished": "2024-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son is studying in third std at psbb gerugambakkam. They announced a change in school uniform and asked us to purchase it from Ramachandra silks at porur merely 5 days before reopening!!!! We went today, that place was worse than the busiest market!! The sales people at the shope were so rude and were screaming at the parents if we asked for a different size or any other doubt. \" If you want, you find out for yourself, I don't have the time. This is the only size available now, if you want you buy\". Why should we parents go through this kind of a humiliation??? If the school wants to change their, they should have done it at their own campus atleast a month prior. They know the strength of each class, why couldn't they do it in an orderly fashion???? We pay such humongous amount as fees to go through such offensive comments?? The clothes are also of cheap quality and it was overly priced.. because of lack of parking, we even got a parking ticket!! at the end of the day a place of wisdom has become a place of business!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S S"
+          },
+          "datePublished": "2023-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has very good infrastructure, they give more importance for sports and extra curricular activities, basically focussing on holistic development of a child.\nThe child right from the initial stage is trained to face the crowd. All their students have excellent communication skills and social skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sowmiya Sowmi"
+          },
+          "datePublished": "2023-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school without basic amenities like clean rest rooms treated drinking water is not provided,fan and lights are not properly provided with an architect advice. Teachers are not honest and experienced.  They don't allow parents to meet principal. The school is situated in a residential area without wide road approach.Unless they change themselves better tamilnadu government education department cancels their school license.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vasantha devi Mahesh 2005"
+          },
+          "datePublished": "2023-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Quality education with holistic development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "krishna m"
+          },
+          "datePublished": "2023-03-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Learning is an ever-growing process My daughter  is studying here since Pre Kg and definitely a must recommend place for growing minds and especially the parents who wants their kids to develop moral ethics. It's a must school for the best , knowledgeable and ethical growth of our little ones.Great way of teaching , the way they take care of the child I am mesmorised.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suguna Devi"
+          },
+          "datePublished": "2023-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in this locality. If you are looking for a school which can help your child to have a holistic development (Academics, Sports, Co curricular activities etc), this school will be the right choice. I am very proud parent of this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE PSBB MILLENNIUM SCHOOL - Gerugambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S Dutta"
+          },
+          "datePublished": "2023-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a parent of this esteemed institution.\nThe psbb millennium school is very good school . Students get holistic development.  Superb academic faculties  who nurture the students very well. Students are trained for life skill.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16025846489198530695f858048d90ae1602584649.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15912492085254119685ed88938350111591249208.PNG\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.9",
+  "views": "1120",
+  "reviews_count": "97",
+  "phone": "+919513238818",
+  "locality": "Gerugambakkam",
+  "board": "CBSE\n\nCo",
+  "established": "2005",
+  "category": "Day Schools",
+  "classes": "300 - 75",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "THE PSBB MILLENNIUM SCHOOL ?\nAsk a Question\nTHE PSBB MILLENNIUM SCHOOL Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15912492085254119685ed88938350111591249208.PNG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16025846489198530695f858048d90ae1602584649.PNG"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/leads-high-school-kondhwa",
+  "url": "https://yellowslate.com/school/pune/leads-high-school-kondhwa",
+  "city": "pune",
+  "name": "LEADS High School - Kondhwa ",
+  "scraped_at": "2026-04-28T16:13:41.270129",
+  "html_length": 379464,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kondhwa",
+          "item": "https://yellowslate.com/schools/pune/kondhwa"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/kondhwa/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "LEADS High School",
+          "item": "https://yellowslate.com/school/pune/leads-high-school-kondhwa"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "LEADS High School - Kondhwa",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/leads-high-school-kondhwa",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Parge Nagar, next to Kumar Palmgrove, near Maruti Sai Service",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4634191,
+        "longitude": 73.8917781
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Parge Nagar, next to Kumar Palmgrove, near Maruti Sai Service",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/leads-high-school-kondhwa-kondhwa-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "13"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Adil Shaikh"
+          },
+          "datePublished": "2024-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school and teachers and principal good service an education very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nilofar Khan"
+          },
+          "datePublished": "2023-01-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice and affordable school in kondhwa...Good teaching and non teaching staff....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fzeba Shouque"
+          },
+          "datePublished": "2022-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience has been commendable..\nGood teachers who understand that each and every child is different and try to handle them differently. This is not seen in any other school.\nAppreciate the efforts of teachers and other non teaching staff. Grateful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Crown Gdn"
+          },
+          "datePublished": "2022-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice and good school.Teacher teach the child very nicely and activity are also doing very nice.Children are enjoying.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yasmin sayyad"
+          },
+          "datePublished": "2022-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "lubna shaikh"
+          },
+          "datePublished": "2022-10-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school\nMy daughter is enjoying her school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Najma Memon"
+          },
+          "datePublished": "2022-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Kondhwa as it helps the children in boosting their  confidence by conducting various activities and the children themselves have to do it which is the best part the staff is very active and responsive when we  contact them for any queries along with this I really like the way the teachers interacted personally with the parents one by one during the PTA meeting. I would recommend the school to all  the parents who wants an overall development of your child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohd ahmed Shaikh"
+          },
+          "datePublished": "2022-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Heena Inamdar"
+          },
+          "datePublished": "2022-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A good school providing quality education and they do not burden the child with unnecessary projects.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "LEADS High School - Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Riyaz Alam"
+          },
+          "datePublished": "2022-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "So far it’s been really a good experience.Daily we are getting informed about what is being taught in the class which really helps the parents. Thank you for all the efforts you are putting in to brighten up the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.7",
+  "views": "780",
+  "reviews_count": "13",
+  "phone": "+919513238818",
+  "locality": "Kondhwa",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Other Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "LEADS High School ?\nAsk a Question\nLEADS High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

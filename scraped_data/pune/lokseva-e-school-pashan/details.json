@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/lokseva-e-school-pashan",
+  "url": "https://yellowslate.com/school/pune/lokseva-e-school-pashan",
+  "city": "pune",
+  "name": "Lokseva E School - Pashan ",
+  "scraped_at": "2026-04-28T16:25:23.684398",
+  "html_length": 356077,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pashan",
+          "item": "https://yellowslate.com/schools/pune/pashan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/pashan/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Lokseva E School",
+          "item": "https://yellowslate.com/school/pune/lokseva-e-school-pashan"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Lokseva E School - Pashan",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/lokseva-e-school-pashan",
+      "telephone": "+91 954 577 3388",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S.No. 129/2+148/1A, Pashan - Sus Rd, behind Swami Smarth Society, Pashan, Pune, Maharashtra 411021, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5438205,
+        "longitude": 73.7862405
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lokseva E School - Pashan",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S.No. 129/2+148/1A, Pashan - Sus Rd, behind Swami Smarth Society, Pashan, Pune, Maharashtra 411021, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/lokseva-e-school-pashan-pashan-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Geetika Berry"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the most reputed CBSE schools in Pashan, Baner and Aundh area, also beneficial for PCMC students. The school boasts of a reputed staff, strong curriculum and many activities for an overall as well as holistic development of the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lokseva E School - Pashan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mansi Kulkarni"
+          },
+          "datePublished": "2023-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school.All the teachers teach very well,everything is informed in time. Everything is good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lokseva E School - Pashan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Bhosale"
+          },
+          "datePublished": "2023-05-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lokseva e school is  the great school in Pune.All teachers focus towards childrens  overall development.All co- curricular activities done in the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lokseva E School - Pashan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ana Thite"
+          },
+          "datePublished": "2023-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very disappointed with school management and teachers. My kid was here up to 5th std. Initially school was good, and staff was stable, focused on extracurricular activities also (up to 2018-19). But before pandemic, condition got worst day by day. After pandemic also, many good teachers left the school. Maths, Science, Marathi teachers changed so many times till now. School time is for 8 hours but 1 or 2 lectures goes off each day. Last year and this year, not any single sport competition (annual sport day), annual gathering, science activities were not happened. Only single field trip happened at same earlier location called \"Lekha Farm\". Even kids have not enjoyed it. Fortunately, we got few good teachers.  There is a crucial problem of teacher's salary, that's why good teachers are leaving school within a year. If your child is self-motivated and doing study hard then only go for this school, otherwise, his future will be at risk. I am writing this detailed review so, no one will suffer like me. Giving one star for only those few sincere teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lokseva E School - Pashan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandip More"
+          },
+          "datePublished": "2021-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lokseva school is a very good & beautiful school. It has a very big sports ground and Swimming pool. Teachers quality is very good. Shubhrata mam is a great teacher. Mamta mam & Gouri joshi mam teaches very well. I love this school. School conducts various activities for students apart from studies. I am the 1st year student.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://schema.org",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/\\",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://8views.com/",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.2",
+  "views": "1033",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Pashan",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "2018-19",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg"
+  ]
+}

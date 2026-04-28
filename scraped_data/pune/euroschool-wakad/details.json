@@ -1,0 +1,327 @@
+{
+  "slug": "/school/pune/euroschool-wakad",
+  "url": "https://yellowslate.com/school/pune/euroschool-wakad",
+  "city": "pune",
+  "name": "EuroSchool - Wakad ",
+  "scraped_at": "2026-04-28T15:58:00.527246",
+  "html_length": 370468,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wakad",
+          "item": "https://yellowslate.com/schools/pune/wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/wakad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "EuroSchool",
+          "item": "https://yellowslate.com/school/pune/euroschool-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "EuroSchool - Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/euroschool-wakad",
+      "telephone": "080 4803 1552",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No 187, Near, Datta Mandir Rd, adjacent to Palash Complex, Shankar Kalat Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6001445,
+        "longitude": 73.7641267
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No 187, Near, Datta Mandir Rd, adjacent to Palash Complex, Shankar Kalat Nagar, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/euroschool-wakad-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very disappointed with EuroSchool Wakad’s outdated and discriminatory uniform policy. While boys are given the option to wear pants, girls are forced to wear skirts—no choice given. My daughter is uncomfortable and feels unheard. In today’s time, schools should promote gender equality, freedom of choice, and comfort for all children, regardless of gender. Such rigid policies do not reflect progressive education values. I urge the management to rethink and modernize their approach towards student rights and inclusivity.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aajim P"
+          },
+          "datePublished": "2025-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I truly appreciate schools that prioritize the development of good manners and personal growth in students. A school that fosters respectful behavior and social skills creates a positive environment that benefits both the students and the community.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ruchi rathi"
+          },
+          "datePublished": "2025-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We recently visited Euro School Wakad for an admission inquiry, and unfortunately, our experience was quite disappointing.\n\n1. The admission counsellor was not well-informed about the associated costs, making it difficult for us to get a clear understanding of the fee structure.\n\n2. Instead of focusing on our queries, the counsellor seemed more interested in attending phone calls, leaving us feeling ignored and unvalued as potential parents.\n\n3.When asked about the subjects in the current session’s timetable, the counsellor had no idea, which was quite surprising for someone handling admissions.\n\n4. The counsellor mentioned that the school provides “lunch and dinner” in meals. When we sought clarification about “dinner” (assuming there might be evening batches), instead of acknowledging the mistake, she defensively responded, “You are catching my words,” without any apology or professionalism.\n\nFor a reputed institution like Euro School, the first point of contact—its admission counsellors—should be well-trained and capable of handling queries professionally. Parents entrust schools with their children’s future, and such interactions raise serious concerns about the overall management and transparency of the institution.\n\nI hope the school management takes this feedback seriously and ensures that their admission staff is better trained to assist parents effectively.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ragad Anil"
+          },
+          "datePublished": "2025-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "EuroSchool wakad ICSE is best School\n\n- *Experienced Teachers*: The school has highly motivated teachers who follow a personalized approach to help students realize their goals and true potential ¹.\n- *State-of-the-Art Infrastructure*: The campus is equipped with modern facilities, including a football ground, swimming pool, multipurpose hall, and digitally enabled classrooms ¹.\n- *Safety and Security*: EuroSchool Wakad prioritizes student safety, with CCTV cameras and GPS-enabled school buses ¹.\n- *Co-Curricular Activities*: The school offers various programs, such as ARGUS, ASPIRE, and Centre of Wellbeing, to foster overall development ¹.\n- *Academic Excellence*: EuroSchool Wakad has a strong reputation for academic excellence, with a focus on balanced schooling and digital learning ¹.\n\nParents and students alike have praised the school for its supportive environment, excellent faculty, and extensive facilities ². With its comprehensive approach to education, EuroSchool Wakad is an excellent choice for students seeking a well-rounded learning experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "admin exe"
+          },
+          "datePublished": "2025-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "EuroSchool combines a world-class curriculum with a strong emphasis on creativity, leadership, and global citizenship. Students engage in a diverse, multicultural environment that promotes both academic excellence and social responsibility. With cutting-edge facilities and expert teachers, the school nurtures well-rounded individuals ready to excel in any field",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "muddasir shaikh"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent, I truly appreciate the efforts of the school in guiding students for their Final exams. The teachers ensured that concepts were well explained. Practice papers were given well in advance, allowing students to prepare thoroughly and understand the exam pattern.The teachers also guided students on effective time management and exam strategies. They emphasized the importance of careful reading and answering, ensuring that students felt confident and well-prepared. Their dedication and continuous support from the teachers made a significant difference in my child’s learning journey.\nGrateful for such committed educators!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Benji Johnson"
+          },
+          "datePublished": "2024-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The admission process for my daughter for academic year 2025-2026 was quick and easy. The campus looks clean and neat. Will put detailed review and feedback once we get a full experience on the school management.  But the experience so far has been great.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Patil"
+          },
+          "datePublished": "2024-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Traffic Chaos and Safety Concerns Outside Euro School Wakad\n\nThe daily traffic outside Euro School Wakad is a nightmare for the local residents. The narrow roads are choked with cars, with each parent driving a single child, leading to significant congestion. The situation worsens during peak school hours, with no proper traffic management, parents park their vehicles in the middle of the road and block the road by parking their vehicle at the U turn.\nThis raises serious concerns about emergency access, as an ambulance or any emergency vehicle would struggle to get through during these hours. In case of a real emergency, the consequences could be devastating. The school administration needs to address this urgently by promoting only school bus usage , providing better parking solutions, or implementing safer traffic flow plans.\nThe current traffic situation is not only frustrating but poses a real threat to public safety.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1683806656776088515645cd9c08a05a1683806657.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.0",
+  "views": "809",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "Wakad",
+  "board": "CBSE\n\nCo",
+  "established": "2009",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "EuroSchool ?\nAsk a Question\nEuroSchool Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 4.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 4.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

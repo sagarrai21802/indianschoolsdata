@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/mitcon-international-school-balewadi",
+  "url": "https://yellowslate.com/school/pune/mitcon-international-school-balewadi",
+  "city": "pune",
+  "name": "Mitcon International School - Balewadi ",
+  "scraped_at": "2026-04-28T16:08:12.464647",
+  "html_length": 352914,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Balewadi",
+          "item": "https://yellowslate.com/schools/pune/balewadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/balewadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mitcon International School",
+          "item": "https://yellowslate.com/school/pune/mitcon-international-school-balewadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mitcon International School - Balewadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/mitcon-international-school-balewadi",
+      "telephone": "+91 988 146 1413",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Pune Octroi Naka, 33/1, Balewadi Rd, Opposite Chhatrapati Shivaji, Balewadi, Pune, Maharashtra 411045, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5727396,
+        "longitude": 73.7656435
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mitcon International School - Balewadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pune Octroi Naka, 33/1, Balewadi Rd, Opposite Chhatrapati Shivaji, Balewadi, Pune, Maharashtra 411045, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/mitcon-international-school-balewadi-balewadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen Soni"
+          },
+          "datePublished": "2023-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Education was good earlier but year on year basis it worst.\nSchool management is money minded.\nThey increased fee this year around 20%.\nThey got CBSE affiliation around 2-3 year back. They are not following book standard as per ncert.\nEvery couple of year they changed either books publication/vender reason for this everyone knows.\n\nThe books are very expensive they forced to take stationary as well even last year notebook n stationery already have.\nThis year books cost Rs 8700+\n\nThey are not following NCERT norms\nTransport fee is also hiked around 40%\nEarlier there was good space for play ground but during covid they constructed college behind the school by reducing the ground to half.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mitcon International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjeev Gogna"
+          },
+          "datePublished": "2023-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience with the office staff and others have been very good. All my queries were patiently and properly handled. They  are much more well behaved than many schools around. Was happy to see how parents are treated. Impressed by the infrastructure.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mitcon International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rock D"
+          },
+          "datePublished": "2023-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This year they directly increased fees by 12-15k ..its too much..as per their standard fees are very high and staff are not upto the mark...principal and staff doesnt have a knowladge. They just behind to complete curriculum. Principal only interested in makeup and talk in English, she doesnt have knowladge to how to run the school, how to handle students,  staff and parents also.. I never came across such a worst principal ever. If u as a parent go there with some issue..they target you as parents as well they target student also. I complained again one of the teacher but they target my kid . They don't want to resolve issue  but they Created mess and my kid sufferedstill suffering...next year definitely I will change the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mitcon International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Basant Lal Sharma"
+          },
+          "datePublished": "2022-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the best co-educational English medium CBSE Board School in Balewadi, Pune. My granddaughter is studying in this school. The school has good infrastructure, Lab, Computer class, Library, Indoor games & playground. The school has experienced & caring team of teachers and the principal is very attentive, vigilant and passionate to students. For a diligent, attentive and honest student, the infrastructure of the school is not more important than its efficient and sincere teachers. My granddaughter and we are overall satisfied with this institute.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mitcon International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranab Sharma"
+          },
+          "datePublished": "2022-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school in Pune. My kid is studying in this school and till now we are having excellent experience. The principal is very passionate and runs the school very well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.4",
+  "views": "870",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Balewadi",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "2-3",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/pearl-drops-school-kausar-baugh-kondhwa",
+  "url": "https://yellowslate.com/school/pune/pearl-drops-school-kausar-baugh-kondhwa",
+  "city": "pune",
+  "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa ",
+  "scraped_at": "2026-04-28T16:15:08.376245",
+  "html_length": 358214,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kausar Baugh,Kondhwa",
+          "item": "https://yellowslate.com/schools/pune/kausar-baugh-kondhwa"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/pune/kausar-baugh-kondhwa/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "PEARL DROPS SCHOOL",
+          "item": "https://yellowslate.com/school/pune/pearl-drops-school-kausar-baugh-kondhwa"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/pearl-drops-school-kausar-baugh-kondhwa",
+      "telephone": "+91 917 590 0756",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Bramha Estate Co_Op Society, off, NIBM Jct, Krishnakevalnagar, Shivneri Nagar, Kondhwa, Pune, Maharashtra 411048, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4774948,
+        "longitude": 73.8897308
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Bramha Estate Co_Op Society, off, NIBM Jct, Krishnakevalnagar, Shivneri Nagar, Kondhwa, Pune, Maharashtra 411048, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/pearl-drops-school-kausar-baugh-kondhwa-kausar-baugh-kondhwa-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amera"
+          },
+          "datePublished": "2023-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's good to c the school growing, ,,and even the studies((I got a chance to go thru the books and they were quite good)),,just 1 big thing I feel they should improve upon is their Approach Towards Parents((who visits the school for enquiry,,I found them to be quiet strict and hard in talking,,No Welcoming.Just started bombarding and asking the child to b prepared and come for an Interview with a lengthy set of Topics,,I think they should first ask,inquire,gv the details,,let the parents sit back ND think..V disappointing,,,just dropped the idea to be there...\nJust my personal perspective.thanks...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Jaya Choudhary"
+          },
+          "datePublished": "2023-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school management is rude and act very strict but actually they do partiality with students and favour students based on religion.. Parents should first check the environment of school before sending their child to this school as the management and teachers don't treat all students equally.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Wasif Pathan"
+          },
+          "datePublished": "2023-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall It is very good school, with efficient management and administration. The teachers are very helpful and friendly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sana Auti"
+          },
+          "datePublished": "2022-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Writing this review gives me an immense  sense of pride and happiness, I've personally witnessed the journey Pearl Drop School has made in the past decade. It's a beacon of educational excellence.\n\nThe institution not only focuses on academic excellence but also wholistic development of children to be well rounded citizens of this modern era. Along with STEM focus, children have the opportunity to participate in various different athletic and cultural events.\n\nI appreciate the leadership team, teachers and administrative staff that take a lot of care and effort to run this amazing school.\n\nKudos to the Pearl Drop Team!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PEARL DROPS SCHOOL - Kausar Baugh,Kondhwa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "The Craft Studio"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pearl Drop School ICSE grooms the students to be independent and smart. The school is amazing academically and offers lots of co curricular activities as well. One of the best ICSE schools in our vicinity.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.4",
+  "views": "588",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Kausar Baugh,Kondhwa",
+  "board": "ICSE\n\nCo",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "000 - 40",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

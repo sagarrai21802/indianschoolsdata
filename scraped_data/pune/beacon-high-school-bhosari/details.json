@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/beacon-high-school-bhosari",
+  "url": "https://yellowslate.com/school/pune/beacon-high-school-bhosari",
+  "city": "pune",
+  "name": "BEACON HIGH SCHOOL - BHOSARI ",
+  "scraped_at": "2026-04-28T15:56:21.320782",
+  "html_length": 356425,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "BHOSARI",
+          "item": "https://yellowslate.com/schools/pune/bhosari"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/bhosari/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "BEACON HIGH SCHOOL",
+          "item": "https://yellowslate.com/school/pune/beacon-high-school-bhosari"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "BEACON HIGH SCHOOL - BHOSARI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/beacon-high-school-bhosari",
+      "telephone": "+91 968 979 6660",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No. 2, Sec No. 11, PCNTDA, Spine Rd, Sector No. 11, Bhosari, Pimpri-Chinchwad, Maharashtra 411019, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6555856,
+        "longitude": 73.8312464
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BEACON HIGH SCHOOL - BHOSARI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No. 2, Sec No. 11, PCNTDA, Spine Rd, Sector No. 11, Bhosari, Pimpri-Chinchwad, Maharashtra 411019, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/beacon-high-school-bhosari-bhosari-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ABDULREHMAN SHAIKH"
+          },
+          "datePublished": "2023-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good👍🏻\n\nThe Beacon School (also called Beacon High School) is a highly-selective college-preparatory public high school in the Hell's Kitchen area of Manhattan in New York City near Times Square and the Theater District. Beacon's curriculum exceeds the standards set by the New York State Regents, and as a member of the New York Performance Standards Consortium, its students are exempt from taking most Regents exams.[2] Instead, students present performance-based projects at the end of each semester to panels of teachers. In 2019, the school received roughly 6,000 applications for 360 ninth-grade seats, yielding an acceptance rate of approximately 6.2%.[3] Beacon is ranked 45th within New York State and 382th nationwide by U.S. News.\n\nBeacon has a Stock Market Club, Debate Team, Model Congress, Model UN, Math Club, newspaper (The Beacon Beat), Beacon Drama Arts Theater (B'DAT), Film Club, Photo Club, Arts Committee, Senior Committee, Yearbook, Beacon Ink Literary Magazine, Live Poet's Society, Student Leadership Team and Student Government.\n\nBeacon was founded in 1993 as an alternative to the Regents Exam-based testing system in favor of portfolio-based assessment. The school's purpose was also purportedly to keep class sizes down and total student population at, or just above, one thousand students. Over time, Beacon was forced to accept certain aspects of the Regents-based testing curriculum, and to abandon its portfolio-assessment system as the sole method of graduation, which had been the case until mid-1999. Beacon now utilizes, in its own words, \"traditional testing ... [but] our students' progress is largely assessed through performance-based projects, completed individually and in groups. To graduate, students must present their best work to panels of teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BEACON HIGH SCHOOL - BHOSARI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kavita amlapure"
+          },
+          "datePublished": "2021-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter has been studying in this school for last 9 years. It is the best school in PCMC area. Infrastructure and the play area is also nice and it provides opportunities to all the students in each and every activities. The management is also very co-operative.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BEACON HIGH SCHOOL - BHOSARI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praniti Burad"
+          },
+          "datePublished": "2021-02-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "excellent staff and study material taught to students to enrich their future lives. Classrooms are peaceful and ambiance is quite good. Use of modern techniques of e-learning is practiced effectively. Extra curricular activities are also good.overall school is good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BEACON HIGH SCHOOL - BHOSARI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AJAY MARATHE"
+          },
+          "datePublished": "2020-01-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school.. good facilities are provided, clean and neat.. army session are conducted...but it is costly with admission fees and other changes..also the sports charges for each year are unjustified.. actually the sport is free in each school.. Music, dance activities are optional....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BEACON HIGH SCHOOL - BHOSARI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pratima shitole"
+          },
+          "datePublished": "2017-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very student friendly environment where the kid will learn, play and grow up to be a responsible individual. Good supportive staff & I m satisfied with the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "595",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "BHOSARI",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "BEACON HIGH SCHOOL ?\nAsk a Question\nBEACON HIGH SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

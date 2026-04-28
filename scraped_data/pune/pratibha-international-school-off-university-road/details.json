@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/pratibha-international-school-off-university-road",
+  "url": "https://yellowslate.com/school/pune/pratibha-international-school-off-university-road",
+  "city": "pune",
+  "name": "Pratibha International School - OFF UNIVERSITY ROAD ",
+  "scraped_at": "2026-04-28T16:11:57.253479",
+  "html_length": 388768,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "OFF UNIVERSITY ROAD",
+          "item": "https://yellowslate.com/schools/pune/off-university-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/off-university-road/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pratibha International School",
+          "item": "https://yellowslate.com/school/pune/pratibha-international-school-off-university-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Pratibha International School - OFF UNIVERSITY ROAD",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/pratibha-international-school-off-university-road",
+      "telephone": "08237095505",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Pune, Plot No. 3, Block D-III, Behind Mehta Hospital, Off, Old Mumbai - Pune Hwy, Maharashtra 411019",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6445509,
+        "longitude": 73.7906261
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Pune, Plot No. 3, Block D-III, Behind Mehta Hospital, Off, Old Mumbai - Pune Hwy, Maharashtra 411019",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/pratibha-international-school-off-university-road-off-university-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "35"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arnav Behera"
+          },
+          "datePublished": "2024-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Venkata Viswanathan"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A lady whom I know worked at this place they pay on paper 21,000-00 and you need to deposit cash as Rs.11,500-00 in school.  They doing this so that Maharashtra eduction grant are recieved on 21,000-00. This is theft. School ask the same teacher to teach kids Moral Science. They ask parent to pay some part of fees through maternal uncle account as there is a limit in charges to collected when Maharashtra government funds such schools. They take original certificate from teacher so that teacher don't speak about this outside. This we could write as teacher has resigned from that place.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanvi Barge"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied here for 13 years...from my kindergarten days...I loved the atmosphere and academics. Thank you Pratibha int school for making my path towards my dream career ♥️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manasvi Pathare"
+          },
+          "datePublished": "2023-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If there was an option of zero stars then I would've given that as a review. The faculties are not at all helpful they make the students beg if the students want to get some work done. A joke of a management. So done with this school would not recommend anyone seeking a decent school to take admission in this one.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alex Rafel"
+          },
+          "datePublished": "2023-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Just passed 12 th standard from Pratibha international school such a bad experince there not reccomended ☕",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nilesh marmath"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "🙏🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Savita Sarade"
+          },
+          "datePublished": "2022-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A good place for studying staff is also good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Asad Shaikh"
+          },
+          "datePublished": "2022-10-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad experience plz don't put your child in this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikhil Bawaskar"
+          },
+          "datePublished": "2022-10-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "you should reconsider your decision",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pratibha International School - OFF UNIVERSITY ROAD"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avishkar Jadhav"
+          },
+          "datePublished": "2022-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No fan. Good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.6",
+  "views": "589",
+  "reviews_count": "35",
+  "phone": "+919513238818",
+  "locality": "OFF UNIVERSITY ROAD",
+  "board": "CBSE\n\nCo",
+  "established": "2007",
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Pratibha International School ?\nAsk a Question\nPratibha International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

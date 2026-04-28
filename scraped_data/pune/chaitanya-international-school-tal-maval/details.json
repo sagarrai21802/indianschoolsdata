@@ -1,0 +1,259 @@
+{
+  "slug": "/school/pune/chaitanya-international-school-tal-maval",
+  "url": "https://yellowslate.com/school/pune/chaitanya-international-school-tal-maval",
+  "city": "pune",
+  "name": "Chaitanya International School - Tal-maval ",
+  "scraped_at": "2026-04-28T15:57:28.412941",
+  "html_length": 351177,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tal-Maval",
+          "item": "https://yellowslate.com/schools/pune/tal-maval"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/tal-maval/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chaitanya International School",
+          "item": "https://yellowslate.com/school/pune/chaitanya-international-school-tal-maval"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Chaitanya International School - Tal-maval",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/chaitanya-international-school-tal-maval",
+      "telephone": "+91 976 430 0669",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Gut No -545, A/P indori, Tal-maval ,Dist-Pune Indori, Induri, Maharashtra 410507, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.7339587,
+        "longitude": 73.7213063
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chaitanya International School - Tal-maval",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Gut No -545, A/P indori, Tal-maval ,Dist-Pune Indori, Induri, Maharashtra 410507, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/chaitanya-international-school-tal-maval-tal-maval-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Chaphekar"
+          },
+          "datePublished": "2023-02-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is  Best school\nFor studying,  as well as sport activities\nLike mulkhamb,  karate, kabbdi , skating\nKho-kho.\n\nThank you to teacher and all staff",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chaitanya International School - Tal-maval"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "hemlata khedkar"
+          },
+          "datePublished": "2022-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent Environment, Trained teachers. Focus on quality education.  Visit and  take experience!!!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chaitanya International School - Tal-maval"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anilraj A. Ghorpade"
+          },
+          "datePublished": "2022-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This School is placed at Induri village and near from Cadbury company. It's around 5KM from Dehu gaon",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chaitanya International School - Tal-maval"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit Uttekar"
+          },
+          "datePublished": "2021-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I will recommend highly Chaitanya International School. Academics is so good at school. Excellent school and very rapid growth of students. Principal is implementing many In-curriculum and Extra-curriculum activities at school for all grades which results into very engaging and best learning.\n\nThanks to all the Faculty members💐, Teachers💐 and Respective Principal Madam💐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chaitanya International School - Tal-maval"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "IMARJJA"
+          },
+          "datePublished": "2019-04-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School having very good environment and parking lots , which have full nature around the school..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.8",
+  "views": "472",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "maval",
+  "board": "CBSE\n\nCo",
+  "established": "2009",
+  "category": "Day Schools",
+  "classes": "000 - 30",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

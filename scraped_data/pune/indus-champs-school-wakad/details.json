@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/indus-champs-school-wakad",
+  "url": "https://yellowslate.com/school/pune/indus-champs-school-wakad",
+  "city": "pune",
+  "name": "Indus Champs School - Wakad ",
+  "scraped_at": "2026-04-28T16:22:00.025529",
+  "html_length": 388983,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wakad",
+          "item": "https://yellowslate.com/schools/pune/wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/wakad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Indus Champs School",
+          "item": "https://yellowslate.com/school/pune/indus-champs-school-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Indus Champs School - Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/indus-champs-school-wakad",
+      "telephone": "077090 57881",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "JP3X+5MW, Bhumkar Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6029875,
+        "longitude": 73.7492031
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "JP3X+5MW, Bhumkar Nagar, Wakad, Pimpri-Chinchwad, Maharashtra 411057, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/indus-champs-school-wakad-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "17"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Robin Pandey"
+          },
+          "datePublished": "2025-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We went there to do an inquiry for the admission and the counsellor was very rude.\nShe was not explaining properly and did not let us ask any questions.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ganesh LANGOTE"
+          },
+          "datePublished": "2024-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is world best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kuldip B"
+          },
+          "datePublished": "2024-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wost experience...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "R C"
+          },
+          "datePublished": "2024-03-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very arrogant head staff and not able to talk with walking inquiry with students don't know how they behave with student",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aslam Shah"
+          },
+          "datePublished": "2023-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Address. Opposite induschamps school near bhumkar chowk",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepa M"
+          },
+          "datePublished": "2023-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter was in school for 2 years.First year we had good experience,however, during the second year her class teacher has been changed it wasn't motivating change. She never took any action against theft or misbehavior. During PTM, whenever we raised concern, she was like will look into it, which has never happened. Finally we changed school and we are happy with the difference we see in school.\nThey also suggest you take an extramarks subscription, which is fraud. Do not purchase it and waste your money and time.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayuri Nagane"
+          },
+          "datePublished": "2023-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Last year my daughter Swara wagh was studying in that school. Scool campus, teacher's and principal's nature, their discipline.overall everything is best. I am giving 4 star only. Missing star for my non refunded and non served fees.🙃But parents who are wishing to continue education in same school it is best option.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Kulkarni"
+          },
+          "datePublished": "2023-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really worst experience. Counsellor treating kids and parents like beggars.Very rude behavior from counselor.\n\nThey don't  even have idea how to behave with 3 years kid",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kulkarni akshay"
+          },
+          "datePublished": "2022-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Schools seems good, but staff has to understand etiquette.\n1. At first you visit to school they are ready with rate card (not about syllabus , not about pattern )\n2. First they have to show school\nEnvironment, classrooms and students growth plan\n3. With rate card minimum information available and few hidden charges like transpiration , uniform will be released once admission confirms\n4. Not enough play ground area\n5.  Expect change instead of business perspective student and education perspective",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Indus Champs School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhaval Pawar"
+          },
+          "datePublished": "2020-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Indus Champs is a new generation school. The school has great facilities catered for the well being of children. The syllabus is well designed and promotes the holistic growth and development of the learners.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759305243191611992568dcde1b171541759305243.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.6",
+  "views": "782",
+  "reviews_count": "17",
+  "phone": "+919513238818",
+  "locality": "Wakad",
+  "board": "CBSE\n\nCo",
+  "established": "2009",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Indus Champs School ?\nAsk a Question\nIndus Champs School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759305243191611992568dcde1b171541759305243.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

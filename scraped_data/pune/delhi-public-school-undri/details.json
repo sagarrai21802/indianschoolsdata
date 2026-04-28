@@ -1,0 +1,235 @@
+{
+  "slug": "/school/pune/delhi-public-school-undri",
+  "url": "https://yellowslate.com/school/pune/delhi-public-school-undri",
+  "city": "pune",
+  "name": "Delhi Public School - Undri ",
+  "scraped_at": "2026-04-28T16:16:16.741591",
+  "html_length": 355173,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Undri",
+          "item": "https://yellowslate.com/schools/pune/undri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/undri/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/pune/delhi-public-school-undri"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Undri",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/delhi-public-school-undri",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Nyati Estate Rd, Nyati County, Mohammed Wadi, Pune, Autadwadi Handewadi, Maharashtra 411060, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4609745,
+        "longitude": 73.9252494
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Undri",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nyati Estate Rd, Nyati County, Mohammed Wadi, Pune, Autadwadi Handewadi, Maharashtra 411060, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/delhi-public-school-undri-undri-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.0",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shraddha Satpute"
+          },
+          "datePublished": "2023-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Love the school experience is loving ❤️\nMy chid also had khoj very nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "neelam. choudhary"
+          },
+          "datePublished": "2023-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a concerned parent, I am deeply disappointed with my initial experience with the school. When I called to inquire about the admission process, the staff was incredibly rude and unprofessional. Their behavior was unacceptable, and when I asked them to behave politely, they started yelling at me. This kind of behavior is not acceptable from a school that is responsible for educating young minds. I have serious doubts about the management of this school, and I am now hesitant to admit my child here.\n\nIt is evident that this school is solely focused on making money and not on nurturing the talents of the students. I am afraid that my child's potential will be lost if they join this school. I urge the school to not only prioritize financial gains but also to consider how they treat parents and children. It is important to remember that running a school is not just a business, but also a responsibility towards the community. I strongly urge the school to reconsider their behavior and attitude towards parents and children. It is my sincere request to the management to improve their conduct and attitude towards parents and students. If not, I believe this school should be shut down, as it is not providing the right environment for the education and growth of children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manish Joshi"
+          },
+          "datePublished": "2023-04-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School located on the side of a busy road with practically no parking facility for guardians. Though the school claims to be English medium, very few students can converse in English properly. There are too many children in a class/section, hence adequate individual attention is generally not provided to them. View classroom lectures being delivered in varied shift system by teachers with limited teaching skills the children tend to gain limited mental growth. The annual fee is quite cheap compared to other quality schools in the locality which is perhaps the reason why people seek admission here. The school lacks good playgrounds which results in students missing out in outdoor activities. A few of their school bus drivers tend to drive very rashly, hence it is very essential to think about the safety of the children prior availing the facility. Overall a very below average pedestrian school which is generally patronised because the fee is relatively cheap.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rutuja Mohite patil"
+          },
+          "datePublished": "2023-04-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience in this school ….worst school n staff ..too harsh teachers  ..this school is only for clever students not for an average students the treatment they give is too bad if your child is an average in academic I feel it can affect a childs confidence ..n there is no scope for curriculum activities n sports they just want to make robots ..killing a kids  childhood.  speaking as a mother it really feels sad that there is still a school out there that have such outdated methods of teaching or grooming a kid at his or her initial moment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "2.0",
+  "views": "792",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Undri",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "400 - 154",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

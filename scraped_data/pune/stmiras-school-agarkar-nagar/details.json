@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/stmiras-school-agarkar-nagar",
+  "url": "https://yellowslate.com/school/pune/stmiras-school-agarkar-nagar",
+  "city": "pune",
+  "name": "St.Miras School - Agarkar Nagar ",
+  "scraped_at": "2026-04-28T15:58:45.126513",
+  "html_length": 396668,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Agarkar Nagar",
+          "item": "https://yellowslate.com/schools/pune/agarkar-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/agarkar-nagar/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St.Miras School",
+          "item": "https://yellowslate.com/school/pune/stmiras-school-agarkar-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St.Miras School - Agarkar Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/stmiras-school-agarkar-nagar",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "10, Sadhu Vaswani Path, Agarkar Nagar, Pune, Maharashtra 411001, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5241033,
+        "longitude": 73.8764665
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "10, Sadhu Vaswani Path, Agarkar Nagar, Pune, Maharashtra 411001, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/stmiras-school-agarkar-nagar-agarkar-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "21"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "zainab mhowwala"
+          },
+          "datePublished": "2024-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful approach of teaching with humble services. Management is supportive & prompt",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sir Dad"
+          },
+          "datePublished": "2024-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No holiday on Saturday",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Myra & Kyra Gaikwad"
+          },
+          "datePublished": "2024-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am in that school and there are games dance, music, zoomer\n(.playing),pt etc .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajendrasingh Rajput"
+          },
+          "datePublished": "2023-05-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Kadam"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Shah"
+          },
+          "datePublished": "2023-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Most terrible school i attended in my younger days grade 2 3 4. This was the most traumatizing period of my life..the teachers were extremely toxic and abusive. I remember once i forgot to bring homework..she removed my dress and made me stand in a dustbin with only shirt on for half a day while she used to paint her nails in class...\nI was a good student who used to get good grades and imagine if i was earpulled, beaten on head, punched and what not, what would have the other not so well performing kids gone through with these monstrous teachers...\ni can never forget that trauma these toxic behaviors induced on me growing up with fear...i m surprised this school hasnt been shut down yet..i am sure my other fellow classmates had similar horror stories to share of extreme abuse and toxicity...i will never forget the treatment meted out to me here and would not wish this on any other kid. Please don't send your kids to this school...they don't have an ounce of sensitivity needed to handle gentle minds...shame on their convent culture....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikram Jagdale"
+          },
+          "datePublished": "2023-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice School for Girls...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "netra Shinde"
+          },
+          "datePublished": "2023-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for girl 👍\nAs I'm studying there for 13 years\nAnd very nice teachers and staff\nVery well spoken English 👏\nHats off to this school..!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepak chettiar"
+          },
+          "datePublished": "2022-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school English medium school, and teach us a our Vedic route like culture, praying, helping ppl,loved The animals like human etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Miras School - Agarkar Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini P"
+          },
+          "datePublished": "2020-09-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "St. Mira’s Secondary School is where I was brought up. A school of not only knowledge but also taught us caring, sharing & service. Its a girls school.\n\nThe motive of our school is to give give and give.\n\nThe school not only teaches academics but also encourages girls in sports, computers, stitching, painting, dancing and many such other activities. Girls who pass out from this school are all rounders and multi talented. They are highly skilled and can live on their own their future life. Girls from St. Mira’s will never be dependent on anyone in any manner.\n\nThe school teachers are remarkable and have set a bench mark.\n\nMany girls of St. Mira’s have been on the highest peak of their life to name some are:-\n1. Annapurna Bothate who is Lt. Colonel\n2. Soneya Newaskar who is also in the Army at great ranks.\n3. Nupur Nandrekar and Myself Ashwini Padavkar we are National Handball players.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1668069137234991277636cb711d595b1668069138.png\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "581",
+  "reviews_count": "21",
+  "phone": "+919513238818",
+  "locality": "Agarkar Nagar",
+  "board": "State Board\n\nGirls\n\nAbout St",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 40",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1668069137234991277636cb711d595b1668069138.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

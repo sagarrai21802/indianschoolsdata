@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/rosary-school-adarsh-colony-tingre-nagar",
+  "url": "https://yellowslate.com/school/pune/rosary-school-adarsh-colony-tingre-nagar",
+  "city": "pune",
+  "name": "Rosary School - Adarsh Colony,Tingre Nagar ",
+  "scraped_at": "2026-04-28T15:54:03.853767",
+  "html_length": 344826,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Adarsh Colony,Tingre Nagar",
+          "item": "https://yellowslate.com/schools/pune/adarsh-colony-tingre-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/adarsh-colony-tingre-nagar/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rosary School",
+          "item": "https://yellowslate.com/school/pune/rosary-school-adarsh-colony-tingre-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rosary School - Adarsh Colony,Tingre Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/rosary-school-adarsh-colony-tingre-nagar",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S.No. 162, Plot No. 1, Lane No. 2, Yerawada Gaon, Adarsh Colony, Tingre Nagar, Pune, Maharashtra 411015, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5744108,
+        "longitude": 73.888621
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rosary School - Adarsh Colony,Tingre Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S.No. 162, Plot No. 1, Lane No. 2, Yerawada Gaon, Adarsh Colony, Tingre Nagar, Pune, Maharashtra 411015, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/rosary-school-adarsh-colony-tingre-nagar-adarsh-colony-tingre-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Gupta"
+          },
+          "datePublished": "2023-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Is this school still ruining in Tingre nagar ? or location has changed ?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rosary School - Adarsh Colony,Tingre Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trusha Patil"
+          },
+          "datePublished": "2022-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Superb school having so many activities and functions....well disciplined and teachers are very cooperative 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rosary School - Adarsh Colony,Tingre Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ulhas Talpade"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teaching 100 percent results, Co curricular activities for kids conducted which is helps in their all round development",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rosary School - Adarsh Colony,Tingre Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Galjit kaur Gharru"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is studing from nusery i thanks the school for grooming her talent and\nencouraging her in achieving the growth",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rosary School - Adarsh Colony,Tingre Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaydeo Khutwad"
+          },
+          "datePublished": "2022-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No quality education. Teachers are chagning frequently. No ground for playing.\nSecondly, we have not received admission deposit amount yet inspite of many follow ups.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "510",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Adarsh Colony,Tingre Nagar",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 65",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

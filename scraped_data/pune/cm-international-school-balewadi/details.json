@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/cm-international-school-balewadi",
+  "url": "https://yellowslate.com/school/pune/cm-international-school-balewadi",
+  "city": "pune",
+  "name": "CM International School - Balewadi ",
+  "scraped_at": "2026-04-28T15:57:54.805252",
+  "html_length": 390106,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Balewadi",
+          "item": "https://yellowslate.com/schools/pune/balewadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/balewadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "CM International School",
+          "item": "https://yellowslate.com/school/pune/cm-international-school-balewadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "CM International School - Balewadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169718559819701460896528ff3edc73c1697185599.JPG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/cm-international-school-balewadi",
+      "telephone": "077199 80033",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "  SKP Campus, Balewadi, Pune - 411045, Maharashtra.",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5735967,
+        "longitude": 73.7734397
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "  SKP Campus, Balewadi, Pune - 411045, Maharashtra.",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/cm-international-school-balewadi-balewadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "169"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-01-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall very good School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "“The ‘Ek Bharat Shreshtha Bharat’ Annual Day event was beautifully organized and truly meaningful. It was heartwarming to see young children confidently representing India’s rich culture, unity, and diversity. The performances were well-coordinated, colorful, and full of energy. Special thanks to Farha Ma’am and Seema Ma’am for their dedication, guidance, and hard work in preparing the students. A big appreciation to all the teachers and school management for giving such a wonderful platform to the children, especially the first-standard kids. It was a memorable and proud moment for parents",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vrushali patil"
+          },
+          "datePublished": "2025-12-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thank you so much for all the hard work and dedication that went into the Annual Day celebration. It was clear that a lot of effort was made to make it enjoyable. \nThe student performances were outstanding, and the decorations really created a festive atmosphere.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent and supportive teaching staff.good atmosphere for students in campus.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Poor teachers quality",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anagha Kalekar"
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really happy with the school and the co-curricular activities. Must appreciate the efforts the teacher put in to put forward confidence in the students. I have seen the difference in my kid. \n\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ranjana Paliwal "
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "CM International School provides quality education with caring and dedicated teachers.As a parent, I am very satisfied with CM International School. The management is cooperative, and communication with parents is transparent. The school maintains discipline while also being. It is an excellent school with a balanced focus on academics and overall student development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Annual function was fabulous, but the problem was sitting continuously for 5 hours. The script in between the dances was too lengthy, it must be short. Otherwise  overall programme was good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vidya "
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in pune ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CM International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshal Jadhav"
+          },
+          "datePublished": "2025-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Pune. Apart from Academic Excellence the main highlight is their big sports ground which is rare to find these days. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168864345214276083764a6a77c724621688643452.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169718559819701460896528ff3edc73c1697185599.JPG\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169718559819701460896528ff3edc73c1697185599.JPG\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169718559819701460896528ff3edc73c1697185599.JPG",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.0",
+  "views": "1025",
+  "reviews_count": "169",
+  "phone": "+919513238818",
+  "locality": "Balewadi",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "CM International School ?\nAsk a Question\nCM International School Reviews\nView All Reviews\nOverall Experience\n 4.6\nTeaching Excellence\n 4.3\nValue for Money\n 4.4\nCampus & Facilities\n 4.6\nCo-curricular Activities\n 4.4\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/168864345214276083764a6a77c724621688643452.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169718559819701460896528ff3edc73c1697185599.JPG",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

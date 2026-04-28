@@ -1,0 +1,364 @@
+{
+  "slug": "/school/pune/stella-maris-high-school-wadgaon-sheri",
+  "url": "https://yellowslate.com/school/pune/stella-maris-high-school-wadgaon-sheri",
+  "city": "pune",
+  "name": "Stella Maris High School - Wadgaon Sheri ",
+  "scraped_at": "2026-04-28T16:13:13.507437",
+  "html_length": 388274,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wadgaon Sheri",
+          "item": "https://yellowslate.com/schools/pune/wadgaon-sheri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Stella Maris High School",
+          "item": "https://yellowslate.com/school/pune/stella-maris-high-school-wadgaon-sheri"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Stella Maris High School - Wadgaon Sheri",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/stella-maris-high-school-wadgaon-sheri",
+      "telephone": " 020 2703 7676",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey Number 2, Dhanvantari Colony, Wadgaon Sheri, Pune, Maharashtra 411014",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey Number 2, Dhanvantari Colony, Wadgaon Sheri, Pune, Maharashtra 411014",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/stella-maris-high-school-wadgaon-sheri-wadgaon-sheri-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "37"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khebdi 0001"
+          },
+          "datePublished": "2025-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Average Shala Nothing Better They don't even think before getting anyone in their school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "UNKNOWN"
+          },
+          "datePublished": "2024-10-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Happy diwali to all the school children , teachers and principal .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aminu Muhammed"
+          },
+          "datePublished": "2024-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a good school the study is also good wit studies they also  engage the children in many activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "swati aghav"
+          },
+          "datePublished": "2024-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Visited many times..But not any professional staff working at school.\nI have not taken admission for my daughter because of school indiscipline.\nAnd they entertain only particular crowd wich is not good for that school.\nNot very good school also not very bad.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hanumant Aghav"
+          },
+          "datePublished": "2024-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is not ideal school..I have visited so many times regarding admission of my child..But there is lot of discrimination in child's admission.\nThey not take any exam or interview of students..\nThis is very harmful to children's development in all perspective.\nThey keep only categorised students which is decided by Principal.\nPlease go to the better option..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ptoc008"
+          },
+          "datePublished": "2024-06-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is very bias for students and promoting for some categorized students.\nThis is very harmful for all development of students. Teachers are very rude to attend parents. Admission process is very bias for students. Please choose another school for better future for all perspective.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nayan Dhoke"
+          },
+          "datePublished": "2024-06-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Today's time is 12:30",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nandani Jha"
+          },
+          "datePublished": "2023-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shabnam_ Hungund"
+          },
+          "datePublished": "2023-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Discipline  maintained  and education system here ,in this school,is appreciable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Stella Maris High School - Wadgaon Sheri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "swati Salvi"
+          },
+          "datePublished": "2023-07-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.9",
+  "views": "0",
+  "reviews_count": "37",
+  "phone": "+919513238818",
+  "locality": "Wadgaon Sheri",
+  "board": "CBSE, ICSE, IB, or Cambridge",
+  "established": null,
+  "category": null,
+  "classes": "0 - 0",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Stella Maris High School ?\nAsk a Question\nStella Maris High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

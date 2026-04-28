@@ -1,0 +1,371 @@
+{
+  "slug": "/school/pune/walnut-school-wakad",
+  "url": "https://yellowslate.com/school/pune/walnut-school-wakad",
+  "city": "pune",
+  "name": "Walnut School - Wakad ",
+  "scraped_at": "2026-04-28T15:52:44.009286",
+  "html_length": 384450,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wakad",
+          "item": "https://yellowslate.com/schools/pune/wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/wakad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Walnut School",
+          "item": "https://yellowslate.com/school/pune/walnut-school-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Walnut School - Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/walnut-school-wakad",
+      "telephone": "074477 95005",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S. No. 210/34, Ishan co-op housing society, JQ4C+6PC, Shri Chatrapati Shivaji Maharaj Rd, Pratham Reflections Society, Wakad, Pimpri-Chinchwad, Maharashtra 411057, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6050546,
+        "longitude": 73.7704303
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S. No. 210/34, Ishan co-op housing society, JQ4C+6PC, Shri Chatrapati Shivaji Maharaj Rd, Pratham Reflections Society, Wakad, Pimpri-Chinchwad, Maharashtra 411057, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/walnut-school-wakad-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "154"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rupali sidhankar"
+          },
+          "datePublished": "2026-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Walnut School is truly an exceptional institution. The activity-based learning acts as a real booster, keeping students enthusiastic and deeply engaged in their studies. With an outstanding faculty and a well-planned curriculum, it provides a stress-free yet high-quality educational experience. Highly recommended for parents looking for a positive and growth-oriented environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mac"
+          },
+          "datePublished": "2026-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School management dodged all concerns.  Kids run  from class to class like monkeys. Teachers dont pay attention to kids. Poor education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Kadam"
+          },
+          "datePublished": "2025-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Walnut School Wakad is a well-known educational institution that focuses on providing quality education in a holistic environment. The school aims to nurture students not just academically but also in terms of their overall personality development, including critical thinking, creativity, and social skills.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kaustubh Bhave"
+          },
+          "datePublished": "2025-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Walnut is one of the best schools in Pune. They have the innovative way of teaching where students learn the concept quite easily.The plus point being the bagless school. Parents are aware with what child learns everyday through the Walsh app. Also the worksheets are send on weekly basis. Hence it is hassle free journey for both students and parents. The yearly timetable is shared. The electric Saturday's which involves various cocurricular activities for child along with parents happen in the given timeslot. The school also gives preference to sports in daily schedule. All the Hindu festivals are celebrated at school. The unique idea of celebrating child's birthday with \"Aukshan\" ceremony was overwhelming and suprising. The yearly walnut carnival was very well organised.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vedashree Sanket Garade"
+          },
+          "datePublished": "2025-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sincere gratitude for incredible efforts put by teachers laying a strong foundation. In reading, writing. Remarkable progress seen in child’s progress. The teacher Gauri mam interact well with kids in interactive and fun way. Thanks to teacher for fostering warm and encouraging environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anupma chourasia"
+          },
+          "datePublished": "2025-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice and good learning. Good to improve vocabulary. thank you teacher.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "priti Thorat"
+          },
+          "datePublished": "2025-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Today is our little one’s first reading session demo and we are overwhelmed to see them reading so nicely. Definitely Poonam teacher is taking lots of effort and we could see it. Thank you so much for all teacher’s effort.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sachin Marawar"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic experience with the schooling here and will be happy to refer and recommend anybody interested.\n\nWalnut kids are tough on the outside and smart on the inside 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vainateya khole"
+          },
+          "datePublished": "2025-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Walnut has been really good school and as parents we have seen the right balance on Overall grooming for my kid. Activities are well  managed and planned in advance. The convenience for parents is unmatched when we compare the same with other schools across.\nI highly recommend the school for its focus on education and upbringing of kids as a school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "krishna priya"
+          },
+          "datePublished": "2025-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I thank all the Senior Kg teachers in wakad campus for their support and guidance to my kid. Along with regular curriculum, conducting various activities during Saturday for the kids to improve their speaking and analytics skills are really appreciable. We really enjoyed these activities which helped in boosting confidence in kids. Thank you teachers for all your support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.6",
+  "views": "1016",
+  "reviews_count": "154",
+  "phone": "+919513238818",
+  "locality": "Wakad",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Walnut School ?\nAsk a Question\nWalnut School Reviews\nView All Reviews\nOverall Experience\n 3.0\nTeaching Excellence\n 3.0\nValue for Money\n 3.0\nCampus & Facilities\n 3.0\nCo-curricular Activities\n 3.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

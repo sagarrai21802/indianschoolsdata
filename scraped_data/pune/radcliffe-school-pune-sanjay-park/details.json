@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/radcliffe-school-pune-sanjay-park",
+  "url": "https://yellowslate.com/school/pune/radcliffe-school-pune-sanjay-park",
+  "city": "pune",
+  "name": "Radcliffe School Pune - Sanjay Park ",
+  "scraped_at": "2026-04-28T15:46:36.023396",
+  "html_length": 347611,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sanjay Park",
+          "item": "https://yellowslate.com/schools/pune/sanjay-park"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/sanjay-park/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Radcliffe School Pune",
+          "item": "https://yellowslate.com/school/pune/radcliffe-school-pune-sanjay-park"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Radcliffe School Pune - Sanjay Park",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/radcliffe-school-pune-sanjay-park",
+      "telephone": "+91 957 942 8939",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Radcliffe School, Sr. No. 32/2, Charoli Phata Bikaner Sweets, Alandi Rd, near Riddhi Siddhi Towers, Chovisawadi, Dighi, Pune, Maharashtra 412105, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6625662,
+        "longitude": 73.8756527
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Radcliffe School Pune - Sanjay Park",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Radcliffe School, Sr. No. 32/2, Charoli Phata Bikaner Sweets, Alandi Rd, near Riddhi Siddhi Towers, Chovisawadi, Dighi, Pune, Maharashtra 412105, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/radcliffe-school-pune-sanjay-park-sanjay-park-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Koushik Mukherjee"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am really happy that my son is with Radcliff school. One of the best school in my area. I am very satisfying their academics and learning procedure. I will always recommend the school to my friends.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Radcliffe School Pune - Sanjay Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Chaudhari"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well I am new to pune and out of experiences of my relatives and society PPL I got to know about this school , I like the environment of school, teaching staff and the number of activities they take each day . It's not about ONLY learning ABCD and blahh blaahh but they also help teaching and learning each and every things and manners which kids needs to learn  nowadays from school when their parents are busy in their working schedule. I personally admire Mr Ravi pawar sir . He helped me understand things which I wasn't aware in school. Thanks a ton .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Radcliffe School Pune - Sanjay Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanika Gawade"
+          },
+          "datePublished": "2023-06-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This was best school. Being a parent of class 10 student, in 2022-23 I saw there is no importance given to academics they have recruited one teacher who is not even a graduate and b.ed. I had an horrible experience of that same faculty. Always asking children to his class and calling himself Gunda of radcliffe.he is  maths teacher and  telling all his life stories and ruining the future of children. How can a school keep this kind of faculties I do not understand. Do not take admission here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Radcliffe School Pune - Sanjay Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prerna Anand"
+          },
+          "datePublished": "2023-05-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have been working in Radcliffe school since 10 months .I have learnt a lot of new things as a teacher .activity based learning is a key part of the school because of this method students can learn the subject thoroughly. Good environment for students .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Radcliffe School Pune - Sanjay Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpa Kamble"
+          },
+          "datePublished": "2023-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a very good school, my kid is also studying in the same school since 3 years. All curriculum activities as well as sports activities are well conducted. Only the problem with the continuous changing in teaching staff. Kids are getting confused with the new teachers when they were totally comfortable with the existing teachers.. School has taken lots of new activities in school this year.. hope all kids get chance to show their active participation and show their talent in teams of curriculum, sports and cultural activities. All the very best!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.0",
+  "views": "496",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sanjay Park",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2022-23",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

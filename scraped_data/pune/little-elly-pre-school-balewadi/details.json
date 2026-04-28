@@ -1,0 +1,327 @@
+{
+  "slug": "/school/pune/little-elly-pre-school-balewadi",
+  "url": "https://yellowslate.com/school/pune/little-elly-pre-school-balewadi",
+  "city": "pune",
+  "name": "Little Elly Pre School - Balewadi ",
+  "scraped_at": "2026-04-28T16:07:06.222110",
+  "html_length": 366936,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Balewadi",
+          "item": "https://yellowslate.com/schools/pune/balewadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/pune/balewadi/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Little Elly Pre School",
+          "item": "https://yellowslate.com/school/pune/little-elly-pre-school-balewadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Little Elly Pre School - Balewadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16963323651650535559651bfa4dddf631696332366.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/little-elly-pre-school-balewadi",
+      "telephone": "+91 080-48535968 / +91 080-48535969",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No 122/1 and 122/2, Baner - Balewadi Rd, off Ganraj Chowk, next to Datacare Lab, Baner, Pune, Maharashtra 411045",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5700564,
+        "longitude": 73.7811923
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No 122/1 and 122/2, Baner - Balewadi Rd, off Ganraj Chowk, next to Datacare Lab, Baner, Pune, Maharashtra 411045",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/little-elly-pre-school-balewadi-balewadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "8"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vivek Shesh"
+          },
+          "datePublished": "2023-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice and welcoming ambience and staff. One gets a sense of freshness and energy when one enters the colourful and tastefully decorated school premises. Lots of toys and educational material where children get engrossed completely. Naturally, they refuse to go home and agree only on the promise of coming back the next day.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AKKSHAY DHADGE"
+          },
+          "datePublished": "2023-06-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Dandaicar"
+          },
+          "datePublished": "2023-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful school ... very nicely decorated to create an ambience that freshens up little ones ... very creative education tools and toys ... my child is very happy so much so that he just can't wait to go to school again.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sunil Kulkarni"
+          },
+          "datePublished": "2023-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school. They conduct very good activities. Well maintained classrooms. Overall we are very happy.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Veena Kango"
+          },
+          "datePublished": "2023-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best pre-school in balewadi area. Very good daycare facility.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhya Kulkarni"
+          },
+          "datePublished": "2023-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school. It's very clean. Beautiful interior. My grand child loves the school, the activities, the celebration. They take care of every thing. Amazing experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poorva Kulkarni"
+          },
+          "datePublished": "2023-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school with carefully designed curriculum for kids. Very well maintained cleanliness. Caring and enthusiastic teachers and management.. a very happy place to send your kids. I 100% recommend this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Elly Pre School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bavdhan pune LittleElly"
+          },
+          "datePublished": "2023-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful school, very nice ambience, caring and polite teachers and staff. Ideal place for my child to grow up.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16963323651650535559651bfa4dddf631696332366.jpg\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16963323651650535559651bfa4dddf631696332366.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16971855983503337936528ff3e8d8d81697185599.JPG\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16963323651650535559651bfa4dddf631696332366.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "5.0",
+  "views": "1680",
+  "reviews_count": "8",
+  "phone": "+919513238818",
+  "locality": "Balewadi",
+  "board": "Other Boards\n\nCo",
+  "established": "2004",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16971855983503337936528ff3e8d8d81697185599.JPG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16963323651650535559651bfa4dddf631696332366.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

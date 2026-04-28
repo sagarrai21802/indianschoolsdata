@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/orchids-the-international-school-hinjawadi",
+  "url": "https://yellowslate.com/school/pune/orchids-the-international-school-hinjawadi",
+  "city": "pune",
+  "name": "Orchids The International School - Hinjawadi ",
+  "scraped_at": "2026-04-28T16:05:57.285975",
+  "html_length": 386057,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hinjawadi",
+          "item": "https://yellowslate.com/schools/pune/hinjawadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/hinjawadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Orchids The International School",
+          "item": "https://yellowslate.com/school/pune/orchids-the-international-school-hinjawadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Orchids The International School - Hinjawadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1697018744139637045165267378cd7bd1697018745.jpeg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/orchids-the-international-school-hinjawadi",
+      "telephone": " 088888 88999",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Ghotawade, Mulkhed, Road, Pune, Maharashtra 412115",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5454455,
+        "longitude": 73.6688376
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Ghotawade, Mulkhed, Road, Pune, Maharashtra 412115",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/orchids-the-international-school-hinjawadi-hinjawadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "149"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chitranjan Patel"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School Infrastructure is quite good, however wondering some of the staff behavior was unacceptable rude not upto corporate/international mark.\nAnyway that is acceptable in India.🇮🇳\nSo it’s start of academic session will come to know later pro and cons and hoping for best for scholars.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini Patil"
+          },
+          "datePublished": "2024-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The mix media un CAF activity was so good and teachers are so cooperative...thank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akshay Kakkerla"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A fantastic school with a nurturing environment.The dedicated teachers at ORCHIDS Hinjewadi ensure holistic development for the students.My child loves going to school every day...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naveen Kumar"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Exceptional Commitment from the staff towards personalized learning.the school fasters a culture of curiosity and critical thinking.Creating positive learning atmosphere...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SUNIL KUMAR KASHYAP"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Kalyan"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super b",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "B.K B.R India"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "🆗👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Paresh Arora"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DHARMENDRA DUBEY"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school's commitment to values and character-building reflects in the strong personalities of students at this Orchids the international School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akash Pal"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1697018744139637045165267378cd7bd1697018745.jpeg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1697018744139637045165267378cd7bd1697018745.jpeg",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1697018744139637045165267378cd7bd1697018745.jpeg\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.5",
+  "views": "849",
+  "reviews_count": "149",
+  "phone": "+919513238818",
+  "locality": "Hinjawadi",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Orchids The International School ?\nAsk a Question\nOrchids The International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1697018744139637045165267378cd7bd1697018745.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

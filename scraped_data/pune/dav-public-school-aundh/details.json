@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/dav-public-school-aundh",
+  "url": "https://yellowslate.com/school/pune/dav-public-school-aundh",
+  "city": "pune",
+  "name": "DAV Public School - Aundh ",
+  "scraped_at": "2026-04-28T16:14:53.247457",
+  "html_length": 392892,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Aundh",
+          "item": "https://yellowslate.com/schools/pune/aundh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/aundh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DAV Public School",
+          "item": "https://yellowslate.com/school/pune/dav-public-school-aundh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DAV Public School - Aundh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/dav-public-school-aundh",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": null,
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": null,
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/dav-public-school-aundh-aundh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandrakant Patel"
+          },
+          "datePublished": "2024-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school. Teachers are very good and helpful. My both kids are studying here. Not too much other curricular activities run here as compared with other schools, mostly they are focusing on regular subject studies and that is most important. Fees are very less affordable to everyone. As per government they fill the seperate seats through RTI and this school is very genuinely follow it as compared to other schools.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Roshani Lonkar"
+          },
+          "datePublished": "2024-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school in Aundh area I wish I get offer for teaching in such a reputed organisation.I am applying since two years for teaching job..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeshwari Wankhede"
+          },
+          "datePublished": "2024-05-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience of DAV school was great, I gave my board there and the staff was helpful and great the infrastructure was amazing clean washrooms, well ventilated classrooms as well as clean classrooms the benches were in perfect condition",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ashwini kondke"
+          },
+          "datePublished": "2024-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sanatan Culture all the way.Also the teachers are quite good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SANDEEP KHEDKAR"
+          },
+          "datePublished": "2024-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's really nice school for the kids who wish to learn seriously. one to one coaching and care taking teachers are very important point of this school. My daughter really love to learn and enjoying her school days. Always ready to go to school even after she do not feel well. She love her school really lot. Thank you one and all from D.A.V. school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shobha Dandgaval"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dav public school is very decipline and good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajendra Gadekar"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school and teaching staff!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshal Deshmukh"
+          },
+          "datePublished": "2023-12-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is excellent with all the amenities and it's easy to see the unique personalities of every student. It's important not to compare one child to another, as each child is unique and each school is unique in its own way. Ultimately, the end results are satisfactory.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swapnil Khabile"
+          },
+          "datePublished": "2023-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Respected Principal,\nSchool is good but need to teach some manners to reception, as well as right information to provide. As I went to enquire for next year nursary admission but she said my daughter(Aug 20) is not eligible for next year nursary and as per school age criteria mentioned on website, she is eligible next year nursery as she is not eligible for this year nursery. when I went there she was scrolling insta but showing of like she is so busy than anyone else in this world. I don't like her attitude. School should have policy that staff should talk with parents respectfully. Reception is face of School but due to people like this reputed schools also getting bad reviews. Even after bad writing review I am giving 4 star because good School should not affect because of this type of peoples.\nThanks",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DAV Public School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpa P"
+          },
+          "datePublished": "2023-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently had the opportunity to observe a school where it was ensured that all students of 7 th std have a fair chance to appear for Sanskrit exams to get that subject as 3 rd language . The school's commitment to inclusivity and providing equal opportunities for every student is truly impressive.\nI would like appreciate  Principal Ma'am and coordinator Deepa ma'am for the  decision to offer every student a fair chance to showcase their abilities and knowledge during the exams has not only boosted their confidence but also instilled a sense of fairness and justice in their young minds.\nWe need such teachers in the schools who does everything just for their students and DAV has such teachers. I am really happy with the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/59.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.9",
+  "views": "1486",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Aundh",
+  "board": "CBSE\n\nCo",
+  "established": "2003",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "DAV Public School ?\nAsk a Question\nDAV Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/59.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

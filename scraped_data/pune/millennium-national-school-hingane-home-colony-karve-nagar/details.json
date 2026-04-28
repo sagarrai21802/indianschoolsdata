@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/millennium-national-school-hingane-home-colony-karve-nagar",
+  "url": "https://yellowslate.com/school/pune/millennium-national-school-hingane-home-colony-karve-nagar",
+  "city": "pune",
+  "name": "Millennium National School - Hingane Home Colony,Karve Nagar ",
+  "scraped_at": "2026-04-28T16:02:45.230348",
+  "html_length": 353052,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hingane Home Colony,Karve Nagar",
+          "item": "https://yellowslate.com/schools/pune/hingane-home-colony-karve-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/hingane-home-colony-karve-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Millennium National School",
+          "item": "https://yellowslate.com/school/pune/millennium-national-school-hingane-home-colony-karve-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Millennium National School - Hingane Home Colony,Karve Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/millennium-national-school-hingane-home-colony-karve-nagar",
+      "telephone": "+91 779 898 2010",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "18, FRR5+RWJ Hill Side Apartment, Hingane Home Colony, Karve Nagar, Pune, Maharashtra 411052, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4920875,
+        "longitude": 73.8097656
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium National School - Hingane Home Colony,Karve Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "18, FRR5+RWJ Hill Side Apartment, Hingane Home Colony, Karve Nagar, Pune, Maharashtra 411052, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/millennium-national-school-hingane-home-colony-karve-nagar-hingane-home-colony-karve-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suhas Kulkarni"
+          },
+          "datePublished": "2023-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Students are very very friendly with all the kaka,aunty,teachers and sport teachers and sir.The food is the best.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium National School - Hingane Home Colony,Karve Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Viraj Raul"
+          },
+          "datePublished": "2023-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School with good sports facilities. For education, you may have to go for additional tution classes.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium National School - Hingane Home Colony,Karve Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemant D"
+          },
+          "datePublished": "2023-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Pune.\nVery good focus on sports as well as good focus on academics. Good for lot of extra curricular activities.\nBus service is excellent.\nLunch and snacks served to students are also of best quality.\nVery reasonably priced.\nI will recommend this school for anyone within 6/8 km of this school.\nCheck with school for exact radius where school bus operates.\nThere were some odd news about some dispute which has caused some trouble, but  parents can ignore that matter,  it is due to some malicious intent of few people and integrity of the school cannot be questioned.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium National School - Hingane Home Colony,Karve Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gouri Vaidya"
+          },
+          "datePublished": "2023-01-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We went to the school today after taking 2 reviews. One where, our neighbour didn’t pay any donation for their admission and another where they were asked for a huge donation, where the amount is not a joke. They categorise the parents income and only those with highest incomes are given admission first, then the second round happens if there are seats left. Then comes the last round, where if the parent is impressed by the school campus after the school tour and by some means, you show interest, they tap that opportunity and try to encash it.\n\nThe management is either stupid or is not fair enough to raise funding from parents of all the students in the school rather than a select few. It’s not fair to burden only a few parents with all the donation for school ground or infrastructure development, where all the students in the school are getting benefit from, who didn’t even pay the donation and are rich. Because one thing is sure that, they don’t even short list ones with low income.\n\nBe fair. Be smart.\n\nInstil fair opportunity and good values in your students along with huge campus and all the sports facilities.\n\nI know, now they’ll be like, don’t get admission, if you have so much problem. And to be frank, we’re not. We just wanted to check if it’s true with all the online reviews, and it’s true.\n\nValues are always important for kids while growing up as it builds a majority of their personality rather than all the show off.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Millennium National School - Hingane Home Colony,Karve Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaurya Lodam"
+          },
+          "datePublished": "2022-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school has a really big campus. There are many facilities. The teachers are great. There are many sports like Table Tennis, Basketball, Cricket, Lawn Tennis, Badminton, Volleyball, Football, Kho Kho and Martial Arts. The school also provides lunch, breakfast and snacks in the evening. They have many hobbies like Drama, Percussion, Synthesiser, Flute, Guitar, Art etc. The school also has extra sports classes in the evening (optional). The only thing that I don't like about this school is that the resources are not new and only renew once or twice a year. Overall, amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.8",
+  "views": "601",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Hingane Home Colony,Karve Nagar",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/snbp-international-school-bavdhan",
+  "url": "https://yellowslate.com/school/pune/snbp-international-school-bavdhan",
+  "city": "pune",
+  "name": "SNBP International School - Bavdhan ",
+  "scraped_at": "2026-04-28T15:57:04.627877",
+  "html_length": 392146,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bavdhan",
+          "item": "https://yellowslate.com/schools/pune/bavdhan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/bavdhan/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SNBP International School",
+          "item": "https://yellowslate.com/school/pune/snbp-international-school-bavdhan"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SNBP International School - Bavdhan",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/snbp-international-school-bavdhan",
+      "telephone": " 077680 03224",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Padmavati Hills Tower-1, Padmavati Hills, Windmill Village Rd, Mokai Vasti, Bavdhan, Pune, Maharashtra 411021",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5085706,
+        "longitude": 73.6810096
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Padmavati Hills Tower-1, Padmavati Hills, Windmill Village Rd, Mokai Vasti, Bavdhan, Pune, Maharashtra 411021",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/snbp-international-school-bavdhan-bavdhan-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "56"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SunRayz Technology"
+          },
+          "datePublished": "2024-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The principal's strategic management and the teacher's efficient classroom handling create a well-structured and effective school environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prashant Pawar"
+          },
+          "datePublished": "2024-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "outstanding infrastructure, featuring modern facilities, advanced technology, and well-maintained spaces that enhance the educational experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santosh Patil"
+          },
+          "datePublished": "2024-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Bavdhan",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "amruta betigeri"
+          },
+          "datePublished": "2023-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic infrastructure, classroom atmosphere. neat and clean campus. Staff and teachers are very polite and cooperative.Specialy Rajani mam makes you fall for admission with her sweet behaviour. Looking forward for my child's bright future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anurag Goyal"
+          },
+          "datePublished": "2023-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not Good , not recommended as per the information I have received from my relatives",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Darshan Shah"
+          },
+          "datePublished": "2023-11-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not recommended for kindergarten. Teachers are not very experienced and also very less activities happen in school by teachers. When we joined they said the play area would be ready in 4 months but it is not ready yet even 3 years crossed.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohan P"
+          },
+          "datePublished": "2023-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school construction(building, playground-now) started 4 years ago and it still continues today. One of the contributors for the noise pollution in the surrounding areas. Sleep gets disturbed every day due to loud noises.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "priti bobde"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We really feel proud that our child is studying in your esteemed school. We have noticed a remarkable improvement in our child. This proves that the teacher and the staff are doing an excellent job. There hardwork would motivate the children to perform well. Thanking you all",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aishwarya Garud"
+          },
+          "datePublished": "2023-08-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I visited this school and was overwhelmed by the atmosphere.  My daughter is 5 months old, I will send her to this school when she is of school age.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vidya Hande"
+          },
+          "datePublished": "2023-08-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am happy with my child´s progress in the school. They focus on all round development of the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.6",
+  "views": "1",
+  "reviews_count": "56",
+  "phone": "+919513238818",
+  "locality": "Bavdhan",
+  "board": "CBSE\n\nCo",
+  "established": "1997",
+  "category": "International Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SNBP International School ?\nAsk a Question\nSNBP International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

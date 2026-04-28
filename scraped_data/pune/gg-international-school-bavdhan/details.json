@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/gg-international-school-bavdhan",
+  "url": "https://yellowslate.com/school/pune/gg-international-school-bavdhan",
+  "city": "pune",
+  "name": "GG International School - Bavdhan ",
+  "scraped_at": "2026-04-28T15:49:22.716576",
+  "html_length": 394646,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bavdhan",
+          "item": "https://yellowslate.com/schools/pune/bavdhan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/bavdhan/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "GG International School",
+          "item": "https://yellowslate.com/school/pune/gg-international-school-bavdhan"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "GG International School - Bavdhan",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/gg-international-school-bavdhan",
+      "telephone": "091722 63008",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "DSK Ranwara Rd, Patil Nagar, Bavdhan, Pune, Maharashtra 411021",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5215529,
+        "longitude": 73.6923913
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "DSK Ranwara Rd, Patil Nagar, Bavdhan, Pune, Maharashtra 411021",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/gg-international-school-bavdhan-bavdhan-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "14"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Damini Goyal Gupta"
+          },
+          "datePublished": "2026-04-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent of a K0 student at GGIS Bavdhan, I can confidently say that choosing this school has been one of the best decisions for our child.\n\nI still vividly remember my son’s first day at school—he was extremely scared, anxious, and created quite a scene. As parents, it was overwhelming for us too. However, the way Aparna Ma’am, the Academic Coordinator, handled the entire situation—with such calmness, patience, and reassurance—not only comforted our child but also gave us immense confidence. In that very moment, we knew that our son was in safe and caring hands.\n\nTalking about his class teacher, Sneha Teacher—fondly called “meri Sneha Teacher” by my son—she has completely transformed his perception of school. Today, he is excited to go to school every single day. The level of care and attention she provides is truly remarkable. From remembering what he brings in his tiffin, to building his confidence, to noticing how much he eats, how much he talks, and understanding what he likes and dislikes—not just in school but beyond—her attention to every little detail reflects her deep involvement and genuine love for the children. We are incredibly grateful for the unconditional warmth and support she has shown our son.\n\nThe entire school environment deserves appreciation. The administration and all pre-primary teachers are equally welcoming, approachable, and supportive. What truly stands out is that every teacher seems to know each child personally. There is a strong sense of community where teachers, staff, and parents work together with openness and mutual respect.\n\nGGIS Bavdhan is not just focused on academics but also on nurturing values through everyday actions. This balance of education and value-building is what makes the school truly special.\n\nI wholeheartedly recommend GGIS Bavdhan to all parents in and around the Bavdhan area. It is a place where children are not only educated but also cared for, understood, and shaped into better individuals.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arti Agasty"
+          },
+          "datePublished": "2024-12-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It has been three years, my daughter is studying here with GGIS. It has been wonderful experience with the school. Academic and assessment wise the school is the BEST. They don't concentrate only on studies but also in the sports and other curriculum activities. All the teachers are very good. Good place for education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Nabar-Kulkarni"
+          },
+          "datePublished": "2024-12-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We relocated to India this year. We are extremely happy with our decision to enroll our 2 kids in GGIS. We are highly impressed with their facility, curriculum, regular activities planned and engagement with children alongwith parents on regular basis focusing on child's development.\n\nKids are spoiled for choices with sports clubs as well as weekend clubs helping them shape not only academically but also touching various aspects of child development from a holistic point of view.\n\nMy kids picked up Hindi & Marathi within a couple of months thanks to their teacher who gave individual attention. We are delighted with the progress our children are making in a safe, warm and kind environment created by the teachers and management.\n\nI also appreciate the management for being open to our suggestions and feedbacks.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alok SR"
+          },
+          "datePublished": "2024-12-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am incredibly impressed with my daughter's school! The teachers are dedicated and provide exceptional support, creating a positive and engaging learning environment. The facilities are top-notch, offering everything needed for students to thrive. A special mention to Suchi Mam, who has been an incredible influence on my daughter—her kindness, patience, and expertise have made a lasting impact. We're so grateful to be part of such a wonderful school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VINITA RAUT"
+          },
+          "datePublished": "2024-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child loves attending GG International School due to its engaging teaching techniques and nurturing environment. The understanding teacher makes learning fun, fostering confidence and social skills. We highly recommend this school for its exceptional approach to early childhood education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anagha Rajderkar"
+          },
+          "datePublished": "2024-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "For my daughter, this academic year is first year in GGIS Bavdhan. I can see her improving her command over english language. She likes to go to school everyday and does not want to miss it. The school environment is very good and the teachers are very soft spoken and patient with the kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satya Prakash"
+          },
+          "datePublished": "2024-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is now in 1st standard. For last couple of years it has been really satisfying to see the progress in my child.\nThe bonding which my child has developed with her teacher is really good. Teachers are very helpful and give the perfect atmosphere for children to grow and enjoy the learning.\nThe focus has been on overall development of child, which is must.\n\nTill now it's been a satisfying journey and hohe same in coming years.\nThanks 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "aparna kulkarni"
+          },
+          "datePublished": "2024-08-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ATHA, GGIS Bavdhan. We enrolled our kid in nursery and now 2 years passed away cheerfully. Extra curricular activities apart from studies and keeping students engaged throughout the year is what we liked most about the school. School, Teachers and parents connect is maintained very well and that helps parents to understand well about their kids behaviour and activities in school. Wishing kids grow well in all aspects at GGIS. Best of luck !!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhaya Gupta"
+          },
+          "datePublished": "2024-08-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "For my son,this academic year is first year in GGIS Bavdhan.With the sheer determination of the makers and mentors, GGIS School is successfully offering amazing learning experiences. I am very happy to see that my son is participating in several programs and activities and growing his confidence. They do very hardwork to improve child performance.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GG International School - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoj Panda"
+          },
+          "datePublished": "2024-08-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's one of the best schools, where teachers pay individual attention to the learners. We have seen consistent growth in my grand- daughter. They also take special care for children coming from outside India. Individual care is taken for learners who do not know hindi. It's the best school in this vicinity.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "5.0",
+  "views": "1",
+  "reviews_count": "14",
+  "phone": "+919513238818",
+  "locality": "Bavdhan",
+  "board": "CBSE\n\nCo",
+  "established": "2007",
+  "category": "International Schools",
+  "classes": "1 - 8",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "GG International School ?\nAsk a Question\nGG International School Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 5.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

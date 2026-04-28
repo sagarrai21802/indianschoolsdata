@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/bharati-vidyapeeths-english-medium-school-laxman-nagar-baner",
+  "url": "https://yellowslate.com/school/pune/bharati-vidyapeeths-english-medium-school-laxman-nagar-baner",
+  "city": "pune",
+  "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner ",
+  "scraped_at": "2026-04-28T15:55:02.393614",
+  "html_length": 356752,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Laxman Nagar,Baner",
+          "item": "https://yellowslate.com/schools/pune/laxman-nagar-baner"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/laxman-nagar-baner/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bharati Vidyapeeths English Medium School",
+          "item": "https://yellowslate.com/school/pune/bharati-vidyapeeths-english-medium-school-laxman-nagar-baner"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/bharati-vidyapeeths-english-medium-school-laxman-nagar-baner",
+      "telephone": "+91 202 025 5845",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "HQFG+54R, Balewadi Rd, Dasar, Tal - Haveli, Pune Distt., Balewadi, Pune, Maharashtra 411045, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5736555,
+        "longitude": 73.7778318
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "HQFG+54R, Balewadi Rd, Dasar, Tal - Haveli, Pune Distt., Balewadi, Pune, Maharashtra 411045, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/bharati-vidyapeeths-english-medium-school-laxman-nagar-baner-laxman-nagar-baner-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shweta Prabha"
+          },
+          "datePublished": "2022-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Poor infrastructure and very unsystematic management. They have taken around one and half month to just set the time table of the classes. Teacher Student ration is 1:45.\nMost of the rowdy marathi crowd is here to study or not study I can say. Children and management have zero respect for teachers. Recently they did the palki and waari celebration, I saw most of the staff only taking pictures. Nothing was explained to students why we celebrate the yatra, history around it. Very pathetic experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Upadhyay"
+          },
+          "datePublished": "2021-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well experienced staff with great teaching facilities. They teach value lessons, communication and leadership skills. The teachers are very much engaging and encouraging with the students. Highly recommended school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shrinivas Dhande"
+          },
+          "datePublished": "2021-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is one of best schools in Pune.The staff is really helpful and friendly.My son is studying there.I would specially like to thank Bhavana Ma'am and the teachers for efficiently handling the covid situation by ensuring that the students progress isn't compromised and being mindful of any problem a student a may face during online classes. The teachers are knowledgeable as well as they're empathetic to the students' issues. I got a chance to interact with Mankar ma'am and Aditya sir and I was impressed that  they know what my son is good at as well as areas of improvements(personal attention).",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shailendra nath"
+          },
+          "datePublished": "2020-12-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Balewadi area with the best teachers. The teachers plan their subject in advance to make sure it is interactive session. Kudos for all the hardworking the teachers, staff and Principal have put up during this pandemic ensuring no loss of study to the students.\nGreat place and great vision by the school management and leadership team",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeths English Medium School - Laxman Nagar,Baner"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aryanki Urhekar"
+          },
+          "datePublished": "2020-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I was a student here for only two years and they've been some of the best schooling years I've experienced. The people here are genuine and kind. The teacher, the staff and the administration are very thoughtful and go out of their way to do what's best for their students.\nI think this school has a lot to teach the younger generation when it comes to culture and ethics just being a good human being to be honest.\nI hope to see it prosper.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "531",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Laxman Nagar,Baner",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Day Schools",
+  "classes": "2001-02",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

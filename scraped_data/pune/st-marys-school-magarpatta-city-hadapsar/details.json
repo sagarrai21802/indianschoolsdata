@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/st-marys-school-magarpatta-city-hadapsar",
+  "url": "https://yellowslate.com/school/pune/st-marys-school-magarpatta-city-hadapsar",
+  "city": "pune",
+  "name": "St. Marys School - Hadapsar ",
+  "scraped_at": "2026-04-28T16:16:39.879263",
+  "html_length": 389878,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hadapsar",
+          "item": "https://yellowslate.com/schools/pune/hadapsar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/pune/hadapsar/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Marys School",
+          "item": "https://yellowslate.com/school/pune/st-marys-school-magarpatta-city-hadapsar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Marys School - Hadapsar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/st-marys-school-magarpatta-city-hadapsar",
+      "telephone": "+91 202 635 6282",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Maharashtra Jeevan Pradhikaran Office, 5B, General Bhagat Marg, Camp, Pune, Maharashtra 411001, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5085349,
+        "longitude": 73.8851528
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Maharashtra Jeevan Pradhikaran Office, 5B, General Bhagat Marg, Camp, Pune, Maharashtra 411001, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/st-marys-school-magarpatta-city-hadapsar-hadapsar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "80"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritu Gogia"
+          },
+          "datePublished": "2024-06-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice School. The teachers are very polite and humble.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kamlesh Pardeshi"
+          },
+          "datePublished": "2024-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for girls.....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aarnav Shinde"
+          },
+          "datePublished": "2024-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Decent ig",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shalini2012 Tirpude"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School may be good, but management is worst in terms of response to the parents those who have applied,least bothered about sharing results of admission rejection list or selection list, worst policy in terms of response, they can declare either selected or rejected but atleast declare kept waiting for no reasons",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bidisha Chakraborty"
+          },
+          "datePublished": "2023-12-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Horrible school, lots of favouritism and partiality is there. Specially for boys department (SEC- D)\nAlways demotivating students evaluate them with their financial status and social position.\nDear parent don't admit your child over there to spoil their childhood.\nThank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Urvi Agrawal"
+          },
+          "datePublished": "2023-12-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the whole world\nI study here",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjay Dmello"
+          },
+          "datePublished": "2023-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Agam Mukar"
+          },
+          "datePublished": "2023-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "L school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shrutika Bagul"
+          },
+          "datePublished": "2023-10-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for molding future of India",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Marys School - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sarfaraz khan"
+          },
+          "datePublished": "2023-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "faculty is partial here.. selection is based on........ hope they understood..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167476987225613047963d2f5d09da4c1674769873.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.9",
+  "views": "895",
+  "reviews_count": "80",
+  "phone": "+919513238818",
+  "locality": "Hadapsar",
+  "board": "ICSE\n\nCo",
+  "established": "1866",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167476987225613047963d2f5d09da4c1674769873.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

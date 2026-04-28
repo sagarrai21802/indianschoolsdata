@@ -1,0 +1,370 @@
+{
+  "slug": "/school/pune/rahul-international-school-ris-hinjawadi",
+  "url": "https://yellowslate.com/school/pune/rahul-international-school-ris-hinjawadi",
+  "city": "pune",
+  "name": "Rahul International School (RIS) - Hinjawadi ",
+  "scraped_at": "2026-04-28T16:13:02.462867",
+  "html_length": 383712,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hinjawadi",
+          "item": "https://yellowslate.com/schools/pune/hinjawadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/hinjawadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rahul International School (RIS)",
+          "item": "https://yellowslate.com/school/pune/rahul-international-school-ris-hinjawadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rahul International School (RIS) - Hinjawadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/rahul-international-school-ris-hinjawadi",
+      "telephone": "na",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Praj Industries Rd, next to Orritel Hotel, Bhatewara Nagar, Hinjawadi Village, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Praj Industries Rd, next to Orritel Hotel, Bhatewara Nagar, Hinjawadi Village, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/rahul-international-school-ris-hinjawadi-hinjawadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "71"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gauri"
+          },
+          "datePublished": "2026-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am a parent of a Jr. KG student and I am extremely disappointed with how weekly “celebration days” are handled. Parents are expected to check the school app every morning and send children dressed according to the theme. If the child comes in uniform, teachers/didi question us publicly during pickup in front of other staff and parents.\nOne day, I explained that I have two children, including one in 6th grade, and it is difficult to arrange special outfits every time. Instead of understanding, the class teacher said other parents also have two children and that I am not exceptional. I was also told that the principal questions teachers about why my child is not dressed up, which clearly shows unnecessary pressure is being passed on to parents.\nAs a parent, this feels embarrassing, disrespectful, and emotionally stressful. Activities are welcome, but public questioning and comparison with other parents is not acceptable. Better communication and sensitivity towards families are seriously needed",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Upender Tadewar"
+          },
+          "datePublished": "2025-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are taken admission in RIS for my daughter in 1st grade. Admission process is very smooth and staff is very friendly and supportive",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Angel Kaur"
+          },
+          "datePublished": "2025-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school and experience for students\nThe staff is highly patient and nice ....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gunvanti Nehate"
+          },
+          "datePublished": "2025-01-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They judge kids on interaction and not on academics. Poor way of interviewing or interacting with kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "roshni baby"
+          },
+          "datePublished": "2025-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a wonderful school with a very cooperative staff. The teachers are good, and the environment is happy and healthy. It's a good choice if you're looking for a good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "aishwarya patil"
+          },
+          "datePublished": "2024-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Impressed with the quality education provided and thanks to teaching faculty for building nice individual",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "prashant aher"
+          },
+          "datePublished": "2024-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good, they conduct all extra curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sravani Vadicherla"
+          },
+          "datePublished": "2024-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ris is the best school of in city they are providing so much education my child is studying 4th standard",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "bhagirath kharde"
+          },
+          "datePublished": "2024-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good society…….",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rahul International School (RIS) - Hinjawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitesh Kumar"
+          },
+          "datePublished": "2024-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good education structure. Staffs are very supportive and caring.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.0",
+  "views": "0",
+  "reviews_count": "71",
+  "phone": "+919513238818",
+  "locality": "Hinjawadi",
+  "board": "CBSE, ICSE, IGCSE\n\nGot Questions About Rahul International School",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Rahul International School (RIS) ?\nAsk a Question\nRahul International School (RIS) Reviews\nView All Reviews\nOverall Experience\n 3.0\nTeaching Excellence\n 3.0\nValue for Money\n 3.0\nCampus & Facilities\n 3.0\nCo-curricular Activities\n 3.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/blossom-public-school-bhumkar-nagar-wakad",
+  "url": "https://yellowslate.com/school/pune/blossom-public-school-bhumkar-nagar-wakad",
+  "city": "pune",
+  "name": "Blossom Public School - Bhumkar Nagar,Wakad ",
+  "scraped_at": "2026-04-28T15:54:09.814662",
+  "html_length": 350921,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhumkar Nagar,Wakad",
+          "item": "https://yellowslate.com/schools/pune/bhumkar-nagar-wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/bhumkar-nagar-wakad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Blossom Public School",
+          "item": "https://yellowslate.com/school/pune/blossom-public-school-bhumkar-nagar-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Blossom Public School - Bhumkar Nagar,Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/blossom-public-school-bhumkar-nagar-wakad",
+      "telephone": "+91 823 707 6943",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S.NO.82/2 Pune-Mumbai By-Pass Highway, near Hinjewadi Infotech Park, Ashok Nagar, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6212149,
+        "longitude": 73.746192
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - Bhumkar Nagar,Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S.NO.82/2 Pune-Mumbai By-Pass Highway, near Hinjewadi Infotech Park, Ashok Nagar, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/blossom-public-school-bhumkar-nagar-wakad-bhumkar-nagar-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gajanan Bawane"
+          },
+          "datePublished": "2023-07-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, Big play ground.\nI thing I observed that, speed breaker is missing Infront of school gate.\nWhich is very essential for safety purpose of students.\nSo my request you to school administration to make speed breaker Infront of school gate.\nThanks",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - Bhumkar Nagar,Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saraswati Randive"
+          },
+          "datePublished": "2023-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is the worst school ever.\nIf you will not pay fees here on time they will lock your child in library, peons will torture you and principal will not behave properly.\nFor them school is only business.\nWorst worst school ever.\nNot good at infrastructure.\nEveryday you will find students fighting there and many more things happening.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - Bhumkar Nagar,Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chintan Shah"
+          },
+          "datePublished": "2022-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Son studying here last five years from nursery. Academic wise teaching is good. Teacher nicely teaching with clear concepts. Co curriculum activities. Reasonable fee. Flexible for instalment if genuine reason. Need to improve on sports activities with professional coaching.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - Bhumkar Nagar,Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rutvej Walekar"
+          },
+          "datePublished": "2022-10-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I was student of this school form 5 Years. In 5 years, I suffered from many horrible experience in this School. Always full class used to be ready for blaming me. I had stammering problem, many children used to trouble by acting like me. Children used to trouble me / beat false accusation on me. So many times, I used to be punished even when it is not my mistake. Also many times teachers had also insulted me front of whole class, by telling; 'Nobody will talk to him or be his friend' & ‘You will be removed from the School’. I was repeated in class 6, so teachers had insulted me; 'we will repeat you again in this class'. Even some parents had scolded me for no reason. I know some of the teachers who never ever behaved nice with me in 5 Years. Form all this trouble; my mother had to plan to leave the school. Therefore, I left the school in middle of the year.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - Bhumkar Nagar,Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lalita Patil"
+          },
+          "datePublished": "2022-06-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is in nursery, it's been 15 days since she went to school but we are seeing a lot of changes and discipline in her. The teachers at the school are really nice. I am proud to have chosen a good school for my daughter.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.2",
+  "views": "554",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Bhumkar Nagar,Wakad",
+  "board": "CBSE\n\nCo",
+  "established": "2006",
+  "category": "Day Schools",
+  "classes": "000 - 60",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

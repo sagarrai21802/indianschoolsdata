@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/neuron-labs-school-dhanori",
+  "url": "https://yellowslate.com/school/pune/neuron-labs-school-dhanori",
+  "city": "pune",
+  "name": "Neuron Labs School - Dhanori ",
+  "scraped_at": "2026-04-28T16:13:18.319539",
+  "html_length": 393755,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dhanori",
+          "item": "https://yellowslate.com/schools/pune/dhanori"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/dhanori/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Neuron Labs School",
+          "item": "https://yellowslate.com/school/pune/neuron-labs-school-dhanori"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Neuron Labs School - Dhanori",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/neuron-labs-school-dhanori",
+      "telephone": "09545008800",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "10 VRINDAVAN Society, Before Dhanori Entry from lane and from, Main road, Survey no 19, Dhanori-Lohegaon Rd, Behind Shree Vitthal Rukhmini Mandir, Dhanori, Pune, Maharashtra 411015",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.59868,
+        "longitude": 73.900958
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "10 VRINDAVAN Society, Before Dhanori Entry from lane and from, Main road, Survey no 19, Dhanori-Lohegaon Rd, Behind Shree Vitthal Rukhmini Mandir, Dhanori, Pune, Maharashtra 411015",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/neuron-labs-school-dhanori-dhanori-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Umesh Patil"
+          },
+          "datePublished": "2024-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Was satisfied with interaction with staff and teachers. Further admission process was smooth. All questions were attended property.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gaurav Mishra"
+          },
+          "datePublished": "2024-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First interaction is great.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manish Shukla"
+          },
+          "datePublished": "2024-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very friendly and supportive staff and very good guidance for complete admission process.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prasad Paradkar"
+          },
+          "datePublished": "2024-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, well planned events. Very safe for kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayur Godbole"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have enrolled my son for class UKG and found the school best with the way of teaching is unique than the other school.\nThey focus more on practical learning than the theoretical.\nAll staff, teachers, principal, founder, co-founder is really really very supportive, understanding and caring. Teaching level is high.. I really love the school.\nI would highly recommend.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "hrushikesh prabhu"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great initiative by school.\nIt's great to disconnect from routine and have fun with children.\nThank you so much neuron labs for arranging such a wonderful and wel organised event",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajiv Bhardwaj"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School's academic culture is very nice.\nAlthough infrastructure (classroom) needs to be upgraded, for which, the school management is already struggling hard to upgrade the classroom infra, the teaching approach is unique and practical.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitin Pradhan"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The schools teaching methodolgy is unique, that learning by doing. They orgnise a very unique eventes as wellbfor the students..and the teaching staff is also very helpfull too..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "balaji mule"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Neuron Labs School has been an incredible experience for my son, who is currently in 1st grade. He thoroughly enjoys attending school every day, thanks to the nurturing and engaging environment. The innovative curriculum fosters a love for learning and encourages creativity and critical thinking. Today, he was especially excited about Fathers Day, which was wonderfully organized and promoted teamwork and physical fitness. The dedication of the teachers and staff to provide a holistic education is truly commendable. I am thrilled with the positive impact Neuron Labs is having on his overall development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Neuron Labs School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shrishail Dhavaleshwar"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Neuronlabs school provides a nurturing environment where young learners thrive. The dedicated teachers ensure a balance of play-based learning and foundational academics, fostering a love for learning early on. The classrooms are vibrant and engaging, equipped with age-appropriate resources that encourage exploration and curiosity. Safety and care are prioritized, creating a supportive atmosphere for each child to develop socially and academically. Parental involvement is welcomed, enhancing the partnership between home and school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171497424820325148666386e28b063f1714974249.webp\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.9",
+  "views": "546",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Dhanori",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Other Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Neuron Labs School ?\nAsk a Question\nNeuron Labs School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/171497424820325148666386e28b063f1714974249.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

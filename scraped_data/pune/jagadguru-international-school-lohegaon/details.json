@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/jagadguru-international-school-lohegaon",
+  "url": "https://yellowslate.com/school/pune/jagadguru-international-school-lohegaon",
+  "city": "pune",
+  "name": "Jagadguru International School - Lohegaon ",
+  "scraped_at": "2026-04-28T16:05:39.271046",
+  "html_length": 395539,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lohegaon",
+          "item": "https://yellowslate.com/schools/pune/lohegaon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/lohegaon/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jagadguru International School",
+          "item": "https://yellowslate.com/school/pune/jagadguru-international-school-lohegaon"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Jagadguru International School - Lohegaon",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/jagadguru-international-school-lohegaon",
+      "telephone": "+91 949 446 7070",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "JD GREEN PARADISE, कुतवळ कॉलनी, लोहगाव, पुणे, महाराष्ट्र 412105, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6034385,
+        "longitude": 73.9201835
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "JD GREEN PARADISE, कुतवळ कॉलनी, लोहगाव, पुणे, महाराष्ट्र 412105, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/jagadguru-international-school-lohegaon-lohegaon-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "141"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amrita Shinde "
+          },
+          "datePublished": "2026-01-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school provides excellent education along with moral values. Teachers give personal attention to every child and regularly communicate with parents. The management is well organized, and the school environment is very positive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "N Padmanaban"
+          },
+          "datePublished": "2025-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst school with worst management and heartless people. I don't think our child will get good character on this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Avika soni "
+          },
+          "datePublished": "2025-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers teaching skills are very understanding and the extra curricular activities are also excellent but sometimes when its period it is not conducted ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pallavi "
+          },
+          "datePublished": "2025-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers, education, discipline and sports (physical, mental) are very well planned in this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayur Deshmukh "
+          },
+          "datePublished": "2025-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are very good  and sports facilities are excellent \n\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ami"
+          },
+          "datePublished": "2025-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall very good school in Dhanori Lohegaon Area",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shramana Kundu "
+          },
+          "datePublished": "2025-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Balanced curriculum , sports and studies, discipline, good conduct ,co curricular activities and regular home work and prepares the kids for future! One of the best cbse schools of dhanori ! Very much Recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "R Bhoir"
+          },
+          "datePublished": "2025-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "JIS is excellent CBSE school in Lohegaon area. Campus is good and they have an excellent bus facility. Teaching staff is helpful and guiding students from time to time. \nSchool  focuses on holistic development and encourages sports , it does participate in interschool competitions held by Sakal and PMC and have won medal too.\nTo provide motivation and guidance they do invite young achivers to connect with students on Republic/Independence Day.\n~Proud Parent of 1st 10th passed Batch\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Different teaching and learning style is used with interactive Digi boards which makes learning a fun for my child.🙂",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jagadguru International School - Lohegaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "JIS is an excellent institution with dedicated faculty and a beautiful campus! The teaching quality is top-notch, and the emphasis on extracurricular activities helps students grow holistically. A great place to learn and thrive!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1675086962203681367863d7cc729d8d91675086963.jpg\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167467475443173236163d18242c67401674674755.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.5",
+  "views": "1171",
+  "reviews_count": "141",
+  "phone": "+919513238818",
+  "locality": "Lohegaon",
+  "board": "CBSE, CBSE, CBSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167467475443173236163d18242c67401674674755.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "slug": "/school/pune/proxima-international-school-dhanori",
+  "url": "https://yellowslate.com/school/pune/proxima-international-school-dhanori",
+  "city": "pune",
+  "name": "Proxima International School - Dhanori ",
+  "scraped_at": "2026-04-28T16:06:43.527811",
+  "html_length": 394627,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dhanori",
+          "item": "https://yellowslate.com/schools/pune/dhanori"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/dhanori/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Proxima International School",
+          "item": "https://yellowslate.com/school/pune/proxima-international-school-dhanori"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Proxima International School - Dhanori",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/proxima-international-school-dhanori",
+      "telephone": "09527176459",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Tingre Empire Rd, Munjaba Wasti, Madhav Nagar, Dhanori, Pune, Maharashtra 411015",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5933667,
+        "longitude": 73.9008844
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Tingre Empire Rd, Munjaba Wasti, Madhav Nagar, Dhanori, Pune, Maharashtra 411015",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/proxima-international-school-dhanori-dhanori-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "20"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-01-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am writing this as a teacher who has worked there for 12 months. I wish i could give them 0 stars.\nI am sharing this as a serious warning to parents considering Proxima International School. Based on direct experience and interactions with teachers and staff, the school does not provide the quality of education or facilities it promises.\n\nThere is a shortage of qualified teachers, frequent staff turnover, and reports of teachers not being paid salaries on time, which directly affects students’ learning and stability. The school also lacks basic infrastructure and essential facilities expected from a reputed institution.\n\nManagement appears poorly organized and prioritizes frequent functions and events where money is collected from parents, while basic needs of children—such as proper classrooms, resources, and teaching support—are neglected. Transparency with parents is very limited.\n\nParents are advised to verify all claims carefully, speak to current parents and teachers, and personally inspect facilities before enrolling their children. The well-being and education of children should come first, and unfortunately this school falls short of that responsibility.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRIYANKA JADHAV"
+          },
+          "datePublished": "2025-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best school in pune.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samadhan Mulmule"
+          },
+          "datePublished": "2025-01-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The overall organization of the republic day and annual sports day was excellent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinita Chikane"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is very understanding and takes care of the children,The teachers and all staff in the school are very nice,Best school in Dhanori.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vilas Gadekar"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Respected Principal Madam ,\n\"The whole show was breathtaking and we were left wanting for more!\"\nThank you so much for organising such an amazing show yesterday. We were left awestruck with the entire performance. We can clearly see how much hard work,  organising and coordinating must have gone into it by all the teachers and staffs.\nThe seamless coordination and teamwork among the students, demonstrated the strong bond they have formed under all teachers leadership.\nImpressed with the Co-Curricular activities organised by the school. This has helped our child to develop confidence and overcome stage fear.\nThank you for your continous support to our children and grooming them into confident humans.\nOnce again congratulations for the grand success.\n\nRegards\nRekha Vilas Gadekar\nMother of Ayush Gadekar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nadiya Ansari"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Proxima School is very good; it's the best school in Pune. My son has been studying there for 3 years, and he has made excellent progress.\n\n\"All the parents had a great time at the annual sports day. We sincerely thank you from the bottom of our hearts, and the children also gave an excellent performance.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Afsar Shaikh"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was a fantastic Programme organised by Proxima team. Really enjoyed the flow of Annual function and some of the learnings shared by Guests.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naval Sharma"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The drills were fantastic and mind blowing & Sports day is inclusive of such games with a feeling of competition, there is a sense of belonging.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Smita Khandelwal"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I truly appreciate the personal attention given to every child at Proxima School, which greatly supports their overall development. The dedication of the teachers and staff is commendable—thank you for your incredible efforts. My only suggestion would be to enhance the focus on extracurricular activities like dance, sports, and similar programs to ensure a more holistic growth experience for the children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Proxima International School - Dhanori"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ashish singh"
+          },
+          "datePublished": "2022-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are amazing & the curriculum is second to none above all each child is treated with care😊👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.7",
+  "views": "487",
+  "reviews_count": "20",
+  "phone": "+919513238818",
+  "locality": "Dhanori",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Other Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Proxima International School ?\nAsk a Question\nProxima International School Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

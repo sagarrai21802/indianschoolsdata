@@ -1,0 +1,370 @@
+{
+  "slug": "/school/pune/abhishek-international-school-moshi",
+  "url": "https://yellowslate.com/school/pune/abhishek-international-school-moshi",
+  "city": "pune",
+  "name": "Abhishek International School - MOSHI ",
+  "scraped_at": "2026-04-28T15:45:32.431291",
+  "html_length": 394387,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MOSHI",
+          "item": "https://yellowslate.com/schools/pune/moshi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/moshi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Abhishek International School",
+          "item": "https://yellowslate.com/school/pune/abhishek-international-school-moshi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Abhishek International School - MOSHI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/abhishek-international-school-moshi",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot.no.2 , sec.no.6, near jal vayu vihar, near Moshi Pradhikaran, Moshi, Maharashtra 412105",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6545155,
+        "longitude": 73.8411712
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot.no.2 , sec.no.6, near jal vayu vihar, near Moshi Pradhikaran, Moshi, Maharashtra 412105",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/abhishek-international-school-moshi-moshi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "46"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mahesh Kamble"
+          },
+          "datePublished": "2026-01-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I, Mahesh Dashrath Kamble, would like to share my feedback about Abhishek International School, which is truly one of the best CBSE schools in the Moshi Pradhikaran area.\n\nThe school is well updated and has a highly qualified and dedicated staff who handle children with great care and understanding. Both the teaching and non-teaching faculty are extremely helpful, supportive, and approachable. The teachers are very well trained and have an excellent understanding of students’ learning needs.\nMy two daughters are studying at Abhishek International School, and we are very happy with our decision. The school has excellent infrastructure and an amazing faculty. Teachers explain concepts very thoroughly in a simple and effective manner, making it easy for students to understand and remember topics. Every teacher actively encourages students to participate in various activities, helping them build confidence and overall personality.\n\nThe school also provides numerous opportunities through extracurricular activities at various levels across India, which greatly helps in the holistic development of students.\nI would like to take this opportunity to congratulate the management for their endless efforts and unique teaching methods, which truly set this school apart from others. The well-planned worksheets encourage students to think beyond prescribed textbooks and develop critical thinking skills. We are extremely satisfied as parents, as our children get ample opportunities to explore, learn, and grow in all aspects.\n\nThe school maintains an excellent balance between academic and co-curricular activities.\n\nI extend my heartfelt thanks and best wishes to the teachers, coordinators, respected Principal Ma’am, and the entire management team. I highly recommend Abhishek International School to parents seeking quality education and overall development for their children.\n\nWarm regards,\nMahesh Dashrath Kamble\n8805104567",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swapna Bhalerao Tribhuvan"
+          },
+          "datePublished": "2024-12-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "OnlyThe washrooms are dirty otherwise all is good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonali Barik"
+          },
+          "datePublished": "2024-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Such a wonderful School I ever seen in my life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anusaya Mane"
+          },
+          "datePublished": "2024-06-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am new student in AIS school is very nice teachers are creative and polite I study in 9th std the teaching method is nice by ARYAN AMOL MANE",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Manoj Ahire"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school doesn’t even bother about nearby residential area. There is everyday loud noise of National anthem and prayers as if it is this is mode of their publicity. This school teaches how to disturb othed by making huge noise through out day with speakers. We can understand if there is occasional noise. Small kids nearby can’t sleep either in the morning or afternoon hours.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mahesh Kamble"
+          },
+          "datePublished": "2023-10-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Abhishek international school is One of the best CBSE School in Moshi Pradhikaran Area. The school is well updated with the staff which is equally qualified to deal with all kids. The teaching faculty and the non-teaching faculty are extremely helpful. The teaching faculty are very well trained, and they understand the students very well. My both daughters are studying at Abhishek international School. The school has very good infrastructure and amazing faculty. The teachers explain very thoroughly and in an easy way to understand and remember the topic and every teacher will encourage the students to participate in every activity. The school also takes part in many of the extra curriculum activities all over India. I Would like to take this privilege to congratulate the Management of the School for its endless efforts, teaching methods which is different from other schools. Well planned worksheets for practice which makes my child think beyond prescribed textbooks. We are very satisfied. Our child always gets ample opportunities to explore and progress in all aspects. The school maintains the appropriate balance between Academic and Co-Curricular activities. I would like to convey my thanks and best wishes to teachers, coordinators, principal Mam, and management staff and would like to recommend this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "हेमंत आठल्ये"
+          },
+          "datePublished": "2023-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "शाळांच्या बस खराब आहे. तसेच बसचालक उर्मट असून बेदारकपणे वाहने चालवतात. पालकांनी आपल्या मुलांच्या आयुष्य अशा लोकांच्या हाती देऊ नये",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajashree Nikam"
+          },
+          "datePublished": "2023-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Principal doesn't know how to speak with Parents too much out of line and arrogant, yesterday I met her 1st time and decided not to continue with School where Principal is such kind of person even if I paid",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santosh Borhade"
+          },
+          "datePublished": "2022-12-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This School offers space for social activities I use do weekly follow up of Art of living Sudarshan Kriya, Pranayam, Meditation, Satsang & Seva hence always has a divine & happy experience @ this Place....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Abhishek International School - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suwarna Kondhalkar"
+          },
+          "datePublished": "2022-09-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.5",
+  "views": "427",
+  "reviews_count": "46",
+  "phone": "+919513238818",
+  "locality": "MOSHI",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "International Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Abhishek International School ?\nAsk a Question\nAbhishek International School Reviews\nView All Reviews\nOverall Experience\n 5.0\nTeaching Excellence\n 5.0\nValue for Money\n 5.0\nCampus & Facilities\n 5.0\nCo-curricular Activities\n 5.0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/pune-cambridge-public-school-shriram-nagar-dhankawadi",
+  "url": "https://yellowslate.com/school/pune/pune-cambridge-public-school-shriram-nagar-dhankawadi",
+  "city": "pune",
+  "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi ",
+  "scraped_at": "2026-04-28T16:17:55.151294",
+  "html_length": 394609,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shriram Nagar,Dhankawadi",
+          "item": "https://yellowslate.com/schools/pune/shriram-nagar-dhankawadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/shriram-nagar-dhankawadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pune Cambridge Public School",
+          "item": "https://yellowslate.com/school/pune/pune-cambridge-public-school-shriram-nagar-dhankawadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/pune-cambridge-public-school-shriram-nagar-dhankawadi",
+      "telephone": "+91 901 103 2856",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S.No. 34, Bharati Vidyapeeth Campus, Bharati Vidyapeeth Area, Dhankawadi, Near Trimurti Chowk, Tanaje Nagar, Mohan Nagar, Dhankawadi, Pune, Maharashtra 411043, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4587664,
+        "longitude": 73.8491909
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S.No. 34, Bharati Vidyapeeth Campus, Bharati Vidyapeeth Area, Dhankawadi, Near Trimurti Chowk, Tanaje Nagar, Mohan Nagar, Dhankawadi, Pune, Maharashtra 411043, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/pune-cambridge-public-school-shriram-nagar-dhankawadi-shriram-nagar-dhankawadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "29"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "dev maske"
+          },
+          "datePublished": "2023-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "मुलानं मध्ये कसली ही growth दिसत नाही . मुलांच्या uniform चां कपडा  पण खूप  हलक्या colity चां असतो . किंमत मात्र खूप घेतात.  ,👎👎",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Digvijay Patil"
+          },
+          "datePublished": "2023-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best education, best in class for teaching and extra curricular activities, highly recommend from my side, big play ground, smart classrooms and many more facilities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prachi Jogle"
+          },
+          "datePublished": "2023-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child studying in same school in dhankhawadi branch",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Afshan Shaikh"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school as per academics as well as in extra curricular activities. Well qualified teaching staff .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shridhar Ugale"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "good college",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prajakta Meher"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for education with positive learning atmosphere...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prakash Bhapkar"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the leading English Medium School in Pune. Curriculum is competent. Teachers are trained & well qualified. School bus fascility available.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shivraj Ranaware"
+          },
+          "datePublished": "2023-09-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "College is very nice atmosphere. All management is support to all teachers and teachers is very qualified. All teachers is active and inspiring.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akshay Shinde"
+          },
+          "datePublished": "2023-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in 5km radius",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pune Cambridge Public School - Shriram Nagar,Dhankawadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhimanyu Bhoga"
+          },
+          "datePublished": "2023-05-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This School is Discipline School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.2",
+  "views": "557",
+  "reviews_count": "29",
+  "phone": "+919513238818",
+  "locality": "Shriram Nagar,Dhankawadi",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "100 - 18",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

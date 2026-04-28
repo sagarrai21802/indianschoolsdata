@@ -1,0 +1,261 @@
+{
+  "slug": "/school/pune/st-francis-high-school-airport-road",
+  "url": "https://yellowslate.com/school/pune/st-francis-high-school-airport-road",
+  "city": "pune",
+  "name": "St.Francis High School - Airport Road ",
+  "scraped_at": "2026-04-28T15:50:22.100063",
+  "html_length": 353114,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Airport Road",
+          "item": "https://yellowslate.com/schools/pune/airport-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/airport-road/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St.Francis High School",
+          "item": "https://yellowslate.com/school/pune/st-francis-high-school-airport-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St.Francis High School - Airport Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/st-francis-high-school-airport-road",
+      "telephone": "+91 9637194764",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kasturba Housing Society, Vishrantwadi, Pune, Maharashtra 411006, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5729975,
+        "longitude": 73.8808651
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Francis High School - Airport Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kasturba Housing Society, Vishrantwadi, Pune, Maharashtra 411006, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/st-francis-high-school-airport-road-airport-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "akhil shaikh"
+          },
+          "datePublished": "2023-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vidya Vikas Mandal runs three schools there. Lower groups, Primary, secondary (marathi and English mediums). Marathi is Janata High School and Eng is St Francis.\nI personally studied in Janata High School till 10th in year 2006 pass out.\n\nToday my kid is taking education in 2nd std in st francis.\nAs far I feel that St Francis School is not upto the mark in trachings as I can not see progress in my kids education.\n\nWithout going School his handwriting, poem learning or memorizing was awesome in lockdown. Bt not I can't see School is focusing on many aspects of education.\n\nNo parent meetings held till date.\n\nNo updates or feedback from teachers on time.\n\nIt was my problem that I hv decided to take admission in this school.\n\nNot only me, other parents hv same issues which I hv discussed with them personally.\n\nOther facilities are also poor.\n\nIn brief I wud like to recommend this School if r u not getting admission in other schools at 11th hr.\n\nOther wise u can skip this school.\n\nThanks",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Francis High School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "hurricane h"
+          },
+          "datePublished": "2022-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is good don't go on its look , they really teach well but the biggest problem there is toilet , yes toilet because they don't have good toilets and it was not hygenic they really have to do something about this",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Francis High School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sakshi Jathar"
+          },
+          "datePublished": "2019-12-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in whole wor",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Francis High School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ramdev brahman"
+          },
+          "datePublished": "2018-06-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good school, worst maintained.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St.Francis High School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shubhrajyoti Kirtania"
+          },
+          "datePublished": "2016-04-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Taught over here for 2 years. Roller coaster of emotions",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1695727659699530566512c02baf40c1695727660.png\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768055194205730663d2eeb76a3a21674768055.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.6",
+  "views": "442",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Airport Road",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "800 - 100",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St.Francis High School ?\nAsk a Question\nSt.Francis High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768055194205730663d2eeb76a3a21674768055.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

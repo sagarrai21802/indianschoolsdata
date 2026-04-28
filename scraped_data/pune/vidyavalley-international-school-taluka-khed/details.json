@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/vidyavalley-international-school-taluka-khed",
+  "url": "https://yellowslate.com/school/pune/vidyavalley-international-school-taluka-khed",
+  "city": "pune",
+  "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED ",
+  "scraped_at": "2026-04-28T16:15:19.164887",
+  "html_length": 344017,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TALUKA KHED",
+          "item": "https://yellowslate.com/schools/pune/taluka-khed"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/taluka-khed/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VIDYAVALLEY INTERNATIONAL SCHOOL",
+          "item": "https://yellowslate.com/school/pune/vidyavalley-international-school-taluka-khed"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/vidyavalley-international-school-taluka-khed",
+      "telephone": "+91 960 482 6836",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Rakshewadi, Tal. Khed, Chakan, Maharashtra 410501, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.757718,
+        "longitude": 73.8418724
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rakshewadi, Tal. Khed, Chakan, Maharashtra 410501, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/vidyavalley-international-school-taluka-khed-taluka-khed-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshal Waghela"
+          },
+          "datePublished": "2023-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vidyavalley International School in Chakan, Pune is an exceptional educational institution. The dedicated faculty, modern infrastructure, and comprehensive curriculum make it a top choice for parents. The emphasis on character building and values sets this school apart. Strong communication with parents further enhances the overall learning experience. Highly recommended for a well-rounded education!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sheldon dias"
+          },
+          "datePublished": "2023-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has a good culture I have ever experienced in my life , for students growth.overall its a healthy environment for all.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Socio Butterfly"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school. The teachers are really helpful. The extra curricular activities are very well arranged for the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karan Ghule"
+          },
+          "datePublished": "2023-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers don't seem to be well paid for their efforts. Better teaching can be obtained by satisfaction of teacher. One giving his best must be rewarded. Teachers also have to face inflation.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VIDYAVALLEY INTERNATIONAL SCHOOL - TALUKA KHED"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "raju ugale"
+          },
+          "datePublished": "2023-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.2",
+  "views": "444",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "TALUKA KHED",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "000 - 39",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VIDYAVALLEY INTERNATIONAL SCHOOL ?\nAsk a Question\nVIDYAVALLEY INTERNATIONAL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "slug": "/school/pune/sanskriti-school-bhukum-bhukum",
+  "url": "https://yellowslate.com/school/pune/sanskriti-school-bhukum-bhukum",
+  "city": "pune",
+  "name": "Sanskriti School Bhukum - Bhukum ",
+  "scraped_at": "2026-04-28T15:44:45.329290",
+  "html_length": 409922,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bhukum",
+          "item": "https://yellowslate.com/schools/pune/bhukum"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/bhukum/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sanskriti School Bhukum",
+          "item": "https://yellowslate.com/school/pune/sanskriti-school-bhukum-bhukum"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sanskriti School Bhukum - Bhukum",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680702961566763276636cbb981fce61668070296.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/sanskriti-school-bhukum-bhukum",
+      "telephone": "09272220303",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Gat No. 1164, Ahead of Manas Resort, Tal ï¿½ Mulshi, Pune, Maharashtra",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.497961,
+        "longitude": 73.7359848
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Gat No. 1164, Ahead of Manas Resort, Tal ï¿½ Mulshi, Pune, Maharashtra",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/sanskriti-school-bhukum-bhukum-bhukum-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "129"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mangesh Atpadikar"
+          },
+          "datePublished": "2025-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in Pune is in Bhukum ?! Really??",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shaunak ponkshe"
+          },
+          "datePublished": "2025-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Too expensive and unnecessary hipe",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikhil Gadgil"
+          },
+          "datePublished": "2025-01-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I’m so glad I chose Sanskruti School for my child. The environment is nurturing, and the teachers go above and beyond to ensure every student feels confident and supported. The facilities are excellent, and the school encourages overall development through sports, arts, and academics. Highly satisfied!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Utkarsha Kale"
+          },
+          "datePublished": "2025-01-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The faculty and administration are very supportive and approachable. They ensure that parents are kept informed about their child’s progress and are always open to feedback. The school has a caring environment that makes students feel safe and motivated to learn.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "OneL. Sha."
+          },
+          "datePublished": "2024-10-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I got kids to this great school because I was looking for a school and teachers who taught true history and native Marathi and Bhartey culture to the kids.\n\nI got kids out of a famous Missionary school as they brainwashed kids to a level that they stopped participating in Ganpati pujan, Deepavli etc. at home. All at home faced a lot of stress as kids revolted and abused elders. Alcohol & beef became normal for them as Missnaries brainwashed them while no one in family drinks or even smokes.\n\nSanskriti school improved their scores also and they managed to win at National level. Gradually they came out of communal hatred that missionaries embedded in older Christian school.\n\nSaved on tution fee too but with Bahgwan's aashirwad Money was not an issue. Kids are more friendly and social than before. Now they mingle and play with everyone without any sort of discrimination in heart.\n\nOverall health has also improved. Teachers are very involved here. So, tution outside school is not needed. Kids self study at home with little help from parents or teachers easily available online outside school hours.\n\nBest kart is that Sanskriti school teaches a very healthy competition, without forcing rat race for 99% scores.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srinivasan Shridharan"
+          },
+          "datePublished": "2024-10-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Have been associated with this school as a parent since 2013. The quality of teachers and overall support staff has been consistently excellent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaikha Bedekar"
+          },
+          "datePublished": "2024-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is very good for CBSE pattern. My nephew in VI and he also is studying in the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "arun barde"
+          },
+          "datePublished": "2024-09-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A great school.for CBSE pattern. This school focuses on making kids understand rather than mugging up. This school has four campuses in Pune. The teachers are very good and keep track of kids growth in each aspect. This school has numerous extra curricular activities like swimming, horse riding, indoor games, skating etc. All games don't need any additional charges. These are part of the school fee. The school fee is much lower than the other reputed schools. Fee has defined percentage of increase in 3 year band. Abrupt fee structure change is not done here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikita Adake"
+          },
+          "datePublished": "2024-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really school located in good atmosphere.All staff are co operative.teacher are trained with good manners .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanskriti School Bhukum - Bhukum"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anita sarkar"
+          },
+          "datePublished": "2024-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am writing to express my serious concerns regarding the careless driving behavior exhibited by the driver of the school bus that transports our children to and from school.\n\nToday, around 3:30 PM near LMD Chowk, I experienced a very alarming incident. As I was seated on my scooty, the school bus made a U-turn around the chowk in a reckless manner. This sudden and unsafe maneuver caused a near collision with my vehicle. My 5-year-old daughter, who was with me, was extremely frightened by the incident, and I narrowly escaped what could have been a severe accident.\n\nSuch driving behavior is not only dangerous but also unacceptable, especially considering the precious lives the driver is responsible for every day. The safety of our children should be the utmost priority, and I urge you to take immediate action to address this issue.\n\nI kindly request that you investigate this matter and ensure that the driver receives the necessary guidance and training to prevent such incidents in the future. Additionally, please consider implementing stricter monitoring of driving practices to ensure the safety of all students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674752798107770688063d2b31e2c0d51674752798.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680702961566763276636cbb981fce61668070296.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1733567170380802431675422c203c9b1733567170.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680702961566763276636cbb981fce61668070296.jpg",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/59.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680702961566763276636cbb981fce61668070296.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.1",
+  "views": "1162",
+  "reviews_count": "129",
+  "phone": "+919513238818",
+  "locality": "Bhukum",
+  "board": "CBSE\n\nCo",
+  "established": "2008",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674752798107770688063d2b31e2c0d51674752798.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/59.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680702961566763276636cbb981fce61668070296.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1733567170380802431675422c203c9b1733567170.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

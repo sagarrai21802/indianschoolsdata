@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/snbp-international-school-adinath-colony-rahatani",
+  "url": "https://yellowslate.com/school/pune/snbp-international-school-adinath-colony-rahatani",
+  "city": "pune",
+  "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani ",
+  "scraped_at": "2026-04-28T16:05:11.948352",
+  "html_length": 353591,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Adinath Colony,Rahatani",
+          "item": "https://yellowslate.com/schools/pune/adinath-colony-rahatani"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/adinath-colony-rahatani/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SNBP INTERNATIONAL SCHOOL",
+          "item": "https://yellowslate.com/school/pune/snbp-international-school-adinath-colony-rahatani"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/snbp-international-school-adinath-colony-rahatani",
+      "telephone": "+91 777 000 3823",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No. 29 / 2, Off Rahatani- Pimple Saudagar Road Near Akashganga Society, CID Colony, Rahatani, Pune, Pimpri-Chinchwad, Maharashtra 411017, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6034,
+        "longitude": 73.792
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No. 29 / 2, Off Rahatani- Pimple Saudagar Road Near Akashganga Society, CID Colony, Rahatani, Pune, Pimpri-Chinchwad, Maharashtra 411017, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/snbp-international-school-adinath-colony-rahatani-adinath-colony-rahatani-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vrushali K"
+          },
+          "datePublished": "2023-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is so noisy y’all they have drums and music playing entire day to the point it gives headaches like doesn’t it annoy the children studying in school?\nUpdate: After 15th august they’re still noisy the residents can’t even live peacefully there are patients,students,old people residing here\nTHEY ARE SO LOUD ESPECIALLY THAT PT TEACHER NEEDS TO LOWER IT DOWN\nAS A STUDENT I CANNOT STUDY AT ALL THEYRE SO NOISY, THERE IS SICK PEOPLE WHOO CANNOT REST AT ALL BECAUSE OF THEM\nIF I COULD ATTACH A VIDEO CLIP I WOULD OF HOW NOISY THEY ARE NOT ONLY IN THE DAY BUT ALSO IN THE EVENING\nITS A REQUEST NOW TO PLEASE KEEP IT DOWN.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yogesh Chavan"
+          },
+          "datePublished": "2023-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is heavily crowded. There is a big possibility of stamped if something goes wrong.\n\nIf you want to drop or pick up your kids  the small lane is jammed in such a way that you cannot even walk.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DIPAK GADGE"
+          },
+          "datePublished": "2023-06-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There is no proper parking for parents. I have got very bad experience when I have gone for bringing my grand-daughter after school is over. Exactly at that rime police vehicle lifting van cone & lifted tqo wheelers of innocent parents come for their kids. Worst experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Geeta Kulkarni"
+          },
+          "datePublished": "2022-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good CBSE school around Pimple Saudagar area.\nTeaching good , Enough Writing Practice, School app is always updated n gives all the school activities on time.\n\nOnly major concern is lot of Crowd, Mess, Traffic Jam during Pick up n drop time at throughout the Lane.\nI request School Management to find out Permanent solution for this.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SNBP INTERNATIONAL SCHOOL - Adinath Colony,Rahatani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ANUPAMA MANDAL"
+          },
+          "datePublished": "2020-01-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I paased out HSC from here. Its a good college for academics. The staff is friendly.\nThere is ample of space in classrooms.\nClassrooms are built in with projectors.\nCanteen food can be more better!\nOverl its a good college",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "2.2",
+  "views": "726",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Adinath Colony,Rahatani",
+  "board": "CBSE\n\nCo",
+  "established": "2010",
+  "category": "Day Schools",
+  "classes": "000 - 50",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SNBP INTERNATIONAL SCHOOL ?\nAsk a Question\nSNBP INTERNATIONAL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

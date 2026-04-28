@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/my-school-wakad",
+  "url": "https://yellowslate.com/school/pune/my-school-wakad",
+  "city": "pune",
+  "name": "MY SCHOOL - Wakad ",
+  "scraped_at": "2026-04-28T15:58:12.366597",
+  "html_length": 391897,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wakad",
+          "item": "https://yellowslate.com/schools/pune/wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/wakad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "MY SCHOOL",
+          "item": "https://yellowslate.com/school/pune/my-school-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "MY SCHOOL - Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/my-school-wakad",
+      "telephone": "+91 762 053 3149",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sr.no. 85/6A, My School, near Decathlon Wakad, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6118912,
+        "longitude": 73.7520254
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sr.no. 85/6A, My School, near Decathlon Wakad, Tathawade, Pune, Pimpri-Chinchwad, Maharashtra 411033, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/my-school-wakad-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "31"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harsha Sastry"
+          },
+          "datePublished": "2024-06-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school for a child",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Moumita Bhowmik"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are so grateful to have found this school. It’s not just an institution of learning; it feels like a community. Everyone from the administration to the teaching staff is supportive and deeply committed. They handle educational and emotional needs with great sensitivity and professionalism",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kanchan Chaudhary"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best CBSE School in Wakad .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vrishali Shirgaonkar"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Top notch educational experience! The academic rigor paired with a strong emphasis on character development prepares students well for the future. The environment is inclusive and welcoming, which is so important. We feel secure knowing our children are getting the best start possible",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "madhuri bhosale"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic school with excellent programs! The extracurricular activities offered here are second to none, and they provide a balanced education that seems to cater perfectly to my child's interests and talents. Seeing my child excited every day to go to school is truly the best feedback I could give.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kajal Phadtare"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My School, Wakad, stands out as the epitome of excellence, being hailed as the best CBSE school in Wakad – a testament to its commitment to quality education.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Monika Jaisinghania"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "nvesting in my child's future by enrolling them in My School, Wakad – where excellence meets education at the best CBSE school in Wakad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Shugreja"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "With My School, Wakad, I'm confident my child will receive a holistic education from the best CBSE school in Wakad, fostering growth and success.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jyotsna PATIL"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Choosing My School, Wakad, ensures my children receive the finest education from the best CBSE school in Wakad, setting them up for success.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MY SCHOOL - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhya Ghankhede"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excitedly planning for my child's academic journey at My School, Wakad – recognized as the best CBSE school in Wakad for its excellence in education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759305243191611992568dcde1b171541759305243.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "5.0",
+  "views": "725",
+  "reviews_count": "31",
+  "phone": "+919513238818",
+  "locality": "Wakad",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "Day Schools",
+  "classes": "000 - 76",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759305243191611992568dcde1b171541759305243.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

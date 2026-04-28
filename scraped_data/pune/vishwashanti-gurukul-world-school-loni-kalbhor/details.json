@@ -1,0 +1,419 @@
+{
+  "slug": "/school/pune/vishwashanti-gurukul-world-school-loni-kalbhor",
+  "url": "https://yellowslate.com/school/pune/vishwashanti-gurukul-world-school-loni-kalbhor",
+  "city": "pune",
+  "name": "Vishwashanti Gurukul World School - Loni Kalbhor ",
+  "scraped_at": "2026-04-28T16:17:08.002492",
+  "html_length": 465919,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Loni Kalbhor",
+          "item": "https://yellowslate.com/schools/pune/loni-kalbhor"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/pune/loni-kalbhor/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vishwashanti Gurukul World School",
+          "item": "https://yellowslate.com/school/pune/vishwashanti-gurukul-world-school-loni-kalbhor"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vishwashanti Gurukul World School - Loni Kalbhor",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17629717627948995836914d072ad0b71762971763.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/vishwashanti-gurukul-world-school-loni-kalbhor",
+      "telephone": "+91 960 402 9199",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Rajbaug, Pune-Sholapur Highway, Next to Hadapsar Loni Kalbhor, Pune, Maharashtra",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.492414,
+        "longitude": 74.025504
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rajbaug, Pune-Sholapur Highway, Next to Hadapsar Loni Kalbhor, Pune, Maharashtra",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/vishwashanti-gurukul-world-school-loni-kalbhor-loni-kalbhor-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "117"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhiruchi Udayan"
+          },
+          "datePublished": "2025-10-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good School in comparison to the fee bracket, AC Boarding is also good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arunima P"
+          },
+          "datePublished": "2025-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fees is 9 lac for 5th standard for boarding this is to much",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Democracy News"
+          },
+          "datePublished": "2025-01-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst  for Student  as well as parents",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinod Kumar"
+          },
+          "datePublished": "2024-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school in Education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dinesh Gupta"
+          },
+          "datePublished": "2024-09-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice Campus",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alisha"
+          },
+          "datePublished": "2024-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This place sucks. The conditions are horrible, there is no AC! I have a friend who is being forced to go there o do not recommend!!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ttg group"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school... Many amenity.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjali Naik"
+          },
+          "datePublished": "2024-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful place. Kids friendly environment. Gurushishya parampara I believe is also most important.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Raji S. Vagh"
+          },
+          "datePublished": "2024-07-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Smooth admission process.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vishwashanti Gurukul World School - Loni Kalbhor"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankush Kokare"
+          },
+          "datePublished": "2024-07-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Beautiful place.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17629717627948995836914d072ad0b71762971763.jpg\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17629717627948995836914d072ad0b71762971763.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17629717627948995836914d072ad0b71762971763.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://application.mitgurukul.com/Document",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://application.mitgurukul.com/Document\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099969272624928767c58c0c75fc41740999692.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/176297164513017744196914cffd057271762971645.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/ys-blog/f9409b32-34ab-487e-ac8c-5512a579cfe7-1774972177993.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/ys-blog/6ad7a097-1fc2-4b20-ba92-fda0bfbd499e-1772970070478.jpeg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Archery.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.2",
+  "views": "2800",
+  "reviews_count": "117",
+  "phone": "+919513238818",
+  "locality": "Loni Kalbhor",
+  "board": "IB, CBSE\n\nCo",
+  "established": "2005",
+  "category": "Boarding Schools, International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759993610193242226168e75f0ac11061759993611.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/17599936078945341368e75f075a2841759993607.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175999360979778208568e75f09ef0661759993610.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17629717627948995836914d072ad0b71762971763.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740999692196976619067c58c0cace541740999693.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099969272624928767c58c0c75fc41740999692.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099969685660628467c58c1027cdd1740999696.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/176297164513017744196914cffd057271762971645.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759993609202823873568e75f09911521759993610.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759993606121874680368e75f06d56d81759993607.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759993299130766169668e75dd3e5b431759993300.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099969831781708767c58c12796471740999698.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Archery.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099968756534802367c58c0736f031740999687.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175999360832167355068e75f085ff2d1759993608.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/ys-blog/f9409b32-34ab-487e-ac8c-5512a579cfe7-1774972177993.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175999329915912850268e75dd30db1e1759993299.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099969697941844367c58c109733c1740999697.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740999698111321519267c58c12307211740999698.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740999690183109614167c58c0aceece1740999691.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/ys-blog/6ad7a097-1fc2-4b20-ba92-fda0bfbd499e-1772970070478.jpeg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175999328017797496468e75dc0524d81759993280.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740999691213334277367c58c0b310501740999691.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099968678353812667c58c06e7ea71740999687.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175999360946751131468e75f09142c71759993609.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759993606158332752268e75f0658e8a1759993606.jpg"
+  ]
+}

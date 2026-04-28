@@ -1,0 +1,391 @@
+{
+  "slug": "/school/pune/mahindra-international-school-pune",
+  "url": "https://yellowslate.com/school/pune/mahindra-international-school-pune",
+  "city": "pune",
+  "name": "Mahindra International School - Pune ",
+  "scraped_at": "2026-04-28T15:46:03.282622",
+  "html_length": 419803,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/pune/pune/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mahindra International School",
+          "item": "https://yellowslate.com/school/pune/mahindra-international-school-pune"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mahindra International School - Pune",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768930183116890363d2f22268ccb1674768930.webp",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/mahindra-international-school-pune",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": null,
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": null,
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/mahindra-international-school-pune-pune-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "25"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nayan Mangudkar"
+          },
+          "datePublished": "2024-05-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Suzuki , volvo school lana baki hai hinjewadi me",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhahah"
+          },
+          "datePublished": "2024-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "FOOD IS GROSS AND TOO MUCH WORK🤮",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rocky Vhasale"
+          },
+          "datePublished": "2024-04-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rahul hadawale"
+          },
+          "datePublished": "2024-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Nice 🙂\nall staff with family welfare",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "David Boss"
+          },
+          "datePublished": "2023-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Number 1 top best schooling in POOONA, gotta shout out the real G’s at this place. Also thanks TOP G for insperiring me, love u Andrew",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Obaji Obaji"
+          },
+          "datePublished": "2022-10-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing School equipped with state-of-the-art facilities. Excellent, teaching body of researchers and most of all great curriculum.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akhileshwar Singh"
+          },
+          "datePublished": "2021-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice look and locality!Yet to visit\nand know about curriculumn and\nteaching standard",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Puja Indrajit"
+          },
+          "datePublished": "2019-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst experience ever! Although the school looks promising... the admission incharge Mrs Priti Satpute, behaves ignorant and adamant! The worst behaved women I have ever met.. neither solves the query or issues faced by the parents.. the first impression was not that good... hope the management should look into it... as what the kids will learn from this kind of behave... the admission incharge needs a behavioural class... pathetic !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swapnil Bhise"
+          },
+          "datePublished": "2019-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Although everyone's experience is different but....\nSchool feels good when it comes to education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mahindra International School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sadique Shaikh"
+          },
+          "datePublished": "2019-04-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Mercedes Benz International School is amongst the top international schools in the state of Maharashtra. It offers International Baccalaureate program for the students with world class education.This programmes are classifields in to three stages which are Primary Years Programme, Middle Years Programme and Diploma Years Programme.This school  enables students to excel in their careers.\nFaculty: The School have well qualified staff and faculty members with an aim to meet the academic and hostel needs of the students.\nAll admissions to MBIS are on first come first served basis. Generally, the admission procedure for the new school year is conducted during March/April. You are advised to contact the school admissions office as early as December and put in the application package for admission soon after. All the forms are filed in order of receipt and we are in a position to make new admission offers only if we have space in the class you are seeking admission too. This is normally confirmed by April/May. Payment of the Admission fee and Registration fee will confirm your admission to MBIS.Submission of form with supporting documents: School records for two years, copies of parent’s passport and any other information that you think is important for the school to have.\nAdmission form is reviewed, entrance test conducted wherever necessary. Seat to be reserved or confirmed on payment of fees. All admission to Mercedes-Benz International School are on first come first serve basis  and seat will be offered based on the availability in each class.\nAffiliated Board : International Baccalaureate program\nThe boarding facility is open to all students age 11 years and above\nFacilities which are offered by the school concludes of modern amenities like fully air-conditioned four-storey building with separate sections for boys and girls, Computers with Wi-Fi access and secure broadband internet connectivity,indoor games and gymnasium.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768930183116890363d2f22268ccb1674768930.webp\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768930183116890363d2f22268ccb1674768930.webp\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768930183116890363d2f22268ccb1674768930.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/176297164513017744196914cffd057271762971645.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.8",
+  "views": "2530",
+  "reviews_count": "25",
+  "phone": "+919513238818",
+  "locality": "Pune",
+  "board": "IB\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Sports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/176297164513017744196914cffd057271762971645.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768930183116890363d2f22268ccb1674768930.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

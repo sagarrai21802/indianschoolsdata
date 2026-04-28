@@ -1,0 +1,388 @@
+{
+  "slug": "/school/pune/the-kalyani-school-amanora-park-town-hadapsar",
+  "url": "https://yellowslate.com/school/pune/the-kalyani-school-amanora-park-town-hadapsar",
+  "city": "pune",
+  "name": "The Kalyani School - Amanora Park Town,Hadapsar ",
+  "scraped_at": "2026-04-28T15:59:56.774062",
+  "html_length": 424029,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Amanora Park Town,Hadapsar",
+          "item": "https://yellowslate.com/schools/pune/amanora-park-town-hadapsar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/amanora-park-town-hadapsar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Kalyani School",
+          "item": "https://yellowslate.com/school/pune/the-kalyani-school-amanora-park-town-hadapsar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Kalyani School - Amanora Park Town,Hadapsar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16663403401125514973635255f4285e91666340340.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/the-kalyani-school-amanora-park-town-hadapsar",
+      "telephone": "8989898989",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Manjari (Budruk), Near Hadapsar, Pune, Maharashtra",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.521266,
+        "longitude": 73.9825734
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Manjari (Budruk), Near Hadapsar, Pune, Maharashtra",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/the-kalyani-school-amanora-park-town-hadapsar-amanora-park-town-hadapsar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "37"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poonam Mishra"
+          },
+          "datePublished": "2022-12-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Kalyani school provides all that a child requires to be world ready.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayesha's Aromatic Kitchen"
+          },
+          "datePublished": "2022-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There is a lot of learning and growth for teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Khurana"
+          },
+          "datePublished": "2022-11-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Work environment is good and very good infrastructure",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanvir Kaur"
+          },
+          "datePublished": "2022-11-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Pune. The staff and management are very friendly and understanding. The structure of the school is designed amazingly. Working hours are good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "santosh kesti"
+          },
+          "datePublished": "2022-11-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best place to work for  teachers  and best place to learn for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nishant Mavlingkar"
+          },
+          "datePublished": "2022-11-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There is no other school like The Kalyani School #The Best:)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shubha Chandra"
+          },
+          "datePublished": "2022-11-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful infrastructure . The management is very supportive and understanding. The activities provided for the students at every level is extensive and well thought of.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pallavi Ahirwadkar"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a very good school to work in with lots of learning opportunities. Both my kids are also currently studying in the school. The school brings out the best in every child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kiran dahiphale"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very blessed because I am one of the founder family member as an Art & Sculpture facilitator of The Kalyani School since from 2015",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Kalyani School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satyendra Kumar Rawat"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Here, kids are developing daily. a good mix of coursework and extracurricular activity.\nExcellent infrastructure, moral principles, openness, extreme security, and cleanliness. The institution supports students' academic growth while also fostering their moral and ethical development.\nbeing pleased to be a member of this group.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16663403401125514973635255f4285e91666340340.jpg\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16663403401125514973635255f4285e91666340340.jpg",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/10/2022-2-3-14-22-13-476_footergallerybengaluruicse09122021_4-1.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1728473191110278740367066867d352a1728473192.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16663403401125514973635255f4285e91666340340.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/56.jpg\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.9",
+  "views": "2081",
+  "reviews_count": "37",
+  "phone": "+919513238818",
+  "locality": "Amanora Park Town,Hadapsar",
+  "board": "CBSE, IB, IGCSE\n\nCo",
+  "established": "2022",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/10/2022-2-3-14-22-13-476_footergallerybengaluruicse09122021_4-1.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/56.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/166555905419077015963466a0e577f11665559054.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16663403401125514973635255f4285e91666340340.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1728473191110278740367066867d352a1728473192.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/166555905413114432863466a0eea49b1665559055.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/166555905676089187763466a10d12281665559057.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

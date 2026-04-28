@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/tree-house-high-school-pune",
+  "url": "https://yellowslate.com/school/pune/tree-house-high-school-pune",
+  "city": "pune",
+  "name": "Tree House High School - Pune ",
+  "scraped_at": "2026-04-28T16:23:54.267036",
+  "html_length": 396813,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/pune/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Tree House High School",
+          "item": "https://yellowslate.com/school/pune/tree-house-high-school-pune"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Tree House High School - Pune",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/tree-house-high-school-pune",
+      "telephone": "+91 206 560 6079",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Ajinkyatara building, dhudhane nagar near tree house school pine 411052, Karve Nagar, Pune, Maharashtra 411052, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4828656,
+        "longitude": 73.8140293
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ajinkyatara building, dhudhane nagar near tree house school pine 411052, Karve Nagar, Pune, Maharashtra 411052, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/tree-house-high-school-pune-pune-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "53"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kshipra Koranne"
+          },
+          "datePublished": "2024-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm parent of student studying in std.8. Lack of management. School is changing there key decisions like school timings without consulting parents. Teachers are changing frequently. Bus management is lagging. No intra curricular or extra curricular activities. No participation in any contest or personality development activities. A strict NO NO for admission.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayuri Ghanekar"
+          },
+          "datePublished": "2024-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Stan Lee"
+          },
+          "datePublished": "2024-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No hygiene in the washroom. Students very aggressive. Teacher are not experienced.Bad words are spoken",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SUJATA MOPAREKAR"
+          },
+          "datePublished": "2024-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school.. Teachers and Management both are very co-operative with parents. They take good care of children and This is the best school for sports and academics..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soundariya Ariyan"
+          },
+          "datePublished": "2023-12-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had an opportunity to interview for school Counselor position with the MD.\nBut the MD was so rude during the discussion round. He was not ready to offer a decent scale for my qualifications and experience rather told that counselling is not required for our students we just need to have a Counselor for sake of having, and gave a counter offer of part time with lowest pay scale, despite knowing the strength of the students being 2000 and above. However the principal was understanding. But the MD does not want to pay the staff with respect to their qualifications. Please don’t compromise for any less with his counter offers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poorva"
+          },
+          "datePublished": "2023-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I study in 7F grade but the school quality is not good and very high pricing, teachers just read and don't explain. Bad management of events. Overall bad.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpa Bhange Shilpamadethis"
+          },
+          "datePublished": "2023-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The ppl who have given good reviews here are teachers of the school,whose kids are studying here. Those reviews are not genuine. Teaching standard has deteriorated since last 2 years. Teachers either leave the job or take long leaves. Substitute teachers are not arranged. This is a grave issue faced by parents.\nThey favor A division students,others are neglected. Management is just behind increasing fees.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajeev Deshmukh"
+          },
+          "datePublished": "2023-10-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They only take fees (saying a as thhs student) we don't have a teacher for grade 9th and that also icse....and for the main subjects such as maths & physics....they couldn't hire a teacher in 4 months...just perfectly worst..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Azure Kb"
+          },
+          "datePublished": "2023-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really worst school in the Karvenagar Pune area, I will never recommend this school. Teachers don’t having control on students.\n\nTeachers never getting payment on times, they are changing every after 2 to 3 months\n\nManagement is really worst, they are hungry of FEES , only money matter",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Tree House High School - Pune"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samiksha Mestry"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good School and teachers are knowledgeable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.2",
+  "views": "564",
+  "reviews_count": "53",
+  "phone": "+919513238818",
+  "locality": "Pune",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 50",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

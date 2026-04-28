@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/sadhu-vaswani-international-school-moshi",
+  "url": "https://yellowslate.com/school/pune/sadhu-vaswani-international-school-moshi",
+  "city": "pune",
+  "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI ",
+  "scraped_at": "2026-04-28T16:13:48.465264",
+  "html_length": 354078,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MOSHI",
+          "item": "https://yellowslate.com/schools/pune/moshi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/moshi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SADHU VASWANI INTERNATIONAL SCHOOL",
+          "item": "https://yellowslate.com/school/pune/sadhu-vaswani-international-school-moshi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/sadhu-vaswani-international-school-moshi",
+      "telephone": "+91 855 101 1005",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Nageshwar Nagar, Sector No. 6, Moshi, Pimpri-Chinchwad, Maharashtra 412105, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6511076,
+        "longitude": 73.8433766
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Nageshwar Nagar, Sector No. 6, Moshi, Pimpri-Chinchwad, Maharashtra 412105, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/sadhu-vaswani-international-school-moshi-moshi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Keshav Argade"
+          },
+          "datePublished": "2023-04-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is so best. It has many facility like Computer Lab\nScience Labs\nMath's Lab\nIndoor games\nLandscaped Area\nSpacious library\nPrayer/Meditation Hall.\nMusic Room\nCanteen\nTransport Facility\nDance Room\nActivity room\nAuditorium\nKarate/ Yoga\nSwimming Pool and so all.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhijeet Vidhate"
+          },
+          "datePublished": "2022-12-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "After exploring almost all schools in the PCMC area we decided on SVIS for our daughter. I am quite satisfied with the teachers and the management team. They keep parents up to date on every information parents may want to know about their children. people say that the principle is strict, yes she is strict, and she has to be like that in order to keep the school running in the disciplined manner. I have seen parents creating all the nuisance despite giving clear instructions on everything, so I am not really surprised if teachers and principle are strict towards parents. But they treat all students with atmost care and love. The best thing l liked about the school is - teachers don't give those useless projects to students which they can't do by themselves and end up eating parents brain for completing the project. As parent, I only work on my office project :P",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashish"
+          },
+          "datePublished": "2022-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My 4 years old child is in the Nursery class of SVIS. I am thoroughly satisfied with the school. My two nephews 12 and 7 are also studying in the same school. The school has qualified, compassionate and proactive teachers. The school has many facilities including an excellent swimming pool to encourage kids for extra curricular activities.\n\nThe best thing I found about the school is that they teach Sanskrit shlokas and celebrate all the major Hindu festivals along with the kids. Something that is missing from many English medium schools. Though the school fees is in premium range, I think it is worth it all things considered.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Thorat"
+          },
+          "datePublished": "2021-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sadhu Vaswani International School is one of the best School in PCMC area.\nThey have CBSE Curriculum.\nSVIS have best in class facilities for kids.\nThey also have good teaching as well as non teaching staff.\nOverall its best school for your kids to have best knowledge.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SADHU VASWANI INTERNATIONAL SCHOOL - MOSHI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen Bhosale"
+          },
+          "datePublished": "2020-08-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing School. Good to have a kind of school in PCMC. Remarkable progress in my son. Great team of management and teachers. It takes time to take and give.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.8",
+  "views": "1155",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "MOSHI",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SADHU VASWANI INTERNATIONAL SCHOOL ?\nAsk a Question\nSADHU VASWANI INTERNATIONAL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

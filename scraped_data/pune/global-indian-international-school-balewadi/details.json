@@ -1,0 +1,395 @@
+{
+  "slug": "/school/pune/global-indian-international-school-balewadi",
+  "url": "https://yellowslate.com/school/pune/global-indian-international-school-balewadi",
+  "city": "pune",
+  "name": "Global Indian International School - Balewadi ",
+  "scraped_at": "2026-04-28T16:09:37.862495",
+  "html_length": 432853,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Balewadi",
+          "item": "https://yellowslate.com/schools/pune/balewadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/balewadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Global Indian International School",
+          "item": "https://yellowslate.com/school/pune/global-indian-international-school-balewadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Global Indian International School - Balewadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16667905861482214546635934ba17e001666790586.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/global-indian-international-school-balewadi",
+      "telephone": "1800 572 2810",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Kul Echoloch, Near Balewadi Sports Complex, Nande – Balewadi Road, Mahalunge, Pune, Maharashtra",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5788913,
+        "longitude": 73.7706807
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Kul Echoloch, Near Balewadi Sports Complex, Nande – Balewadi Road, Mahalunge, Pune, Maharashtra",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/global-indian-international-school-balewadi-balewadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "60"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankita shukla "
+          },
+          "datePublished": "2026-01-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They are now becoming money making Machine. Struggling for study material . No improvement in child academic progress. Extracurricular activities is only for namesake. Not worth at all. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "There are serious concerns which needs to be addressed by the school management:\n\n1. Tuition Fee hikes every year and is on a higher side. Transportation fees are also higher and increase every year.\n\n2. Teachers are changing every academic year.\n\n3. There is no proper coordination between teacher, student and parent.\n\n4. School management and Principal are not easily accessible, I have tried to meet but still not got the opportunity.\n\n5. School uniforms and material are of low quality and costly too.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Every thing is good it’s about how people perceive the school as per comparison with other schools ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikas"
+          },
+          "datePublished": "2025-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Its only money making machine..\nNo focus on education, teachers dont stay with school for long time.. no focus on sports and extra curricular activities.. on sports day they have running competition nothing else.. no picnic concept..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinay Padole"
+          },
+          "datePublished": "2025-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am extremely pleased with the experience my child has had at Global Indian International School, where he is currently in KG1, Division A. Over the past year, the school has created a wonderful and engaging learning environment, where my child has learned so much in a fun and playful way. The teachers are incredibly dedicated, making every lesson exciting and interactive.\n\nI also had the privilege of attending the school’s annual function, which was truly mesmerizing. Principal Munmun Chakraborty's speech about \"Our Littles Ones\" brought tears to my eyes, especially when she spoke about how parents and teachers work together in nurturing children. Her words about how parents take care of one child at home, while the school cares for so many, were so moving and true.\n\nA special mention to Kiran Ma'am, my child’s class teacher in Division A, for her unwavering dedication and tireless efforts throughout the year. She has not only helped my child prepare for the annual day performance, but also played a crucial role in his overall growth, learning, and understanding. Her personal care and attention have made a significant impact on his development.\n\nI would also like to extend my heartfelt appreciation to Priya Ma'am, the coordinator for the entire primary section. Her leadership and support have been invaluable in ensuring that everything runs smoothly and that every child is given the attention they need.\n\nThe school also does a wonderful job of celebrating all festivals, allowing the children to experience and learn about different cultures and traditions in a joyful and inclusive way. These celebrations add so much to their overall development and create lasting memories.\n\nAnother great feature is the regular weekly updates provided to parents, which include detailed PDFs of each day’s activities, along with poem links for revision at home. This makes it so easy to stay connected with what my child is learning and ensure we can reinforce that learning at home.\n\nAdditionally, the myGIIS mobile application has been incredibly helpful in keeping me informed. It's so easy to reach out to the class teacher for any queries, and I can get all the school notifications directly on the app. It also allows me to track my child’s progress, which gives me peace of mind and keeps me updated on his development.\n\nOverall, I am grateful for the positive experience and the wonderful impact the school has had on my child’s growth and development. Highly recommend!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rama Rao Dasari"
+          },
+          "datePublished": "2025-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The infrastructure is quite good. It has big playgrounds and an auditorium, and it almost feels like home. I personally love the look of my school, and I would recommend it to anyone wanting to join.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramakanth"
+          },
+          "datePublished": "2025-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm absolutely loving this school! The friends are awesome; the teachers are really cool and super smart. My grades just keep getting better every semester, and the extracurricular activities are a blast. We also have plenty of time to play sports and pursue our passions like dance, music, and more.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kalai Bhavani 053"
+          },
+          "datePublished": "2025-02-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, they care for the children, even the naughtiest ones. Parents are well-informed about all the major events and news, so I have never had difficulty understanding my daughters' schedules. I could always plan well to help her revise for exams.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Namo sharma"
+          },
+          "datePublished": "2025-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Annual day function 1 Feb 2025 Giis Balewadi feedback\" Class K2A\nThe student performances were captivating and showcased a wide range of talents, demonstrating great dedication and practice. The stage design and decorations were visually stunning, perfectly complementing the theme of the event(Topsy turvy) .  Appreciation for the teacher's ( *specially class teachers Ashwini and Shalini ma'am and co-ordinator Priya Johri ma'am* ) hard work and dedication in preparing the students for such a remarkable show. Thank you to all the teachers and staff members. Curiously waiting for the photos and videos.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Indian International School - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Samuel michael"
+          },
+          "datePublished": "2025-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The parent and teacher meetings are very professional. I appreciate the GIIS teacher sharing positive feedback and takeaway points about children's classroom behaviours and academic progress. Also, they are friendly too, which makes the interaction more easy.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16667905861482214546635934ba17e001666790586.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://8views.com/\\",
+    "https://global",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16667905861482214546635934ba17e001666790586.jpg\\\\\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://globalindianschool.org/pune/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16667905861482214546635934ba17e001666790586.jpg\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "2.6",
+  "views": "1208",
+  "reviews_count": "60",
+  "phone": "+919513238818",
+  "locality": "Balewadi",
+  "board": "CBSE\n\nCo",
+  "established": "2017",
+  "category": "Other Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1740997755201366096767c5847b0b4ae1740997755.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099775611075930267c5847c7cae31740997757.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099774752963513467c58473a00f81740997748.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Swimming.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099774765055060167c58473d72fc1740997748.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099775119638859367c58477b6cd41740997752.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/174099775143647762967c584774567a1740997751.webp",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16667905861482214546635934ba17e001666790586.jpg"
+  ]
+}

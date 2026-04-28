@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/amrita-vidyalayam-ravet",
+  "url": "https://yellowslate.com/school/pune/amrita-vidyalayam-ravet",
+  "city": "pune",
+  "name": "Amrita Vidyalayam - Ravet ",
+  "scraped_at": "2026-04-28T15:45:26.788067",
+  "html_length": 389060,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ravet",
+          "item": "https://yellowslate.com/schools/pune/ravet"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/ravet/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Amrita Vidyalayam",
+          "item": "https://yellowslate.com/school/pune/amrita-vidyalayam-ravet"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Amrita Vidyalayam - Ravet",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/amrita-vidyalayam-ravet",
+      "telephone": " 020 2766 2573",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot-2, Sector 21,M.A.Marg, Yamuna Nagar, Nigdi, Pimpri-Chinchwad, Maharashtra 411044",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6673946,
+        "longitude": 73.7858463
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot-2, Sector 21,M.A.Marg, Yamuna Nagar, Nigdi, Pimpri-Chinchwad, Maharashtra 411044",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/amrita-vidyalayam-ravet-ravet-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "73"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "B J"
+          },
+          "datePublished": "2024-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Pcmc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shubham Ingle"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajit More"
+          },
+          "datePublished": "2024-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for Maharashtra state board curriculum. They follow Hindu customs and values. Every student is having Amma's blessings 🙌",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Justfun"
+          },
+          "datePublished": "2023-12-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is so good and traditional that after anyone tells a joke in the class , everyone goes \"Oooooooommmmmmm 🙏\" So peaceful .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kth30dec"
+          },
+          "datePublished": "2023-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Science Jr. clg is hell. Teachers are not cooperative at all and there is work more than required. Sports teacher is very rude and of conservative mindset. Difficulty level of exams in higher than any other clg. Not considerate of students problems. unnecessary extra projects with minimum days for completion. Office staff is not efficient as they take lots of time to arrange a single document. Students who stay away from their homes, clg is not considerate even towards them, will ask to bring your parents anytime even when they do not live in pune.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mridula Mukhopadhyay"
+          },
+          "datePublished": "2023-10-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice to see my old school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rutuja Lohar"
+          },
+          "datePublished": "2023-10-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great! This place has my heart❤",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anish Rangnekar"
+          },
+          "datePublished": "2023-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two sisters were in Amrita Vidyalayam. When we were residing in Nigdi, we would visit the school every year to take blessings of Mata Amma Bhagwan. Mata would say something in devotees ears and bless them. Good Old Golden Days!!!!!!! 🌸🌸🌸🌺🌺🌺",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayuri Devi"
+          },
+          "datePublished": "2023-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school of pcmc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amrita Vidyalayam - Ravet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gayatri Bhanji"
+          },
+          "datePublished": "2023-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good SSC school for children.... very disciplined and positive place....\nGood school building... reasonable school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.3",
+  "views": "274",
+  "reviews_count": "73",
+  "phone": "+919513238818",
+  "locality": "Ravet",
+  "board": "State Board\n\nCo",
+  "established": "2002",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Amrita Vidyalayam ?\nAsk a Question\nAmrita Vidyalayam Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

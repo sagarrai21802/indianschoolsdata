@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/army-public-school-khadakwasla",
+  "url": "https://yellowslate.com/school/pune/army-public-school-khadakwasla",
+  "city": "pune",
+  "name": "ARMY PUBLIC SCHOOL - Khadakwasla ",
+  "scraped_at": "2026-04-28T15:59:30.948764",
+  "html_length": 339165,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Khadakwasla",
+          "item": "https://yellowslate.com/schools/pune/khadakwasla"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/khadakwasla/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ARMY PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/pune/army-public-school-khadakwasla"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ARMY PUBLIC SCHOOL - Khadakwasla",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/army-public-school-khadakwasla",
+      "telephone": "+91 735 023 8857",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "BARRACK No.3, NDA Khadakwasla, Pune, Maharashtra 411023, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4610977,
+        "longitude": 73.7591121
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ARMY PUBLIC SCHOOL - Khadakwasla",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "BARRACK No.3, NDA Khadakwasla, Pune, Maharashtra 411023, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/army-public-school-khadakwasla-khadakwasla-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prashant Jagtap"
+          },
+          "datePublished": "2023-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I think its only womans orianted school becouse in Each Photo of school only female ladies are there",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ARMY PUBLIC SCHOOL - Khadakwasla"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratik Koli"
+          },
+          "datePublished": "2023-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the best schools in Pune . The students of aps are very disciplined and hard working.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ARMY PUBLIC SCHOOL - Khadakwasla"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "POGA CREATIONS"
+          },
+          "datePublished": "2022-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school in my life I used to study in this school. there is a lot parcilatie between officer and army children. in this school girls never participate in any sports events.The questions paper are to hard.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ARMY PUBLIC SCHOOL - Khadakwasla"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SPEED TURBO"
+          },
+          "datePublished": "2021-10-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I don't know to say about this school it's incredible\n\nThere is cute puppies and cats are cute they were in the school I have studied I was in 3 class when my father posting came\n\nMy name was Devansh Saini",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ARMY PUBLIC SCHOOL - Khadakwasla"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "avdesh babu"
+          },
+          "datePublished": "2021-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the best school in Pune with amazing teaching staff .This school made my children's foundation really strong and am really proud to say that my daughter is doing really well after completing education from this school . Teachers gave her immense support and because of which she is able to choose good life and career option.There is one message for everyone studying in this school or those who want to get admission that this school is full of opportunities and you have to work hard to  get them. Wish you all good luck .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.4",
+  "views": "614",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Khadakwasla",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "ARMY PUBLIC SCHOOL ?\nAsk a Question\nARMY PUBLIC SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

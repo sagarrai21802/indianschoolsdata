@@ -1,0 +1,260 @@
+{
+  "slug": "/school/pune/vibgyor-high-magarpatta-city-hadapsar",
+  "url": "https://yellowslate.com/school/pune/vibgyor-high-magarpatta-city-hadapsar",
+  "city": "pune",
+  "name": "Vibgyor High - Hadapsar ",
+  "scraped_at": "2026-04-28T15:59:07.110326",
+  "html_length": 357758,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hadapsar",
+          "item": "https://yellowslate.com/schools/pune/hadapsar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/pune/hadapsar/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vibgyor High",
+          "item": "https://yellowslate.com/school/pune/vibgyor-high-magarpatta-city-hadapsar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vibgyor High - Hadapsar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/vibgyor-high-magarpatta-city-hadapsar",
+      "telephone": "+91 865 556 3951",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No.130, Plot No.MP4, opp. Megameals, near West Gate, Kad Wasti, Magarpatta, Hadapsar, Pune, Maharashtra 400013, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5184738,
+        "longitude": 73.9187173
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vibgyor High - Hadapsar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No.130, Plot No.MP4, opp. Megameals, near West Gate, Kad Wasti, Magarpatta, Hadapsar, Pune, Maharashtra 400013, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/vibgyor-high-magarpatta-city-hadapsar-hadapsar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shakuntla Lade"
+          },
+          "datePublished": "2023-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience I had since I got admission for my child @ reception as no one bothers and receives call at reception for assistance. One has to call many times to get response plus communication gap is also there. Things are not transparent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vibgyor High - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shalini Gogia"
+          },
+          "datePublished": "2023-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's a nice location but the school building needs to be repainted. The administrative staff is very helpful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vibgyor High - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "snehal chikane"
+          },
+          "datePublished": "2023-03-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst Admission staff I have faced till now, went there for my daughter’s admission. We have waited for more than 30min’s but no one attending us. We was just sitting outside and waited in last we walked out from the school. I will not recommend this school anyone 👎🏻👎🏻👎🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vibgyor High - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Vatsala"
+          },
+          "datePublished": "2022-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son's first ViVa just ended this weekend, hats off to school management, teachers and yes kids for such a great show.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vibgyor High - Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DefCon"
+          },
+          "datePublished": "2022-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Used to be really good school in the area. Experienced teachers and staff. However due to greedy school management they have lost 40% of admissions in current year. They used to increase fees like anything. I hope they realise now after all this dropouts and reach out to parents for pull back.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167471308750248412163d217ffd6f3b1674713088.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/59.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "2.6",
+  "views": "515",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Hadapsar",
+  "board": "ICSE, CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167471308750248412163d217ffd6f3b1674713088.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/59.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

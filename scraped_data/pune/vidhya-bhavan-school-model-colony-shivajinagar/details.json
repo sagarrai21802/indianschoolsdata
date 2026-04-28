@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/vidhya-bhavan-school-model-colony-shivajinagar",
+  "url": "https://yellowslate.com/school/pune/vidhya-bhavan-school-model-colony-shivajinagar",
+  "city": "pune",
+  "name": "Vidhya Bhavan School - Shivajinagar ",
+  "scraped_at": "2026-04-28T16:23:26.795886",
+  "html_length": 351985,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shivajinagar",
+          "item": "https://yellowslate.com/schools/pune/shivajinagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/shivajinagar/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vidhya Bhavan School",
+          "item": "https://yellowslate.com/school/pune/vidhya-bhavan-school-model-colony-shivajinagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vidhya Bhavan School - Shivajinagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/vidhya-bhavan-school-model-colony-shivajinagar",
+      "telephone": "+91 202 567 6812",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Model Colony, Shivajinagar, Pune, Maharashtra 411016, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5324846,
+        "longitude": 73.8374954
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Bhavan School - Shivajinagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Model Colony, Shivajinagar, Pune, Maharashtra 411016, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/vidhya-bhavan-school-model-colony-shivajinagar-shivajinagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratiksha Shirke"
+          },
+          "datePublished": "2023-07-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best place if looking for commerce college",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Bhavan School - Shivajinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Honda Activa"
+          },
+          "datePublished": "2023-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are Very Rude.Very Very Very Bad Experince.Not Speaking Politly With Parents And Students......",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Bhavan School - Shivajinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Geena Priyadarshini"
+          },
+          "datePublished": "2023-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I just got admission 🎫 in the school last year . This is for\nMaria miss and Alice mis best teachers of this school 🎒🏫🏫 best school ever ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Bhavan School - Shivajinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAMESH GHADIYARAM"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Big Campus With under construction Church in the campus. Serving the Nation Since 1969 and has a very Glorious History. The School is From KG to 12th class. Nice And Polite Staff welcome you into the school. Good Parking area is available and Play Area as well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidhya Bhavan School - Shivajinagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RDR Gaming"
+          },
+          "datePublished": "2022-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As an ex-student I feel very bad about education system from this college ..... Except learning something new writing work load is so much that we don't get time to study for competitive exams like jee, cet, neet, etc. So much bad experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.2",
+  "views": "675",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Shivajinagar",
+  "board": "State Board\n\nCo",
+  "established": "1969",
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Vidhya Bhavan School ?\nAsk a Question\nVidhya Bhavan School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

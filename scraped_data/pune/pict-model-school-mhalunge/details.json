@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/pict-model-school-mhalunge",
+  "url": "https://yellowslate.com/school/pune/pict-model-school-mhalunge",
+  "city": "pune",
+  "name": "PICT MODEL SCHOOL - MHALUNGE ",
+  "scraped_at": "2026-04-28T15:48:11.444981",
+  "html_length": 353054,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MHALUNGE",
+          "item": "https://yellowslate.com/schools/pune/mhalunge"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/mhalunge/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "PICT MODEL SCHOOL",
+          "item": "https://yellowslate.com/school/pune/pict-model-school-mhalunge"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "PICT MODEL SCHOOL - MHALUNGE",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/pict-model-school-mhalunge",
+      "telephone": "+91 907 509 4209",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No.6 & 7/54B Near Balewadi Stadium, National Games Park, Mahalunge, Pune, Maharashtra 411045, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5747407,
+        "longitude": 73.7610241
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PICT MODEL SCHOOL - MHALUNGE",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No.6 & 7/54B Near Balewadi Stadium, National Games Park, Mahalunge, Pune, Maharashtra 411045, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/pict-model-school-mhalunge-mhalunge-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gaurav G"
+          },
+          "datePublished": "2023-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Background : My child goes to this school. It is by chance we got admission. We had just come to Pune to attend a wedding and got an email stating that the admission process is tomorrow, you get it if you come over else you lose it. 24 hours was all we were given. 2 hours for next round and 12 hours to pay first installment. We did not live in Pune back then but were planning to move - so it was mere coincidence.\n\nThis basically summarises the school high handedness. It's a very one way communication. Still I rate it 5 stars - why?\n\n- All schools in this category are same (Vidya Valley, DPS, Etc)\n- They have a real issue with limited seats and too many parents pressurising the management for admission\n- I saw a marked difference in my child after he started going there (compared to the previous school)\n- It's easiest to get admission in nursery - lateral admission is difficult\n\nPros\n-I feel, they actually are honest when they say it's first come first serve\n- Other than the admission fee/donation which is same for all and publicly available, I haven't seen/heard of them selling seats at any price (i know of parents who tried)\n- Their teaching methodology works\n- It's close to balewadi (where we stay)\n- Good security\n\nCons\n- Very one way communication - you can't really tell them anything. They tell you everything\n- Not ready to take feedback\n- Teachers keep changing (including the principals) - this change is never communicated so everytime you go there you might end up meeting sometime new\n- High focus on curriculum, less on sports\n- Very high fees (probably the highest in this category)\n- If you don't opt for school bus, collecting your child after school is a nightmare. They seriously need to improve that process.\n\nNote 1\nI see parents who didn't get admission complaining - I sympathize with them and completely understand how unfair their no heads up their system is.\n\nNote 2\nI am not a parent that micro manages what my child does as long as he is happy at school and seems to be progressing. I feel he is at PICT.\n\nI scored 40-45 (passing) marks am my life and turned out ok - i don't/shouldn't expect miracles from my child :)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PICT MODEL SCHOOL - MHALUNGE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikhil Dixit"
+          },
+          "datePublished": "2023-05-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My phone number is registered with some other student name. I didn't know this school even the kid. School call me about his bus, fee payment everything. I tried more than 10 times but they didn't changed the number. Today also I got a call from there bus driver. Not recommended.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PICT MODEL SCHOOL - MHALUNGE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tavisha Parmar"
+          },
+          "datePublished": "2023-05-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very average school with teachers changing every month . Too much pressure on parents to teach kids. Also if you leave school - they will not give back the security deposit which is to be refunded and is refunded by all school - except ofcourse PICT . Not to mention - lot of kids also leave school as it’s very substandard school .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PICT MODEL SCHOOL - MHALUNGE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tushar Karande"
+          },
+          "datePublished": "2023-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am struck by the reviews here. My experience with this school was NO DIFFERENT! I have been passionately following up with this school for admission of both my kids. BUT THE ADMISSION PROCESS HAS MADE ME LOOSE HOPES IN THIS INSTITUTE 'S MANAGEMENT.\n\nDitto Experience Rewriting same as other parents:\n1. Form submission opened at 9:00 am, I sat to submit with an alarm clock and till I fill in the form by 9:02 or 9:03, the submission is rejected, stating the limit has breached.\n2. I go with an email approach.\nThey call us for counseling at 1.30 pm by dropping an email at 11am. I had to literally prioritize to go for my Kid's admission instead of attending my first cousin's wedding. Hoping, I want my children's admissions in \"GOOD\" school. They proved me wrong!\n3. At counselling, Suddenly a group of Teachers approach with a surprise and drag the kids with them. A 4 year kid (who has been locked at home in Covid period) will obviously cry. They even asked debated with one parent to ask the other parent to travel from oversees for their admission purpose (no videocalls entertained they said)\n4. My children are literally world record holders in sports ( daugher at 6 yrs and son at 18months age)\nI got recommendations from top officials for them, yet NO RESPONSE FROM THE SCHOOL. JUST A DIPLOMATIC RESPONSE.\n5. Been following up with them till April and still they keep the parents hanging stating you can wait for mid year.\n6. Canteens they said, served kids with diet food. But tiffin wala kids will be asked to sit separate! Seriously? Discrimination right from school canteen!\n\nPICT MANAGEMENT is a well-known institute and I trust they take our Parent's feedback seriously! Please bring in a realistic Admission process which considers to admit kids with good talent rather than rejecting talents with some petty criterias!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "PICT MODEL SCHOOL - MHALUNGE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumeet Gupta"
+          },
+          "datePublished": "2022-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school. We got a chance to visit the school during our son's admission.  A big beautiful campus, with good infrastructure and modern facilities.\nWe also got a chance to interact with the principal. It was very impressive. We were really impressed with her vision for the students of the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "2.6",
+  "views": "805",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "MHALUNGE",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "PICT MODEL SCHOOL ?\nAsk a Question\nPICT MODEL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

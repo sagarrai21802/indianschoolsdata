@@ -1,0 +1,376 @@
+{
+  "slug": "/school/pune/amanora-school-amanora-park-town-hadapsar",
+  "url": "https://yellowslate.com/school/pune/amanora-school-amanora-park-town-hadapsar",
+  "city": "pune",
+  "name": "Amanora School - Amanora Park Town,Hadapsar ",
+  "scraped_at": "2026-04-28T15:46:47.069939",
+  "html_length": 397039,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Amanora Park Town,Hadapsar",
+          "item": "https://yellowslate.com/schools/pune/amanora-park-town-hadapsar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/amanora-park-town-hadapsar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Amanora School",
+          "item": "https://yellowslate.com/school/pune/amanora-school-amanora-park-town-hadapsar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Amanora School - Amanora Park Town,Hadapsar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/amanora-school-amanora-park-town-hadapsar",
+      "telephone": "+91 730 449 1111",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "GW7X+3XW, Amanora Park Town, 194 Village, Mundhwa Road Malwadi, Road, Sade Satra Nali, Hadapsar, Pune, Maharashtra 411028, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5112824,
+        "longitude": 73.9370975
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "GW7X+3XW, Amanora Park Town, 194 Village, Mundhwa Road Malwadi, Road, Sade Satra Nali, Hadapsar, Pune, Maharashtra 411028, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/amanora-school-amanora-park-town-hadapsar-amanora-park-town-hadapsar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "155"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Premier Leather Company"
+          },
+          "datePublished": "2025-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very professional and caring school.\nMy son loves his school.\nIt creates verious platforms for students to perform their talents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arun Sathyan"
+          },
+          "datePublished": "2025-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not at all transparent. Went to enquire about admissions. They didn't even want to show the school premises. Very hesitant and restrictive staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yash"
+          },
+          "datePublished": "2024-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Poor judge with no specialities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prateek"
+          },
+          "datePublished": "2024-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ayeeeeeeeee🤙🤙🤙🤙",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yash tanwar"
+          },
+          "datePublished": "2024-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "@_yash_fu\nppl do suui.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prateek"
+          },
+          "datePublished": "2024-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Yellow yellow karlo follow @lil_bigman8",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lakhan Singh"
+          },
+          "datePublished": "2024-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kya hai ye?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohan Kumawat"
+          },
+          "datePublished": "2024-11-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tushar Adke"
+          },
+          "datePublished": "2024-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We recently enrolled our son in Class 1, and we’re pleased with the quality of education he is receiving. The school maintains a strong sense of discipline, and we are especially grateful to his class teacher, Summaiya Ma'am. She is incredibly caring, ensures each student receives equal attention, and provides us with valuable feedback on our son’s progress. Her guidance has been instrumental in helping us understand the areas we can focus on to support our son's overall development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amanora School - Amanora Park Town,Hadapsar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snehal Navgire"
+          },
+          "datePublished": "2024-10-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1728473191110278740367066867d352a1728473192.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/166555937789547639163466b516e8fb1665559377.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.9",
+  "views": "697",
+  "reviews_count": "155",
+  "phone": "+919513238818",
+  "locality": "Amanora Park Town,Hadapsar",
+  "board": "CBSE\n\nCo",
+  "established": "2010",
+  "category": "Day Schools",
+  "classes": "810 - 79",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1728473191110278740367066867d352a1728473192.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/hutchings-high-school-talegaon",
+  "url": "https://yellowslate.com/school/pune/hutchings-high-school-talegaon",
+  "city": "pune",
+  "name": "Hutchings High School - TALEGAON ",
+  "scraped_at": "2026-04-28T15:58:50.287560",
+  "html_length": 398712,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TALEGAON",
+          "item": "https://yellowslate.com/schools/pune/talegaon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/talegaon/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hutchings High School",
+          "item": "https://yellowslate.com/school/pune/hutchings-high-school-talegaon"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Hutchings High School - TALEGAON",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/hutchings-high-school-talegaon",
+      "telephone": "9529451011",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Rajgurav Colony, Talegaon Dabhade, Maharashtra 410506",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.7284619,
+        "longitude": 73.6756947
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Rajgurav Colony, Talegaon Dabhade, Maharashtra 410506",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/hutchings-high-school-talegaon-talegaon-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "36"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Saibarkaife"
+          },
+          "datePublished": "2024-06-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent campus and playgrounds are good. Classes have fans,some of  the fans are broken and some benches are not really in good condition. Some  Teachers are friendly and understanding. Overall good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ranjusha Ks"
+          },
+          "datePublished": "2024-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school my kids r studying there very nice they r training the kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya Salvi"
+          },
+          "datePublished": "2024-01-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The ambiance of this school is absolutely unmatched- things haven't been going on so well as of now considering how everyone including my sister has been complaining about, but as a hutchingite I've truly witnessed the magical essence of this place knowing how much potential this place actually holds. Teachers are what makes a school more special than the school itself and the school could do better in that case- hoping these new kids experience what we did,\n\nMuch love to the old teachers and the new ones as well who are doing a great job unlike the ones busy making reels online, couldn't have gotten better ones back then.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anishka Kale"
+          },
+          "datePublished": "2023-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yogesh shillak"
+          },
+          "datePublished": "2023-02-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in world",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vivek Rasal"
+          },
+          "datePublished": "2022-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Talegaon Dabhade",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Leela salunke"
+          },
+          "datePublished": "2022-10-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school dance dress",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "siddhu sharma"
+          },
+          "datePublished": "2022-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca Goddeti"
+          },
+          "datePublished": "2022-06-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is excellent in acadamics as well as extra curricular activities... i would like to refer to all the parents  if you want quality education,  go for hutchings talegaon...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hutchings High School - TALEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Goraksha Nath"
+          },
+          "datePublished": "2022-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is nice with sufficient open playground, only concern is school bus is not available and had to pay more than 2000 for auto rickshaw",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.4",
+  "views": "329",
+  "reviews_count": "36",
+  "phone": "+919513238818",
+  "locality": "TALEGAON",
+  "board": "State Board, ICSE\n\nCo",
+  "established": "1879",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

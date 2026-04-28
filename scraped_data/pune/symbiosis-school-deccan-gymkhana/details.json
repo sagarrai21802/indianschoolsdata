@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/symbiosis-school-deccan-gymkhana",
+  "url": "https://yellowslate.com/school/pune/symbiosis-school-deccan-gymkhana",
+  "city": "pune",
+  "name": "Symbiosis School - Deccan Gymkhana ",
+  "scraped_at": "2026-04-28T16:01:54.386001",
+  "html_length": 356473,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Deccan Gymkhana",
+          "item": "https://yellowslate.com/schools/pune/deccan-gymkhana"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/deccan-gymkhana/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Symbiosis School",
+          "item": "https://yellowslate.com/school/pune/symbiosis-school-deccan-gymkhana"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Symbiosis School - Deccan Gymkhana",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/symbiosis-school-deccan-gymkhana",
+      "telephone": "+91 202 567 0895",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "15th lane, Kashinath Shastri Abhyankar Rd, Deccan Gymkhana, Pune, Maharashtra 411004, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5173524,
+        "longitude": 73.8312693
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Symbiosis School - Deccan Gymkhana",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "15th lane, Kashinath Shastri Abhyankar Rd, Deccan Gymkhana, Pune, Maharashtra 411004, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/symbiosis-school-deccan-gymkhana-deccan-gymkhana-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "BUSINESS RAJE"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I agree with u raj I have also see daily symbiosis maruti van carrying 18 to 20 small kids near  bhosale Nagar Range Hill side . School should look in this matter .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Symbiosis School - Deccan Gymkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raj Raj"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is too good but wth worst transport system for children. Management should take care or start own transport system .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Symbiosis School - Deccan Gymkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ajit Karve"
+          },
+          "datePublished": "2023-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I passed the road. I have shared photos to help visitors locate the place. It is a well known landmark in the area. There are parking restrictions and road is busy during school hours.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Symbiosis School - Deccan Gymkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAMESH GHADIYARAM"
+          },
+          "datePublished": "2022-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good School and Very Affecient Principal. Very Friendly office Staff and Qualified Teaching Staff. Good Education as well as over all development for the students is the moto of the School. Campus is in the heart of the city with a Sports center in the Campus. Very Healthy Environment for the Students to get Proper Education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Symbiosis School - Deccan Gymkhana"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jojowastakenbyaliens"
+          },
+          "datePublished": "2022-08-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is overall a good school.The parking is an issue . The Classes are spacious and clean.There are lots of well behaved and disciplined students.Teachers are very good.Would highly recommed for you to put your child into this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "600",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Deccan Gymkhana",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 55",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

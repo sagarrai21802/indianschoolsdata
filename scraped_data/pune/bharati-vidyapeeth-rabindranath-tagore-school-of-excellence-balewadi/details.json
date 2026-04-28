@@ -1,0 +1,259 @@
+{
+  "slug": "/school/pune/bharati-vidyapeeth-rabindranath-tagore-school-of-excellence-balewadi",
+  "url": "https://yellowslate.com/school/pune/bharati-vidyapeeth-rabindranath-tagore-school-of-excellence-balewadi",
+  "city": "pune",
+  "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi ",
+  "scraped_at": "2026-04-28T15:47:08.132632",
+  "html_length": 360864,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Balewadi",
+          "item": "https://yellowslate.com/schools/pune/balewadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/pune/balewadi/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bharati Vidyapeeth Rabindranath Tagore School Of Excellence",
+          "item": "https://yellowslate.com/school/pune/bharati-vidyapeeth-rabindranath-tagore-school-of-excellence-balewadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/bharati-vidyapeeth-rabindranath-tagore-school-of-excellence-balewadi",
+      "telephone": "+91 844 638 9000",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Mitcon Road, Survey No 4/1/2, H No 4 (P, Baner - Balewadi Rd, Laxman Nagar, Baner, Pune, Maharashtra 411045, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5691948,
+        "longitude": 73.781733
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Mitcon Road, Survey No 4/1/2, H No 4 (P, Baner - Balewadi Rd, Laxman Nagar, Baner, Pune, Maharashtra 411045, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/bharati-vidyapeeth-rabindranath-tagore-school-of-excellence-balewadi-balewadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sameer Niphadkar"
+          },
+          "datePublished": "2023-01-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school needs to introspect and alter their approach to management. Had expected more from a brand like Bharti Vidyapeeth... Mismanagement of school uniforms, no canteen service, high attrition rate of good teachers, unclean toilets, no library or other co-cirricular activities for a long time. Mismanagement regarding days and very poor communication between parents and teachers viaa buggy app...These are some of the immediate concerns ..Not to mention the sky high tution and other fees ..Not recommended",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shraddha Bhosale"
+          },
+          "datePublished": "2022-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BVRTSE is one of the best school in Pune with good learning environment. The infrastructure of the school is very good. Latest advanced technology are available for students. The teachers are very helpful and very experienced, and the rest of the staff is also very helpful. The teaching quality is amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nivedita Khot"
+          },
+          "datePublished": "2021-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school with well trained, qualified and professional faculty. Teachers are very helpful, encouraging and supportive. My son is in 7th grade for the year 2021- 22 and I have not regrets shifting my son to this school. It is a bit expensive to the rest of the school, but it is worth the investment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vaibhav Tripathi"
+          },
+          "datePublished": "2019-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BVRTSE is best school in Pune, good environment, perfect discipline, good infrastructure and very dedicated staff. Highly advanced technology available for student. Best place for overall development of students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharati Vidyapeeth Rabindranath Tagore School of Excellence - Balewadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "akshay e"
+          },
+          "datePublished": "2017-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is builted up in less than 6 monts of span. This school has got a cool atmosphere around and with awsome infra.\nIt is one of  Bhartiya Vidhyapeeth School Branch.👌🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1666790586329162360635934ba17b631666790586.jpg\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "724",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Balewadi",
+  "board": "IGCSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2021- 22",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1666790586329162360635934ba17b631666790586.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/vishwakalyan-english-medium-school-haveli",
+  "url": "https://yellowslate.com/school/pune/vishwakalyan-english-medium-school-haveli",
+  "city": "pune",
+  "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI ",
+  "scraped_at": "2026-04-28T16:05:51.143898",
+  "html_length": 394206,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HAVELI",
+          "item": "https://yellowslate.com/schools/pune/haveli"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/haveli/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL",
+          "item": "https://yellowslate.com/school/pune/vishwakalyan-english-medium-school-haveli"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/vishwakalyan-english-medium-school-haveli",
+      "telephone": "+91 879 369 9473",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sonawane Wasti Rd, Chikhali, Pimpri-Chinchwad, Vitthal Nagar, Maharashtra 411062, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6852695,
+        "longitude": 73.8011482
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sonawane Wasti Rd, Chikhali, Pimpri-Chinchwad, Vitthal Nagar, Maharashtra 411062, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/vishwakalyan-english-medium-school-haveli-haveli-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "38"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandrakant Shirgave"
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the Best CBSE School in Pune",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kanchan wasnik"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vishwakalyan school has a unique astronomy lab, a big science lab, a library with comprehensive collection of books and safety features like CCTV camera in each classroom",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snehal Balwantrao"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good CBSE school in Chikhali.Nice Infrastructure,Good Education,Caring & Educated staff, Well Educated Leader Principal ma'am.\nStudents learn many things by doing activities in very good atmosphere.Also school have Astronomy Lab for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rupali Farakate"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School environment is better for student's improvement",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yasmeen Chaudhary"
+          },
+          "datePublished": "2024-06-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very nice. Students are well mannered staff and teachers are very\nco-operating . School environment is nice .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yash YT"
+          },
+          "datePublished": "2024-05-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👎 not that much good staff was not responsible",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Patil"
+          },
+          "datePublished": "2024-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good environment, Activity based learning",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pallavi Pawar"
+          },
+          "datePublished": "2024-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good infrastructure of VEMS School and caring staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Brajeswari Mishra"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Quality education, teachers, facilities, Admin staff makes it one of best institute to bring out the best out children.Apart from the key focus on academics, diverse culture of India gets celebrated and all festivals gets celebrated with every class ..... Its play ground, astronomy lab,math lab, chemistry lab etc makes it more beautiful.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shakila khan"
+          },
+          "datePublished": "2024-02-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very pleasant working environment. In this school ,\nstudents are getting too much attention and care.They got lot of opportunity to explore themselves like field trip , activities ,event etc.School works on overall development of the child. The entire staff is very good n very supportive .Teachers are well educated.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "3.8",
+  "views": "552",
+  "reviews_count": "38",
+  "phone": "+919513238818",
+  "locality": "HAVELI",
+  "board": "CBSE\n\nCo",
+  "established": "2009",
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VISHWAKALYAN ENGLISH MEDIUM SCHOOL ?\nAsk a Question\nVISHWAKALYAN ENGLISH MEDIUM SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

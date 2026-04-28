@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/sancheti-madhyamik-vid-laxman-nagar-thergaon",
+  "url": "https://yellowslate.com/school/pune/sancheti-madhyamik-vid-laxman-nagar-thergaon",
+  "city": "pune",
+  "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon ",
+  "scraped_at": "2026-04-28T16:01:59.167979",
+  "html_length": 341252,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Laxman Nagar,Thergaon",
+          "item": "https://yellowslate.com/schools/pune/laxman-nagar-thergaon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/laxman-nagar-thergaon/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "SANCHETI MADHYAMIK VID",
+          "item": "https://yellowslate.com/school/pune/sancheti-madhyamik-vid-laxman-nagar-thergaon"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/sancheti-madhyamik-vid-laxman-nagar-thergaon",
+      "telephone": "+91 9657986505",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No. 22, Anand Baug, 5/1, Anandvan Society, Jai Hind nagar, Thergaon, Pimpri-Chinchwad, Maharashtra 411033, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.613906,
+        "longitude": 73.7704672
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No. 22, Anand Baug, 5/1, Anandvan Society, Jai Hind nagar, Thergaon, Pimpri-Chinchwad, Maharashtra 411033, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/sancheti-madhyamik-vid-laxman-nagar-thergaon-laxman-nagar-thergaon-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snsbs Shsnsns"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nois",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Unbounded Solutions"
+          },
+          "datePublished": "2021-05-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad and uneducated teachers, Taking Fees for English Medium but teaching in marathi, not even one teacher can speak proper english",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shubham Meher"
+          },
+          "datePublished": "2020-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school. Well faculty and support staff. School have science lab,library,playground etc. School celebrate annual function, arrange trips, celebrates festivals like Ganesh utsav, Navratri. Here studies are from class 1th to 12th . 12th with science, commerce and Arts Available.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Isha Pillai"
+          },
+          "datePublished": "2020-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "more importance is given to marathi medium . all the function,competition,everythhing is only done in marathi medium not in english medium. but still a good school because teachers are very perfect.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "SANCHETI MADHYAMIK VID - Laxman Nagar,Thergaon"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaila Chavan"
+          },
+          "datePublished": "2018-08-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's very nice educational  place....\n\nFrom shubham chavan and vaibhav kamble.....\n\nAnd.\nFriends .....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "3.2",
+  "views": "494",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Laxman Nagar,Thergaon",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "SANCHETI MADHYAMIK VID ?\nAsk a Question\nSANCHETI MADHYAMIK VID Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

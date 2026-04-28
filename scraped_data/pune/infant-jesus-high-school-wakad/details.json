@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/infant-jesus-high-school-wakad",
+  "url": "https://yellowslate.com/school/pune/infant-jesus-high-school-wakad",
+  "city": "pune",
+  "name": "Infant Jesus High School - Wakad ",
+  "scraped_at": "2026-04-28T16:16:28.169346",
+  "html_length": 388612,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wakad",
+          "item": "https://yellowslate.com/schools/pune/wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/wakad/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Infant Jesus High School",
+          "item": "https://yellowslate.com/school/pune/infant-jesus-high-school-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Infant Jesus High School - Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/infant-jesus-high-school-wakad",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No. 204/2B, Venunagar, Wakad, Pune, Maharashtra 411057",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6058929,
+        "longitude": 73.7632304
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No. 204/2B, Venunagar, Wakad, Pune, Maharashtra 411057",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/infant-jesus-high-school-wakad-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "110"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "karishma shikalgar"
+          },
+          "datePublished": "2024-02-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "@respected principal and teachers is der Jr kg admission available",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shantanu Govindrao Khandalkar"
+          },
+          "datePublished": "2023-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "About sports event, 2023,\nIt was a great event, the efforts put by all teachers, supporting staff, PTA members and organising committee was up to the mark.\nSpecial thanks to the committee for inviting Dr. Manoj Durairaj, he shared really meaningful message with us.\nThe dressess, props, band, small small funny games taken with pre primary students, all were too good. We really enjoyed a lot.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "vimal Mishra misra"
+          },
+          "datePublished": "2023-12-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good event, nicely managed\nThanks to School and it's principal and teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Shedge"
+          },
+          "datePublished": "2023-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nicely conduct Annual sports day 2023-24,(Seating arrangements, well management of time, space, students and teachers efforts etc) Thank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Josna Manter"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School discipline & Rules are Highly Maintained. The Principal, Management & Teachers tk lots of Efforts to Train Children in Every Single Activity that takes place at School Level. Every Activity that takes places in School teaches Children to Maintain the Culture of Our India. Thank you all staff & Management fr taking lots of efforts to bring up our Children with Flying Colours.👍👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashok Baladhye"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narendra Vaze"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in PCMC. Strictness & discipline is really good & there is a lot more than just education like the moral values, extra curriculum activities : quiz competition , talent shows . Every function has some or the other unique aspects. On 16/12/23 it was annual function the band was really good & perfect . The teachers are really supportive . In here, a class is like a family . Really\nThe best school .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meghna Sadhwani"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thankyou to all teachers, principal and the founder of the school for making this event such a grand we enjoyed a lot .The event was very nice all the efforts are seen in each and every performance by children.\nThe management was good, sitting arrangement were comfortable and nice.kudos to all the teachers, principal and children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Virendra Bhagatkar"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was seriously awesome annual sports day function. Systemic and well organised. Everything was in proper and right rythem.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Infant Jesus High School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "dipak chavan"
+          },
+          "datePublished": "2023-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1683806656776088515645cd9c08a05a1683806657.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.3",
+  "views": "559",
+  "reviews_count": "110",
+  "phone": "+919513238818",
+  "locality": "Wakad",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Infant Jesus High School ?\nAsk a Question\nInfant Jesus High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

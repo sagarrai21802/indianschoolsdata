@@ -1,0 +1,348 @@
+{
+  "slug": "/school/pune/orchids-the-international-school-chinchwad",
+  "url": "https://yellowslate.com/school/pune/orchids-the-international-school-chinchwad",
+  "city": "pune",
+  "name": "Orchids The International School - Chinchwad ",
+  "scraped_at": "2026-04-28T16:24:15.882913",
+  "html_length": 361330,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chinchwad",
+          "item": "https://yellowslate.com/schools/pune/chinchwad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/chinchwad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Orchids The International School",
+          "item": "https://yellowslate.com/school/pune/orchids-the-international-school-chinchwad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Orchids The International School - Chinchwad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/orchids-the-international-school-chinchwad",
+      "telephone": "+91 888 888 8999",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Next to Luxury Living, Near Yashopuram Housing Society, Gawade Nagar Chinchwad Pimpri, Yashopuram Housing Society, Gawade Nagar, Chinchwad, Pune, Pimpri-Chinchwad, Maharashtra 411033, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.62938,
+        "longitude": 73.794376
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Next to Luxury Living, Near Yashopuram Housing Society, Gawade Nagar Chinchwad Pimpri, Yashopuram Housing Society, Gawade Nagar, Chinchwad, Pune, Pimpri-Chinchwad, Maharashtra 411033, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/orchids-the-international-school-chinchwad-chinchwad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "13"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All over it's a good experience with orchids international school keep it up ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent staff and school ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Orchids The International School, Chinchwad provides excellent education with caring teachers and a positive learning environment. The focus on academics and overall development is truly commendable. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-11-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": " Its a very good school Teachers are very co- operative ,Activities taken in class are also very helpful for students My son is studying in  Nursery  A .I will say thank you  to Puja  Thorat  ma'am  to give personal attention on my son .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rusha Iyer"
+          },
+          "datePublished": "2023-08-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Orchids provide daily tasks so that students would never lose the track of doing hard work in each and every day life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sameer Shastri"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Under the guidance of these committed teachers, I have witnessed my child's growth and development, and I firmly believe they will continue to inspire and motivate my child to reach their full potential.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kritika Nair"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The faculty members at this school have not only impressive qualifications but also a genuine passion for teaching, which has delighted me as a parent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Mehta"
+          },
+          "datePublished": "2023-08-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is evident in every aspect of the school's operation that they are dedicated to providing the best possible education to their students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - Chinchwad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushboo Chopra"
+          },
+          "datePublished": "2023-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We attended the space festival at orchids and my kid was so so happy with the festival they had organised. It was absolutely amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.8",
+  "views": "614",
+  "reviews_count": "13",
+  "phone": "+919513238818",
+  "locality": "Chinchwad",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "Nursery - 8",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Orchids The International School ?\nAsk a Question\nOrchids The International School Reviews\nView All Reviews\nOverall Experience\n 4.8\nTeaching Excellence\n 4.8\nValue for Money\n 4.3\nCampus & Facilities\n 4.8\nCo-curricular Activities\n 4.8\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1737394943914605188678e8affb96ce1737394944.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2023/06/scrnli_I45kZWeulBL7cF.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

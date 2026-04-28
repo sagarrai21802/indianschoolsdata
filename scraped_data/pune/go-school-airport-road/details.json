@@ -1,0 +1,374 @@
+{
+  "slug": "/school/pune/go-school-airport-road",
+  "url": "https://yellowslate.com/school/pune/go-school-airport-road",
+  "city": "pune",
+  "name": "Go School - Airport Road ",
+  "scraped_at": "2026-04-28T15:56:37.431384",
+  "html_length": 400453,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Airport Road",
+          "item": "https://yellowslate.com/schools/pune/airport-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/pune/airport-road/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Go School",
+          "item": "https://yellowslate.com/school/pune/go-school-airport-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Go School - Airport Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169572766013571038756512c02c06c4f1695727660.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/go-school-airport-road",
+      "telephone": "91794 69179",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "DY Patil Knowledge City Road Via Lohgaon, Airport Rd, Charholi Budruk, Pune, Maharashtra 412105",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5247663,
+        "longitude": 73.8817348
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "DY Patil Knowledge City Road Via Lohgaon, Airport Rd, Charholi Budruk, Pune, Maharashtra 412105",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/go-school-airport-road-airport-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "17"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sushma Roy"
+          },
+          "datePublished": "2023-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good, teachers are hard working.. Happy to be part of this school..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subhasish Guha"
+          },
+          "datePublished": "2023-05-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's just amazing experience with Hind English Medium School. Teachers, supporting staffs all are extremely caring and responsible. All well equipped in their respective field. I personally vouch all parents to think about this school for education excellence and to built human character.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vallaree Vij"
+          },
+          "datePublished": "2023-05-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school I must say. Because the basic thing is education, and the teachers are the best. If in case any teacher is not good the Management is active enough to remove such teachers.\n\nMy kid has studied here for more than 5 years and we did not need private tuition as school teaching is enough.\nThe facilities like labs, library and extracurricular activities can be improved further..\nAlthough school needs funds, they never make it mandatory donation like other schools.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Smita Kand"
+          },
+          "datePublished": "2023-05-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "100 percent  results even in 4th year for std X",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Naik"
+          },
+          "datePublished": "2023-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "hello there.. my experience with HEM Gurukul.. off late from few years I have not been keeping well and sort have be stuck to my room and my bed, to make things worst than worst my husband incurred heavy losses in his business so as to we are yet not able to come out of it.. I am narrating the above becoz I want to explain how difficult it was for my son to get thru.. but HEM GURUKUL and the teachers are blessings to us and many parents and students like us. Principal Dr Ms Priti Manekar is more than anything a person could ask for her/his child, she understands and encourages students and takes them ahead...\nMy special and heartfelt gratitude to Rekha Ma'am, she is a second mother to her class students. I have experienced her dedication and efforts for the students and the care she has for them, she stands strong like a mountain behind her students and makes sure they put their efforts too.. my son has cleared his 10th exams today and that too only becoz of her. he was a weak student and she would make the bunch of weak students to sit with her in lab or in the teacher's room and help them understand the subject and the issues faced.. she has done a lot for the students and she deserves tons and tons of salutation🙏🙏🙏. once again thanku HEM GURUKUL and the teachers for your unseen yet very valuable contribution to our kids..\nHryan's mother\nSwati Choudhari Naik",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pallavi Nimje"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good teaching staff.Taking attention to every studends.Principal is very active and enthusiastic to all the activities happened in school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Miran Anwar Momin"
+          },
+          "datePublished": "2023-05-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school for childs all-round development.. very safe and pleasant, simple environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sneha Shingare"
+          },
+          "datePublished": "2023-04-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst teacher Tarandeep ....she didn't know how to behave with students as well as she so harsh on duty ...worst school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Firdous Shaikh"
+          },
+          "datePublished": "2023-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst ever,specially tarandeep teacher pathetic behaviour with students and she don't know how to teach her subject,she is there only for the salary,HEM Gurukool she doesn't deserve this school and a teacher's profession .She is totaly a negative person ,and school management doesn't know her behaviour with students , and it's astonishing....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Go School - Airport Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Poolchandra Yadav"
+          },
+          "datePublished": "2022-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "(Translated by Google) end\n\n(Original)\nSonu",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169572766013571038756512c02c06c4f1695727660.png",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169572766013571038756512c02c06c4f1695727660.png\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169572766013571038756512c02c06c4f1695727660.png\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674768055194205730663d2eeb76a3a21674768055.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.2",
+  "views": "1741",
+  "reviews_count": "17",
+  "phone": "+919513238818",
+  "locality": "Airport Road",
+  "board": "Other Boards\n\nCo",
+  "established": null,
+  "category": "Online Schools",
+  "classes": "6 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/169572766013571038756512c02c06c4f1695727660.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

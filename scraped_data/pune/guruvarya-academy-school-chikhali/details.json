@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/guruvarya-academy-school-chikhali",
+  "url": "https://yellowslate.com/school/pune/guruvarya-academy-school-chikhali",
+  "city": "pune",
+  "name": "Guruvarya Academy School - Chikhali ",
+  "scraped_at": "2026-04-28T15:58:33.832030",
+  "html_length": 389979,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chikhali",
+          "item": "https://yellowslate.com/schools/pune/chikhali"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/chikhali/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Guruvarya Academy School",
+          "item": "https://yellowslate.com/school/pune/guruvarya-academy-school-chikhali"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Guruvarya Academy School - Chikhali",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/guruvarya-academy-school-chikhali",
+      "telephone": "074100 01578",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Near, Gitai Colony, Chikhali, Vitthal Nagar, Pimpri-Chinchwad, Maharashtra 411062",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6815753,
+        "longitude": 73.7279991
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Near, Gitai Colony, Chikhali, Vitthal Nagar, Pimpri-Chinchwad, Maharashtra 411062",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/guruvarya-academy-school-chikhali-chikhali-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "51"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aarya Satpute Satpute"
+          },
+          "datePublished": "2024-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very excellent 👍🏻 Best for reading and writing skill",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Khot"
+          },
+          "datePublished": "2024-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Supportive staff caring teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nilima Badhe"
+          },
+          "datePublished": "2024-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is good and study of my child is improve . l am thank full to teachers & Respected principal ma'am of the school to giving amazing education.\nThe school has given my son a great scope to grow .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Varsha Pol"
+          },
+          "datePublished": "2024-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school with very good teaching staff",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manik sitafale Sitafale"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vaishali"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of best school in Chikhali Moshi area. We found good progress in our child in study & sports as well, they personally give attention to every child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "yogesh badgujar"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good teaching staff..seems lots of improvements in kids after studying..\nThank you 😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sudesh shinde"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very good.all staff is very carefully with all  students. Thanku",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohinee Godage"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school with very good infrastructure , well qualified teacher staff, supportive administration and outstanding management.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Guruvarya Academy School - Chikhali"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kajal Batwal"
+          },
+          "datePublished": "2024-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school,\nGreat teaching and coordination with all aspects. Thank you\n🙏🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.6",
+  "views": "1",
+  "reviews_count": "51",
+  "phone": "+919513238818",
+  "locality": "Chikhali",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Public Schools",
+  "classes": "Nursery - 8",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Guruvarya Academy School ?\nAsk a Question\nGuruvarya Academy School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

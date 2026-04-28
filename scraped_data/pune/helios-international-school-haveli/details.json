@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/helios-international-school-haveli",
+  "url": "https://yellowslate.com/school/pune/helios-international-school-haveli",
+  "city": "pune",
+  "name": "Helios International School - HAVELI ",
+  "scraped_at": "2026-04-28T16:10:52.206341",
+  "html_length": 390006,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HAVELI",
+          "item": "https://yellowslate.com/schools/pune/haveli"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/haveli/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Helios International School",
+          "item": "https://yellowslate.com/school/pune/helios-international-school-haveli"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Helios International School - HAVELI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/helios-international-school-haveli",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S.No.7/1 B/27 B, Sun City Road, Anand Nagar, Wadgaon Bk, Tal. Haveli, Dist. Pune-411051",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.478258,
+        "longitude": 73.8224655
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S.No.7/1 B/27 B, Sun City Road, Anand Nagar, Wadgaon Bk, Tal. Haveli, Dist. Pune-411051",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/helios-international-school-haveli-haveli-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "81"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prachi Oke"
+          },
+          "datePublished": "2024-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello I am Mrs.Prachi Oke i  have been working as a Preschool teacher in many since last 15/16 years so i would like to join your school for the next academic year I would be happy if you give me an oppourtunity to work in your institute .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megha Kendhe"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Proud to be a part of Helios International School. It was great experience to walk with a such a great team and also hard working...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "trupti Shinde"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best place we found for our son. The ideology of Helios International School matches with our ideology of how we want to raise our son. The way the children are nurtured here is going to make them very independent adults with not just high IQ but also high Emotional Quotient.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swati Kulkarni"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in Pune.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anuradha Ghongade"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First school that gives importance to all aspects of learning and education, including sports, personality development, personal well-being, apart from just studies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "deepali karandikar"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Helios is a very professionally managed, having highly qualified staff and teachers, equipped with modern educational technology school at Suncity Sinhgad road Pune.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mrunalinee phase"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Helios International School aims at contributing the happy child to society. Curriculum and Co-curriculum activities are very well planned.Very good infrastructure and hygiene are maintained. Best school for kids in Pune",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemlata Singh"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers at Helios international school are dedicated and passionate about nurturing each student's potential.\nThe curriculum is comprehensive and tailored to meet the needs of diverse learners.The facilities and resources  are top-notch, enhancing the learning experience for all students. The personalized approach to education ensures that each student receives the support they need to succeed academically and personally. The innovative teaching methods and technology integration  prepare students for success in an ever-evolving world.Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hrushikesh Hardas"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful Atmosphere",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Helios International School - HAVELI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "hari arora"
+          },
+          "datePublished": "2024-02-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The first school that gives importance to all aspects of learning and education, including sports, personality development, personal well-being, apart from just studies. Highly recommend this to parents looking for a deserving school in Pune city.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.8",
+  "views": "327",
+  "reviews_count": "81",
+  "phone": "+919513238818",
+  "locality": "HAVELI",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "International Schools",
+  "classes": "Nursery - 8",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Helios International School ?\nAsk a Question\nHelios International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

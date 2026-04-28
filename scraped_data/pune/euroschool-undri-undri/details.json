@@ -1,0 +1,281 @@
+{
+  "slug": "/school/pune/euroschool-undri-undri",
+  "url": "https://yellowslate.com/school/pune/euroschool-undri-undri",
+  "city": "pune",
+  "name": "EuroSchool Undri - Undri ",
+  "scraped_at": "2026-04-28T15:45:21.425550",
+  "html_length": 362157,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Undri",
+          "item": "https://yellowslate.com/schools/pune/undri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/pune/undri/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "EuroSchool Undri",
+          "item": "https://yellowslate.com/school/pune/euroschool-undri-undri"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "EuroSchool Undri - Undri",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/euroschool-undri-undri",
+      "telephone": "+91 932 569 1234",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No.60/1/1 & 60/2, 1, Undri - Hadapsar Rd, next to Atur nagar, Atur Nagar, Undri, Pune, Maharashtra 411060, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4572217,
+        "longitude": 73.9125236
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool Undri - Undri",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No.60/1/1 & 60/2, 1, Undri - Hadapsar Rd, next to Atur nagar, Atur Nagar, Undri, Pune, Maharashtra 411060, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/euroschool-undri-undri-undri-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A hidden gem in the Undri/NIBM area — one of the best schools in the locality, excelling in academics, co-curricular activities, and holistic development. Highly recommended for a campus visit.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "abhee shobha waghmare"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dance is the joy of movement and the heart of life🤷🤷‍♂️\nWe at EuroSchool Undri focus on the motivation and determination of each child\nIn association with Brian's Academy we believe in the ability to focus and determine the enthusiastic learners at school that lights up the entire dance room 😀",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akhilesh Yadav"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Football’s not just about scoring goals,it’s about winning⚽️\nWe at EuroSchool Undri have a structured form of play that is essential for healthy development for students\nHaving a tie up with BARÇA ACADEMY students have an exposure to amazing skills and activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shravan Bakre"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As I am a music drum teacher from euro school I have experienced a very great and very excitement environment to teach. There are very enthusiastic students and  I feel great to teach them.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Supriya Alotkar"
+          },
+          "datePublished": "2023-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Child centric curriculum that revolves around the 21st Century Skills\nCatering all round student development and experimental teaching is focused in EuroSchool\nThe school environment is also very positive😍☺",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "EuroSchool Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VIKAS Jadhav"
+          },
+          "datePublished": "2023-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Visited school for my child's first ptm\nReally appreciate the safety and security that is been provided for the kids\nThe traffic management was very well organised\nFirst school allowing parents to park inside the school during the ptm\nThank you Euro School Undri",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "5.0",
+  "views": "680",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Undri",
+  "board": "ICSE\n\nCo",
+  "established": "2013",
+  "category": "Day Schools",
+  "classes": "000 - 95",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

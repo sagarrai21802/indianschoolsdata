@@ -1,0 +1,373 @@
+{
+  "slug": "/school/pune/orchids-the-international-school-ambegaon",
+  "url": "https://yellowslate.com/school/pune/orchids-the-international-school-ambegaon",
+  "city": "pune",
+  "name": "Orchids The International School - AMBEGAON ",
+  "scraped_at": "2026-04-28T16:07:00.509327",
+  "html_length": 387171,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AMBEGAON",
+          "item": "https://yellowslate.com/schools/pune/ambegaon"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/ambegaon/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Orchids The International School",
+          "item": "https://yellowslate.com/school/pune/orchids-the-international-school-ambegaon"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Orchids The International School - AMBEGAON",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/orchids-the-international-school-ambegaon",
+      "telephone": "+91 888 888 8999",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S.No. 6, 16, Katraj-Dehu Rd Bypass, behind Indian Oil Petrol Pump, Tal.Haveli, Ambegaon Budruk, Pune, Maharashtra 411046, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4586654,
+        "longitude": 73.8295049
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S.No. 6, 16, Katraj-Dehu Rd Bypass, behind Indian Oil Petrol Pump, Tal.Haveli, Ambegaon Budruk, Pune, Maharashtra 411046, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/orchids-the-international-school-ambegaon-ambegaon-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.3",
+              "reviewCount": "31"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As the Arambh of first PTM,   my thanksgiving to the efforts of Orchid's Team for the outstanding display as the \"Palm prints of children\" which shows fine n bright future lines of their palms under Shikha Mam's leadership Hand. I really appreciate the transparency that we get to see the spectacular work done by our children.\n\nI am eternally grateful for the countless ways and times all teachers have guided Ishika.. I feel super proud to see her develop mentally , socially , emotionally with each passing day and I hope that Khushboo mam will take this to next level with her passion for teaching.\n\nAll the Best .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr Priya "
+          },
+          "datePublished": "2024-10-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice gesture shown by orchids.\r\nWe enjoyed the Diwali event as parents......keep it up.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sheetal "
+          },
+          "datePublished": "2024-10-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Diwali festival diya painting was a time peaceful we needed from our daily life of moms hectic morning schedule....\r\nShika mam principal again came up with creative idea of diwali celebration in school..Please involve mom kids both in any such or other activity next time..\r\nOne day picnic of parents kids n school teachers please organise for better bonding..\r\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Somya srivastav "
+          },
+          "datePublished": "2024-08-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teacher are very 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaffy singla"
+          },
+          "datePublished": "2024-06-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Some teachers are not good at all..They become partial if we complaint against them.. Need hygiene and management.. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suvarna"
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please maintain hygiene in in campus. Washrooms are always dirty. In swimming class aunty should help students for changing cloths as kids are too small.  Coordinators never respond to parents query. Please give proper training. Teachers are good experienced. \r\n",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRASHANT MALAGI"
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Over all Good experience, need improvements in students attention by class teacher.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aanchal "
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This review for Deepali Deshmukh and Veena teacher.\r\nYour patience and understanding towards your student's individual needs and learning styles is greatly appreciated. It shows that you truly care about their progress.Your dedication , passion , and hard work make you an exceptional teacher. I am grateful for all that you do .\r\n\r\nThanks, \r\nAanchal shivkumar kanje \r\n(Student name - Devansh Kanje)\r\nK1-A",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhavi "
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Still there is scope in improvement of management ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Orchids The International School - AMBEGAON"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nivedita Valecha "
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Time management and detailed discussions at the beginning of the year should be given. ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "2.3",
+  "views": "940",
+  "reviews_count": "31",
+  "phone": "+919513238818",
+  "locality": "AMBEGAON",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": null,
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Orchids The International School ?\nAsk a Question\nOrchids The International School Reviews\nView All Reviews\nOverall Experience\n 3.8\nTeaching Excellence\n 4.1\nValue for Money\n 3.7\nCampus & Facilities\n 3.8\nCo-curricular Activities\n 3.9\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "slug": "/school/pune/nova-international-school-wakad",
+  "url": "https://yellowslate.com/school/pune/nova-international-school-wakad",
+  "city": "pune",
+  "name": "Nova International School - Wakad ",
+  "scraped_at": "2026-04-28T15:44:40.212022",
+  "html_length": 411294,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wakad",
+          "item": "https://yellowslate.com/schools/pune/wakad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/wakad/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Nova International School",
+          "item": "https://yellowslate.com/school/pune/nova-international-school-wakad"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Nova International School - Wakad",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373949432023177984678e8affe5ae11737394944.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/nova-international-school-wakad",
+      "telephone": "+91 9080 600 500",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Beside Akemi Business School, Behind Indira College, Wakad, Pune – 411057",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.611491,
+        "longitude": 73.7346166
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Beside Akemi Business School, Behind Indira College, Wakad, Pune – 411057",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/nova-international-school-wakad-wakad-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "17"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aniket"
+          },
+          "datePublished": "2025-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great infrastructure, for sports as well as a good balance between academics and extra curricular activities Much needed in Wakad area",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sai karthik"
+          },
+          "datePublished": "2025-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nova international has immense potential to redefine education. Spread across a vast campus, the school offers a thoughtfully designed infrastructure that promises to meet the needs of modern education. The passionate founders bring a clear vision and dedication to creating a nurturing environment for students, focusing on holistic development and academic excellence. A promising choice for parents seeking a forward-thinking school for their children!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vicky Patil"
+          },
+          "datePublished": "2025-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Exceptional Education at Nova International School\n\nNova International School is truly a beacon of excellence in education. The institution stands out for its commitment to fostering a holistic learning environment where students excel academically, socially, and emotionally.\n\nThe faculty are not only highly qualified but also incredibly dedicated and nurturing. They take a personalized approach to teaching, ensuring that each child reaches their fullest potential. The school's emphasis on critical thinking, creativity, and problem-solving equips students with essential life skills that go beyond textbooks.\n\nNova’s state-of-the-art facilities and diverse extracurricular programs create a balanced environment where children can explore their interests and talents. The integration of technology and innovative teaching methods makes learning engaging and future-oriented.\n\nThe school's focus on values, cultural awareness, and global citizenship is truly commendable. It prepares students to thrive in a multicultural and interconnected world while instilling in them a strong sense of responsibility and empathy.\n\nNova International School is more than just a school—it’s a community where every child is valued and encouraged to shine. I wholeheartedly recommend it to any parent looking for a transformative educational experience for their child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoj yadav"
+          },
+          "datePublished": "2025-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in PCMC , Very good infrastructure for overall student development, specially the vast range of sports to explore and adapt, I am amazed to see the size of the open area in the school , probably one of the biggest in PCMC, curriculum adopted for teaching method is also very good specially for primary education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mitul bijlani"
+          },
+          "datePublished": "2024-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Cheap marketing strategy, repetitively calling despite saying not interested. Focus on quality education rather than irritating people",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ruchi Lanjewar"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Staff is nice..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratiksha Chaudhari"
+          },
+          "datePublished": "2024-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It offers multicultural environment that prepares students for success in a globalized world. With highly qualified faculty, strong academic programs, and a wide range of extracurricular activities, these schools provide an enriching educational experience.\nThis is the largest school in PCMC..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vedika Dani"
+          },
+          "datePublished": "2024-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in pcmc",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maithili Taglpallewar"
+          },
+          "datePublished": "2024-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school, biggest campus with more than fifteen sports and curriculum wise better than other school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nova International School - Wakad"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "renuka jaiswal"
+          },
+          "datePublished": "2024-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great infrastructure, for sports as well as a good balance between academics and extra curricular activities\nMuch needed in Wakad area",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1683806656776088515645cd9c08a05a1683806657.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373949432023177984678e8affe5ae11737394944.jpg",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373949432023177984678e8affe5ae11737394944.jpg\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373949432023177984678e8affe5ae11737394944.jpg\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.8",
+  "views": "300",
+  "reviews_count": "17",
+  "phone": "+919513238818",
+  "locality": "Wakad",
+  "board": "CBSE\n\nCo",
+  "established": "2024",
+  "category": "International Schools",
+  "classes": "Nursery - 8",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1737394954958444132678e8b0a70dd11737394954.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/17373949432023177984678e8affe5ae11737394944.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

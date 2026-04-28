@@ -1,0 +1,304 @@
+{
+  "slug": "/school/pune/blossom-public-school-narhe",
+  "url": "https://yellowslate.com/school/pune/blossom-public-school-narhe",
+  "city": "pune",
+  "name": "Blossom Public School - NARHE ",
+  "scraped_at": "2026-04-28T15:52:09.935550",
+  "html_length": 366874,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NARHE",
+          "item": "https://yellowslate.com/schools/pune/narhe"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/narhe/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Blossom Public School",
+          "item": "https://yellowslate.com/school/pune/blossom-public-school-narhe"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Blossom Public School - NARHE",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/blossom-public-school-narhe",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "SR No. 12/2/2, Pune-Satara, Bypass Highway, Narhe, Pune, Maharashtra 411041, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4512416,
+        "longitude": 73.8303185
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "SR No. 12/2/2, Pune-Satara, Bypass Highway, Narhe, Pune, Maharashtra 411041, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/blossom-public-school-narhe-narhe-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manisha Mane "
+          },
+          "datePublished": "2026-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school provides a supportive and positive learning environment for students. Teachers are caring and encourage students to do their best.”",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Trupti kulkarni "
+          },
+          "datePublished": "2026-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is very well structured,good teaching staff,innovative and creative activities conducted in school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amruta Raut"
+          },
+          "datePublished": "2022-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very worst principal vandana Don't have any manner to talk people. While talking parents she's looking in mirror, talking worst language, how can learn our child good manner, mobile is not allowed while we talk with her. What she is talk take us in writing, she  is not ready to show us every GR. Otherwise school and schools teacher are very good. But she is not good for school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshada Gurav"
+          },
+          "datePublished": "2022-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I came to know about accident related to a boy in 8th std. The boy came under bus wheel and helper and driver didn't even notice till it happened. Helper was talking on phone and bus door was open before reaching the stop. And school principle or anyone from management haven't even met the parents. It's heart breaking.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shilpa Nikam"
+          },
+          "datePublished": "2022-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school.dont go for this school. Worst management and principal Vandana kharat.\nMy nephew died yesterday only because of the negligence of the bus driver and care taker. school never showed any sympathy with the boy and his family.they even didn't accept their mistake.they only care about money.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sachin Shete"
+          },
+          "datePublished": "2022-04-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Principal and teacher don't have any educational value. Management is looking this school as a pire business and nothing else. They are greedy for money only. Principal is asking donations without any receipt. They are actually dacoit, looting your hard earned money. Any municipal government school delivering better education than this school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Blossom Public School - NARHE"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rupali nilangekar"
+          },
+          "datePublished": "2020-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two children are in this school since 5 years. Teachers are very supportive . I am really satisfied with progress of my children. Management, campus and cleanliness is also good. I just wanted to suggest that the school should also focus more on  extra curricular activities like cricket , football, basketball etc.  Thanks Blossom Public school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "2.6",
+  "views": "605",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "NARHE",
+  "board": "CBSE\n\nCo",
+  "established": "2011",
+  "category": "Day Schools",
+  "classes": "000 - 32",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

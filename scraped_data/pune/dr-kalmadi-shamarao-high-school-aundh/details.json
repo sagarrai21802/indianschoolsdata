@@ -1,0 +1,374 @@
+{
+  "slug": "/school/pune/dr-kalmadi-shamarao-high-school-aundh",
+  "url": "https://yellowslate.com/school/pune/dr-kalmadi-shamarao-high-school-aundh",
+  "city": "pune",
+  "name": "Dr. Kalmadi Shamarao High School - Aundh ",
+  "scraped_at": "2026-04-28T15:52:38.473780",
+  "html_length": 385643,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Aundh",
+          "item": "https://yellowslate.com/schools/pune/aundh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/aundh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dr. Kalmadi Shamarao High School",
+          "item": "https://yellowslate.com/school/pune/dr-kalmadi-shamarao-high-school-aundh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dr. Kalmadi Shamarao High School - Aundh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/dr-kalmadi-shamarao-high-school-aundh",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Parihar Chowk, Aundh, Pune, Maharashtra 411027, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5665477,
+        "longitude": 73.8106431
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Parihar Chowk, Aundh, Pune, Maharashtra 411027, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/dr-kalmadi-shamarao-high-school-aundh-aundh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "20"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Janhavi Nayak"
+          },
+          "datePublished": "2022-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BEST SCHOOL EVER BUT STUDIES ARE VAST",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vijay Jadhav"
+          },
+          "datePublished": "2019-01-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The only reason for taking admission in this school for my child was the distance and moderate fees,  however it looks like from next year onwards the school seems to work like a corporate and not meant for average people. The fees are going to become unaffordable .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aparajita Kale"
+          },
+          "datePublished": "2019-01-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very nice. But now the school is increasing fees. So not affordable for middle class family .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Dhumal"
+          },
+          "datePublished": "2018-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school I had ever seen. I took back my daughters admission within one week.\nUnnecessary high fees with no basis c facilities like ground and good well behaved teachers.\nWaste of money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sudhir Patil"
+          },
+          "datePublished": "2018-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Quality school in cheap cost..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nayana Jadhav"
+          },
+          "datePublished": "2018-01-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's good experience in this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Omkar Sonar"
+          },
+          "datePublished": "2017-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Punit Kaur Mann"
+          },
+          "datePublished": "2017-09-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "What a school highly qualified teachers.All polite.Many activities like enhanced learning,commando training ,many competitions held over all its excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Revati Dnyanmote"
+          },
+          "datePublished": "2017-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "What a school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dr. Kalmadi Shamarao High School - Aundh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bro Viren"
+          },
+          "datePublished": "2017-07-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School charge high fees\nTeaching is okay",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680814161739004831636ce708d2fa11668081417.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.0",
+  "views": "519",
+  "reviews_count": "20",
+  "phone": "+919513238818",
+  "locality": "Aundh",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Dr. Kalmadi Shamarao High School ?\nAsk a Question\nDr. Kalmadi Shamarao High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16680814161739004831636ce708d2fa11668081417.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

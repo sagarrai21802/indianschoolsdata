@@ -1,0 +1,303 @@
+{
+  "slug": "/school/pune/lexicon-kids-undri-undri",
+  "url": "https://yellowslate.com/school/pune/lexicon-kids-undri-undri",
+  "city": "pune",
+  "name": "Lexicon Kids Undri - Undri ",
+  "scraped_at": "2026-04-28T16:18:59.475154",
+  "html_length": 357155,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Undri",
+          "item": "https://yellowslate.com/schools/pune/undri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/undri/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Lexicon Kids Undri",
+          "item": "https://yellowslate.com/school/pune/lexicon-kids-undri-undri"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Lexicon Kids Undri - Undri",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/lexicon-kids-undri-undri",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Lushlife Ovo Phase-2, Bunglow No 36, Sierra, society, opp. Bellagio, Undri, Pune, Maharashtra 411060",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4614399,
+        "longitude": 73.9160729
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Lushlife Ovo Phase-2, Bunglow No 36, Sierra, society, opp. Bellagio, Undri, Pune, Maharashtra 411060",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/lexicon-kids-undri-undri-undri-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajendra Prajapati Bhainsara"
+          },
+          "datePublished": "2024-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "☺️🫶🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nisha Mahadik"
+          },
+          "datePublished": "2023-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is studying in this school since 2 years. We see her growth being a part of this school. Their curriculum is very well developed and the teaching methodology is good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikas Prashar"
+          },
+          "datePublished": "2023-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school we’re school teachers are cooperative",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "utsav rai"
+          },
+          "datePublished": "2023-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, handle the students very properly",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Muktika Watkhedkar"
+          },
+          "datePublished": "2023-05-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bad experience from lexicon undri school, my son is there for day care, very pathetic they handally my son 2/3 times they got upset to us..\n1) my son having bad diper rash like skin burnt, they didi not notice for 2 hours, he did potty\n\n2) my son even not drink water to for 3 hours , he drained after that\n\n3) the girls from holy wasti for children’s care,\n\nMy heartfelt suggestion to you all don’t go for lexicon school Undri",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandeep Chalwadikar"
+          },
+          "datePublished": "2022-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son has attended a quarter period now at this school and we can see so much of improvement in him. From writing to learning, dancing, playing acts, speaking and many more things. He loves to go to school and doesn't want to miss a single day specially because of the good behaviour of the staff and the teachers. Leveled learning having enabled my child to gain confidence in his learning abilities. We are really satisfied and feels safe that are son's future is in safe hands. Thank you Lexicon Kids School !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Lexicon Kids Undri - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jagruti khanna"
+          },
+          "datePublished": "2022-09-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Being a new branch, the school is performing exceptionally well. I see wonderful change in my daughter as these POST Pandemic lot has gone through a tough time in past two and half years and these lot of kids going to school setup for the first time,such kind and warm teacher's welcoming kids and making them comfortable and equally confident is commendable......I am glad I got my child enrolled with Lexicon kids Undri brach. Kudos to the entire staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.3",
+  "views": "390",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Undri",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Lexicon Kids Undri ?\nAsk a Question\nLexicon Kids Undri Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "slug": "/school/pune/walnut-school-shivane",
+  "url": "https://yellowslate.com/school/pune/walnut-school-shivane",
+  "city": "pune",
+  "name": "Walnut School - Shivane ",
+  "scraped_at": "2026-04-28T16:14:14.539403",
+  "html_length": 366566,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shivane",
+          "item": "https://yellowslate.com/schools/pune/shivane"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/shivane/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Walnut School",
+          "item": "https://yellowslate.com/school/pune/walnut-school-shivane"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Walnut School - Shivane",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/walnut-school-shivane",
+      "telephone": "+91 702 809 0139",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Gram Panchayat Office, NDA Rd, next to Shivane, Deshmukh Nagar, Shivane, Pune, Maharashtra 411023",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4667702,
+        "longitude": 73.7804061
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 8,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Gram Panchayat Office, NDA Rd, next to Shivane, Deshmukh Nagar, Shivane, Pune, Maharashtra 411023",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/walnut-school-shivane-shivane-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "10"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megha kendhe "
+          },
+          "datePublished": "2025-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is great experience work in walnut..Principal and management is really very co operative.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "No Name"
+          },
+          "datePublished": "2024-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is best overall.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini Bharti"
+          },
+          "datePublished": "2023-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My Son & Daughter Shivansh & Ovee Bharti are very energetic and enthusiastic after the admission in Walnut school. Every activity is booster for my children. The result has came, just a few days before my daughter got a Gold and my Son got a Silver at district level karate championship. My daughter got selected for next level that is state level under 6 year age.\n\nThe sports activities are very helpful to child for health building and Mr.Tushar Pawar sports teacher of Fursungi branch make everything to involve the students in sports activities.\nThans to all Walnut teacher and the management for making positive changes in my children.\n\nAll the best!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinayak 22"
+          },
+          "datePublished": "2023-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Brilliant School is an exceptional institution that offers an outstanding education experience. The faculty members are highly dedicated and skilled, creating a nurturing and stimulating learning environment. The school's curriculum is well-rounded, providing a strong foundation in academics, arts, and extracurricular activities. The facilities are top-notch, with modern classrooms and excellent resources. Overall, Brilliant School is a remarkable place that prepares students for success and fosters a love for learning. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjali Kadam"
+          },
+          "datePublished": "2023-07-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Walnut school one of the best school i have ever came across with its unique features , which gives equal importance to studies as well as other extra and co curricular activities which ensures the overall development of children's. As a teacher it an great experience to work with walnut school as it teaches us to work in team and co-operate among each other. Both teaching and non teaching staff is equally supportive.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anita Kudale"
+          },
+          "datePublished": "2023-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Walnut school has a positive environment and very welcoming atmosphere. The school has well-structured premises, the infrastructure is spacious and has a lot of open space for multiple activities. Walnut school has unique features such as subject wise classrooms, no bag concept; everyday sports, computational thinking which makes schooling a very placid experience. The bag-less feature makes every child enter school burden free with all the enthusiasm and curiosity to learn something new each day. They have a planned curricular and co-curricular program that focuses on overall development of every child. The differential learning approach helps every child understand and inculcate all concepts with ease. Will strongly recommend Walnut School to every parent who want, their child to have a stress free and fun filled learning experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemant Kamalakar"
+          },
+          "datePublished": "2023-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As an outgoing parent, I cannot praise Walnut School enough for their exceptional focus on discipline and conduct. From day one, my child was immersed in an environment that fostered respect and responsibility. The school's strong disciplinary policies and consistent enforcement created a safe and orderly atmosphere. The teachers' dedication to instilling good values and manners in the students is truly remarkable. I am confident that Walnut School has prepared my child not just academically, but also for a bright future as a respectful and well-behaved individual.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Walnut School - Shivane"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sandip bhadkamkar"
+          },
+          "datePublished": "2023-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was great experience to see my daughter being acknowledged as young author by the school. This is very interesting initiative by the school to encourage students to express themselves by way of writing stories on their own. We as parents are very happy to see the way our kids are evolving on different fronts",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [
+    "u003eshivane@walnutedu.in"
+  ],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.5",
+  "views": "1209",
+  "reviews_count": "10",
+  "phone": "+919513238818",
+  "locality": "Shivane",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

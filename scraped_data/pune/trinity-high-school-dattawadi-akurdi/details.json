@@ -1,0 +1,256 @@
+{
+  "slug": "/school/pune/trinity-high-school-dattawadi-akurdi",
+  "url": "https://yellowslate.com/school/pune/trinity-high-school-dattawadi-akurdi",
+  "city": "pune",
+  "name": "Trinity High School - Dattawadi,Akurdi ",
+  "scraped_at": "2026-04-28T16:01:49.424914",
+  "html_length": 339590,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dattawadi,Akurdi",
+          "item": "https://yellowslate.com/schools/pune/dattawadi-akurdi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/dattawadi-akurdi/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Trinity High School",
+          "item": "https://yellowslate.com/school/pune/trinity-high-school-dattawadi-akurdi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Trinity High School - Dattawadi,Akurdi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/trinity-high-school-dattawadi-akurdi",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Opp. Sonigira Classic, Vittal Nagar Ekta nagar, MQ3H+GFX, Old Mumbai - Pune Hwy, Akurdi Gaothan, Dattawadi, Akurdi, Pimpri-Chinchwad, Maharashtra 411035, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6540679,
+        "longitude": 73.7820335
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trinity High School - Dattawadi,Akurdi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Opp. Sonigira Classic, Vittal Nagar Ekta nagar, MQ3H+GFX, Old Mumbai - Pune Hwy, Akurdi Gaothan, Dattawadi, Akurdi, Pimpri-Chinchwad, Maharashtra 411035, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/trinity-high-school-dattawadi-akurdi-dattawadi-akurdi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shrushti lingade"
+          },
+          "datePublished": "2022-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "You have  a\nschool bus",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trinity High School - Dattawadi,Akurdi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Savita Bangera"
+          },
+          "datePublished": "2021-12-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school best ❤",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trinity High School - Dattawadi,Akurdi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reshma Sayed"
+          },
+          "datePublished": "2019-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School in Akurdi,under the guidance of Ann Miss,I've  studied here,got the best education  n best childhood memories...Love My School 🌟🌟🌟🌟🌟",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trinity High School - Dattawadi,Akurdi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shailendra Mishra"
+          },
+          "datePublished": "2019-11-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Is the best school in akrudi pune",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Trinity High School - Dattawadi,Akurdi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shafik Mirza"
+          },
+          "datePublished": "2017-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Started in the year 1979-1980, this school teaches human values. Siblings and myself being educated from this wonderful school under the guidance of Anne Miss, I feel proud of my school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "5.0",
+  "views": "525",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Dattawadi,Akurdi",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 144",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Trinity High School ?\nAsk a Question\nTrinity High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

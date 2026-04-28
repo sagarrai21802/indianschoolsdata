@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/oxford-world-school-kharadi",
+  "url": "https://yellowslate.com/school/pune/oxford-world-school-kharadi",
+  "city": "pune",
+  "name": "Oxford World School - Kharadi ",
+  "scraped_at": "2026-04-28T15:59:51.232604",
+  "html_length": 390903,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kharadi",
+          "item": "https://yellowslate.com/schools/pune/kharadi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/kharadi/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Oxford World School",
+          "item": "https://yellowslate.com/school/pune/oxford-world-school-kharadi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Oxford World School - Kharadi",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/oxford-world-school-kharadi",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Opposite Panchshil Towers, Kharadi Annex, Wagholi, Tal. Haveli, Dist. Pune 412207 Maharashtra, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5523279,
+        "longitude": 73.9620654
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Opposite Panchshil Towers, Kharadi Annex, Wagholi, Tal. Haveli, Dist. Pune 412207 Maharashtra, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/oxford-world-school-kharadi-kharadi-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "135"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nilesh Pawar"
+          },
+          "datePublished": "2024-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We have really great experience with this school,\nMy kid is enjoying her learnings,\nI can see her development every year, and special thanks to Kanchan Mam and Mrunalini Mam who playing key roll in students development.\nI seen all teachers make sure  to clear students doubts and All school staff gives importance to student's safety,\nMany thanks to school for being part of my kids growth.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Baloorgi"
+          },
+          "datePublished": "2024-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kashinath Bhagwat"
+          },
+          "datePublished": "2024-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Too good school I can see the improvement in my child day by day.\nRecommendable to better future of children.👍👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini Jadhav"
+          },
+          "datePublished": "2024-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely rude staff. It's my humble request to school higher management to check cctv for date March 16 2024. How the lady was treating parents came for enquiry. Forget about bein professional she don't even have basic manners to talk as a human being. She is representative. She is face for entire school image. How much enthusiasm she should have. But it's exactly opposite. Looks like attending parents is burden for her. School management we as a parent have n number of options for school. I am telling you for your school image. Pls take seriously",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumeet Thakur"
+          },
+          "datePublished": "2024-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The holistic development approach at Oxford is commendable. The personalized feedback provided by teachers has been instrumental in nurturing individual student growth. It's evident that the faculty genuinely cares about each student's progress and well-being, fostering an environment where everyone can thrive. This commitment to student development sets Oxford School apart and ensures that every student receives the support they need to reach their full potential.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "amit thakur"
+          },
+          "datePublished": "2024-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school have dedicated faculty, innovative curriculum, and supportive environment. They have truly fostered a culture of academic excellence and personal growth of the students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajiya Pathan"
+          },
+          "datePublished": "2024-03-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The staff is really helpful, and the admission procedure is very efficient. We should have to be patient enough with the admission process when we come to check in on our child. My experience was satisfactory overall. The school is quite green and has a pleasant, optimistic vibe.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ravindra patil"
+          },
+          "datePublished": "2024-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good teaching staff and good activities taken  by school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mahendra Jaiswal"
+          },
+          "datePublished": "2024-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is in OWS since Nursery. Can see continuous improvement in her each year. School is putting efforts in all the fields. Annual function and sports days were very well organised. Can see school ensuring participation of each student in all the events.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Oxford World School - Kharadi"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SANDEEP KUMAR GUPTA"
+          },
+          "datePublished": "2024-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I appreciate the school; my child Jayesh is in 2B. I've noticed significant learning, especially in physical activities like skating and karate. He even participated in a state-level SIP exam. The staff is excellent. Highly recommend this school to all parents.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.7",
+  "views": "574",
+  "reviews_count": "135",
+  "phone": "+919513238818",
+  "locality": "Kharadi",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Oxford World School ?\nAsk a Question\nOxford World School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

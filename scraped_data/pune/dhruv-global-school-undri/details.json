@@ -1,0 +1,372 @@
+{
+  "slug": "/school/pune/dhruv-global-school-undri",
+  "url": "https://yellowslate.com/school/pune/dhruv-global-school-undri",
+  "city": "pune",
+  "name": "Dhruv Global School - Undri ",
+  "scraped_at": "2026-04-28T16:02:17.970027",
+  "html_length": 392480,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Undri",
+          "item": "https://yellowslate.com/schools/pune/undri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/undri/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dhruv Global School",
+          "item": "https://yellowslate.com/school/pune/dhruv-global-school-undri"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dhruv Global School - Undri",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/dhruv-global-school-undri",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Abnave Nagar, Kondhwa-Undri-Saswad Rd, Handewadi, Pune, Maharashtra 411060",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.4524905,
+        "longitude": 73.9221354
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Abnave Nagar, Kondhwa-Undri-Saswad Rd, Handewadi, Pune, Maharashtra 411060",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/dhruv-global-school-undri-undri-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "100"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranit Mogal"
+          },
+          "datePublished": "2024-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great college 😃😄",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rakesh Raut"
+          },
+          "datePublished": "2024-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Happy to have my son in Dhruv\nAll Teacher are so cooprative\nSchool staff is also nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajshree Chaubey"
+          },
+          "datePublished": "2024-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dhruv Global School is doing excellent in all fields especially given a lot of exposure to children. Academic program are very nicely planned and organised. Great efforts by all teachers, staff members and management. My child is naturing and groomed very well.  I wish a great success to Dhruv global school. Proud to be parents of dhruvian child Master Viraj Tiwari. Jr KG A\n\nThank you",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aishwarya Chandane"
+          },
+          "datePublished": "2024-03-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was the very first year of my child in Dhruv Global School.I am Impressed with your curriculum and the teaching methods. Well planned worksheets for practice.Our child always gets ample opportunities to explore and progress in all aspects. I am very happy to see improvement in my child.I like to take this privilege to congratulate the management of the School and especially both the class teachers Gunjan Mam and Bhagyashree Mam for their endless efforts.Will highly recommend Dhruv Global School.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vallabh Fashion"
+          },
+          "datePublished": "2024-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No 1 school of pune",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "chaparwal prashant"
+          },
+          "datePublished": "2024-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dhruv is one of the best schools I have come across. My son is studying in Jr.kg in this esteemed school. There is a lot of improvement which we can see in him. Dhruv is matching international standards and we are so lucky to have our kid in this school.\nThe most important thing is that there are limited students in class and hence the students get the required attention.\nThanks to the great mentors/class teachers like Paromita mam and Soma mam for their guidance.\nThey give us regular feedback, which helps us and the growth of kids as it is a joint responsibility of parents and teachers.\nI highly recommend Dhruv . Thanks !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhruv Shah"
+          },
+          "datePublished": "2024-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Writing this review after my child completed full education year. As parents we are happy with our decision to enrol our child in Dhruv Global School. It is day boarding school, with equal importance on holistic development of child in education, sports and performing arts keeping in Indian tradition and value systems. The nevironment is very positive as soon as you step in campus. Principal, Teachers and staffs are easily approachable and you do not require any appointments to meet them. The campus is very huge and caters to olympic size swimming pool, Basket Ball Court, Football field, Indoor 8 badminton courts, Riffle Shooting range, TT, Yoga, Music Room, Drawing Room, Well Equipped Library. The classes are very well wentilated and airy. The food served in mess is very healthy with no maida products/food item. Parents can also go and eat food in mess with prior intimation to school admin staff. Buses are also new and clean. Drivers and attendents are very attentive and take good care of childrens. School also offers after school sports activities to students and general public under Dhruv Academy.\nOverall we are very happy and my child enjoys school very much.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Himanshu Lohani"
+          },
+          "datePublished": "2024-03-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I'm truly impressed by the school's commitment to academic excellence, but what really stands out is the incredible role their teachers play in building students' confidence. My child has flourished under their guidance, overcoming stage fear and confidently engaging with crowds. Highly recommend",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini Shinde"
+          },
+          "datePublished": "2024-02-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thank you so much Bhagyashree ma'am and Shubhashree ma'am for your valuable efforts for vedashree in academic performance and other curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dhruv Global School - Undri"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Gaikwad"
+          },
+          "datePublished": "2024-02-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We're impressed by the creative and engaging activities you plan for the children. It's clear that you put a lot of thought and effort into making learning fun and meaningful.\nSpecial thanks to Bhagyashri Nadkarni and Subhasree Mukherjee - As parents, we feel reassured knowing that our child is in such capable and caring hands every day. Your passion for teaching and dedication to your students are truly inspiring.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js"
+  ],
+  "rating": "4.8",
+  "views": "766",
+  "reviews_count": "100",
+  "phone": "+919513238818",
+  "locality": "Undri",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Dhruv Global School ?\nAsk a Question\nDhruv Global School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

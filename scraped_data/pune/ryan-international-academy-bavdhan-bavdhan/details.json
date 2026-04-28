@@ -1,0 +1,371 @@
+{
+  "slug": "/school/pune/ryan-international-academy-bavdhan-bavdhan",
+  "url": "https://yellowslate.com/school/pune/ryan-international-academy-bavdhan-bavdhan",
+  "city": "pune",
+  "name": "Ryan International Academy, Bavdhan - Bavdhan ",
+  "scraped_at": "2026-04-28T16:12:51.311167",
+  "html_length": 401993,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bavdhan",
+          "item": "https://yellowslate.com/schools/pune/bavdhan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/bavdhan/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ryan International Academy, Bavdhan",
+          "item": "https://yellowslate.com/school/pune/ryan-international-academy-bavdhan-bavdhan"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ryan International Academy, Bavdhan - Bavdhan",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/ryan-international-academy-bavdhan-bavdhan",
+      "telephone": "+91 726 206 9699",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Bavdhan Aditya Shagun Nisarg Next to Sehgal Automobiles Maruti Showroom Mumbai Bangalore By Pass Highway, Mokai Vasti, Bavdhan, Pune, Maharashtra 411021, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5124363,
+        "longitude": 73.7647013
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Bavdhan Aditya Shagun Nisarg Next to Sehgal Automobiles Maruti Showroom Mumbai Bangalore By Pass Highway, Mokai Vasti, Bavdhan, Pune, Maharashtra 411021, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/ryan-international-academy-bavdhan-bavdhan-bavdhan-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "23"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krupali J"
+          },
+          "datePublished": "2024-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ryan International Academy Bavdhan is an excellent school. Teachers here give personal attention to each students and ensure they improve where they are lacking. Encourage students to participate in extra curricular activities like sports, dance, music. School has huge play ground, basketball court. It also maintains cleanliness and hygiene. Happy to be part of RIA.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohammad Imran"
+          },
+          "datePublished": "2024-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Witnessed annual function of Ryan International Academy, it was excellent event arranged by school team with lot of enthusiasm and energy.\nLooking forward for more such events !!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rakhi Bordoloi"
+          },
+          "datePublished": "2024-02-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parents, we really enjoyed a lot in the Annual day program. All the performances are outstanding. The efforts of kids are awesome. A tremendous team work done by all the teachers and staff of RIA, Bavdhan.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandhya Singh"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "From ideas to reality, witness the power of determination and teamwork. #PowerOfSuccess\nA successful event organised by team Ryan bavdhan.👏🏻👏🏻👏🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shreya and Aarohee"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was an outstanding annual day function for both the parents and kids....... 👏👏\nThank u to our respected Principal miss who is a great leader , who runs the school with grace .\nShe truly came as a angel to school and to us\n\nA special thanks to mrinal miss for guiding and supporting students for comparing and script.....\nShe is a truly motivated, lovely  and energetic teacher .\nIt was great function organized by the Ryan team 👏 👍\n\n---- From\nAmruta Praveen Shukla\n(Shreya and Aarohee) parent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipti Barve"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very well-organized event.All the performances were outstanding.I really appreciate the hard work of students and teachers who actually made this event a great success.Mime act, Orchestra and skating dance performances were the main attractions of the event.\nJust one suggestion for mic system. Please ensure that mic system is proper so that voice of musical instruments will be receipted properly and audience will enjoy the performance of each participant.\n\nWarm Regards,\nDipti Barve.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Lohot"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great Show by the Ryanites...I like to take this privilege to congratulate the school management, teachers, and students for their endless efforts to make the event successful.\nAmazing enthusiasm and passion displayed by the students. As parents we could feel the hardwork of many months that the children have put in.\nA couple of feedback for improvement for next time-\na) Venue can be nearer to the school.\nb) Receiving kids and dispersal needs to be streamlined. Placards can be very helpful for parents to understand. It should be properly communicated to teachers and parents.\nc) If there are two events of different schools in the same auditorium, then a gap of 2 hrs is much needed. Infact we can avoid such situation.\nd) The dances during the choir can be avoided.\ne) Videos of the school curriculum and activities can be shown at one time only.\n\nOverall a spectacular show, each performance was better than the other. Hatsoff to the HRTs, management, teachers and the entire crew behind the show.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narmada Sirvi"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic events! Co curricular activities, sports, music and speaking skills are all done along with education. Neat classrooms, and labs arranged with sort of things needed.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjeet Suman"
+          },
+          "datePublished": "2024-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I feel extremely pleased to be a proud parent of my two kids enrolled with Ryan International Academy Bavdhan .The event was well organised and coordinated. The love and care for each child enrolled with the school was reflected with the enthusiastic Principal and the teachers. Looking forward for many more events !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ryan International Academy, Bavdhan - Bavdhan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kirti Dang"
+          },
+          "datePublished": "2023-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great experience with staff of school. Specially with Pragya Rathi head admission. She is so polite and gives all information and process. She is also available even for any query on one call",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.9",
+  "views": "597",
+  "reviews_count": "23",
+  "phone": "+919513238818",
+  "locality": "Bavdhan",
+  "board": "CBSE\n\nCo",
+  "established": "2020",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

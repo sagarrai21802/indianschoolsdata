@@ -1,0 +1,385 @@
+{
+  "slug": "/school/pune/mindseed-chinchwad-east",
+  "url": "https://yellowslate.com/school/pune/mindseed-chinchwad-east",
+  "city": "pune",
+  "name": "Mindseed - Chinchwad East ",
+  "scraped_at": "2026-04-28T16:08:50.529726",
+  "html_length": 406264,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chinchwad East",
+          "item": "https://yellowslate.com/schools/pune/chinchwad-east"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MONTESSORI",
+          "item": "https://yellowslate.com/schools/pune/chinchwad-east/montessori"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mindseed",
+          "item": "https://yellowslate.com/school/pune/mindseed-chinchwad-east"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mindseed - Chinchwad East",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304956189662605568dcdcfca5bb51759304957.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/mindseed-chinchwad-east",
+      "telephone": "+91 7057635961",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Hutatma Chowk, Near Sector 26, Pradhikaran, Nigdi, Pimpri Chinchwad, Pune 411044",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.6536811,
+        "longitude": 73.7645999
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Hutatma Chowk, Near Sector 26, Pradhikaran, Nigdi, Pimpri Chinchwad, Pune 411044",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/mindseed-chinchwad-east-chinchwad-east-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "24"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratik Gawande"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Would highly recommend this preschool!! Overall facility is very good! The teachers and aunties/mavshis are also very caring in nature. The live camera feed and the Mindseed app give good visibility on the overall learning experience of the kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parul Sahu"
+          },
+          "datePublished": "2023-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s amazing to see the day care just like another home for kids …\nThe activities done here is the best part as my kid enjoys there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "devarapalli rohini"
+          },
+          "datePublished": "2023-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Swathi in pimple Saudagar branch assisted us with right information and also gave us confidence to join our kid",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "komal jadhav"
+          },
+          "datePublished": "2023-04-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Culmination day 🥇best experience in toddler, now one step ahed towards Pre-K. Friendly environment, lovable teachers and in day care didi also caring a lot. Thanks 😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rashi sharma"
+          },
+          "datePublished": "2023-03-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very wonderful experience of field day. Thanks to all teachers & staff members of Mindseeds school . Personally I appreciate this type of activities done by school. Thanks for invitation & made our day 😊.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepali Deokar"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice program.......",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "surabhi agrawal"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Overall good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mausami singh"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The annual day celebration was a hit ⭐. The efforts made by teachers and all the staff is truly appreciated. To see our kids dance confidently was eye pleasing. We truly enjoyed the show.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Punam 1"
+          },
+          "datePublished": "2022-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing Experience.\nThanks to all the teachers and maushi's for their efforts towards the children for the field day celebration.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Mindseed - Chinchwad East"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shachi"
+          },
+          "datePublished": "2022-11-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Field Day was very well organised.\nKids enjoyed throughout the practices that were held in school in the last few days and we parents thoroughly enjoyed the final event.\nThankyou to all teachers & didi’s for their efforts & mindseed’s management to host the field day.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304956189662605568dcdcfca5bb51759304957.jpg\\\\\\",
+    "https://www.youtube.com/embed/FbJzF5B9wEs\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304956189662605568dcdcfca5bb51759304957.jpg\\",
+    "https://www.youtube.com/embed/_SYhSUR-o_o\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304956189662605568dcdcfca5bb51759304957.jpg",
+    "https://www.youtube.com/embed/PSmjSGODYow\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1666796982209040737663594db65f81c1666796982.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.9",
+  "views": "508",
+  "reviews_count": "24",
+  "phone": "+919513238818",
+  "locality": "Chinchwad East",
+  "board": "Montessori\n\nCo",
+  "established": "2020",
+  "category": "Play Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Mindseed ?\nAsk a Question\nMindseed Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://img.youtube.com/vi/_SYhSUR-o_o/hqdefault.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://img.youtube.com/vi/FbJzF5B9wEs/hqdefault.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://img.youtube.com/vi/PSmjSGODYow/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304956189662605568dcdcfca5bb51759304957.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759304972152820305868dcdd0ca09cc1759304973.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1759304975116129018768dcdd0f0b0061759304975.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175930497212706680968dcdd0c0d5db1759304972.jpeg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1666796982209040737663594db65f81c1666796982.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/175930497383217570268dcdd0dd178e1759304974.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg"
+  ]
+}

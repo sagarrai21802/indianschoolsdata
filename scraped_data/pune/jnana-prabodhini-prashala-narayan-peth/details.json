@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/jnana-prabodhini-prashala-narayan-peth",
+  "url": "https://yellowslate.com/school/pune/jnana-prabodhini-prashala-narayan-peth",
+  "city": "pune",
+  "name": "Jnana Prabodhini Prashala - Narayan Peth ",
+  "scraped_at": "2026-04-28T16:20:58.874827",
+  "html_length": 355944,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Narayan Peth",
+          "item": "https://yellowslate.com/schools/pune/narayan-peth"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/narayan-peth/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jnana Prabodhini Prashala",
+          "item": "https://yellowslate.com/school/pune/jnana-prabodhini-prashala-narayan-peth"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Jnana Prabodhini Prashala - Narayan Peth",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/jnana-prabodhini-prashala-narayan-peth",
+      "telephone": "+91 9850995412",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "510, Chhatrapati Sambhaji Maharaj Rd, Pantancha Gate, Sadashiv Peth, Pune, Maharashtra 411030, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5117127,
+        "longitude": 73.8454442
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jnana Prabodhini Prashala - Narayan Peth",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "510, Chhatrapati Sambhaji Maharaj Rd, Pantancha Gate, Sadashiv Peth, Pune, Maharashtra 411030, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/jnana-prabodhini-prashala-narayan-peth-narayan-peth-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anish Rangnekar"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Did my career guidance aptitude test from this school twice and the experience was nice. Career counselling was good and informative. This institution gave   best education, grooming, guidance, and direction to my younger brother for sure.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jnana Prabodhini Prashala - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anushka Kalaskar"
+          },
+          "datePublished": "2023-06-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools in Pune\nYou get admitted here after clearing 2 exams and one interview. The education board is CBSE. The teaching methods are exceptionally well and provides overall development of the students. If you take a review, students of every batch are admitted to IITs, MBBS, IISERs, PhD abroad and are doing well in their careers. The school promotes physical education, marketing skills, social skills equally.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jnana Prabodhini Prashala - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Tambe"
+          },
+          "datePublished": "2022-08-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have seen many reviews about Jnana Prabodhini school but not seen the correct information. Here I'm giving my review.\n\nJnana Prabodhini Prashala, is a high school located in sadashiv pune. It was started by educationist Dr. V. V. Pendse, in 1962.\n\nThe educational system is based development of the various mental and intellectual aspects of brain. The school entertains mainly the 'gifted' students. The students are selected through a two level entrance examination in which the Basic Mental Ability of a candidate is tested.\nMany cultural and social activities are taken place here . I have never seen such a best school ever .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jnana Prabodhini Prashala - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saurabh Pawar"
+          },
+          "datePublished": "2020-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best institutions for UPSC preparations in Pune.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jnana Prabodhini Prashala - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pranav kancharlawar"
+          },
+          "datePublished": "2018-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Temple of education. The best place in town. All people and faculty is polite here. Quality education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://twitter.com/yellow_slate",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://wa.me/919513238818",
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\\\\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org",
+    "https://schema.org\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad"
+  ],
+  "rating": "4.8",
+  "views": "597",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Narayan Peth",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

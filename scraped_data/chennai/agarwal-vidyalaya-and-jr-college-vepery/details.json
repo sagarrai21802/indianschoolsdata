@@ -1,0 +1,373 @@
+{
+  "slug": "/school/chennai/agarwal-vidyalaya-and-jr-college-vepery",
+  "url": "https://yellowslate.com/school/chennai/agarwal-vidyalaya-and-jr-college-vepery",
+  "city": "chennai",
+  "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery ",
+  "scraped_at": "2026-04-28T18:36:20.166482",
+  "html_length": 395133,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Vepery",
+          "item": "https://yellowslate.com/schools/chennai/vepery"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/vepery/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "AGARWAL VIDYALAYA AND JR COLLEGE",
+          "item": "https://yellowslate.com/school/chennai/agarwal-vidyalaya-and-jr-college-vepery"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/agarwal-vidyalaya-and-jr-college-vepery",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Agarwal Vidyalaya And Jr College, Mahaveer Colony, Periyamet, Chennai, Tamil Nadu 600007, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0817242,
+        "longitude": 80.2618392
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Agarwal Vidyalaya And Jr College, Mahaveer Colony, Periyamet, Chennai, Tamil Nadu 600007, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/agarwal-vidyalaya-and-jr-college-vepery-vepery-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "44"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akshat Kumar"
+          },
+          "datePublished": "2024-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is not a nice. School only one teacher of class 9 Rama Lakshmi mam is nice teacher but all teachers of Agarwal vidyalaya inter College are not nice and also it is not that strict",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ekalavya Jain"
+          },
+          "datePublished": "2024-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Understanding school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dinesh G"
+          },
+          "datePublished": "2023-06-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rekha Jain"
+          },
+          "datePublished": "2023-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teachers are very kind and polite\nLess pressure on kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anant jain"
+          },
+          "datePublished": "2023-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school, I am an alumni and both of my kids study here too. All previous comments of parents seems to make less sense, all who studied with me are well placed in their lives.\n\nThere is nothing wrong in being result oriented coz in real life there is insane world with high competition. If the parents are too protective with their children then i am sorry to those parents,  they need to know what’s out there.\n\nTeachers are trying to get best out of the kids, my child also receives many complaints from teacher but we need to take it positively and try to correct the child than to be over protective.\n\nDisclaimer:\nI am not a staff of this school and real parent and i love this school and its teacher/mgmt",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "gourav jhamber"
+          },
+          "datePublished": "2023-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BEST SCHOOL!!!!!  All the facilities are available like a lab for computer students and bio, chemistry& physics lab is also available with full advance equipment. here we also get many opportunities to overcome!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaista Farzeen S"
+          },
+          "datePublished": "2023-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a student of this school I have only great things to say about it . The teachers are amazing, the curriculum is really approving and each child is treated with care and no discrimination.\n\nIf you have any doubts please go and see the principal and she will put you at ease. I am blessed to have such kind and supporting teachers. Teachers are passionate about seeing their students succeed, they treat them as if they are their own children. No doubt that its one of the best  schools in Chennai.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ARSHIA FARHEEN"
+          },
+          "datePublished": "2023-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school is a temple of knowledge and wisdom and AVJC is a very good example of it. All the teachers,staff and students are well behaved and supporting.this school dosen't only require a student to gain knowledge but also train their mind to face difficult situations in life, a student is the future generation of a country if not trained properly now then when?..the teachers here are the ultimate support even though giving home works,tests, activities to complete are a part of the training to become successful in the future.I suggest you to send ur child here without hesitation.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "FLIES Gaming"
+          },
+          "datePublished": "2022-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "the worst school i ever seen, its teacher are not trusting the boys, they companies other students with the topper ,the teacher giving a lot of  homework which the student cannot do in 2 hours they camed home 4:00 and they start from 4:30 to 8:00 then they can do the homework,they told to bring a lot of books,my opinion is don't send your ward to this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "AGARWAL VIDYALAYA AND JR COLLEGE - Vepery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Unknown"
+          },
+          "datePublished": "2022-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school. Very rude teacher's and staff, money oriented, teaching quality is not good, no proper notes are given, principal pays no attention to parents complaint",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://8views.com/",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "4.1",
+  "views": "554",
+  "reviews_count": "44",
+  "phone": "+919513238818",
+  "locality": "Vepery",
+  "board": "CBSE\n\nCo",
+  "established": "2018",
+  "category": "Day Schools",
+  "classes": "000 - 60",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "AGARWAL VIDYALAYA AND JR COLLEGE ?\nAsk a Question\nAGARWAL VIDYALAYA AND JR COLLEGE Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

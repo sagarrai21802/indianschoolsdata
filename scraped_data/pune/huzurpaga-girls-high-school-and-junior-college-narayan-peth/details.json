@@ -1,0 +1,258 @@
+{
+  "slug": "/school/pune/huzurpaga-girls-high-school-and-junior-college-narayan-peth",
+  "url": "https://yellowslate.com/school/pune/huzurpaga-girls-high-school-and-junior-college-narayan-peth",
+  "city": "pune",
+  "name": "Huzurpaga Girls High School and Junior College - Narayan Peth ",
+  "scraped_at": "2026-04-28T18:38:04.073160",
+  "html_length": 356013,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Narayan Peth",
+          "item": "https://yellowslate.com/schools/pune/narayan-peth"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/pune/narayan-peth/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Huzurpaga Girls High School And Junior College",
+          "item": "https://yellowslate.com/school/pune/huzurpaga-girls-high-school-and-junior-college-narayan-peth"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Huzurpaga Girls High School and Junior College - Narayan Peth",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/huzurpaga-girls-high-school-and-junior-college-narayan-peth",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "9, 68, Narayan Peth, Laxmi Road, 689, Bajirao Rd, Narayan Peth, Pune, Maharashtra 411030, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5145155,
+        "longitude": 73.8527409
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Huzurpaga Girls High School and Junior College - Narayan Peth",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "9, 68, Narayan Peth, Laxmi Road, 689, Bajirao Rd, Narayan Peth, Pune, Maharashtra 411030, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/huzurpaga-girls-high-school-and-junior-college-narayan-peth-narayan-peth-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MrNams"
+          },
+          "datePublished": "2023-04-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hujurpaga School & College is a well-known educational institution located in Narayan Peth, Pune, Maharashtra, India. It was established in the year 1885 by the visionary and social reformer, Maharshi Dhondo Keshav Karve. The institution offers education to girls from kindergarten up to post-graduation, with a focus on holistic development of students.\n\nHujurpaga School & College is affiliated with the University of Pune and offers courses in various streams including Arts, Commerce, and Science. The college has a good reputation for academic excellence and has produced many successful alumnae over the years.\n\nThe school also has a hostel facility for its students, providing a safe and secure environment for outstation students to reside and study. Additionally, the institution also offers a range of extracurricular activities, including sports, music, drama, and cultural events, to ensure overall development of its students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Huzurpaga Girls High School and Junior College - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anagha Kulkarni"
+          },
+          "datePublished": "2023-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best institution for learning and becoming someone remarkable in life.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Huzurpaga Girls High School and Junior College - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aishwarya Deshmane"
+          },
+          "datePublished": "2023-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst college ever seen it doesn't deserve 1 star also. The staff is extremely rude they are extremely humiliating.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Huzurpaga Girls High School and Junior College - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Riya Kadam"
+          },
+          "datePublished": "2022-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As an Ex Junior College Student, I think this is the Worst College ever bcoz teaching is not good, staff members is not cooperative, all teachers are RUDE as hell, they don't have Manners how to talk with Girls though it is a Girls College but they don't treat a Girl in a Good Manner. Office Member is also Rude & non cooperative as Hell , they just keep ignoring girls if they are in problems or need a Help... Especially I experienced this.\nAs per I know within 2 years in Science Stream, this college is worst if one chooses.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Huzurpaga Girls High School and Junior College - Narayan Peth"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kirti Atre"
+          },
+          "datePublished": "2018-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst college ever..  Even the teachrs are not qualified..  There are only 2 teachers for each departments..and they also cannot teach well.! Cant speak english also..  😑\nThis is a girls college but no hygiene is maintained for girls..  Toilets are worst.!!  No water..  And only on toilet for 5 to 6 thousand girls..  This college is not at all good..  No discipline..  And they are not giving any good service in return to the fees paid..  The fees are 15000 -45000 for bcom and, bba- bca..  But no services are given in return..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\"
+  ],
+  "rating": "2.6",
+  "views": "729",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Narayan Peth",
+  "board": "State Board\n\nGirls\n\nAbout Huzurpaga Girls High School and Junior College\nEnquire Now\n\nThe meritorious teachers and non",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Girls",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

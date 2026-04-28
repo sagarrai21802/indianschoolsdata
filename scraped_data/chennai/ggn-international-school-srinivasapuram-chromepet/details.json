@@ -1,0 +1,261 @@
+{
+  "slug": "/school/chennai/ggn-international-school-srinivasapuram-chromepet",
+  "url": "https://yellowslate.com/school/chennai/ggn-international-school-srinivasapuram-chromepet",
+  "city": "chennai",
+  "name": "GGN International School - Chromepet ",
+  "scraped_at": "2026-04-28T18:26:18.447913",
+  "html_length": 363264,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chromepet",
+          "item": "https://yellowslate.com/schools/chennai/chromepet"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/chennai/chromepet/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "GGN International School",
+          "item": "https://yellowslate.com/school/chennai/ggn-international-school-srinivasapuram-chromepet"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "GGN International School - Chromepet",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/ggn-international-school-srinivasapuram-chromepet",
+      "telephone": "+91 442 265 9999",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1, Naidu Shop St, Radha Nagar, Chromepet, Chennai, Tamil Nadu 600044, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9539133,
+        "longitude": 80.1463346
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GGN International School - Chromepet",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1, Naidu Shop St, Radha Nagar, Chromepet, Chennai, Tamil Nadu 600044, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/ggn-international-school-srinivasapuram-chromepet-chromepet-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shalini Naganathan"
+          },
+          "datePublished": "2023-06-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School has good infrastructure and spatious classrooms with various activities conducted for all occasions like Diwali,Pongal. About the studies, the portions are much advanced and teachers train the students in unique way and make them understand with the practical methods. In my experience, I would say this is one of the best school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GGN International School - Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mani Arasu"
+          },
+          "datePublished": "2023-05-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful school! The staff and management are very attentive to kids. Has a healthy number of students in each class, not too many students in same section. Hard to find such schools in cities like Chennai. Thanks to GGN!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GGN International School - Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sofia ram"
+          },
+          "datePublished": "2023-05-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If you are relocating from foreign country and looking for a school matching to your expectation, I would recommend GGN. As a parent, we expect that teachers should be approachable, friendly, Very pleasant environment, good amenities like food,  neat, Air Conditioner, etc., GGN will be matching your expectations. We can also meet Chairman directly who really works very closely with all students and monitors their performance and support to work on the students area of improvement. In my opinion, they need to also put similar effort on sports which can be rated 3 out of 5 at present. Overall our experience was good. Both of our sons studied there. My first son is Grade 10th passed out and first batch of the school's IGCSE Curriculum.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GGN International School - Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meena Priya Karunakaran"
+          },
+          "datePublished": "2023-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My kid studied in this school for past 5 yrs. A few great things about the school -\nThe individual attention they pay to each kid (be it studies, food habits or their overall behaviour).\nThe worksheets are crafted by school management to aid the kids in coping with Cambridge curriculum.\nEasily approachable management and Chairman, very open to feedbacks.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "GGN International School - Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nalini Saraboji"
+          },
+          "datePublished": "2022-12-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "GREAT SCHOOL!\nMy son is studying in this school for almost 6 years. I have noticed improvement in his confidence, independence and problem solving.\n\nThe teachers are amazing, engaged, thoughtful and they know my kid very well.\n\nEach child is treated with care.\n\nGGN brings out the best in every child by tapping into their individual strengths while creating an environment of kindness, responsibility and leadership.\n\nThe Chairman knows the students and is active in creating a positive and supportive environment. He is so friendly to students which makes them feel it like a great school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160258305820220628805f857a120532d1602583058.PNG\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158598945514861472745e88474f4d4021585989455.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159073420210992113905ed0ad7ad11be1590734203.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.8",
+  "views": "749",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Chromepet",
+  "board": "IGCSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 130",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158598945514861472745e88474f4d4021585989455.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159073420210992113905ed0ad7ad11be1590734203.PNG"
+  ]
+}

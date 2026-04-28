@@ -1,0 +1,285 @@
+{
+  "slug": "/school/chennai/alphabet-international-school-palavakkam",
+  "url": "https://yellowslate.com/school/chennai/alphabet-international-school-palavakkam",
+  "city": "chennai",
+  "name": "aLphabet internationaL schooL - Palavakkam ",
+  "scraped_at": "2026-04-28T18:37:27.644829",
+  "html_length": 378960,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Palavakkam",
+          "item": "https://yellowslate.com/schools/chennai/palavakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/chennai/palavakkam/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ALphabet InternationaL SchooL",
+          "item": "https://yellowslate.com/school/chennai/alphabet-international-school-palavakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "aLphabet internationaL schooL - Palavakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/1776398926861xzmhx28zhk8.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/alphabet-international-school-palavakkam",
+      "telephone": "+91 938 383 8777",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Palavakkam Campus - Palavakkam, Chennai, Tamil Nadu 600041, India // St. Mary's Road Campus - 178, St Marys Rd, Vidhya Thirtha Nagar, Abiramapuram, Chennai, Tamil Nadu 600018",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9616562,
+        "longitude": 80.256219
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "aLphabet internationaL schooL - Palavakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Palavakkam Campus - Palavakkam, Chennai, Tamil Nadu 600041, India // St. Mary's Road Campus - 178, St Marys Rd, Vidhya Thirtha Nagar, Abiramapuram, Chennai, Tamil Nadu 600018",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/alphabet-international-school-palavakkam-palavakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.0",
+              "reviewCount": "7"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is a commercial institution more than a school. Bullying is not just overlooked but encouraged by the school administration. The only school where teachers themselves go through bullying while advicing the kids who go through bully to be resilient and strong towards bullying rather than addressing the wrong doer. The teachers proudly say that they can give counselling to the student who undergoes bullying from the way they learnt how they encountered the same from the bully they are facing in the school. Kavita Saraf is one classic example for arrogance. She addresses a problem by calculation of money. She cant compromise money for a single child's welfare. If u want to send your child to a school only for fame you can choose this school. If discipline and character matter, better pause and reconsider. Students will go to any extent but teachers will be sitting blind folded, lips zipped and with deaf ears. Because thats how they have been instructed. They have zero tolerence towards bullying well drafted only on papers. Your mails will never be responded. Your concerns will never be addressed. Once your child is enrolled, your child becomes either a victim or a wrongdoer. I had to change my child's school in the midway as the school turned deafears towards my complaint against bullying in the class. worst ever school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "aLphabet internationaL schooL - Palavakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "J Williams"
+          },
+          "datePublished": "2023-05-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School faculty and management is amazing, best IB Continuum School in Chennai in my opinion.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "aLphabet internationaL schooL - Palavakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "selvam ravindran"
+          },
+          "datePublished": "2023-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The principal/correspondent of the school needs to focus on education rather than money making. All students need to be treated equally. Only celebrity kids are given recognition.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "aLphabet internationaL schooL - Palavakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bharath kumar"
+          },
+          "datePublished": "2023-04-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good infra. But super costly to afford.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "aLphabet internationaL schooL - Palavakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NAVEENA SHILPAUL"
+          },
+          "datePublished": "2023-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s a very good IB school for this generation kids. Teachers are so kindhearted and safe environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "aLphabet internationaL schooL - Palavakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Riya Jain"
+          },
+          "datePublished": "2023-03-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Terrible experience in dealing with school management. They invited our organisation to host our services and we were informed by certain person in their management for several weeks that they were interested in our services. When a follow-up was conducted, the person in management deliberately ignored all our phone calls and messages and when the matter was reported to Upper Management, nothing was done. After writing this, a person called from the school mgmt this morning yelling at us about the negative experience we experienced.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/1776398926861xzmhx28zhk8.jpg",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1776398926861xzmhx28zhk8.jpg",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158626136915717002055e8c6d7918c351586261369.jpg\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/1776398926861xzmhx28zhk8.jpg\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859913283579550655e884ea0631641585991328.PNG\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1776398926861xzmhx28zhk8.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "3.0",
+  "views": "1309",
+  "reviews_count": "7",
+  "phone": "+919513238818",
+  "locality": "Palavakkam",
+  "board": "IB\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/https://yellowslate.sgp1.digitaloceanspaces.com/schools/1776398926861xzmhx28zhk8.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158626136915717002055e8c6d7918c351586261369.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859913283579550655e884ea0631641585991328.PNG"
+  ]
+}

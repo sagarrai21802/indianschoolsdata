@@ -1,0 +1,259 @@
+{
+  "slug": "/school/kolkata/marian-co-educational-school-naskarhat-road",
+  "url": "https://yellowslate.com/school/kolkata/marian-co-educational-school-naskarhat-road",
+  "city": "kolkata",
+  "name": "Marian Co-Educational School - Naskarhat Road ",
+  "scraped_at": "2026-04-28T18:39:31.402817",
+  "html_length": 349189,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Naskarhat Road",
+          "item": "https://yellowslate.com/schools/kolkata/naskarhat-road"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/kolkata/naskarhat-road/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Marian Co-Educational School",
+          "item": "https://yellowslate.com/school/kolkata/marian-co-educational-school-naskarhat-road"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Marian Co-Educational School - Naskarhat Road",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/marian-co-educational-school-naskarhat-road",
+      "telephone": "7044611920",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "120/6N, Deb Banerjee Rd, Picnic Garden, Kasba, Kolkata, West Bengal 700039, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5240246,
+        "longitude": 88.3940486
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marian Co-Educational School - Naskarhat Road",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "120/6N, Deb Banerjee Rd, Picnic Garden, Kasba, Kolkata, West Bengal 700039, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/marian-co-educational-school-naskarhat-road-naskarhat-road-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prasant Biswal"
+          },
+          "datePublished": "2023-07-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad school bad behaviour of the teacher they think they are very rich like a queen the teacher are good but the management staff are very bad 🫥🫥",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marian Co-Educational School - Naskarhat Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meherab Hossain"
+          },
+          "datePublished": "2023-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I admitted my child there but the teachers didn't teach so well and there is always functions and functions so I shifted my child to Narayana school park circus branch",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marian Co-Educational School - Naskarhat Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arijit Biswal"
+          },
+          "datePublished": "2023-04-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is my Childhood school where I learn many things from this I have studied from playgroup to class 10 all the teachers are good and Principal as well ❤️‍🩹❤️‍🩹",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marian Co-Educational School - Naskarhat Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Subham Shaw."
+          },
+          "datePublished": "2020-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has very good discipline. Very good English speaking 👌. The school is best for class 6 7 8 9 and 10. Very well behaved teachers and staff. They prepare children for the future perfectly. Thank you 😊.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Marian Co-Educational School - Naskarhat Road"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayontika Sadhukhan"
+          },
+          "datePublished": "2020-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My entire childhood has passed over here. This school is just like a second home to me... The teachers are very sweet, nd welcoming e. except few newcomers.. but it's still fine... The principal over here is very good....  Every moment she tries to develop the school in every possible ways... This school is very good..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15892799482688212325eba7ccca0e6e1589279949.PNG\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737282111752031185e9d63158be9e1587372822.PNG\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.4",
+  "views": "646",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Naskarhat Road",
+  "board": "ICSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "800 - 16",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Marian Co-Educational School ?\nAsk a Question\nMarian Co-Educational School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158737282111752031185e9d63158be9e1587372822.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "slug": "/school/mumbai/singapore-international-school-dahisar",
+  "url": "https://yellowslate.com/school/mumbai/singapore-international-school-dahisar",
+  "city": "mumbai",
+  "name": "Singapore International School - Dahisar ",
+  "scraped_at": "2026-04-28T18:36:19.375393",
+  "html_length": 471224,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dahisar",
+          "item": "https://yellowslate.com/schools/mumbai/dahisar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/mumbai/dahisar/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Singapore International School",
+          "item": "https://yellowslate.com/school/mumbai/singapore-international-school-dahisar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Singapore International School - Dahisar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15861671112889148155e8afd47e931b1586167112.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/singapore-international-school-dahisar",
+      "telephone": "2228285204,2228285205",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "On National Highway No. 8, Post Mira Road, next to Thakur Mall, Dahisar East, Mumbai, Maharashtra 401104",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.2628711,
+        "longitude": 72.874994
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "On National Highway No. 8, Post Mira Road, next to Thakur Mall, Dahisar East, Mumbai, Maharashtra 401104",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/singapore-international-school-dahisar-dahisar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "76"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "akash kanojiya"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "From academics to extracurricular activities, everything is top-notch. The school genuinely encourages students, helping them build confidence and stay motivated for future endeavors. Thank you!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sarvesh Kumar"
+          },
+          "datePublished": "2024-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had an exceptional experience with SIS. My nephew felt safe and thrived in all aspects of his development. I highly recommend this school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Himanshu Kumar"
+          },
+          "datePublished": "2024-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The efforts of the school management, teachers, and students are truly commendable. Their dedication and hard work are evident, and I am extremely satisfied with the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanu Singh"
+          },
+          "datePublished": "2024-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are fortunate to have chosen the Singapore International School. The teachers have done an outstanding job in helping our son develop his individuality while also instilling self-discipline and respect for others. It has been a truly heartwarming experience.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aisha Bhardwaj"
+          },
+          "datePublished": "2024-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I truly appreciate the school's dedication to nurturing the growth of student. Extra curricular activities allows students to explore diverse interests, and the boarding amenities are exceptional, ensuring a comfortable and enriching experience for all.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prakash Solanki"
+          },
+          "datePublished": "2024-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "When I inquired about this school, they did not disclose their fees, but after getting the information, I came to know that the annual fees is Rs 8-10 lakh.\nThis is clearly a business.\nI don't know why people spend lakhs of rupees on primary education. I am a businessman and in my opinion this is a waste of money.\nyour time won't always be the same।\nIt is possible that you spend lakhs of rupees on primary education and you may be left with no money for higher education\nHowever much you spend on higher education is justified.\nNursery to 5th standard annual 50k fees is ok .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Huzaifa Ahmed"
+          },
+          "datePublished": "2024-05-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "pookie's school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "poonam sharma shah"
+          },
+          "datePublished": "2024-05-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best IB schools in Mumbai. Very good campus. Teachers and the co-ordinators esp Shirley ma'am are very passionate about helping students. Highly recommended.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Wasim Sayyed"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not sure why the fee structure is so secret, you have to pay non refundable Rs.15500 [ in 2024 ] for a school visit tour, and on fee policy page it's clearly written it also doesn't guarantee the admission,\n\nOk, I went to school directly anyway since it's near where I am currently living, asked watchmen for admission inquiry, he said go online and fill up the form, I said I know that at least tell me if seats are available he said, you have to fill the online form, I said what about fee?, at least let me inside already it was 35 degree heat that too in Ramadan, Yes I was fasting, he said fee also you will know once you fill online form. then I left.\n\nSo either this school is for elite people or those who don't mind giving away 15K for no reason, or maybe I am missing something?\n\nFunny part is, even If I pay Rs.15500 and they accepted my child, and then fee is 50 lakhs [ I can only assume ], as per there fee policy I need to pay it within 7 days.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Singapore International School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "prashant toraskar"
+          },
+          "datePublished": "2024-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best international school in Mumbai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.sisindia.net/pyp/curriculum.aspx\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15861671112889148155e8afd47e931b1586167112.PNG",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15861671112889148155e8afd47e931b1586167112.PNG\\\\\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/embed/ds0YsCqiXzc\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159046263310812853285ecc88a9edec31590462634.PNG\\",
+    "https://schema.org",
+    "https://www.youtube.com/embed/RpV2Xq8C6A4\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.youtube.com/embed/qLK0U7aYFzA\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Golf.png\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15861671112889148155e8afd47e931b1586167112.PNG\\",
+    "https://schema.org\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15889330295246223385eb531a57a31d1588933030.jpg\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.youtube.com/embed/wTiEAFU2W5Y\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png\\",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.1",
+  "views": "2298",
+  "reviews_count": "76",
+  "phone": "+919513238818",
+  "locality": "Dahisar",
+  "board": "IB, IGCSE\n\nCo",
+  "established": "2006",
+  "category": "International Schools",
+  "classes": "8-10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nVideos\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158616703611705673155e8afcfcd91841586167037.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15889330295246223385eb531a57a31d1588933030.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15861671112889148155e8afd47e931b1586167112.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15861670302399136795e8afcf6d29801586167031.PNG",
+    "https://img.youtube.com/vi/ds0YsCqiXzc/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15861670348218009005e8afcfa6650d1586167034.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Golf.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15861670339893505325e8afcf9ef6261586167034.PNG",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158616703618607229975e8afcfc5064a1586167036.PNG",
+    "https://img.youtube.com/vi/wTiEAFU2W5Y/hqdefault.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159046263310812853285ecc88a9edec31590462634.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Boxing.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15861671528800275185e8afd705aa361586167152.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158616703017253438225e8afcf68c56a1586167031.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Netball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15861670289894772275e8afcf43af2e1586167028.PNG"
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "slug": "/school/mumbai/st-peters-school-panchgani-panchgani",
+  "url": "https://yellowslate.com/school/mumbai/st-peters-school-panchgani-panchgani",
+  "city": "mumbai",
+  "name": "St. Peter's School, Panchgani - Panchgani ",
+  "scraped_at": "2026-04-28T18:36:31.942165",
+  "html_length": 395640,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Panchgani",
+          "item": "https://yellowslate.com/schools/mumbai/panchgani"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/mumbai/panchgani/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Peter'S School, Panchgani",
+          "item": "https://yellowslate.com/school/mumbai/st-peters-school-panchgani-panchgani"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Peter's School, Panchgani - Panchgani",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/st-peters-school-panchgani-panchgani",
+      "telephone": "02168 240 313",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "near Baby point, Bhim Nagar, Panchgani, Maharashtra 412805",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.921089,
+        "longitude": 73.79308
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "near Baby point, Bhim Nagar, Panchgani, Maharashtra 412805",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/st-peters-school-panchgani-panchgani-panchgani-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "67"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parikshit Deshmukh"
+          },
+          "datePublished": "2024-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Freddy Mercury studied here :D",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaspreet Chhabda"
+          },
+          "datePublished": "2024-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Beautiful campus",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navdeep Duhan"
+          },
+          "datePublished": "2024-02-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Class of 2009.\nI still remember my entrance exams were during the School Fete of 2006, and we ran into ex-students from the Class of 1996. They assured my parents that STPS was the best choice and said, \"He will go in a boy and come out a man\".\n\nIt could not be more accurate. Fifteen years later, his words still linger in my ears. The school has played a significant role in moulding me into the person I have become. My future kid will study here and be a proud Peterite- just like his old man!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Husain Abbas Hathiyari"
+          },
+          "datePublished": "2023-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "St. Peter's School, Panchgani: Outstanding education, nurturing environment, and picturesque location make it a top choice for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yogesh Patil"
+          },
+          "datePublished": "2023-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neelgreev sinha"
+          },
+          "datePublished": "2023-05-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever they have no care for the children here, i was studying here a few years back and the teachers would hit the students like come on we are living in a modern world this is not right , the living area smells no cleanliness and the beds are also so uncomfortable, children only get 5 min to talk to their parents on Sundays so like how are we supposed to communicate with our parents on what is going on",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fabian Piper"
+          },
+          "datePublished": "2023-04-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best boarding school in Punchgani",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sachin Tambe"
+          },
+          "datePublished": "2023-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sagar Bavalekar"
+          },
+          "datePublished": "2023-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Only name is good.Big boys doing raging here.force to lick wash basin to boys.worst administration and management.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Peter's School, Panchgani - Panchgani"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gilly Ds"
+          },
+          "datePublished": "2022-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Madness for this review below by P.S commenting on a Freddie mercury statue. Imagine every year a legend in it's own right comes out of this school ..would the school make a statue for every student. The school educates all children. I'm a huge Freddie fan but it's not like Freddie bothered returning to India to visit the school either. The school is bigger than the students as an institution Offering education. People r seriously so ignorant.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16849937651819724517646ef6e54088e1684993765.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.5",
+  "views": "163",
+  "reviews_count": "67",
+  "phone": "+919513238818",
+  "locality": "Panchgani",
+  "board": "ICSE\n\nCo",
+  "established": "1904",
+  "category": "Public Schools, Boarding Schools",
+  "classes": "1 - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. Peter's School, Panchgani ?\nAsk a Question\nSt. Peter's School, Panchgani Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/16849937651819724517646ef6e54088e1684993765.jpg"
+  ]
+}

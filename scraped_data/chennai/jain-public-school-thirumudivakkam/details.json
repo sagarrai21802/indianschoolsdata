@@ -1,0 +1,260 @@
+{
+  "slug": "/school/chennai/jain-public-school-thirumudivakkam",
+  "url": "https://yellowslate.com/school/chennai/jain-public-school-thirumudivakkam",
+  "city": "chennai",
+  "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM ",
+  "scraped_at": "2026-04-28T18:15:02.749175",
+  "html_length": 359190,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "THIRUMUDIVAKKAM",
+          "item": "https://yellowslate.com/schools/chennai/thirumudivakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/thirumudivakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "JAIN PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/chennai/jain-public-school-thirumudivakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/jain-public-school-thirumudivakkam",
+      "telephone": "+91 971 829 7082",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Tirumudivakkam Main Rd, Chromepet, Chennai, Thirumudivakkam, Tamil Nadu 600044, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9658194,
+        "longitude": 80.1094965
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Tirumudivakkam Main Rd, Chromepet, Chennai, Thirumudivakkam, Tamil Nadu 600044, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/jain-public-school-thirumudivakkam-thirumudivakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lavanya Gomathi"
+          },
+          "datePublished": "2022-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing place to work and supportive colleagues. Good infrastructure and ambience. Really a good school in term of all aspect like Academics, Non Academics(Music,Dance etc..as well Sports. Principal is easily apporachable to the parents as well students and offering Foreign languages like French, Over all outstanding school for learnings more things as a employee as well students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "JAYAM KAARTHIK"
+          },
+          "datePublished": "2022-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Jain Public School  - School for leaders, Best CBSE school in Chrompet. A very good school in terms of academics and sports.. It is a temple of knowledge and discipline. Kids study here are brilliant and highly disciplined.. This school, that imparts moral values into education. If you are truly hardworking and sincere the school helps you to grow in all aspects. Discipline & devotion are also taught by teachers who can be compared to nothing.\n\nA big playground, library , EA Tech lab , nice infrastructure\n\nNice environment for education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ishwarya Ram"
+          },
+          "datePublished": "2022-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the Best schools in Chennai with Holistic Vision and Mission that has  roots Culturally and grows contemporarily. Right from academics to extra curricular activities this school gives ample support and opportunities to the student community. Keep it up JPS👏👏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Murugan Subramani"
+          },
+          "datePublished": "2022-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is equipped with very good infrastructure, extra curricular activities and well experienced teachers.Students get an opportunity to attend all leading competitive exams. On the whole the school provides a very good learning environment for the students...Principal  is easily approachable to the parents as well as students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "JAIN PUBLIC SCHOOL - THIRUMUDIVAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kjhappy kids"
+          },
+          "datePublished": "2019-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School for leaders,  their curriculum is very good,  all necessary infrastructure available.  Teachers are extremely friendly to children...  Lots of extra Curicular activities available to students.  Overall a school that is marching towards a great progress year by year...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1774954135091brkkb9pdega.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "5.0",
+  "views": "542",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "THIRUMUDIVAKKAM",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "870 - 58",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "JAIN PUBLIC SCHOOL ?\nAsk a Question\nJAIN PUBLIC SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1774954135091brkkb9pdega.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

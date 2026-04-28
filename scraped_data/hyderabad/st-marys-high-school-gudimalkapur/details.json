@@ -1,0 +1,259 @@
+{
+  "slug": "/school/hyderabad/st-marys-high-school-gudimalkapur",
+  "url": "https://yellowslate.com/school/hyderabad/st-marys-high-school-gudimalkapur",
+  "city": "hyderabad",
+  "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur ",
+  "scraped_at": "2026-04-28T18:37:39.226729",
+  "html_length": 359785,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hyderabad",
+          "item": "https://yellowslate.com/schools/hyderabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gudimalkapur",
+          "item": "https://yellowslate.com/schools/hyderabad/gudimalkapur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/hyderabad/gudimalkapur/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "ST. MARYS HIGH SCHOOL",
+          "item": "https://yellowslate.com/school/hyderabad/st-marys-high-school-gudimalkapur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/hyderabad/st-marys-high-school-gudimalkapur",
+      "telephone": "040-65167772",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "422/16/80, Gudi Malkapur Rd, SBI Colony, Gudi Malkapur, Mehdipatnam, Hyderabad, Telangana 500028, India",
+        "addressLocality": "Hyderabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.3839591,
+        "longitude": 78.4388909
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "422/16/80, Gudi Malkapur Rd, SBI Colony, Gudi Malkapur, Mehdipatnam, Hyderabad, Telangana 500028, India",
+              "addressLocality": "Hyderabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/hyderabad/st-marys-high-school-gudimalkapur-gudimalkapur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "joe devarapaga"
+          },
+          "datePublished": "2023-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Is there hostel to that school ?",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mmm143 Mmm143"
+          },
+          "datePublished": "2023-06-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is awesome\nSchool madam is so very very good\nAll management is good behaviour in school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shiva Krishna"
+          },
+          "datePublished": "2020-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If your schedule boardexam center is here then you are fail fail fail😱😱",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pradeep Kumar"
+          },
+          "datePublished": "2018-06-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school and even management. Its a nice school for all nearby resident children with very reasonable fee.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "ST. MARYS HIGH SCHOOL - Gudimalkapur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jaleel basha"
+          },
+          "datePublished": "2017-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not bad but facilities are average and seating tables are also average...\nI think from this won't provide healthy education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1526908993_proile.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2019/08/2.jpg\\",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2019/10/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-5.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\"
+  ],
+  "rating": "3.6",
+  "views": "485",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Gudimalkapur",
+  "board": "State Board\n\nCo",
+  "established": "1995",
+  "category": "Day Schools",
+  "classes": "000 - 22",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "ST. MARYS HIGH SCHOOL ?\nAsk a Question\nST. MARYS HIGH SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1526908993_proile.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2019/10/Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-5.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2019/08/2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

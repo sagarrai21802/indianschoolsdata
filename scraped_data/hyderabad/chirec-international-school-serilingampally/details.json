@@ -1,0 +1,258 @@
+{
+  "slug": "/school/hyderabad/chirec-international-school-serilingampally",
+  "url": "https://yellowslate.com/school/hyderabad/chirec-international-school-serilingampally",
+  "city": "hyderabad",
+  "name": "Chirec International School - Serilingampally ",
+  "scraped_at": "2026-04-28T18:37:13.257961",
+  "html_length": 364738,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hyderabad",
+          "item": "https://yellowslate.com/schools/hyderabad"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Serilingampally",
+          "item": "https://yellowslate.com/schools/hyderabad/serilingampally"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/hyderabad/serilingampally/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chirec International School",
+          "item": "https://yellowslate.com/school/hyderabad/chirec-international-school-serilingampally"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Chirec International School - Serilingampally",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/hyderabad/chirec-international-school-serilingampally",
+      "telephone": "+91 4023010029",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No: 277 to 282, Gachibowli Road, Telecom Officers Colony, Bhaghyalakshmi Nagar, Phase II, Serilingampally, Ravi Colony, Hyderabad, Serilingampalle (M), Telangana 500019, India",
+        "addressLocality": "Hyderabad",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.473532,
+        "longitude": 78.332605
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chirec International School - Serilingampally",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No: 277 to 282, Gachibowli Road, Telecom Officers Colony, Bhaghyalakshmi Nagar, Phase II, Serilingampally, Ravi Colony, Hyderabad, Serilingampalle (M), Telangana 500019, India",
+              "addressLocality": "Hyderabad",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/hyderabad/chirec-international-school-serilingampally-serilingampally-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sai Kaushik"
+          },
+          "datePublished": "2023-08-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bus driver driving is really very fast and using the mobile while driving. There were no kids in the bus, still they are not supposed to drive that fast. Please train your drivers, hire someone who have more patients.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chirec International School - Serilingampally"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VENKAT N REDDY REDDY"
+          },
+          "datePublished": "2023-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No clearity in giving new admissions!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chirec International School - Serilingampally"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pinterest Star"
+          },
+          "datePublished": "2022-06-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school... Nice people...... Good atmosphere....... Best teachers and learning",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chirec International School - Serilingampally"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mekala raghu"
+          },
+          "datePublished": "2016-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Chirec 1 of the best schools\nraina roa studying here\ni just feel dam for her acting in manamatha film\nJust love u sista for long😍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chirec International School - Serilingampally"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alpna Kataria"
+          },
+          "datePublished": "2015-11-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "my youngest son goes here. its a fairly big campus but not as big as kondapur one but its safe for kids...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h2",
+    "https://twitter.com/yellow_slate\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2018/10/1536926474.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1761199148141068056168f9c42c07ad81761199148.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1524554546_proile.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\"
+  ],
+  "rating": "3.2",
+  "views": "513",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Serilingampally",
+  "board": "CBSE, IGCSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 300",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1761199148141068056168f9c42c07ad81761199148.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1524554546_proile.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2018/10/1536926474.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

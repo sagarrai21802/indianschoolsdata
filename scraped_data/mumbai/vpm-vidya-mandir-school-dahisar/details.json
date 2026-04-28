@@ -1,0 +1,373 @@
+{
+  "slug": "/school/mumbai/vpm-vidya-mandir-school-dahisar",
+  "url": "https://yellowslate.com/school/mumbai/vpm-vidya-mandir-school-dahisar",
+  "city": "mumbai",
+  "name": "VPM Vidya Mandir School - Dahisar ",
+  "scraped_at": "2026-04-28T18:34:47.749438",
+  "html_length": 391619,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dahisar",
+          "item": "https://yellowslate.com/schools/mumbai/dahisar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/mumbai/dahisar/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VPM Vidya Mandir School",
+          "item": "https://yellowslate.com/school/mumbai/vpm-vidya-mandir-school-dahisar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VPM Vidya Mandir School - Dahisar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/vpm-vidya-mandir-school-dahisar",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Chhatrapati Shivaji Rd, Panchdham, Anand Nagar, Dahisar East, Mumbai, Maharashtra 400068",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.2554559,
+        "longitude": 72.8631994
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Chhatrapati Shivaji Rd, Panchdham, Anand Nagar, Dahisar East, Mumbai, Maharashtra 400068",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/vpm-vidya-mandir-school-dahisar-dahisar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "80"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mayank Gupta"
+          },
+          "datePublished": "2024-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Alka Salunkhe Keni"
+          },
+          "datePublished": "2024-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonali Raaj"
+          },
+          "datePublished": "2024-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BEST ♥️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Madhav Bhande"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "खूप खूप छान",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sudhir shetty"
+          },
+          "datePublished": "2024-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school which really teaches, gives good education, with really good teachers and staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Upadhyay"
+          },
+          "datePublished": "2024-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Went there for pre school enquiry for my daughter.. as soon as we reachd the office we asked a staff member to help us to locate pre school enquiry desk.. the lady incharge for pre school enquiries was so rude and  told the staff im busy ask these guys to wait for half hour.. as if shez some minister.. zero professionalism.. god knows what they teach kids there!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swapna Divekar"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I got my daughter enrolled here from Rustomjee, and I regret it badly. The infrastructure of the school is pathetic. No good facilities available. The school management doesn't even want to upgrade. Inspite being an English medium school, nobody follows the basic rule of speaking in English during school hours. Unfortunately SSC schools are hardly surviving due to other boards. But yes as a school, it's lacking too behind.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhruv Jain"
+          },
+          "datePublished": "2024-03-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School from outer view looks amazing but\n... The classrooms are just ordinary.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anagha Darne"
+          },
+          "datePublished": "2023-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is very good school\nTeachers are very good\nGround is very big",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VPM Vidya Mandir School - Dahisar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikita Pandit"
+          },
+          "datePublished": "2023-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Love it",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158616711116773055415e8afd47e8e081586167112.PNG\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15889330295246223385eb531a57a31d1588933030.jpg\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.4",
+  "views": "43",
+  "reviews_count": "80",
+  "phone": "+919513238818",
+  "locality": "Dahisar",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VPM Vidya Mandir School ?\nAsk a Question\nVPM Vidya Mandir School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158616711116773055415e8afd47e8e081586167112.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg"
+  ]
+}

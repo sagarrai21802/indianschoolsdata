@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/srimathi-sundaravalli-memorial-school-ponnappa-nagar-chromepet",
+  "url": "https://yellowslate.com/school/chennai/srimathi-sundaravalli-memorial-school-ponnappa-nagar-chromepet",
+  "city": "chennai",
+  "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet ",
+  "scraped_at": "2026-04-28T18:31:48.909138",
+  "html_length": 354655,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ponnappa Nagar,Chromepet",
+          "item": "https://yellowslate.com/schools/chennai/ponnappa-nagar-chromepet"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/ponnappa-nagar-chromepet/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Srimathi Sundaravalli Memorial School",
+          "item": "https://yellowslate.com/school/chennai/srimathi-sundaravalli-memorial-school-ponnappa-nagar-chromepet"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/srimathi-sundaravalli-memorial-school-ponnappa-nagar-chromepet",
+      "telephone": "+91 442 273 1330",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "X44M+HCM, 3rd Main Rd, Nagappa Nagar, Chromepet, Chennai, Tamil Nadu 600044, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.955975,
+        "longitude": 80.1341048
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "X44M+HCM, 3rd Main Rd, Nagappa Nagar, Chromepet, Chennai, Tamil Nadu 600044, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/srimathi-sundaravalli-memorial-school-ponnappa-nagar-chromepet-ponnappa-nagar-chromepet-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "1.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harshad Chandra Bose"
+          },
+          "datePublished": "2023-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "NOTE: REVIEW MADE BEFORE SUNSHINE AQUISITION, DONT TAKE INTO ACCOUNT\n\nVery hectic school, they make fuss over anything and everything,For example, if you bring lollipop to school and they find it, instead of saying something like eat it in free time, they cruelly take it away .It also has Horrible  food, very horrible school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sujatha balakrishnan"
+          },
+          "datePublished": "2022-06-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "SSM was one of the best schools in chennai. Unlike other schools they do not loot parents and the food served to kids are also of good quality. Very systematic in teaching kids without overloading. Kids will enjoy studying here. Best school with Montessori system of education to start schooling but unfortunately things have changed now.Think twice about your kids future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shyamala Murugesan"
+          },
+          "datePublished": "2022-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Recently Enquired for KG admissions. Fee is 69000 per year inclusive of all. But the donation is 100000rs which is non refundable deposit which should be paid within 15 days from the date of submitting the application.. Many international school fees are lesser than this amount. Management should think twice before asking this much fees..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Selvi S"
+          },
+          "datePublished": "2022-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Management is least bothered about parent's feedback and issues the students are facing. They do not have a parents teacher meet, so if you are planning to join your kid in this school good luck with sharing your concerns with the management.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Srimathi Sundaravalli Memorial School - Ponnappa Nagar,Chromepet"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ayyal Raju"
+          },
+          "datePublished": "2018-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best School in Chennai .. The systematic approach and educating the student  with more discipline along with  academic is bit impossible but the school management is executing well. Also as parent we must appreciate the extra curricular activities engagement and food arrangements. Also all the time they ensured the children safety and teacher & staff behaviour is awesome.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "1.8",
+  "views": "622",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Ponnappa Nagar,Chromepet",
+  "board": "CBSE\n\nCo",
+  "established": "1986",
+  "category": "Day Schools",
+  "classes": "000 - 29",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "/school/chennai/boaz-public-school-gowrivakkam",
+  "url": "https://yellowslate.com/school/chennai/boaz-public-school-gowrivakkam",
+  "city": "chennai",
+  "name": "Boaz Public School - Gowrivakkam ",
+  "scraped_at": "2026-04-28T18:22:12.010721",
+  "html_length": 344798,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gowrivakkam",
+          "item": "https://yellowslate.com/schools/chennai/gowrivakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/gowrivakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Boaz Public School",
+          "item": "https://yellowslate.com/school/chennai/boaz-public-school-gowrivakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Boaz Public School - Gowrivakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/boaz-public-school-gowrivakkam",
+      "telephone": "+91 442 278 0083",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "277, Velachery Tambaram Main Rd, Gowrivakkam, New Kunagkurichi, Gowriwakkam, Sembakkam, Chennai, Tamil Nadu 600073, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9213736,
+        "longitude": 80.1653346
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Boaz Public School - Gowrivakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "277, Velachery Tambaram Main Rd, Gowrivakkam, New Kunagkurichi, Gowriwakkam, Sembakkam, Chennai, Tamil Nadu 600073, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/boaz-public-school-gowrivakkam-gowrivakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "4"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAK"
+          },
+          "datePublished": "2022-05-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school with reasonable fees and infrastructure, transport is managed by third party manager mr. Babu  he took money from school and not paying to the drivers. It is not safety for the students to use school transport in this looting situation  i have withdraw my ward from school transport.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Boaz Public School - Gowrivakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nature Dash"
+          },
+          "datePublished": "2022-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Once....\n.......  I Miss Those Amazing Days in fifth, when it was totally different and amazing,  school was fun, i was able to talk English!!!! Studying was fun, science has experiments for each and every student.........\nBut now Nothing....\nBut Actually This School Is Still Nice Cuz No Study Pressure Like We Can Have Fun Learning....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Boaz Public School - Gowrivakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Panneer Selvam"
+          },
+          "datePublished": "2022-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school near by area. Fees is very reasonable in cbsz school segment. School ground is too big in near by schools. Other activity like dance,yoga,karate , arts class giving one period every week.\n7 years before we have waited in the queue for full night and get the seat. Now its easy to get since many school opened near by area. Learning wise too good. Transport available in most of the area.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Boaz Public School - Gowrivakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh Srinivasan"
+          },
+          "datePublished": "2016-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "High fees for the infrastructure  they have. The school has to develop on Sports related activities. To many home work & exams for smaller classes itself. The change in home work & Exams are mostly after 2015 and before that it was better.\n\nCoaching is good and my kid speaks good English. No regular parents teacher meetings to clarify our doubts. They need provide time on weekends for working parents to get engaged with school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.8",
+  "views": "498",
+  "reviews_count": "4",
+  "phone": "+919513238818",
+  "locality": "Gowrivakkam",
+  "board": "CBSE\n\nCo",
+  "established": "1998",
+  "category": "Day Schools",
+  "classes": "000 - 120",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

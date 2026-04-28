@@ -1,0 +1,261 @@
+{
+  "slug": "/school/chennai/csi-brain-school-kilpauk",
+  "url": "https://yellowslate.com/school/chennai/csi-brain-school-kilpauk",
+  "city": "chennai",
+  "name": "CSI Brain School - Kilpauk ",
+  "scraped_at": "2026-04-28T18:24:05.062543",
+  "html_length": 359932,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kilpauk",
+          "item": "https://yellowslate.com/schools/chennai/kilpauk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/chennai/kilpauk/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "CSI Brain School",
+          "item": "https://yellowslate.com/school/chennai/csi-brain-school-kilpauk"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "CSI Brain School - Kilpauk",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/csi-brain-school-kilpauk",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "42-48, Ormes Rd, Kilpauk, Chennai, Tamil Nadu 600010, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0817639,
+        "longitude": 80.2476745
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CSI Brain School - Kilpauk",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "42-48, Ormes Rd, Kilpauk, Chennai, Tamil Nadu 600010, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/csi-brain-school-kilpauk-kilpauk-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Preethi Jean"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school to make your child grow in knowledge and discipline.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CSI Brain School - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "angelaevan roberts"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bain School stands out with its empowering environment, knowledgable teachers to the top notch  reshaping the landscape of the education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CSI Brain School - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jason JG"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"CSI Bain School has been an incredible place for my daughter's education. The teachers are not only knowledgeable but also deeply committed to their students' success. The school's supportive environment has helped her thrive both academically ,spiritually and personally. We're grateful for the enriching experience she had there.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CSI Brain School - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "anitha dilli"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello👋🏼!!! Bain's past pupil here, I completed my schooling in the year  1999. To be honest my school was heaven on earth💖.The chapel, playground,lunch hall , the amazing hardworking motherly teachers who made my school years so special and made my school life memorable .\nI thank and praise God for enabling me to work in this prestigious institute for the past twelve years and still on.\nMay my school live for ever and ever🤍.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "CSI Brain School - Kilpauk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nahomi Gilbert"
+          },
+          "datePublished": "2024-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Its a very blessed school .Those who studied in this school were like flying colours and accepted Christ as their secrete saviour .Many passed out from this school are in high postions and helping the needy people .Am really blessed to be part of Bain school .May God bless this school  ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15972284693710374545f33c5b5a722a1597228470.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15859913498631193245e884eb5a1eb81585991350.jpg\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "5.0",
+  "views": "583",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Kilpauk",
+  "board": "ICSE, State Board\n\nCo",
+  "established": "1929",
+  "category": "Day Schools",
+  "classes": "000 - 90",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15972284693710374545f33c5b5a722a1597228470.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

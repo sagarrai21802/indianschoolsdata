@@ -1,0 +1,378 @@
+{
+  "slug": "/school/kolkata/bubble-blue-bidhannagar",
+  "url": "https://yellowslate.com/school/kolkata/bubble-blue-bidhannagar",
+  "city": "kolkata",
+  "name": "Bubble Blue - Bidhannagar ",
+  "scraped_at": "2026-04-28T18:37:23.399823",
+  "html_length": 360748,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bidhannagar",
+          "item": "https://yellowslate.com/schools/kolkata/bidhannagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/kolkata/bidhannagar/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bubble Blue",
+          "item": "https://yellowslate.com/school/kolkata/bubble-blue-bidhannagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bubble Blue - Bidhannagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069043412787698185f689902cc1951600690435.jpg",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/bubble-blue-bidhannagar",
+      "telephone": "+91 33-23373250 , +91 33-23373251",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2nd Cross Road, EC Block, Sector-1, Bidhannagar, Bidhannagar, West Bengal 700064",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5868107,
+        "longitude": 88.4105026
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2nd Cross Road, EC Block, Sector-1, Bidhannagar, Bidhannagar, West Bengal 700064",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/bubble-blue-bidhannagar-bidhannagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "106"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandra Nath Das"
+          },
+          "datePublished": "2024-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son started his schooling at Babble Blue saltlake from last 3 months. In these few days I can see many improvements. All teachers and non teaching staffs are taking best care. Most importantly provides quality learning for children.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Keya Ganguly"
+          },
+          "datePublished": "2024-08-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have had the privilege of working at Bubble Blue, I am pleased to share my positive experiences with this exceptional institution.\nBubble Blue truly embraces Montessori principles, creating an environment where individualised learning thrives. The classrooms are thoughtfully designed to encourage independence and foster a love for learning.\n\nThe school excels in cultivating a nurturing and respectful atmosphere, which enhances the overall educational experience and helps children to grow up as responsible people.\nThe commitment to staff development is evident through continuous opportunities for Montessori-specific training. This dedication ensures that the teachers remain well-equipped to provide proper care and support to the children.\n\nMy time at Bubble Blue was incredibly rewarding, and I am confident that the school’s ongoing commitment to Montessori education and its supportive staff will continue to provide an exceptional learning environment.\n\nThank you for allowing me to be part of this inspiring educational journey.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sarah M"
+          },
+          "datePublished": "2024-07-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Our kids have been going to Bubble Blue for 1.5 years now and have loved it. The staff are all wonderful and great with the kids, and the program is well designed. Great center!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tuli Kar"
+          },
+          "datePublished": "2024-06-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was extremely engaging and enlightening for the kids. My son enjoyed each and every bit if , how the classical ancient civilization qas explained in a hands on and fun way to them. The peactical and lucid explanation along with making of antics was thrilling for then and took them back in the times. Overall the camp was fun, worth devoting time snd effort. I am sure it eould inculxate many practical lessons to the. Looking forward to the next one in winter.\n\nThank you.\n\nTuli Kar\nMither of Adhvik Kar",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjali Routh"
+          },
+          "datePublished": "2024-05-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing safe and secured place to keep your child, the supporting staff here are too good and supportive they really take equally good care of all the children's staying here...in case if you are hunting for a daycare you can just close your eyes and trust  Bubble blue...❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Utsa M"
+          },
+          "datePublished": "2024-05-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My little cousin spent basically her entire childhood at Bubble Blue Salt Lake’s daycare and preschool- she made her best friends there and met some of the most inspiring teachers! She turns 18 this year, and is going to go to college- it really shows how long Bubble Blue has stood as a symbol of excellence in childcare.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suvra Shankar Chakraborty"
+          },
+          "datePublished": "2024-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome atmosphere and excellant management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Soumo Bose"
+          },
+          "datePublished": "2024-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bubble Blue has changed the landscape of daycare amd play school of the township since it's inception.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jayati Ganguly"
+          },
+          "datePublished": "2024-05-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent preschool with good teachers and support system. We are very happy with the service.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bubble Blue - Bidhannagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Simran Sadani"
+          },
+          "datePublished": "2024-05-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teacher are not good, they don't child in nice way , they use bad words fir childrens. Principal torture the teachers and dub staff and students. Please not sent your child in school they will be not treated will there",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069043412787698185f689902cc1951600690435.jpg",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069043412787698185f689902cc1951600690435.jpg\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069043412787698185f689902cc1951600690435.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "4.9",
+  "views": "854",
+  "reviews_count": "106",
+  "phone": "+919513238818",
+  "locality": "Bidhannagar",
+  "board": "Other Boards\n\nCo",
+  "established": null,
+  "category": "Play Schools",
+  "classes": "000 - 28",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16006904498973638385f68991172add1600690449.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/160069044912546120325f68991175d131600690449.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/1600690451467036365f689913a04601600690452.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160069043412787698185f689902cc1951600690435.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/16006904518913224405f6899139e29b1600690452.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

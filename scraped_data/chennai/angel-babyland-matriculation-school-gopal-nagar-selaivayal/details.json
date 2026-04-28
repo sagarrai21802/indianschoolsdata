@@ -1,0 +1,373 @@
+{
+  "slug": "/school/chennai/angel-babyland-matriculation-school-gopal-nagar-selaivayal",
+  "url": "https://yellowslate.com/school/chennai/angel-babyland-matriculation-school-gopal-nagar-selaivayal",
+  "city": "chennai",
+  "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal ",
+  "scraped_at": "2026-04-28T18:27:28.929374",
+  "html_length": 395869,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gopal Nagar,Selaivayal",
+          "item": "https://yellowslate.com/schools/chennai/gopal-nagar-selaivayal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/chennai/gopal-nagar-selaivayal/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Angel Babyland Matriculation School",
+          "item": "https://yellowslate.com/school/chennai/angel-babyland-matriculation-school-gopal-nagar-selaivayal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/angel-babyland-matriculation-school-gopal-nagar-selaivayal",
+      "telephone": "+91 442 592 3037",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "No. 23, Ennore High Rd, Sundaram Pillai Nagar, Tondiarpet, Chennai, Tamil Nadu 600081, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1291327,
+        "longitude": 80.2789678
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "No. 23, Ennore High Rd, Sundaram Pillai Nagar, Tondiarpet, Chennai, Tamil Nadu 600081, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/angel-babyland-matriculation-school-gopal-nagar-selaivayal-gopal-nagar-selaivayal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.9",
+              "reviewCount": "22"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rupa Vathy"
+          },
+          "datePublished": "2024-01-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school👍👍in North Chennai I am also studying here best teachers who has each unique quality💯💯💯⭐⭐🌟🌟🌟",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jayaraj Nila"
+          },
+          "datePublished": "2023-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My street",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "N Chandramohan"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jamal Basha"
+          },
+          "datePublished": "2023-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teaching skill the poor",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thedi Paar"
+          },
+          "datePublished": "2023-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice sch ❤️❤️❤️❤️gud teachers and infrastructure 💯💯💯💯",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PRAGADEESH ASP"
+          },
+          "datePublished": "2022-11-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Waste waste",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Dharshini"
+          },
+          "datePublished": "2022-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education low budget school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen King"
+          },
+          "datePublished": "2022-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Muthu Raj"
+          },
+          "datePublished": "2021-11-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well maintained school, passionate teachers,but not so good for +1,+2.overall it's a moderate institution.well and good for elementary school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Angel Babyland Matriculation School - Gopal Nagar,Selaivayal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RUBINI"
+          },
+          "datePublished": "2021-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well educated teacher\nAnd student are in great position",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.9",
+  "views": "530",
+  "reviews_count": "22",
+  "phone": "+919513238818",
+  "locality": "Gopal Nagar,Selaivayal",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 35",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Angel Babyland Matriculation School ?\nAsk a Question\nAngel Babyland Matriculation School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

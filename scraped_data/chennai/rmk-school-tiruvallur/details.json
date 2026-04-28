@@ -1,0 +1,258 @@
+{
+  "slug": "/school/chennai/rmk-school-tiruvallur",
+  "url": "https://yellowslate.com/school/chennai/rmk-school-tiruvallur",
+  "city": "chennai",
+  "name": "RMK School - Tiruvallur ",
+  "scraped_at": "2026-04-28T18:27:34.726134",
+  "html_length": 361910,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tiruvallur",
+          "item": "https://yellowslate.com/schools/chennai/tiruvallur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/tiruvallur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "RMK School",
+          "item": "https://yellowslate.com/school/chennai/rmk-school-tiruvallur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "RMK School - Tiruvallur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/rmk-school-tiruvallur",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "RSM Nagar, Sundaracholapuram Rd, Thiruverkadu, Chennai, Tamil Nadu 600077, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0862822,
+        "longitude": 80.120073
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RMK School - Tiruvallur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "RSM Nagar, Sundaracholapuram Rd, Thiruverkadu, Chennai, Tamil Nadu 600077, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/rmk-school-tiruvallur-tiruvallur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karan A"
+          },
+          "datePublished": "2023-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school to actively participate in learning and building contacts. Great for higher secondary. Would love to study, faculties are the most trained and educated.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RMK School - Tiruvallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "S B"
+          },
+          "datePublished": "2022-11-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good things.\n1.Good Transport Facility\n2.Good infrastructure\n3.Always had Neat & clean toilets (Especially for Girl Child)\n4.More Supporting Staffs (Attenders)\n5.Secured Environment\n6.Nominal Student Strength in Class average 30~35/ Class\n(not Flooded With Students)\n7. School Chairman is Good (Managing Staffs Needs improvement)\n8. Students groomed Spiritually (Good one)\n9. Spell bee, Cultural Activities are Some What good\n\nBefore Covid School was very good. now Following are the major issues we are Facing.\n\nNegative things\n\n1. Poor Communication between Teachers & parents\n2. Recently Hearing that lot of Teachers Absent & Substitute teacher were placed\n3. Student Discipline not good ; No Strict punishment for mistakes\n4. Teachers are not ensuring kids understood the Lessons are not\n5. Experience teacher left the School & now most of the Staffs are new\n6. No Interaction between Management ,teacher & parents\n7. No Communication Forum for Raising the Complaint to management.\n8. Poor on Communication Skill\n9. Futuristic skills (Robotics , Neet, IIT ) Coaching are not there\n10. At last we planned to transfer our kid to other School.\n11. If Good Review recieved from parents ; Once again  i will try to Re-Join My kids in same School.\n\nThis is My Genuine Review...Hope Top management will look in to this review Seriously & Take Steps to fix the Negative feedbacks.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RMK School - Tiruvallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sathish kumar"
+          },
+          "datePublished": "2022-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "the school was the best for several years until the new principal now who is here for 3 years, the quality has come down a lot and many good teachers are leaving the school. the principal does not respect the parents and I heard this from many of the parents and witnessed the same myself. if this is for the parents you can imagine for the teachers, the staff and in all other actions from the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RMK School - Tiruvallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SHARMILADEVI SAKTHI"
+          },
+          "datePublished": "2022-03-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The principal never understand the parents problem and so rude. She shows over attitude. Also the school is nowadays very money conscious. As I am relocating, I applied TC for my ward. They are asking us to not come to school after March’31 and they are not even making my ward to take up annual assessments which was scheduled after March’31. I requested the principal to allow him for the assessment but she refused. They won’t care and very partial to the students they are getting TC from the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "RMK School - Tiruvallur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr.N.S.Srivatchan"
+          },
+          "datePublished": "2021-10-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best schools for kids.\nThey provide platform for kids to enjoy both Academic & Extra curriculum in balanced way ( Unlike other school where they give focus either on Academics (Too much stress on Academics) or Extra Curricular (Lack of focus on Education).\nThey have spacious & Neat Class Rooms with focus on \"Cleanliness is Godliness\"mantra, creating value to students to keep surrounding neat and clean.\nCampus has ample number of trees (Green Campus), class rooms,  basket ball court & ground as well as open Auditorium.\n\nStudents have been actively encouraged to partcipate in multiple areas or competition, they have dedicated and sincere teachers, who were really supportive and friendly.\n\nI hope Management has Great Vision to make this school to be one of the \"Top Rated School\" , not just in Tamilnadu but in India.\n\nHope the School had tied up with \"British Council, Chennai\" to Offer \"Cambridge Certification\" of different levels before they complete school as part of curriculum. Also, enable students to complete Japanese, German, Chinese or Spanish or French language certification before they complete schooling. Also to conduct number of science competitions as well as TED talks,to make the students future Ready & successful in their choosen future careers.\n\nMy best wishes to Management to make this school \"No. 1 School\" in INDIA 🇮🇳,  interms of Academics as well as Co- Curricular Activities.\n\nHeartfelt thanks to Management for providing me this opportunity to provide feedback about the school as a parent 🙏🏼.\n\nThank you,\n\nRegards\n\nDr.Nadathur Srivatchan.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.0",
+  "views": "482",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Tiruvallur",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "250 - 78",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

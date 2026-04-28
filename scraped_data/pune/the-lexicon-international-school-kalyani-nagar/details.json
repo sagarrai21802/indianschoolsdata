@@ -1,0 +1,376 @@
+{
+  "slug": "/school/pune/the-lexicon-international-school-kalyani-nagar",
+  "url": "https://yellowslate.com/school/pune/the-lexicon-international-school-kalyani-nagar",
+  "city": "pune",
+  "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar ",
+  "scraped_at": "2026-04-28T18:38:26.219619",
+  "html_length": 400814,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pune",
+          "item": "https://yellowslate.com/schools/pune"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kalyani Nagar",
+          "item": "https://yellowslate.com/schools/pune/kalyani-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/pune/kalyani-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "THE LEXICON INTERNATIONAL SCHOOL",
+          "item": "https://yellowslate.com/school/pune/the-lexicon-international-school-kalyani-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/pune/the-lexicon-international-school-kalyani-nagar",
+      "telephone": "+91 855 205 6116",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "S no 212/1, Central Avenue 59, next to Big Bazaar, Kalyani Nagar, Pune, Maharashtra 411006, India",
+        "addressLocality": "Pune",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.5462313,
+        "longitude": 73.903951
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "S no 212/1, Central Avenue 59, next to Big Bazaar, Kalyani Nagar, Pune, Maharashtra 411006, India",
+              "addressLocality": "Pune",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/pune/the-lexicon-international-school-kalyani-nagar-kalyani-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "159"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Such a pathetic school, just because the fees was paid few days late, they failed my daughter in her student council exam, and canceled her field trip. Head management does not even take any efforts to communicate and behavior is very poor. They don't take any action on bullying and don't supply any good facilities and charge a lot of money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priya Chauhan"
+          },
+          "datePublished": "2026-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely pathetic school, wish there was a negative marking. \n1) I’ve had extremely pathetic experience with this school\n2) It’s surprising that if a student does not know or is weak in a particular subject, they do not take the effort to teach or explain the concepts, rather they’ll just give the answer to the student. \n3) Such high fees and they do not miss an opportunity to make money. Let it be out of any event. \n4) The wagholi campus is much better and has better facilities, but they pay less. Just because this is ins Kalyani Nagar, they charge high fees. \n5) Additional activities, nothing. Only the teacher’s favourite will be preferred ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Criss Cross"
+          },
+          "datePublished": "2024-12-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was good annual concert. Class 1 dance was well organised.\nOne suggestion is to increase duration of song to 4-5 mins so the kids get more time to perform and also to split the students so that they get enough coverage. Some dances - kids were not visible standing behind.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pratibha Vernekar"
+          },
+          "datePublished": "2024-12-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Lexicon School Annual Day was really great. The theme was just next level and a peek in the future world. The II B teachers have put in great efforts for getting the children ready and confident for the event.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajan Vernekar"
+          },
+          "datePublished": "2024-12-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter is studying in class 2 and this is our first year. Her class teacher Pratibha Mishra is an excellent teacher who has given her the opportunity to excel in her studies and her extra curricular activities in Annual day. This year we are impressed with the way the annual day was arranged and executed. Very well organised and extremely happy with my daughter's performance. Also all other performances were really good. Thank you Lexicon school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sanjay Ujjainkar"
+          },
+          "datePublished": "2024-12-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am extremely pleased with the School's Annual Function 2024. It was a delight to watch my child participate and perform. I deeply appreciate the hard work and dedication of the teaching staff, who have been inspiring the children to reach their full potential. A special thanks to Sarika and Reshma Madam for her exceptional ability to understand the hidden capabilities of child and motivate and encourage the students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pragati Katiyar"
+          },
+          "datePublished": "2024-12-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school’s annual function was an incredible experience. It was a well-organized event filled with vibrant performances.\nAs a parent, I was thrilled and proud to see my child have the opportunity to speak in front of the audience. It is clear that the school fosters an environment where students are encouraged to step out of their comfort zones and shine.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rubina Sheikh"
+          },
+          "datePublished": "2024-12-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The dress  code for  kids is so good  the color  is  beautiful  .  All the  Dances are mind  blowing.   So good  and thanks to  all children  and teacher . Thank you very much",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashwini Shendre"
+          },
+          "datePublished": "2024-11-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Parents sport day was a fabulous event. Very well organised, arranged and executed with thorough planning. I would like to congratulate and thank all the wonderful teachers, principal ma’am and lovely kids for a very wonderful experience.\n\nThe trip was perfect with excellent organization!! My daughter ,  thoroughly enjoyed the trip.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "THE LEXICON INTERNATIONAL SCHOOL - Kalyani Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kranti Nair"
+          },
+          "datePublished": "2024-10-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter Sruthilaya went to Muktangan Exploratory science centre for field trip. We have amazed to see the excitement and happiness on her face when she returned home. Kids enjoyed alot there. They did some excited activities and participated in various experiexperiments. I m really thankful to Lexicon school for providing such opportunity to explore and providing a unique way to learn the concepts easily. I really appreciate the holistic way of education for kids.\nThank you Lexicon school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1750830821890-enwnq3nj.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg\\",
+    "https://schema.org\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org/",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304359213643467468dcdaa7d3c521759304360.jpeg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\"
+  ],
+  "rating": "4.8",
+  "views": "854",
+  "reviews_count": "159",
+  "phone": "+919513238818",
+  "locality": "Kalyani Nagar",
+  "board": "CBSE\n\nCo",
+  "established": "2013",
+  "category": "Day Schools",
+  "classes": "688 - 65",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "THE LEXICON INTERNATIONAL SCHOOL ?\nAsk a Question\nTHE LEXICON INTERNATIONAL SCHOOL Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1759304359213643467468dcdaa7d3c521759304360.jpeg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/54.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png"
+  ]
+}

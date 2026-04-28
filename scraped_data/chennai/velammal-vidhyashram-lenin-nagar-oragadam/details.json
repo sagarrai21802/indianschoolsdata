@@ -1,0 +1,256 @@
+{
+  "slug": "/school/chennai/velammal-vidhyashram-lenin-nagar-oragadam",
+  "url": "https://yellowslate.com/school/chennai/velammal-vidhyashram-lenin-nagar-oragadam",
+  "city": "chennai",
+  "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam ",
+  "scraped_at": "2026-04-28T18:34:06.640860",
+  "html_length": 353088,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lenin Nagar,Oragadam",
+          "item": "https://yellowslate.com/schools/chennai/lenin-nagar-oragadam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/lenin-nagar-oragadam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Velammal Vidhyashram",
+          "item": "https://yellowslate.com/school/chennai/velammal-vidhyashram-lenin-nagar-oragadam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/velammal-vidhyashram-lenin-nagar-oragadam",
+      "telephone": "+91 893 982 6413",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "17, Venkateswara Nagar Main Rd, Lenin Nagar, Ambattur, Chennai, Tamil Nadu 600053, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1281088,
+        "longitude": 80.1490967
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "17, Venkateswara Nagar Main Rd, Lenin Nagar, Ambattur, Chennai, Tamil Nadu 600053, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/velammal-vidhyashram-lenin-nagar-oragadam-lenin-nagar-oragadam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "1.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saigopal Subbuswamy"
+          },
+          "datePublished": "2023-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has no common sense. They have kept 3rd standard on 3rd floor and 12th standard on a lower floor. Many kids have got pain climbing 80-90 steps with heavy bags in the back. When parents complaint and requested to relocate the students, their ACO didn't respond properly. The irony is this the same staff who lectured parents that the kids are young and their bones are not formed properly biologically and so parents shouldn't force and stress their kids expecting them to write faster at young age, And now, she is the same person who says she won't change the classes. The parents are worried that if they complain, the staff might Target their kids. Only time will tell when they will mature.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jaya kannan"
+          },
+          "datePublished": "2023-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Poor and immature behavior of  the security Incharge and he doesn't have knowledge how to behave with parents . They will spoil the reputation of this organization if continue the same behavior.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemalatha Balajie"
+          },
+          "datePublished": "2023-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very worst experience.totally upset with all activities.not worth for single star rating..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MK MEDIA TAMIL"
+          },
+          "datePublished": "2022-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They trying to steal money from parents\nin the name of Prepvel they ask extra fees\nbut the teachers are good\nrestroooms not clean\nno school zone warning in main road\nworst school of my life",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Velammal Vidhyashram - Lenin Nagar,Oragadam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "tamil m"
+          },
+          "datePublished": "2021-09-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "👉School is the first stage where a child learn how to behave in society and also a place to build their confidence level.\n👉I had heard a lot of good things about our school, they provide a creative and imaginative platform for kids.\n👉Teachers gave their best for students high quality education through a flexible curriculum.\n👉I have seen well discipline changes in my child's behavior and learning process  .\n👉I am so grateful to the teacher who plays an essential role in shaping the future of kids through mental and physical activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://8views.com/",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/"
+  ],
+  "rating": "1.8",
+  "views": "574",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Lenin Nagar,Oragadam",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "000 - 66",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

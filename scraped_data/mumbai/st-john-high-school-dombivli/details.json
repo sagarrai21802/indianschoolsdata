@@ -1,0 +1,373 @@
+{
+  "slug": "/school/mumbai/st-john-high-school-dombivli",
+  "url": "https://yellowslate.com/school/mumbai/st-john-high-school-dombivli",
+  "city": "mumbai",
+  "name": "St. John High School - Dombivli ",
+  "scraped_at": "2026-04-28T18:34:04.379482",
+  "html_length": 392407,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mumbai",
+          "item": "https://yellowslate.com/schools/mumbai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dombivli",
+          "item": "https://yellowslate.com/schools/mumbai/dombivli"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/mumbai/dombivli/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. John High School",
+          "item": "https://yellowslate.com/school/mumbai/st-john-high-school-dombivli"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. John High School - Dombivli",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/mumbai/st-john-high-school-dombivli",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "St. John High School Rukhmini Bldg, Opp Commerce Plaza, Near Godrej Showroom, Manpada Road, Dombivli (E)",
+        "addressLocality": "Mumbai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.2138261,
+        "longitude": 73.0915914
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "St. John High School Rukhmini Bldg, Opp Commerce Plaza, Near Godrej Showroom, Manpada Road, Dombivli (E)",
+              "addressLocality": "Mumbai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/mumbai/st-john-high-school-dombivli-dombivli-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "105"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2025-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All reviews are paid and done by teachers. Let's be on point As a student for 7+ year I have seen many kid bring phone in class I have reported one but no action was taken and the football sir takes only students who are in their private coaching. Smart board is rarely used in class and if tried to use it it's sooo complicated to turn on it takes 15+ minutes. And the infrastructure is soo bad.I have submitted 5 time addhar card copy in 7th std what the hell are they trying to do with that much of aadhar card copy in last if you want to ruine study then👍 and I'm posting this as anonymous because if they got to know my name i would be cooked",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gta"
+          },
+          "datePublished": "2024-05-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for students teachers are supportive everything is just perfect",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kunal Mutha"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "St John high school a very renowned school of Dombivili is absolutely amazing as it works on both education and skills which is necessary in the further competative world",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pramila Singh"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is very good NY kids have improved a lot",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anita Chauhan"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Student activities and their teachers good habits it's excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Noghty Boy"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school system management is very good I'm satisfied very much",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sarika Gaikwad"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very good .....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jayshree Andhare"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best school in dombivli. Lots of Academic and Co curriculum activities are there.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shweta Jadhav"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good school I have seen progress in my Child .Many activities and competition held in the school so my child take part and learn and now he is very confident to perform.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. John High School - Dombivli"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santosh Mandlik"
+          },
+          "datePublished": "2024-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The teaching method of the school is very good. The conceptual explanation by the teachers made the learning process quite engaging and fun. Thanks everyone annd all the best!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://wa.me/919513238818",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158893683721165546145eb5408542e631588936837.jpg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg\\"
+  ],
+  "rating": "4.4",
+  "views": "362",
+  "reviews_count": "105",
+  "phone": "+919513238818",
+  "locality": "Dombivli",
+  "board": "State Board\n\nCo",
+  "established": "1993",
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. John High School ?\nAsk a Question\nSt. John High School Reviews\nView All Reviews\nOverall Experience\n 1.0\nTeaching Excellence\n 1.0\nValue for Money\n 1.0\nCampus & Facilities\n 1.0\nCo-curricular Activities\n 1.0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Pre-Schools-in-mumbai.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158893683721165546145eb5408542e631588936837.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2020/04/Best-Schools-in-Mumbai-1.jpg"
+  ]
+}

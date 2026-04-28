@@ -1,0 +1,31 @@
+
+============================================================
+YellowSlate Detail Backfill — Phase 2
+============================================================
+City filter: noida
+
+Found 35 schools needing detail scraping
+
+Starting detail backfill for 35 schools
+Delay: 1.5s–3.0s between requests
+
+Traceback (most recent call last):
+  File "/Users/apple/Desktop/new/scrape_details.py", line 479, in <module>
+    asyncio.run(main())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/asyncio/base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "/Users/apple/Desktop/new/scrape_details.py", line 474, in main
+    exit_code = await scrape_details(entries, delay_min=args.delay_min, delay_max=args.delay_max)
+  File "/Users/apple/Desktop/new/scrape_details.py", line 366, in scrape_details
+    checkpoint = load_checkpoint()
+  File "/Users/apple/Desktop/new/scrape_details.py", line 31, in load_checkpoint
+    return json.load(f)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 10187 column 2 (char 512533)

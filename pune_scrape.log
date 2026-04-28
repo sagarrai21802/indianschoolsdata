@@ -1,0 +1,787 @@
+
+============================================================
+YellowSlate Detail Backfill — Phase 2
+============================================================
+City filter: pune
+
+Found 139 schools needing detail scraping
+
+Starting detail backfill for 139 schools
+Delay: 1.5s–3.0s between requests
+
+[   1/139] Scraping: pune/moledina-high-school-shankar-seth-road ✓ Moledina high school - Shankar Seth
+[   2/139] Scraping: pune/huzurpaga-girls-high-school-and-junior-college-narayan-peth ✓ Huzurpaga Girls High School and Jun
+[   3/139] Scraping: pune/st-annes-high-school-9-drd ✓ St. Anne’s High School - 9 Drd 
+[   4/139] Scraping: pune/sri-sri-ravishankar-vidya-mandir-ssrvm-moshi ✓ Sri Sri Ravishankar Vidya Mandir (S
+[   5/139] Scraping: pune/the-lexicon-international-school-kalyani-nagar ✓ THE LEXICON INTERNATIONAL SCHOOL - 
+[   6/139] Scraping: pune/eidos-kids-preschool-and-daycare-baner ✓ EIDOS Kids Preschool and Daycare - 
+[   7/139] Scraping: pune/riverdale-international-residential-school-pune ✓ Riverdale International Residential
+[   8/139] Scraping: pune/the-good-samaritan-school-shankar-kalat-nagar-wakad ✓ The Good Samaritan School - Shankar
+[   9/139] Scraping: pune/innovative-international-school-hadapsar ✓ Innovative International School - H
+[  10/139] Scraping: pune/shivneri-school-junior-college-junnar ✓ Shivneri School &amp; Junior Colleg
+[  11/139] Scraping: pune/podar-international-school-cbse-chakan-chakan ✓ PODAR INTERNATIONAL SCHOOL, CBSE CH
+[  12/139] Scraping: pune/vidyangan-high-school-wonderland-school-ravet ✓ Vidyangan High School (Wonderland S
+[  13/139] Scraping: pune/dps-hinjawadi-balewadi ✓ DPS Hinjawadi - Balewadi 
+[  14/139] Scraping: pune/shree-bhairavnath-high-school-sector-no-1-bhosari ✓ Shree Bhairavnath High School - BHO
+[  15/139] Scraping: pune/daffodil-international-school-laxman-nagar-baner     Error loading page: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/daffodil-international-school-laxman-nagar-baner", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  16/139] Scraping: pune/aaryans-preschool-dattanagar-katraj     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/aaryans-preschool-dattanagar-katraj
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/aaryans-preschool-dattanagar-katraj", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  17/139] Scraping: pune/mount-st-patrick-academy-lohegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/mount-st-patrick-academy-lohegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/mount-st-patrick-academy-lohegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  18/139] Scraping: pune/new-india-school-bhusari-colony-kothrud     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/new-india-school-bhusari-colony-kothrud
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/new-india-school-bhusari-colony-kothrud", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  19/139] Scraping: pune/empros-international-school-talegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/empros-international-school-talegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/empros-international-school-talegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  20/139] Scraping: pune/b-k-birla-centre-for-education-pune     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/b-k-birla-centre-for-education-pune
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/b-k-birla-centre-for-education-pune", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  21/139] Scraping: pune/wisdom-world-school-park-street-wakad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/wisdom-world-school-park-street-wakad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/wisdom-world-school-park-street-wakad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  22/139] Scraping: pune/st-arnolds-central-school-wadgaon-sheri     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/st-arnolds-central-school-wadgaon-sheri
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/st-arnolds-central-school-wadgaon-sheri", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  23/139] Scraping: pune/indira-national-school-tathawade     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/indira-national-school-tathawade
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/indira-national-school-tathawade", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  24/139] Scraping: pune/prodigy-public-school-wagholi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/prodigy-public-school-wagholi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/prodigy-public-school-wagholi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  25/139] Scraping: pune/cambridge-international-school-midc-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/cambridge-international-school-midc-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/cambridge-international-school-midc-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  26/139] Scraping: pune/the-vatsalya-school-pune     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/the-vatsalya-school-pune
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/the-vatsalya-school-pune", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  27/139] Scraping: pune/anekant-english-medium-school-baramati     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/anekant-english-medium-school-baramati
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/anekant-english-medium-school-baramati", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  28/139] Scraping: pune/vibgyor-high-balewadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vibgyor-high-balewadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vibgyor-high-balewadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  29/139] Scraping: pune/mentor-international-school-hadapsar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/mentor-international-school-hadapsar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/mentor-international-school-hadapsar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  30/139] Scraping: pune/klay-kalyani-nagar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/klay-kalyani-nagar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/klay-kalyani-nagar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  31/139] Scraping: pune/vibgyor-roots-rise-pimple-saudagar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vibgyor-roots-rise-pimple-saudagar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vibgyor-roots-rise-pimple-saudagar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  32/139] Scraping: pune/priya-darshini-english-medium-chandrabhaga-nagar-dhankawadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/priya-darshini-english-medium-chandrabhaga-nagar-dhankawadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/priya-darshini-english-medium-chandrabhaga-nagar-dhankawadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  33/139] Scraping: pune/kendriya-vidyalaya-talegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/kendriya-vidyalaya-talegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/kendriya-vidyalaya-talegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  34/139] Scraping: pune/podar-international-school-wakad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-international-school-wakad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-international-school-wakad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  35/139] Scraping: pune/podar-jumbo-kids-baner     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-jumbo-kids-baner
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-jumbo-kids-baner", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  36/139] Scraping: pune/saishobha-education-societys-english-medium-school-dhayari     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/saishobha-education-societys-english-medium-school-dhayari
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/saishobha-education-societys-english-medium-school-dhayari", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  37/139] Scraping: pune/stfelix-high-school-bund-garden-sangamvadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/stfelix-high-school-bund-garden-sangamvadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/stfelix-high-school-bund-garden-sangamvadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  38/139] Scraping: pune/rmd-singhad-spring-dale-school-warje     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/rmd-singhad-spring-dale-school-warje
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/rmd-singhad-spring-dale-school-warje", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  39/139] Scraping: pune/saraswati-vishwa-vidyalay-national-school-pimpri-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/saraswati-vishwa-vidyalay-national-school-pimpri-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/saraswati-vishwa-vidyalay-national-school-pimpri-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  40/139] Scraping: pune/vidya-vinay-niketan-school-shakti-colony-pimple-nilakh     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vidya-vinay-niketan-school-shakti-colony-pimple-nilakh
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vidya-vinay-niketan-school-shakti-colony-pimple-nilakh", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  41/139] Scraping: pune/rosary-school-salunkhe-vihar-society-mohammed-wadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/rosary-school-salunkhe-vihar-society-mohammed-wadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/rosary-school-salunkhe-vihar-society-mohammed-wadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  42/139] Scraping: pune/foundree-preschool-and-daycare-baner     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/foundree-preschool-and-daycare-baner
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/foundree-preschool-and-daycare-baner", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  43/139] Scraping: pune/priceless-pearl-scholars-academy-talegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/priceless-pearl-scholars-academy-talegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/priceless-pearl-scholars-academy-talegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  44/139] Scraping: pune/mit-vishwashanti-gurukul-hadapsar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/mit-vishwashanti-gurukul-hadapsar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/mit-vishwashanti-gurukul-hadapsar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  45/139] Scraping: pune/army-public-school-dobarwadi-ghorpadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/army-public-school-dobarwadi-ghorpadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/army-public-school-dobarwadi-ghorpadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  46/139] Scraping: pune/kakas-international-school-pimpri-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/kakas-international-school-pimpri-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/kakas-international-school-pimpri-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  47/139] Scraping: pune/new-wisdom-international-school-pratik-nagar-vadgaon-sheri     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/new-wisdom-international-school-pratik-nagar-vadgaon-sheri
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/new-wisdom-international-school-pratik-nagar-vadgaon-sheri", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  48/139] Scraping: pune/indus-international-school-pune-bhukum     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/indus-international-school-pune-bhukum
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/indus-international-school-pune-bhukum", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  49/139] Scraping: pune/sevasadan-english-medium-school-haveli     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/sevasadan-english-medium-school-haveli
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/sevasadan-english-medium-school-haveli", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  50/139] Scraping: pune/rosary-high-school-rasta-peth     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/rosary-high-school-rasta-peth
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/rosary-high-school-rasta-peth", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  51/139] Scraping: pune/oxford-world-school-chokhi-dhani     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/oxford-world-school-chokhi-dhani
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/oxford-world-school-chokhi-dhani", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  52/139] Scraping: pune/silver-bell-tree-school-kharadi-kharadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/silver-bell-tree-school-kharadi-kharadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/silver-bell-tree-school-kharadi-kharadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  53/139] Scraping: pune/podar-international-school-hadapsar--hadapsar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-international-school-hadapsar--hadapsar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-international-school-hadapsar--hadapsar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  54/139] Scraping: pune/kjs-education-institutes-pune     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/kjs-education-institutes-pune
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/kjs-education-institutes-pune", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  55/139] Scraping: pune/savitribai-phule-pune-university-9-drd     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/savitribai-phule-pune-university-9-drd
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/savitribai-phule-pune-university-9-drd", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  56/139] Scraping: pune/kothari-international-school-kharadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/kothari-international-school-kharadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/kothari-international-school-kharadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  57/139] Scraping: pune/darshan-academy-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/darshan-academy-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/darshan-academy-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  58/139] Scraping: pune/utkarsha-english-medium-school-solapur-bazar-camp     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/utkarsha-english-medium-school-solapur-bazar-camp
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/utkarsha-english-medium-school-solapur-bazar-camp", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  59/139] Scraping: pune/fazlani-international-school-takewe     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/fazlani-international-school-takewe
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/fazlani-international-school-takewe", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  60/139] Scraping: pune/orchids-international-school-sus-road-parkhe-vasti-sus     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/orchids-international-school-sus-road-parkhe-vasti-sus
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/orchids-international-school-sus-road-parkhe-vasti-sus", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  61/139] Scraping: pune/eurokids-preschool-dighi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/eurokids-preschool-dighi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/eurokids-preschool-dighi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  62/139] Scraping: pune/fravashi-international-academy-nashik     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/fravashi-international-academy-nashik
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/fravashi-international-academy-nashik", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  63/139] Scraping: pune/the-tigerish-school-loni-kalbhor     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/the-tigerish-school-loni-kalbhor
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/the-tigerish-school-loni-kalbhor", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  64/139] Scraping: pune/aaryans-world-school-warje-warje     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/aaryans-world-school-warje-warje
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/aaryans-world-school-warje-warje", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  65/139] Scraping: pune/vedh-valley-world-cbse-school-tathawade     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vedh-valley-world-cbse-school-tathawade
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vedh-valley-world-cbse-school-tathawade", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  66/139] Scraping: pune/ikidz-preschool-gahunje-chikhali     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/ikidz-preschool-gahunje-chikhali
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/ikidz-preschool-gahunje-chikhali", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  67/139] Scraping: pune/vibgyor-roots-rise-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vibgyor-roots-rise-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vibgyor-roots-rise-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  68/139] Scraping: pune/st-vincents-high-school-camp     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/st-vincents-high-school-camp
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/st-vincents-high-school-camp", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  69/139] Scraping: pune/kaveri-international-school-shinde-wasti     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/kaveri-international-school-shinde-wasti
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/kaveri-international-school-shinde-wasti", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  70/139] Scraping: pune/mani-ar-shala     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/mani-ar-shala
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/mani-ar-shala", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  71/139] Scraping: pune/p-k-international-school-chakan     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/p-k-international-school-chakan
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/p-k-international-school-chakan", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  72/139] Scraping: pune/st-ursula-high-school-ravet     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/st-ursula-high-school-ravet
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/st-ursula-high-school-ravet", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  73/139] Scraping: pune/pjog-english-marathi-medium-school-mayur-colony-kothrud     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/pjog-english-marathi-medium-school-mayur-colony-kothrud
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/pjog-english-marathi-medium-school-mayur-colony-kothrud", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  74/139] Scraping: pune/footprints-play-school-day-care-creche-preschool-in-wadgaon-sheri-pune-pune-city     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/footprints-play-school-day-care-creche-preschool-in-wadgaon-sheri-pune-pune-city
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/footprints-play-school-day-care-creche-preschool-in-wadgaon-sheri-pune-pune-city", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  75/139] Scraping: pune/maple-bear-pimple-saudagar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/maple-bear-pimple-saudagar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/maple-bear-pimple-saudagar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  76/139] Scraping: pune/royal-roses-english-medium-school-ambegaon-bk     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/royal-roses-english-medium-school-ambegaon-bk
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/royal-roses-english-medium-school-ambegaon-bk", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  77/139] Scraping: pune/global-indian-international-school-mahalunge     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/global-indian-international-school-mahalunge
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/global-indian-international-school-mahalunge", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  78/139] Scraping: pune/podar-international-school-manjri--hadapsar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-international-school-manjri--hadapsar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-international-school-manjri--hadapsar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  79/139] Scraping: pune/st-mary-school-vikas-nagar-wanwadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/st-mary-school-vikas-nagar-wanwadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/st-mary-school-vikas-nagar-wanwadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  80/139] Scraping: pune/vidya-pratishthans-english-medium-school-midcresizone-bhigwan-road     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vidya-pratishthans-english-medium-school-midcresizone-bhigwan-road
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vidya-pratishthans-english-medium-school-midcresizone-bhigwan-road", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  81/139] Scraping: pune/shree-atma-vallabh-high-school-shanti-nagar-visharant-wadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/shree-atma-vallabh-high-school-shanti-nagar-visharant-wadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/shree-atma-vallabh-high-school-shanti-nagar-visharant-wadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  82/139] Scraping: pune/the-school-of-montessori-solapur-bazar-camp     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/the-school-of-montessori-solapur-bazar-camp
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/the-school-of-montessori-solapur-bazar-camp", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  83/139] Scraping: pune/sahyadri-school-pimpri-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/sahyadri-school-pimpri-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/sahyadri-school-pimpri-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  84/139] Scraping: pune/rims-international-school-wadachi-wadi-undri     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/rims-international-school-wadachi-wadi-undri
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/rims-international-school-wadachi-wadi-undri", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  85/139] Scraping: pune/vidya-pratishthans-new-english-medium-school-baramati     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vidya-pratishthans-new-english-medium-school-baramati
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vidya-pratishthans-new-english-medium-school-baramati", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  86/139] Scraping: pune/ryan-international-academy-hinjawadi-hinjawadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/ryan-international-academy-hinjawadi-hinjawadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/ryan-international-academy-hinjawadi-hinjawadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  87/139] Scraping: pune/indus-early-learning-centre-nursery-school-in-pune-aundh     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/indus-early-learning-centre-nursery-school-in-pune-aundh
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/indus-early-learning-centre-nursery-school-in-pune-aundh", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  88/139] Scraping: pune/d-a-v-public-school-baner-chs-aundh     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/d-a-v-public-school-baner-chs-aundh
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/d-a-v-public-school-baner-chs-aundh", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  89/139] Scraping: pune/hello-kids-campus-preschool-day-care-bavdhan     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/hello-kids-campus-preschool-day-care-bavdhan
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/hello-kids-campus-preschool-day-care-bavdhan", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  90/139] Scraping: pune/dhole-patil-school-for-excellence-kharadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/dhole-patil-school-for-excellence-kharadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/dhole-patil-school-for-excellence-kharadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  91/139] Scraping: pune/universal-wisdom-school-balewadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/universal-wisdom-school-balewadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/universal-wisdom-school-balewadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  92/139] Scraping: pune/spmenglish-school-b-block-sadashiv-peth     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/spmenglish-school-b-block-sadashiv-peth
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/spmenglish-school-b-block-sadashiv-peth", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  93/139] Scraping: pune/ryan-international-school-siddharth-nagar-bavdhan     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/ryan-international-school-siddharth-nagar-bavdhan
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/ryan-international-school-siddharth-nagar-bavdhan", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  94/139] Scraping: pune/orchids-the-international-school-ambegaon-bk     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/orchids-the-international-school-ambegaon-bk
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/orchids-the-international-school-ambegaon-bk", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  95/139] Scraping: pune/master-mind-global-english-sr-secondary-school-pimpri-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/master-mind-global-english-sr-secondary-school-pimpri-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/master-mind-global-english-sr-secondary-school-pimpri-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  96/139] Scraping: pune/elpro-international-school-mulshi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/elpro-international-school-mulshi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/elpro-international-school-mulshi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  97/139] Scraping: pune/sinhgad-spring-dale-school-ambegaon-bk     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/sinhgad-spring-dale-school-ambegaon-bk
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/sinhgad-spring-dale-school-ambegaon-bk", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  98/139] Scraping: pune/podar-international-school-vadgaon-budruk     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-international-school-vadgaon-budruk
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-international-school-vadgaon-budruk", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[  99/139] Scraping: pune/jjenglish-medium-school-ganesh-nagar-bopkhel     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/jjenglish-medium-school-ganesh-nagar-bopkhel
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/jjenglish-medium-school-ganesh-nagar-bopkhel", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 100/139] Scraping: pune/canvas-international-preschool-dhanori     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/canvas-international-preschool-dhanori
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/canvas-international-preschool-dhanori", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 101/139] Scraping: pune/podar-international-school-ambegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-international-school-ambegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-international-school-ambegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 102/139] Scraping: pune/aaryans-world-school-warje     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/aaryans-world-school-warje
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/aaryans-world-school-warje", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 103/139] Scraping: pune/eurokids-pre-school-daycare-bavdhan     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/eurokids-pre-school-daycare-bavdhan
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/eurokids-pre-school-daycare-bavdhan", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 104/139] Scraping: pune/vh-english-medium-school-moshi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vh-english-medium-school-moshi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vh-english-medium-school-moshi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 105/139] Scraping: pune/mamasaheb-khandge-english-medium-school-talegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/mamasaheb-khandge-english-medium-school-talegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/mamasaheb-khandge-english-medium-school-talegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 106/139] Scraping: pune/jayawant-public-school-satar-nagar-hadapsar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/jayawant-public-school-satar-nagar-hadapsar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/jayawant-public-school-satar-nagar-hadapsar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 107/139] Scraping: pune/akshara-international-school-wakad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/akshara-international-school-wakad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/akshara-international-school-wakad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 108/139] Scraping: pune/army-public-school-dighi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/army-public-school-dighi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/army-public-school-dighi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 109/139] Scraping: pune/immanuel-mar-thoma-school-dhanori     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/immanuel-mar-thoma-school-dhanori
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/immanuel-mar-thoma-school-dhanori", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 110/139] Scraping: pune/the-orbis-school-lonkar-nagar-mundhwa     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/the-orbis-school-lonkar-nagar-mundhwa
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/the-orbis-school-lonkar-nagar-mundhwa", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 111/139] Scraping: pune/victorious-kids-educares-kharadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/victorious-kids-educares-kharadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/victorious-kids-educares-kharadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 112/139] Scraping: pune/bright-future-school-kondhwa     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/bright-future-school-kondhwa
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/bright-future-school-kondhwa", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 113/139] Scraping: pune/arise-international-school-ravet     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/arise-international-school-ravet
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/arise-international-school-ravet", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 114/139] Scraping: pune/prakash-english-medium-school-rasta-peth     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/prakash-english-medium-school-rasta-peth
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/prakash-english-medium-school-rasta-peth", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 115/139] Scraping: pune/empros-international-school-pimpri-chinchwad     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/empros-international-school-pimpri-chinchwad
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/empros-international-school-pimpri-chinchwad", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 116/139] Scraping: pune/podar-international-school-pune     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/podar-international-school-pune
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/podar-international-school-pune", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 117/139] Scraping: pune/innovative-world-school-moshi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/innovative-world-school-moshi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/innovative-world-school-moshi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 118/139] Scraping: pune/j-v-patil-international-school-junnar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/j-v-patil-international-school-junnar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/j-v-patil-international-school-junnar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 119/139] Scraping: pune/regent-school-bibwewadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/regent-school-bibwewadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/regent-school-bibwewadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 120/139] Scraping: pune/footprints-play-school-day-care-creche-preschool-in-magarpatta-pune-magarpatta-city-hadapsar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/footprints-play-school-day-care-creche-preschool-in-magarpatta-pune-magarpatta-city-hadapsar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/footprints-play-school-day-care-creche-preschool-in-magarpatta-pune-magarpatta-city-hadapsar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 121/139] Scraping: pune/new-wisdom-international-school-kharadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/new-wisdom-international-school-kharadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/new-wisdom-international-school-kharadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 122/139] Scraping: pune/pdeas-shardabai-pawarsp-english-medium-school-kharadi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/pdeas-shardabai-pawarsp-english-medium-school-kharadi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/pdeas-shardabai-pawarsp-english-medium-school-kharadi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 123/139] Scraping: pune/pushpa-international-school-katraj     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/pushpa-international-school-katraj
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/pushpa-international-school-katraj", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 124/139] Scraping: pune/vidya-valley-school-parkhe-vasti-sus     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vidya-valley-school-parkhe-vasti-sus
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vidya-valley-school-parkhe-vasti-sus", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 125/139] Scraping: pune/utkarsha-pre-school-pre-primary-school-kirti-nagar-vadgaon-budruk     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/utkarsha-pre-school-pre-primary-school-kirti-nagar-vadgaon-budruk
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/utkarsha-pre-school-pre-primary-school-kirti-nagar-vadgaon-budruk", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 126/139] Scraping: pune/pandurang-international-english-school-haveli     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/pandurang-international-english-school-haveli
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/pandurang-international-english-school-haveli", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 127/139] Scraping: pune/pawar-public-school-hadapsar-road     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/pawar-public-school-hadapsar-road
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/pawar-public-school-hadapsar-road", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 128/139] Scraping: pune/adhira-international-school-punawale     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/adhira-international-school-punawale
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/adhira-international-school-punawale", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 129/139] Scraping: pune/innovative-minds-school-talegaon     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/innovative-minds-school-talegaon
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/innovative-minds-school-talegaon", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 130/139] Scraping: pune/vikhe-patil-memorial-school-gokhalenagar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vikhe-patil-memorial-school-gokhalenagar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vikhe-patil-memorial-school-gokhalenagar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 131/139] Scraping: pune/air-force-school-viman-nagar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/air-force-school-viman-nagar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/air-force-school-viman-nagar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 132/139] Scraping: pune/orchids-the-international-school-mulkhed     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/orchids-the-international-school-mulkhed
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/orchids-the-international-school-mulkhed", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 133/139] Scraping: pune/sanjay-ghodawat-international-school-sgis-pune-mulshi     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/sanjay-ghodawat-international-school-sgis-pune-mulshi
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/sanjay-ghodawat-international-school-sgis-pune-mulshi", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 134/139] Scraping: pune/vikhe-patil-memorial-school-pune     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/vikhe-patil-memorial-school-pune
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/vikhe-patil-memorial-school-pune", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 135/139] Scraping: pune/educon-international-school-baner     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/educon-international-school-baner
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/educon-international-school-baner", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 136/139] Scraping: pune/cygnet-public-school-narhe     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/cygnet-public-school-narhe
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/cygnet-public-school-narhe", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 137/139] Scraping: pune/pune-international-school-and-junior-college-vidyanagar     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/pune-international-school-and-junior-college-vidyanagar
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/pune-international-school-and-junior-college-vidyanagar", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 138/139] Scraping: pune/stella-maris-school-wadgaon-sheri     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/stella-maris-school-wadgaon-sheri
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/stella-maris-school-wadgaon-sheri", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+[ 139/139] Scraping: pune/bk-birla-centre-for-education-tal-maval     Error loading page: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://yellowslate.com/school/pune/bk-birla-centre-for-education-tal-maval
+Call log:
+  - navigating to "https://yellowslate.com/school/pune/bk-birla-centre-for-education-tal-maval", waiting until "networkidle"
+
+
+    ✗ error: 'NoneType' object is not subscriptable
+
+============================================================
+DETAIL BACKFILL SUMMARY
+============================================================
+Total schools:           139
+Already completed:         0
+Newly scraped:           139
+Failed:                  125
+Checkpoint file:      scraped_data/details_checkpoint.json
+============================================================
+
+⚠  125 school(s) failed. Re-run with --resume to retry.

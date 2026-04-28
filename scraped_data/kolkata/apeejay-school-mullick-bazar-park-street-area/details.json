@@ -1,0 +1,256 @@
+{
+  "slug": "/school/kolkata/apeejay-school-mullick-bazar-park-street-area",
+  "url": "https://yellowslate.com/school/kolkata/apeejay-school-mullick-bazar-park-street-area",
+  "city": "kolkata",
+  "name": "Apeejay School - Park Street area ",
+  "scraped_at": "2026-04-28T18:39:59.511037",
+  "html_length": 355152,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kolkata",
+          "item": "https://yellowslate.com/schools/kolkata"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Park Street Area",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kolkata/park-street-area/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Apeejay School",
+          "item": "https://yellowslate.com/school/kolkata/apeejay-school-mullick-bazar-park-street-area"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Apeejay School - Park Street area",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kolkata/apeejay-school-mullick-bazar-park-street-area",
+      "telephone": "+91 332 229 1779",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "115, Park St, Mullick Bazar, Park Street area, Kolkata, West Bengal 700016, India",
+        "addressLocality": "Kolkata",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 22.5481912,
+        "longitude": 88.359433
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Park Street area",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "115, Park St, Mullick Bazar, Park Street area, Kolkata, West Bengal 700016, India",
+              "addressLocality": "Kolkata",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kolkata/apeejay-school-mullick-bazar-park-street-area-park-street-area-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saltanat Shahid"
+          },
+          "datePublished": "2023-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son studies in this school he is new to the school this year\nTill now it's curriculum and the syllabus is good my son likes to go to school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjishnu Guha"
+          },
+          "datePublished": "2023-05-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the best and reputed schools in Kolkata. I have been studying there for the last 11 years and the teachers are so good. The best teachers are Tania Mukherjee Seal ma'am (History), Sushma Shaw ma'am (Hindi), Ahana ma'am ( Physics)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reyyan Md"
+          },
+          "datePublished": "2023-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would like to offer a sincere piece of advice to parents: be cautious of certain schools(especially this one) that use manipulative marketing tactics to lure you in. Despite their claims of being the best school with a positive learning environment, they may not actually live up to those standards. It's important to note that they didn't even have a system in place for receiving feedback. Additionally, the teachers and staff can be disrespectful towards parents. The school's owner is a large corporation, which may explain their arrogant behavior and willingness to deceive and mistreat parents without any remorse. This school is striving to be seen as an elite institution, yet they are not genuinely concerned about the majority of their students and show favoritism",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Zainab Ahmed Nasir"
+          },
+          "datePublished": "2023-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Ok so i have been waiting to write an honest review.\nWhats in the name.\nThe so called inclusive dept is just for the name sake.\nTeachers are not at all co operative\ntowards delayed students..\nThey cant even handle a crying child. Very bad experience i had.\nWaste of time, money and my son's development detoriated just because of there ignorance and no co operation. He was traumatized to see this school..\nI had many hopes from this institute. But i wasted my time here.\nA big no for special needs.\nThe condition might worsten in such environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Apeejay School - Park Street area"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sahil Kumar"
+          },
+          "datePublished": "2023-03-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice  school...Ac in the class rooms ....school is situated in a good place 😊\nMany cafes nearby....shopping areas ..metro",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://8views.com/\\",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\"
+  ],
+  "rating": "3.2",
+  "views": "546",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Park Street area",
+  "board": "CBSE\n\nCo",
+  "established": "1975",
+  "category": "Day Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2022/09/yellowslateimg-1.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

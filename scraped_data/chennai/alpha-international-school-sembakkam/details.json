@@ -1,0 +1,416 @@
+{
+  "slug": "/school/chennai/alpha-international-school-sembakkam",
+  "url": "https://yellowslate.com/school/chennai/alpha-international-school-sembakkam",
+  "city": "chennai",
+  "name": "Alpha International School - Sembakkam ",
+  "scraped_at": "2026-04-28T18:31:54.441495",
+  "html_length": 440769,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sembakkam",
+          "item": "https://yellowslate.com/schools/chennai/sembakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/sembakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Alpha International School",
+          "item": "https://yellowslate.com/school/chennai/alpha-international-school-sembakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Alpha International School - Sembakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971202521351775e748f208ce4f1584697121.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/alpha-international-school-sembakkam",
+      "telephone": "044 22270632 / 22270454",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "151, Velachery - Tambaram Main Rd, Durga Colony, Sembakkam, Chennai, Tamil Nadu 600073",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9241566,
+        "longitude": 80.1583961
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "151, Velachery - Tambaram Main Rd, Durga Colony, Sembakkam, Chennai, Tamil Nadu 600073",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/alpha-international-school-sembakkam-sembakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "11"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hitake Mank"
+          },
+          "datePublished": "2022-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school, superb for class 10th to 11th",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Messiop"
+          },
+          "datePublished": "2022-07-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school. teachers are very good and kind",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suresh Kumar"
+          },
+          "datePublished": "2022-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The worst school in this area. From the entrance of security guard there is no manner to treat people. The next management team annoying parents on their  way they are speaking. The principles following her own way of rules.\n1. They are pre defined rules for government.\n2.Not followed any rules and regulations\n3.The school front area not maintained highenicqlly.\n4.The same for any govt exams like TNPSC centers they are alloted means their behavior is worst",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kumaresan Pks"
+          },
+          "datePublished": "2022-06-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Revathi Ponraj"
+          },
+          "datePublished": "2022-02-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Viji front office very rude behavior actually a front office is the mirror for many organizations what ever the sector education or any.. her attitude and body language to the parents is really annoying specifically where we cannot get appointment to meet the principal of this institution,suppose to be all schools where principals are friendly natured here it us like meeting a CM.. even we can meet him if we plead.. but here that too NO. It is here all front office control. Very disappointing",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yashif Ahmed"
+          },
+          "datePublished": "2022-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Schoo doing great at both online and offline teaching.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kailasam padmanaban"
+          },
+          "datePublished": "2022-01-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen S"
+          },
+          "datePublished": "2021-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Studied from 2006 - 2016. In the early days, the school was small in both size and strength but being in school was great, the staffs, small playground, old office building and especially the fish tank in the entrance of the building where most of them will come and spend their time after the school is over. I even studied in a small building that was separate from the school building. Had a great time with the school till 9 std then the 10, 11 and 12 had a great time only because of my friends.\n\nWhen I was studying in 2016(12th) the old staff who taught me were almost gone from this school. This school doesn't pressure students to yield good academic results (don't know about now). In money wise school doesn't spend anything for students for eg: the school had once taken us to an exhibition, in the end, the school asked us to pay for the transportation.  In terms of what we pay as huge fees compared to other schools in the area, I think they can do better in these things. I even heard the pay for the teachers is also not so good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MAHESH KUMAR"
+          },
+          "datePublished": "2020-05-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Education Standard is good. School encourages kids on participating various talent development programs.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Alpha International School - Sembakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "roblox dudeperfect"
+          },
+          "datePublished": "2019-09-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ok very  nice leadership of Mrs Ramani george",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15910766912721042325ed5e753f3a631591076692.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971202521351775e748f208ce4f1584697121.PNG\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971202521351775e748f208ce4f1584697121.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971202521351775e748f208ce4f1584697121.PNG",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158469727612843552665e748fbc8c40b1584697277.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160198162111758786915f7c4cb5e05da1601981622.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png\\"
+  ],
+  "rating": "3.8",
+  "views": "4264",
+  "reviews_count": "11",
+  "phone": "+919513238818",
+  "locality": "Sembakkam",
+  "board": "CBSE, IGCSE\n\nCo",
+  "established": "2015",
+  "category": "International Schools",
+  "classes": "000 - 85",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Table-tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15910766912721042325ed5e753f3a631591076692.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kabaddi.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158469713521203175995e748f2fabb8d1584697136.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158469713114144558825e748f2b9daa21584697132.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158469727612843552665e748fbc8c40b1584697277.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15846971331644151935e748f2d9773d1584697134.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15846971202521351775e748f208ce4f1584697121.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158469713314638162875e748f2d9cbef1584697134.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Billiards.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158469713111249881925e748f2b9234d1584697132.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

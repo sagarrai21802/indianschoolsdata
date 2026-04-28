@@ -1,0 +1,375 @@
+{
+  "slug": "/school/noida/delhi-public-school-sector-28",
+  "url": "https://yellowslate.com/school/noida/delhi-public-school-sector-28",
+  "city": "noida",
+  "name": "Delhi Public School - Sector 28 ",
+  "scraped_at": "2026-04-28T14:53:58.314194",
+  "html_length": 396850,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 28",
+          "item": "https://yellowslate.com/schools/noida/sector-28"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/sector-28/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/noida/delhi-public-school-sector-28"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Sector 28",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/delhi-public-school-sector-28",
+      "telephone": "+91 1204509100",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "H8FP+V74, Sector 30, Noida, Uttar Pradesh 201303, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5746375,
+        "longitude": 77.3357031
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "H8FP+V74, Sector 30, Noida, Uttar Pradesh 201303, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/delhi-public-school-sector-28-sector-28-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "2.8",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti Verma"
+          },
+          "datePublished": "2024-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in noida. Teachers are polite and everyone is helpful. I would recommend to anyone with a high budget. Academics also great",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jade Darling"
+          },
+          "datePublished": "2024-02-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "disgusting administration, money minded terrible principal",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rahul Sharma"
+          },
+          "datePublished": "2024-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school for child. Don't go by its name as it has nothing in common with the DPS of Delhi. Teachers are only worried about fess being paid and no one now focuses on studies and child welfare. It all from top coming to bottom. Reception and staff are rude and not cooperative at all. Govt schools are much better in many ways. Teachers encourage students to take tuition and coaching rather than focusing on improving ways to teach in a better way.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AANYA ARORA"
+          },
+          "datePublished": "2023-12-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very good school.... Studying there and also gone for many interschools in various schools I consider it as THE BEST SCHOOL IN DELHI NCR....\nBest branch of DPS NOIDA",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Papiya Mahanti"
+          },
+          "datePublished": "2023-10-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The front desk lady is so rude...not at all cooperative and absolutely not bothered. Seems confident ...no complaints against her can harm her. God knows what they are teaching children. Teachers are no better... except for very few exceptions. Not a good place development of children for sure.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gautam Sibal"
+          },
+          "datePublished": "2023-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Children speak horrible language, teachers are in a different world and principal is on a different plane. This school has become a hotbed of corruption, thanks to principal and her personal staff, who demand money from admission to contracts.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manish Awasthi"
+          },
+          "datePublished": "2023-08-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "How many ratings should I give to the school in today's scenario? Anyone can share their experience/feedback. I want to rate the school in terms of (a) Academics (b) ECA (c) Safety, specially of girls and (d) Environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dvij Tripathi"
+          },
+          "datePublished": "2023-07-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school\nI have been student of this school for 6 years......\nBest experience.\nTeachers are very experienced",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vineet Varshney"
+          },
+          "datePublished": "2023-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school in the heart of Noida, known for overall performance whether it is Academics, sports, cultural activities. DPS Noida is a well known name in Noida. Nurturing students for 35 years.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Sector 28"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ankita Sharma"
+          },
+          "datePublished": "2023-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had contacted dps noida sector 30 for inquiry about admission and my call diverted to front desk. She was so rude and not at all supportive to provide information. I want to complain further as when i said this is ride she fearless said yes i am go ahead and complain.\n\nWhat manners you put in children if your staff is itself mannerless. Never recommended.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167388963373128577163c58761b517b1673889634.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "2.8",
+  "views": "757",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Sector 28",
+  "board": "CBSE\n\nCo",
+  "established": "1982",
+  "category": "Day Schools",
+  "classes": "300 - 148",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/167388963373128577163c58761b517b1673889634.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

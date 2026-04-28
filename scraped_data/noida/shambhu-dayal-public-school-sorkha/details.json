@@ -1,0 +1,257 @@
+{
+  "slug": "/school/noida/shambhu-dayal-public-school-sorkha",
+  "url": "https://yellowslate.com/school/noida/shambhu-dayal-public-school-sorkha",
+  "city": "noida",
+  "name": "Shambhu Dayal Public School - Sorkha ",
+  "scraped_at": "2026-04-28T15:03:00.757649",
+  "html_length": 341416,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sorkha",
+          "item": "https://yellowslate.com/schools/noida/sorkha"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/sorkha/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Shambhu Dayal Public School",
+          "item": "https://yellowslate.com/school/noida/shambhu-dayal-public-school-sorkha"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Shambhu Dayal Public School - Sorkha",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/shambhu-dayal-public-school-sorkha",
+      "telephone": "+91 931 087 9306",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "FNG ROAD Sector 115, HCG5+6MG, Sorkha, Noida, Uttar Pradesh 201304, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5750034,
+        "longitude": 77.4107069
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shambhu Dayal Public School - Sorkha",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "FNG ROAD Sector 115, HCG5+6MG, Sorkha, Noida, Uttar Pradesh 201304, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/shambhu-dayal-public-school-sorkha-sorkha-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bharat Yadav"
+          },
+          "datePublished": "2023-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is very superspacelity school ,\nI like very teacher and all love it staff.\nThen my experience this school 11 year .. etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shambhu Dayal Public School - Sorkha"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aman Upadhyay"
+          },
+          "datePublished": "2022-05-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Applied mathematics is available for class 11\nOr not??",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shambhu Dayal Public School - Sorkha"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Brijesh Sharma"
+          },
+          "datePublished": "2022-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is most valuable for students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shambhu Dayal Public School - Sorkha"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santosh Kumar"
+          },
+          "datePublished": "2020-06-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I think this is the best school.\nBecause of  good faculty and discipline\nAnd also great opportunity for sports like student's.\nThere are many best teachers too .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Shambhu Dayal Public School - Sorkha"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Munder Singh"
+          },
+          "datePublished": "2015-06-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have spant 15 year in the field of education .when i started the school there was no school in the village .my hobby is to littrate all the villagers boys .mundra yadav .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png&quot;);",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "5.0",
+  "views": "467",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sorkha",
+  "board": "CBSE\n\nCo",
+  "established": "1997",
+  "category": "Day Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

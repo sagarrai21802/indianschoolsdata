@@ -1,0 +1,258 @@
+{
+  "slug": "/school/noida/delhi-public-world-school-knowledge-park-ii",
+  "url": "https://yellowslate.com/school/noida/delhi-public-world-school-knowledge-park-ii",
+  "city": "noida",
+  "name": "Delhi Public World School - Knowledge Park II ",
+  "scraped_at": "2026-04-28T15:08:30.024145",
+  "html_length": 354956,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Knowledge Park II",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-ii"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-ii/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public World School",
+          "item": "https://yellowslate.com/school/noida/delhi-public-world-school-knowledge-park-ii"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public World School - Knowledge Park II",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/delhi-public-world-school-knowledge-park-ii",
+      "telephone": "+91 991 167 3386",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No. 12/2, Opp. GNIBM, Maula Ali Rd, Knowledge Park III, Greater Noida, Ruhallapur, Uttar Pradesh 201308, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4741544,
+        "longitude": 77.489735
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public World School - Knowledge Park II",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No. 12/2, Opp. GNIBM, Maula Ali Rd, Knowledge Park III, Greater Noida, Ruhallapur, Uttar Pradesh 201308, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/delhi-public-world-school-knowledge-park-ii-knowledge-park-ii-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anjali Dock"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My sister’s daughter is studying in the primary branch of the school who is taking transportation service from school. Earlier there was no issue in the pickup and drop timing of child but recently they changed the dropping timings of a 4 year kid to 4pm. Where as the closing time of school is 2pm for students. Now child is reaching home after 2 hours, which was earlier 45 minutes. And we complain about this to the principal. I was astonished to hear the reply, she was saying that their regular small vehicles are busy in elections now a days. Is this the way school are managing by the principals, who’s priorities are elections rather than the students.Pathetic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public World School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Faisal Faheem"
+          },
+          "datePublished": "2021-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The journey with Delhi World Public school, Greater Noida has been a wonderful experience throughout my son's schooling. The teachers and management are all experienced & supportive and help in the overall grooming of the child. With a well balanced teacher Student ratio in every class, every student gets proper attention. Wishing the whole team of DWPS the very best of luck.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public World School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bilal Faisal Faheem"
+          },
+          "datePublished": "2021-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have studied at Delhi World Public School, Greater Noida for 4 years and have had a wonderful experience. The faculty is good and co-operative. Teachers are always ready to help and specially the commerce teachers. Constant assistance in academics and co-curricular activities is provided with many inter school competitions. I got 95.2% in 12th. Thank you for a great 4 year experience ✨",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public World School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abi Gupta"
+          },
+          "datePublished": "2021-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS World school Noida extension is one of the best school, as of now there are multiple school which is running in Noida extension but as per my understanding this is one of the best school. to understand it better you can go there and understand the same. I m very much satisfied with the management, and Staff members here. The school is very collaborative and working hard towards brushing up the skills of the students. I have a good time herein. This school provides the best platform for the students to learn the things in an innovative way which leads in the enhancement of the knowledge and abilities of a students. To make your children 'future oriented\" go up with it.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public World School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Brajesh Yadav"
+          },
+          "datePublished": "2018-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPS World school Noida extension is one of the best school, as of now there are multiple school which is running in Noida extension but as per my understanding this is one of the best school. to understand it better you can go there and understand the same.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "4.0",
+  "views": "583",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Knowledge Park II",
+  "board": "CBSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 80",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

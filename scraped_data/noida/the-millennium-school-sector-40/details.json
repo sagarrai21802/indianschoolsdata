@@ -1,0 +1,374 @@
+{
+  "slug": "/school/noida/the-millennium-school-sector-40",
+  "url": "https://yellowslate.com/school/noida/the-millennium-school-sector-40",
+  "city": "noida",
+  "name": "The Millennium School - Sector 40 ",
+  "scraped_at": "2026-04-28T15:09:55.522550",
+  "html_length": 398930,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector 40",
+          "item": "https://yellowslate.com/schools/noida/sector-40"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/sector-40/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "The Millennium School",
+          "item": "https://yellowslate.com/school/noida/the-millennium-school-sector-40"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "The Millennium School - Sector 40",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/the-millennium-school-sector-40",
+      "telephone": "+91 995 804 4211",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "The Millennium School, Sector 41 Block D Rd, Block D, Sector 41, Noida, Uttar Pradesh 201303, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5671131,
+        "longitude": 77.3591363
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "The Millennium School, Sector 41 Block D Rd, Block D, Sector 41, Noida, Uttar Pradesh 201303, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/the-millennium-school-sector-40-sector-40-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pradeep kumar kesireddy"
+          },
+          "datePublished": "2024-03-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is good, but worst Administration. School has charged 33k additionally, when I raised complaint, they took 1 year to return back.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anoop Bharti"
+          },
+          "datePublished": "2023-12-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prashant Educomp"
+          },
+          "datePublished": "2023-10-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good school TMS 41",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vivek Kumar Singh"
+          },
+          "datePublished": "2023-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dear Visitors, It so happened that after turning to three schools at Noida for my son, I was advised to stop at The Millennium School at Sector 41 Noida and after that my search for a good school for my son finally ended.\n\nThe Millennium School is simply great with good well behaved educationists and very disciplined students who follow good manners and good behaviour.\n\nThis school is very safe  and one of the finest in Noida.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kulbhushan Gupta"
+          },
+          "datePublished": "2023-07-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A fantastic school for kids...I shifted my son from TKS to TMS and i believe that had been my best decision of life... My son loves going to school..Teachers are very friendly with students.Each and every student is taken good care of...even i feel that my child is at a safe place .Thanks to Principal Ma'am and the whole staff to work for the wholistic development of children...Highly recommended school for best education and overall growth of your child",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aarya Trivedi"
+          },
+          "datePublished": "2023-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Experienced exponential growth during my education at TMS; all credit to the teachers, who mentored me not only in terms of academics but helped me develop my emotional quotient as well.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Urooj Azhar"
+          },
+          "datePublished": "2023-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Millennium made me into who I am today. My personality, my confidence is all because of the opportunities the school provided. The teachers , My principal at the time Mrs. Rita Kaul Ma’am all played a significant role into moulding me into the best version of myself . Going out into the real world I realized that not all kids get the same exposure we did , we owe the confidence we exhibit in college fests and job interviews to our school for making us fearless to face the world. I will always be grateful for Millennium. Thankyou for the growth , memories and a whole lot more.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sumit Chandna"
+          },
+          "datePublished": "2023-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent, I couldn’t be more pleased with the education and overall experience that my child has had at The Millenium School, Noida . From the moment we enrolled, we knew we had made the right choice.\n\nThe faculty and staff at TMS Noida are exceptional. They are not only highly qualified educators but also genuinely caring individuals who go above and beyond to ensure the success and well-being of each student. The teachers take the time to understand the unique needs of every child and provide personalized attention and support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prajwal Kumar"
+          },
+          "datePublished": "2023-07-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Millennium School, Noida is another step towards transforming the world through education.\nThe school is dedicated towards nurturing the inherent potential and talent of each child. My experience in this school is outstanding!\n\nIt is the only school which really cares for its children. It aims to provide best quality education which I’m sure that no other school can match. It initiates many extracurricular activities for efficient learning inculcation in students. These activities include,MUN, Peer teaching, Educational trips, etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "The Millennium School - Sector 40"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reshma Sinha"
+          },
+          "datePublished": "2023-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing connect of teacher- student",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://schema.org\\\\\\",
+    "https://schema.org",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://schema.org/\\\\\\",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1674240317100226825963cae13d551d11674240317.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://8views.com/\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/"
+  ],
+  "rating": "4.3",
+  "views": "622",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Sector 40",
+  "board": "CBSE\n\nCo",
+  "established": "2008",
+  "category": "Day Schools",
+  "classes": "508 - 128",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg"
+  ]
+}

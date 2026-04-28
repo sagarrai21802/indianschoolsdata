@@ -1,0 +1,256 @@
+{
+  "slug": "/school/noida/delhi-public-school-upsidc-site-b-surajpur",
+  "url": "https://yellowslate.com/school/noida/delhi-public-school-upsidc-site-b-surajpur",
+  "city": "noida",
+  "name": "Delhi Public School - UPSIDC Site B,Surajpur ",
+  "scraped_at": "2026-04-28T15:08:24.864129",
+  "html_length": 348836,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "UPSIDC Site B,Surajpur",
+          "item": "https://yellowslate.com/schools/noida/upsidc-site-b-surajpur"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/upsidc-site-b-surajpur/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/noida/delhi-public-school-upsidc-site-b-surajpur"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - UPSIDC Site B,Surajpur",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/delhi-public-school-upsidc-site-b-surajpur",
+      "telephone": "+91 1204612301",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector Gamma 2, UPSIDC Site B, Gulistanpur, Greater Noida, Uttar Pradesh 201308, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4814686,
+        "longitude": 77.5135471
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - UPSIDC Site B,Surajpur",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector Gamma 2, UPSIDC Site B, Gulistanpur, Greater Noida, Uttar Pradesh 201308, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/delhi-public-school-upsidc-site-b-surajpur-upsidc-site-b-surajpur-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Surbhi Jain"
+          },
+          "datePublished": "2023-08-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school has the most experienced and best teachers in town. But they're more inclined towards studies than ECA. Moreover, ECA is now increasingly being outsourced via tie-ups and being charged extra for by the school. Deliver of subjects like Maths and Science is very reformed and practical, while computers and foreign language remain the opposite.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - UPSIDC Site B,Surajpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ankit singh"
+          },
+          "datePublished": "2023-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Everything is good. However, I strongly believe that they should install Ac in all the classrooms. With scorching summer heat, kids can hardly focus on their studies in the classroom. By the time they come home they are already exhausted. One should see the faces of the students at the time of dispersal...sweaty, tired and red. I don't know what is taking them so long to do this.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - UPSIDC Site B,Surajpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Talha Saleem"
+          },
+          "datePublished": "2023-04-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the worst school on the history and future of any schools. Along with gender discrimination, they also promote traumatising of children through teachers. They want the fee on time but won’t address the parents issue if there are any. Bullying is very common here among students. My younger sister had to face a lot while being in this school & id request anyone who’s reading this to get your child admitted in ANY school but NOT DPS (any branch) because they’re all the same. Thanks",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - UPSIDC Site B,Surajpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sujata Shyamal"
+          },
+          "datePublished": "2023-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is okay okay, don’t expect as perfect school. Transportation is pathetic, they are providing local Bus for kids, which is not safe and not providing AC facility even after huge fee increase.\n\nkids are having problem in summers.\nSchool notifications are never on time. just okay school like any other school in greater noida.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - UPSIDC Site B,Surajpur"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ANIL SINHA"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent premises, neat and clean, first time visited this school with my granddaughter who  taken admission in St One this year, Class teacher is superb in all respect, explained all activities n module of teaching in a very good manner, very courteous.Met Headmistress madam also,who is courteous beyond expectations.Personally came till chamber door while I was coming back.Her behaviour was wonderful.I am happy that I shifted my granddaughter to this school from another so-called reputed school of Greater Noida .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "3.2",
+  "views": "536",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "UPSIDC Site B,Surajpur",
+  "board": "CBSE\n\nCo",
+  "established": "1998",
+  "category": "Day Schools",
+  "classes": "756 - 90",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

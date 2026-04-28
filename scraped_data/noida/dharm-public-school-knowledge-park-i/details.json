@@ -1,0 +1,259 @@
+{
+  "slug": "/school/noida/dharm-public-school-knowledge-park-i",
+  "url": "https://yellowslate.com/school/noida/dharm-public-school-knowledge-park-i",
+  "city": "noida",
+  "name": "DHARM PUBLIC SCHOOL - Knowledge Park I ",
+  "scraped_at": "2026-04-28T14:53:41.056450",
+  "html_length": 357573,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Knowledge Park I",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-i"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-i/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "DHARM PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/noida/dharm-public-school-knowledge-park-i"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "DHARM PUBLIC SCHOOL - Knowledge Park I",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/dharm-public-school-knowledge-park-i",
+      "telephone": "+91 987 340 3463",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Chaura Raghunathpur, Raghunathpur, Sector 22, Noida, Uttar Pradesh 201301, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5941117,
+        "longitude": 77.3435694
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DHARM PUBLIC SCHOOL - Knowledge Park I",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Chaura Raghunathpur, Raghunathpur, Sector 22, Noida, Uttar Pradesh 201301, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/dharm-public-school-knowledge-park-i-knowledge-park-i-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anu Mahajan"
+          },
+          "datePublished": "2022-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dharam public school is the good school with excellent management and have good skillful and knowledgeable teachers.  Who help the students to find the right path in there career",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DHARM PUBLIC SCHOOL - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "mehak rawat"
+          },
+          "datePublished": "2022-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dharam public school provides quality education to the learners.The teacher focuses on the overall development of the students and provide them a safe and learning environment.Instead of focusing on the rote learning teacher's main focus is on conceptual learning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DHARM PUBLIC SCHOOL - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "urmi bhardwaj"
+          },
+          "datePublished": "2022-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dharam public school provide a better platform of education for  students.The staff also focus on the personality of the students and works to remove the inner darkness of illiteracy and fills the light of knowledge in the inner will of the student.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DHARM PUBLIC SCHOOL - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Diksha Awana"
+          },
+          "datePublished": "2022-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "#Dharam public school# is a name of such a institute where the basic agenda is to provide quality education to students..\nTeacher are very friendly and full of \"ready to help nature \"\nResults in children with academic excellence are rooted here!!!\nBest place for your child's brighter future !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "DHARM PUBLIC SCHOOL - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhuwan Gaur"
+          },
+          "datePublished": "2022-07-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School reputation is meant with good management and educated teacher staff ...\nIn this school, nurturing of teacher is so much affective ...all the teachers teach as a prime responsibility for educating students .\nAll teachers are highly qualified with\nexcellent teaching skill ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752667626792-ikrx90mp.jpg\\",
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "4.6",
+  "views": "450",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Knowledge Park I",
+  "board": "CBSE\n\nBoys\n\nAbout DHARM PUBLIC SCHOOL\nEnquire Now\n\nDharam Public School provides holistic education where children evolve as individuals who are self",
+  "established": "2000",
+  "category": "Day Schools",
+  "classes": "800 - 28",
+  "gender": "Boys",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

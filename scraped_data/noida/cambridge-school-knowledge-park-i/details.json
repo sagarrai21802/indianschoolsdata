@@ -1,0 +1,373 @@
+{
+  "slug": "/school/noida/cambridge-school-knowledge-park-i",
+  "url": "https://yellowslate.com/school/noida/cambridge-school-knowledge-park-i",
+  "city": "noida",
+  "name": "Cambridge School - Knowledge Park I ",
+  "scraped_at": "2026-04-28T14:56:35.117994",
+  "html_length": 394209,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Knowledge Park I",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-i"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-i/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Cambridge School",
+          "item": "https://yellowslate.com/school/noida/cambridge-school-knowledge-park-i"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Cambridge School - Knowledge Park I",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/cambridge-school-knowledge-park-i",
+      "telephone": "+91 874 598 4304",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "1–B, Institutional Area,Knowledge Park I, Knowledge Park I, Greater Noida, Uttar Pradesh 201310, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4717601,
+        "longitude": 77.5006675
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "1–B, Institutional Area,Knowledge Park I, Knowledge Park I, Greater Noida, Uttar Pradesh 201310, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/cambridge-school-knowledge-park-i-knowledge-park-i-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "39"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aadhya Rai"
+          },
+          "datePublished": "2024-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice Teacher in the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "GahLot ShaB"
+          },
+          "datePublished": "2023-09-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shruti sinha"
+          },
+          "datePublished": "2023-05-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is awesome! The students and teachers are nice to my kids🙌 My kids have joined this school this year and they say it is awesome! They love coming home early and like studying here",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meenakshi Pandey"
+          },
+          "datePublished": "2023-04-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Washroom are so smelly and algae is every where, so much mosquito dead in Washroom I am a student study in 7 and my Washroom so bad and even the water cooler doesn't cool and purify the water worst school other cambridge school like noida are so good  there Washroom are so good everything is good but Csgn teachers are better than csn",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shashi Sharma"
+          },
+          "datePublished": "2023-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Greater Noida. The staff is very cooperative, very helpful. The teachers are very hardworking and are always on their toes.\nGood emphasis on studies & extra curricular activities. Students are really doing well in all the fields.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hema Verma"
+          },
+          "datePublished": "2023-01-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school of Greater Noida. Excellent teaching faculty. Good emphasis on studies and extra curriculum activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shruti Lohani"
+          },
+          "datePublished": "2023-01-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "romy singh"
+          },
+          "datePublished": "2022-12-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "World class hi-tech school for quality education system",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikesh Kumar"
+          },
+          "datePublished": "2022-11-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Was a good school but after change of Principal lot of thing are becoming bad. Now they are also focused on money making only. Teachers are good but management is getting worse.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Cambridge School - Knowledge Park I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sachin kumar"
+          },
+          "datePublished": "2022-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "सेंटर अच्छा है आनद आया",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "4.1",
+  "views": "584",
+  "reviews_count": "39",
+  "phone": "+919513238818",
+  "locality": "Knowledge Park I",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Day Schools",
+  "classes": "200 - 85",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

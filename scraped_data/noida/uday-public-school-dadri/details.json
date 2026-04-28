@@ -1,0 +1,256 @@
+{
+  "slug": "/school/noida/uday-public-school-dadri",
+  "url": "https://yellowslate.com/school/noida/uday-public-school-dadri",
+  "city": "noida",
+  "name": "Uday Public School - DADRI ",
+  "scraped_at": "2026-04-28T14:54:26.824661",
+  "html_length": 352070,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DADRI",
+          "item": "https://yellowslate.com/schools/noida/dadri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/dadri/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Uday Public School",
+          "item": "https://yellowslate.com/school/noida/uday-public-school-dadri"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Uday Public School - DADRI",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/uday-public-school-dadri",
+      "telephone": "+91 989 167 2248",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Chipiyana Buzurg, Ghaziabad, Uttar Pradesh 201009, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6275162,
+        "longitude": 77.453009
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Uday Public School - DADRI",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Chipiyana Buzurg, Ghaziabad, Uttar Pradesh 201009, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/uday-public-school-dadri-dadri-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neetu Verma"
+          },
+          "datePublished": "2021-05-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school in this area for academic\nand activities. School environment is also good for the development of child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Uday Public School - DADRI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Munish"
+          },
+          "datePublished": "2019-02-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Uday is the one of the best school in the  chipiyana..... The teachers have good efforts for your children future...... The teachers have totally qualified and fully trained as per govt rule ...In the school the facilities was very gud...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Uday Public School - DADRI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nitin Raj"
+          },
+          "datePublished": "2019-02-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Nice School in Chipiyana Crossing Republik. A place, where teachers give the best education and morals, They always efforts for the bright future of students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Uday Public School - DADRI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhishek gupta"
+          },
+          "datePublished": "2019-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school, students are forced to put stall in school for the annual function. If anybody refuses he is beaten next day in the school or he has to give fine. Last year class 10 board exam were not held due to which the students are suffering till now. So dont take admission in such a worst school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Uday Public School - DADRI"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satyendra Narayan"
+          },
+          "datePublished": "2018-02-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dear friend and parents one of the worst and pathetic school in Chipiyana.\n1.Behaviour of teacher and administrators is very bad.2.They are treating very badly with parents.\n2. In this school teacher are not a professional they have done simply 10+2 and start teaching.\n3. No rules and regulations they are following. For simple mistake the Child gets punished by teachers.\n4. To control kids in class they simply use to slap and hurt without any reason.\n5. No entertainment facilities in this school for kids.\n6. Behaviour with parents is very rude,  they don't want to listen parents view.\n7. They don't understand the value of the money which was paid as fee and as wall as the importance of your children.\nSo it's request to all friends and parents don't send your child in such type of school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "3.4",
+  "views": "391",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "DADRI",
+  "board": "CBSE\n\nCo",
+  "established": "2012",
+  "category": "Day Schools",
+  "classes": "000 - 24",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

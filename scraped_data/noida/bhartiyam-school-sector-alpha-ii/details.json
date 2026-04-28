@@ -1,0 +1,264 @@
+{
+  "slug": "/school/noida/bhartiyam-school-sector-alpha-ii",
+  "url": "https://yellowslate.com/school/noida/bhartiyam-school-sector-alpha-ii",
+  "city": "noida",
+  "name": "Bhartiyam School - Sector Alpha II ",
+  "scraped_at": "2026-04-28T15:04:21.460643",
+  "html_length": 367469,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sector Alpha II",
+          "item": "https://yellowslate.com/schools/noida/sector-alpha-ii"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/sector-alpha-ii/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bhartiyam School",
+          "item": "https://yellowslate.com/school/noida/bhartiyam-school-sector-alpha-ii"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bhartiyam School - Sector Alpha II",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/173701794116402445956788ca55d12331737017942.JPG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/bhartiyam-school-sector-alpha-ii",
+      "telephone": "+91 959 921 7649",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "HS 9A, Delta-1,Greater Noida (India), Uttar Pradesh 201308, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4842178,
+        "longitude": 77.5244425
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhartiyam School - Sector Alpha II",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "HS 9A, Delta-1,Greater Noida (India), Uttar Pradesh 201308, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/bhartiyam-school-sector-alpha-ii-sector-alpha-ii-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "HARSH VARDHAN"
+          },
+          "datePublished": "2023-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Faculty, behaviour, facility,etc\nBelow avg",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhartiyam School - Sector Alpha II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "happy singh"
+          },
+          "datePublished": "2019-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "ThiS CBSE school offer various differnet fields of study & excellent support & guidance for students to give exams.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhartiyam School - Sector Alpha II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "New School Resume"
+          },
+          "datePublished": "2019-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bhartiyam School is best educational institute to gather knowledge. It provides is terms of study as well as practical knowledge . I  have admitted my child for  certification from there had excellent school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhartiyam School - Sector Alpha II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nancy rastogi"
+          },
+          "datePublished": "2019-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello Friends ,I have admitted my child for certification in bhartiyam school . Teachers are very helpful and caring, during examination, they helped my child due to late admission of her. I am very thankful to faculty that they supported my child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bhartiyam School - Sector Alpha II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishwajit Singh"
+          },
+          "datePublished": "2018-05-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This place located in delta 1,near green city hospital.This school is famous for sports accedemy.Here different types of sports accedemy are available like cricket, football, carate,martial arts , international yoga and different types of olympics athelete games accedemy.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/173701794116402445956788ca55d12331737017942.JPG",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752667240479-4nlqyr7x.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/173701794116402445956788ca55d12331737017942.JPG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1673268814147031214463bc0e4eb182b1673268815.jpg\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/173701794116402445956788ca55d12331737017942.JPG\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js"
+  ],
+  "rating": "4.2",
+  "views": "382",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Sector Alpha II",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "International Schools, Play Schools",
+  "classes": "Nursery - 10",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/173701794116402445956788ca55d12331737017942.JPG"
+  ]
+}

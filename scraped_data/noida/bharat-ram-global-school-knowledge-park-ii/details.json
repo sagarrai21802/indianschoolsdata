@@ -1,0 +1,258 @@
+{
+  "slug": "/school/noida/bharat-ram-global-school-knowledge-park-ii",
+  "url": "https://yellowslate.com/school/noida/bharat-ram-global-school-knowledge-park-ii",
+  "city": "noida",
+  "name": "Bharat Ram Global School - Knowledge Park II ",
+  "scraped_at": "2026-04-28T14:47:05.751340",
+  "html_length": 354464,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Knowledge Park II",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-ii"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/knowledge-park-ii/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Bharat Ram Global School",
+          "item": "https://yellowslate.com/school/noida/bharat-ram-global-school-knowledge-park-ii"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Bharat Ram Global School - Knowledge Park II",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/bharat-ram-global-school-knowledge-park-ii",
+      "telephone": "+91 783 884 9303",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot Street Number 5, near Kaushalya Residency, Knowledge Park III, Greater Noida, Uttar Pradesh 201310, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4788417,
+        "longitude": 77.4934836
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharat Ram Global School - Knowledge Park II",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot Street Number 5, near Kaushalya Residency, Knowledge Park III, Greater Noida, Uttar Pradesh 201310, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/bharat-ram-global-school-knowledge-park-ii-knowledge-park-ii-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aakash"
+          },
+          "datePublished": "2023-08-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in Greater Noida. Campus is big and airy. Ground is also well maintained. Primary wing is separate from senior wing. Teachers are really talented and take good care of kids.\nThe education system of this school is very good. There is good provision of  yoga and  other activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharat Ram Global School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pawan Sharma"
+          },
+          "datePublished": "2023-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is located in knowledge park 3rd. The near by institution is G L BAJAJ and IIMT. school is having good infrastructure and lavish ground for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharat Ram Global School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sonu KB"
+          },
+          "datePublished": "2023-01-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school in Greater Noida. Campus is big and airy. Ground is also well maintained. Primary wing is seaparte from senior wing. Teachers are really talented and take good care of kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharat Ram Global School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anju Rajput"
+          },
+          "datePublished": "2022-01-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, with good infra. Teachers are very hardworking, all informations are communicated by teachers timely. Extra curricular activities, events were organized. Seating arrangement would needed improvement.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Bharat Ram Global School - Knowledge Park II"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Art creator's"
+          },
+          "datePublished": "2017-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school , situated near educational hub ,good staff ,smart washrooms\nNot that much appealing entrance\nHave basement too\nHave canteen ( reasonable rate stuff available)\nBig reception area .\nAmazing lobby,creative work by teachers ,students\nBig school\nIts till 10 th class now .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://wa.me/919513238818",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://schema.org/\\\\\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\"
+  ],
+  "rating": "4.4",
+  "views": "446",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Knowledge Park II",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "000 - 41",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

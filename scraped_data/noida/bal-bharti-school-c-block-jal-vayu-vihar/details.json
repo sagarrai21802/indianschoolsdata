@@ -1,0 +1,259 @@
+{
+  "slug": "/school/noida/bal-bharti-school-c-block-jal-vayu-vihar",
+  "url": "https://yellowslate.com/school/noida/bal-bharti-school-c-block-jal-vayu-vihar",
+  "city": "noida",
+  "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar ",
+  "scraped_at": "2026-04-28T14:49:23.770603",
+  "html_length": 356553,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "C-Block,Jal Vayu Vihar",
+          "item": "https://yellowslate.com/schools/noida/c-block-jal-vayu-vihar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/c-block-jal-vayu-vihar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "BAL BHARTI SCHOOL",
+          "item": "https://yellowslate.com/school/noida/bal-bharti-school-c-block-jal-vayu-vihar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/bal-bharti-school-c-block-jal-vayu-vihar",
+      "telephone": "+91 1202538533",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No.77, Mandir Wali Ln, Block C, JalVayu Vihar, Sector 21, Noida, Uttar Pradesh 201301, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5868545,
+        "longitude": 77.337002
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No.77, Mandir Wali Ln, Block C, JalVayu Vihar, Sector 21, Noida, Uttar Pradesh 201301, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/bal-bharti-school-c-block-jal-vayu-vihar-c-block-jal-vayu-vihar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Roshan Kumar"
+          },
+          "datePublished": "2023-08-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is one of the premier schools of Noida. The school has fame and reputation across Noida. School has decent infra and good mix of teaching staff. The school conducts numerous fests, activities and learning clubs. School security is good and uniform comfortable. The transport team and management is good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dharmraj verma"
+          },
+          "datePublished": "2023-08-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BBPS is a good school. School focus on academics and extra caliculum activities both.\nMy kid is studying here from Nursery. Teacher are very good and teaches in creative way.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hemant Kumar Singh"
+          },
+          "datePublished": "2023-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Its a very good school with very good staff. They provide many extra circular activities for all students. Its part of child education trust Delhi.\nIt has got multiple branches at different locations.\nOne of the prestigious institution in academics.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gomti Mehta"
+          },
+          "datePublished": "2023-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child is studying in class 1C.His experience regarding day camp is really good all the activities are conducted so well. Active participation of child in all the activities... Thanks for giving such a great experience to our child.....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "BAL BHARTI SCHOOL - C-Block,Jal Vayu Vihar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Payal Gupta"
+          },
+          "datePublished": "2022-07-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child studies in Pre-Primary and the teachers are very Cooperative,  school is spotlessly clean and thr curriculum is also being followed properly.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1752667457294-b9vw4tyk.jpg\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "4.4",
+  "views": "481",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Block,Jal Vayu Vihar",
+  "board": "CBSE\n\nCo",
+  "established": "1944",
+  "category": "Day Schools",
+  "classes": "980 - 110",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

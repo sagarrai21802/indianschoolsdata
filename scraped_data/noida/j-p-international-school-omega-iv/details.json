@@ -1,0 +1,258 @@
+{
+  "slug": "/school/noida/j-p-international-school-omega-iv",
+  "url": "https://yellowslate.com/school/noida/j-p-international-school-omega-iv",
+  "city": "noida",
+  "name": "J P International School - Omega IV ",
+  "scraped_at": "2026-04-28T00:44:59.872820",
+  "html_length": 355519,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Omega IV",
+          "item": "https://yellowslate.com/schools/noida/omega-iv"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/omega-iv/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "J P International School",
+          "item": "https://yellowslate.com/school/noida/j-p-international-school-omega-iv"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "J P International School - Omega IV",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/j-p-international-school-omega-iv",
+      "telephone": "+91 766 993 3404",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot 3A, Sector Omega 1 Greater Noida, Uttar Pradesh 201310, Omega IV, Greater Noida, Uttar Pradesh 201308, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4557533,
+        "longitude": 77.5127589
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "J P International School - Omega IV",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot 3A, Sector Omega 1 Greater Noida, Uttar Pradesh 201310, Omega IV, Greater Noida, Uttar Pradesh 201308, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/j-p-international-school-omega-iv-omega-iv-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jayshree mehta"
+          },
+          "datePublished": "2023-08-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had a great opportunity to judge the prestigious debate event in the school .Very well conducted,efficient and dedicated faculty …so well taken care ….off 👍🏻all credit goes to the Energetic,Efficient warm Principal Ms Ruby !😍,Good luck &Best wishes .\nJayshree Mehta",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "J P International School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bablu Rana"
+          },
+          "datePublished": "2023-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two kids study in JPIS. With my experience I can surely say that this is one of the best school in Greater Noida.  Teachers are super cooperative",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "J P International School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megha Garg"
+          },
+          "datePublished": "2023-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My child studies in JP International School,  its good to be part of the family here, teachers are very cooperative. Its been 3years my child is grooming in a very good manner. Thank you for being so supportive at all times.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "J P International School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nishi singh"
+          },
+          "datePublished": "2022-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I must say as a parents it's a best school in gr. Noida for our child not just because my child studieing there as personally experienced as mother even I have seen the changes and growth in my child or can say they or not parents but with good partnership...there teachers are giving all efforts and they are beyond the expectations of parents...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "J P International School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nidhi Rai"
+          },
+          "datePublished": "2022-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two kids study in JPIS. With my experience I can surely say that this is one of the best school in Greater Noida.  Teachers are super cooperative, always ready to help and solve the queries of parents. Their method teaching is excellent. I am extremely happy to have a partner like JPIS in the overall growth & development journey of my kids. Thanks JPIS.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org\\\\\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1h2",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://scripts.clarity.ms/0.8.61/clarity.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://8views.com/\\",
+    "https://twitter.com/yellow_slate\\"
+  ],
+  "rating": "4.8",
+  "views": "469",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Omega IV",
+  "board": "CBSE\n\nCo",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "800 - 67",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

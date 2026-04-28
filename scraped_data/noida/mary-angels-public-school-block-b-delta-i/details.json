@@ -1,0 +1,279 @@
+{
+  "slug": "/school/noida/mary-angels-public-school-block-b-delta-i",
+  "url": "https://yellowslate.com/school/noida/mary-angels-public-school-block-b-delta-i",
+  "city": "noida",
+  "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I ",
+  "scraped_at": "2026-04-28T15:02:49.384431",
+  "html_length": 345231,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Block B,Delta I",
+          "item": "https://yellowslate.com/schools/noida/block-b-delta-i"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/block-b-delta-i/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "MARY ANGELS PUBLIC SCHOOL",
+          "item": "https://yellowslate.com/school/noida/mary-angels-public-school-block-b-delta-i"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/mary-angels-public-school-block-b-delta-i",
+      "telephone": "+91 1206416893",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "F-1 Sector 15 Noida, D Block, Sector 15, Noida, Uttar Pradesh 201301, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5820607,
+        "longitude": 77.3109035
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "F-1 Sector 15 Noida, D Block, Sector 15, Noida, Uttar Pradesh 201301, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/mary-angels-public-school-block-b-delta-i-block-b-delta-i-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "6"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "naveen kumar"
+          },
+          "datePublished": "2021-04-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the best school with best teachers im also a student of this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Bhati"
+          },
+          "datePublished": "2018-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Joy Bhattacharya"
+          },
+          "datePublished": "2018-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I passed my 10th from here & I must say school is good at fun not other things.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PAWAN GURJAR"
+          },
+          "datePublished": "2017-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "New school primary",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Supriya Tomar"
+          },
+          "datePublished": "2015-05-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great place to get enrold your child to grow with care and knowledge",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "MARY ANGELS PUBLIC SCHOOL - Block B,Delta I"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Divakar Choudhary"
+          },
+          "datePublished": "2013-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good School for complete training of your child\nI am also a student of this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "4.0",
+  "views": "345",
+  "reviews_count": "6",
+  "phone": "+919513238818",
+  "locality": "Block B,Delta I",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Day Schools",
+  "classes": "000 - 24",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "MARY ANGELS PUBLIC SCHOOL ?\nAsk a Question\nMARY ANGELS PUBLIC SCHOOL Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

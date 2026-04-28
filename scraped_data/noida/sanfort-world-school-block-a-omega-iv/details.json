@@ -1,0 +1,373 @@
+{
+  "slug": "/school/noida/sanfort-world-school-block-a-omega-iv",
+  "url": "https://yellowslate.com/school/noida/sanfort-world-school-block-a-omega-iv",
+  "city": "noida",
+  "name": "Sanfort World School - Omega IV ",
+  "scraped_at": "2026-04-28T14:50:45.318979",
+  "html_length": 401875,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Omega IV",
+          "item": "https://yellowslate.com/schools/noida/omega-iv"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/omega-iv/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sanfort World School",
+          "item": "https://yellowslate.com/school/noida/sanfort-world-school-block-a-omega-iv"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sanfort World School - Omega IV",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/sanfort-world-school-block-a-omega-iv",
+      "telephone": "+91 801 040 5081",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Pocket 2, HS 19, 201308, Omega 1, Block A, Ansal Golf Links 1, Greater Noida, Uttar Pradesh 201308, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4542119,
+        "longitude": 77.5047669
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Pocket 2, HS 19, 201308, Omega 1, Block A, Ansal Golf Links 1, Greater Noida, Uttar Pradesh 201308, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/sanfort-world-school-block-a-omega-iv-omega-iv-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Reena Ahirwar"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thank you Sanfort world school for nurturing our child's love for learning.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PREM SAGAR"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good curriculum and teaching method  developed into a confident and capable child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mohan Lal"
+          },
+          "datePublished": "2024-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Nice Infrastructure and Cooperative Management. Nice swimming Pool and Games Academy",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shivam choudhary"
+          },
+          "datePublished": "2024-02-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing institute with world class Facilities! 👍🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anshika Singh"
+          },
+          "datePublished": "2024-01-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very cooperative and Friendly school in greater Noida",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vikrant Singh"
+          },
+          "datePublished": "2023-12-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Christmas Carnival organized by Sanfort World School this year was nothing short of a winter wonderland, brimming with enthusiasm and festive spirit. As a reviewer, it is a pleasure to recount the highlights of this event, which brought together students, teachers, and parents in a grand celebration of the holiday season.\n\nFrom the moment one entered the school grounds, it was evident that a great deal of thought and effort had gone into transforming the space into a Christmas-themed paradise. The decorations were a delightful mix of traditional and innovative, with sparkling lights, vibrant Christmas trees, and handcrafted ornaments made by students.\n\nOne of the most remarkable aspects of the carnival was the sheer variety of activities and stalls. There was something for everyone, regardless of age or interest. The younger students enthusiastically participated in the adventure activities, which included a thrilling bouncy castle, games, and interactive workshops. These activities were not only fun but also impeccably organized, ensuring safety and enjoyment for all participants.\n\nThe talent of Sanfort World School students was on full display in various performances and competitions held throughout the day. From heartwarming Christmas carols to foot-tapping dance numbers, the performances were a testament to the creativity and hard work of our students and their mentors. The art and craft exhibition, featuring Christmas-themed creations, was another highlight, showcasing the artistic skills of our students.\n\nA significant part of the carnival's charm was the food stalls, run by both students and local vendors, offering a plethora of delicious treats that catered to every palate. The aromas of hot chocolate, baked goods, and savory snacks added an extra layer of warmth to the chilly December air.\n\nThe involvement of parents and teachers was commendable. Their active participation not only in organizing but also in enjoying the carnival alongside the students fostered a sense of community and togetherness. It was heartening to see the Sanfort World School family come together in such a harmonious and joyful way.\n\nIn conclusion, the Christmas Carnival at Sanfort World School was a resounding success. It was an event that did more than just celebrate the festive season; it created lasting memories, brought smiles to faces, and infused the spirit of togetherness and joy in the school community. Kudos to everyone involved in making this event a remarkable one. We eagerly look forward to what next year's carnival has in store!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ruchika Goel"
+          },
+          "datePublished": "2023-12-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent sports Day , children got good exposure to participate in various races and presentation !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Morino D'Souza"
+          },
+          "datePublished": "2023-12-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "About poor quality of primary wing teachers:\n\nExample 1: While the school is English medium but Primary wing teachers talks in mostly Hindi in the class. We noticed it when we saw them speaking in only Hindi in online class. Teachers speak like - बच्चों चलो अपनी किताब खोलो। बच्चों आज क्या तारीख है। Etc.\n\nExample 2: Recently a primary wing teacher Aakansha left Sandfort and went to JP Public. Now the existing teacher is saying to children that \"because aap saare bachhe pareshan karte the Akansha mam ko isliye she left\". This will create a very bad impression and memory at childrens mind.\n\nAbout money mindset of the Sanfort World School\n\nSchool teachers are daily teaching small children to bring money from home. The school is putting a chirsmas carnival for which first they called parents individually as bad as till 8-9 pm at night and asking to pay 4000 rupees to set up a stall.\n\nSecond example is even worst and very dangerous act by school. Teachers are aggressively teaching small children in school like a rhyme that you have to bring 150 rupees for entry ticket each for your father, mother, and Yourself. They are brainwashing children mind with this. And children at home are so scared that they are saying that today is last day our mam has told so please give us money.\n\nThis is such a horrible act by Sanfort management.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prateek Sinha"
+          },
+          "datePublished": "2023-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice experience when it comes to studies and extra curricular activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sanfort World School - Omega IV"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ekta Singh"
+          },
+          "datePublished": "2023-11-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Sanfort world school is a great place to learn and grow and has safe learning environment for students. Teacher's are well qualified with good knowledge of curriculum. Extra-curricular activities is also good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "4.3",
+  "views": "619",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Omega IV",
+  "board": "CBSE\n\nCo",
+  "established": "2010",
+  "category": "Day Schools",
+  "classes": "000 - 66",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

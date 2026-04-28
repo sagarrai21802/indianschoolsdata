@@ -1,0 +1,260 @@
+{
+  "slug": "/school/noida/greater-valley-school-mitra-enclave",
+  "url": "https://yellowslate.com/school/noida/greater-valley-school-mitra-enclave",
+  "city": "noida",
+  "name": "Greater Valley School - Mitra Enclave ",
+  "scraped_at": "2026-04-28T14:53:23.660322",
+  "html_length": 357207,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mitra Enclave",
+          "item": "https://yellowslate.com/schools/noida/mitra-enclave"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/mitra-enclave/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Greater Valley School",
+          "item": "https://yellowslate.com/school/noida/greater-valley-school-mitra-enclave"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Greater Valley School - Mitra Enclave",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/greater-valley-school-mitra-enclave",
+      "telephone": "+91 987 392 9724",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P-7, Sector – Omega-II, HS- 20, Noida-Greater Noida Expy, near Mitra Enclave, Mitra Enclave, Greater Noida, Uttar Pradesh 201310, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.4522207,
+        "longitude": 77.5008161
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greater Valley School - Mitra Enclave",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P-7, Sector – Omega-II, HS- 20, Noida-Greater Noida Expy, near Mitra Enclave, Mitra Enclave, Greater Noida, Uttar Pradesh 201310, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/greater-valley-school-mitra-enclave-mitra-enclave-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anas Khan"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hello\nIncredible basketball facilities! The coaches are all top notch helping kids develop skills to continue their basketball journeys to high school and beyond. Highly recommend bringing your kids here to join the GVS family.\nThank you\nMohd Anas Abdur Rehman\nPGT Physical Education\nBasketball coach and mentor.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greater Valley School - Mitra Enclave"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ananya"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very nice school for kids as well as for grown ups, the teaching staff is very corporative and efficient towards their work. This school has the best environment which any other school could have. Not only academics but they also look forward towards sport and encourage Children to participate in extra curricular activity. Best for my child and could for yours too..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greater Valley School - Mitra Enclave"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AJAY CHAUHAN"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the key strengths of Greater Valley School is its commitment to providing a holistic education that focuses on the overall development of each student. The school offers a range of extracurricular activities, including sports, music, dance, drama, and art, to help students develop their talents and interests. There are also various clubs and societies that allow students to explore their interests and pursue their passions.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greater Valley School - Mitra Enclave"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ahmad Saeed"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hi\nI believe Greater valley school is one of the best school in town and their sports infrastructure and facilities are remarkable, sports coaches and PE mentors are work systematically specially in basketball. Looking forward to do excel in holistically.\n\nThank you\nAhmad\nSports sciences specialist\nInternational group of school.\nIGCSE, A & AS level\nIB, CBSE.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Greater Valley School - Mitra Enclave"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Anand Pratap Singh"
+          },
+          "datePublished": "2022-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I believe the greater valley school is the most suitable platform for the schooling and training of children with special needs. The integrated approach of caring the children makes it unique. The center is run by well qualified and trained professionals which provide an exceptional study environment for the children. I congratulate the team and extend my best wishes.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/fadbd.png\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "5.0",
+  "views": "457",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Mitra Enclave",
+  "board": "CBSE\n\nCo",
+  "established": "2008",
+  "category": "Boarding Schools",
+  "classes": "400 - 70",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/fadbd.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

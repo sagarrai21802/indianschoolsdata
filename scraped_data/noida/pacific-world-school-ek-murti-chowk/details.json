@@ -1,0 +1,256 @@
+{
+  "slug": "/school/noida/pacific-world-school-ek-murti-chowk",
+  "url": "https://yellowslate.com/school/noida/pacific-world-school-ek-murti-chowk",
+  "city": "noida",
+  "name": "Pacific World School - Ek Murti Chowk ",
+  "scraped_at": "2026-04-28T15:07:56.157764",
+  "html_length": 353615,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ek Murti Chowk",
+          "item": "https://yellowslate.com/schools/noida/ek-murti-chowk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/ek-murti-chowk/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Pacific World School",
+          "item": "https://yellowslate.com/school/noida/pacific-world-school-ek-murti-chowk"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Pacific World School - Ek Murti Chowk",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/pacific-world-school-ek-murti-chowk",
+      "telephone": "+91 964 337 0000",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "HS-02, Greater Noida, Techzone 4, Amrapali Dream Valley, West, Ithaira, Uttar Pradesh 201308, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.5995385,
+        "longitude": 77.4502366
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pacific World School - Ek Murti Chowk",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "HS-02, Greater Noida, Techzone 4, Amrapali Dream Valley, West, Ithaira, Uttar Pradesh 201308, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/pacific-world-school-ek-murti-chowk-ek-murti-chowk-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.2",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sweta singh"
+          },
+          "datePublished": "2023-08-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Andho mai kana raja. This phrase aptly describes the Pacific world school. When we took admission here in 2019,this was one of the few schools functioning in this area. Now when other schools have come up their sole focus in getting more and more students by creating section after section. The security amount taken at the time of admission is not refunded at the time of leaving school. The teachers here are not qualified. They are(without naming them) more concerned with selling cakes. When online classes were held from 2020 to 2022 ,the teachers had the poorest of networks and couldnt hold their patience with students in an online class. The school sells book,stationary, uniforms and shoes within school campus which is against the law. They are exorbitantly priced. The guards at the maingate are your point of reference for exchange of any books/stationary.\nDont be fooled by their claims of being an inclusive school. The teachers are not empathetic and lack understanding of how to deal with such kids. They have one special educator for all kids from class 1 to class 10,who hardly takes a class in a week. The coordinators also lack empathy and rather punish special kids for their behaviours. The teachers leak personal information about such kids to common acquaintances without realising the implication of the same.  They cause mental trauma to such kids who need to be handled with lot of love and care. Even so called experienced teachers handle kids with no empathy.\nThe only good teacher i found here was Mrs Rimmie Sareen. She was not only emphathetic but also was concerned with the learning of each and every one of her student.\nDont waste your hard earned money and jeopardise your kid's future by getting admission here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pacific World School - Ek Murti Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nividh Lenju"
+          },
+          "datePublished": "2023-08-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "If I would've had to give a review before the principal changed, I would've wanted to give more than 5 stars but after the principal changed, the school only focuses on printing money and not social development of students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pacific World School - Ek Murti Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Davinder Bhardwaj"
+          },
+          "datePublished": "2023-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We shifted from South Delhi to Greater Noida and started looking for a good school for our son who is about to take admission in class 11th and our search came to end when we came across this school. We got good infrastructure and very helpful teachers and staff. Now almost 4months have passed, we are very much satisfied with the development of our son as the school is encouraging the students for academics as well as other activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pacific World School - Ek Murti Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Isha Oberoi"
+          },
+          "datePublished": "2023-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am absolutely having a great experience till now with the school. Timely information of the Activities, Circulars and other information. both my daughters are enjoying their school since 2021. I am just little keen in seeing after getting so much of strength this year in overall admissions, how they will be moving up with the discipline, Activities and Club now. Just feedback that club and activities should be planned well in advance. Yoga instructor or Other Activity teachers should also be available and if they are not available in some of the circumstances there should be room for other instructors or teachers' availability. Frequent changing of teachers should be avoided during the Mid term session.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Pacific World School - Ek Murti Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravi Kumar"
+          },
+          "datePublished": "2022-11-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had a great experience with Pacific World School, the Teachers are supportive, experienced and are best in class and the commitment, dedication, their hard work which is displayed by each one of them. School infrastructure and great facilities over there.\nThey are focused on both parts - Academics and Extra curricular activities.\nThe School staff & teachers all care about students and create a safe effective learning environment.\nI am happy to see my child growth here. Highly recommended as Best School in Noida Extension...!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "3.2",
+  "views": "526",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Ek Murti Chowk",
+  "board": "CBSE, CBSE\n\nCo",
+  "established": "2018",
+  "category": "Day Schools",
+  "classes": "000 - 102",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

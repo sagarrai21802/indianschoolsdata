@@ -1,0 +1,258 @@
+{
+  "slug": "/school/noida/dolphin-public-school-gautam-buddha-nagar",
+  "url": "https://yellowslate.com/school/noida/dolphin-public-school-gautam-buddha-nagar",
+  "city": "noida",
+  "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR ",
+  "scraped_at": "2026-04-28T15:08:11.992096",
+  "html_length": 356605,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Noida",
+          "item": "https://yellowslate.com/schools/noida"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GAUTAM BUDDHA NAGAR",
+          "item": "https://yellowslate.com/schools/noida/gautam-buddha-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/noida/gautam-buddha-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dolphin Public School",
+          "item": "https://yellowslate.com/school/noida/dolphin-public-school-gautam-buddha-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/noida/dolphin-public-school-gautam-buddha-nagar",
+      "telephone": "+91 917 840 0427",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Vill. & Post – Chipiyana Buzurg ,Tehsil Dadri, G.B. Nagar, JFH2+GQ8, Landmark:-, near A.B.E.S Engg. College, Chipiyana Buzurg, Ghaziabad, Uttar Pradesh 201009, India",
+        "addressLocality": "Noida",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 28.6287875,
+        "longitude": 77.4519531
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Vill. & Post – Chipiyana Buzurg ,Tehsil Dadri, G.B. Nagar, JFH2+GQ8, Landmark:-, near A.B.E.S Engg. College, Chipiyana Buzurg, Ghaziabad, Uttar Pradesh 201009, India",
+              "addressLocality": "Noida",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/noida/dolphin-public-school-gautam-buddha-nagar-gautam-buddha-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "1.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "AP Enterprises"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I never seen this type of BAKBAS school. They don't have manners and they don't know about the education. They are only working to earn money. They changed dress every year. 3rd class",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rajeev Sharma"
+          },
+          "datePublished": "2023-04-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "3rd class school and management. They are only working to collect money from parents. They don't know about the education. They don't have manners to talk. Waste of money and time.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Free Fire"
+          },
+          "datePublished": "2023-03-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school ever I have seen on my life I will not recommend this school.the best quality of everything is provided except education there is only two error in this school education system first is education and second is system.the staff is well qualified and the qualification is only 12th pass .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parwati Kumari"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The name and the prices are higher then the education,\nThey must concentrate on education as well besides playing and dancing\nI have seen many note book of my own nephew. The home work gap was like once in a month,\nClose the school if u can't concentrate on your own student\nMay be the government schools is much better than this..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dolphin Public School - GAUTAM BUDDHA NAGAR"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya"
+          },
+          "datePublished": "2021-04-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Online classes are good for now 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://wa.me/919513238818",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg\\",
+    "https://schema.org",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1768806606131-fgm0l1b2.jpg\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://schema.org\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://yellowslate.youcanbook.me/",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ],
+  "rating": "1.8",
+  "views": "469",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "GAUTAM BUDDHA NAGAR",
+  "board": "CBSE\n\nCo",
+  "established": "1997",
+  "category": "Day Schools",
+  "classes": "600 - 27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/2-3.jpg",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-3.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

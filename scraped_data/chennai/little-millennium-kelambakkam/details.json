@@ -1,0 +1,383 @@
+{
+  "slug": "/school/chennai/little-millennium-kelambakkam",
+  "url": "https://yellowslate.com/school/chennai/little-millennium-kelambakkam",
+  "city": "chennai",
+  "name": "Little Millennium - Kelambakkam ",
+  "scraped_at": "2026-04-28T18:10:47.454853",
+  "html_length": 415942,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kelambakkam",
+          "item": "https://yellowslate.com/schools/chennai/kelambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "OTHER BOARDS",
+          "item": "https://yellowslate.com/schools/chennai/kelambakkam/other-boards"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Little Millennium",
+          "item": "https://yellowslate.com/school/chennai/little-millennium-kelambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Little Millennium - Kelambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066512898845775f3295c9eae1f1597150666.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/little-millennium-kelambakkam",
+      "telephone": "9600084294",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Plot No. 12, Ponnu Green Farms, Near Chettinad Health City Old Mahabalipuram Rd, Kelambakkam, Tamil Nadu 603103",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.7955374,
+        "longitude": 80.2212906
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Plot No. 12, Ponnu Green Farms, Near Chettinad Health City Old Mahabalipuram Rd, Kelambakkam, Tamil Nadu 603103",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/little-millennium-kelambakkam-kelambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "60"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavya T"
+          },
+          "datePublished": "2025-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I highly recommend this preschool for anyone for their child. My nephew had an amazing time here. The staff is caring and the environment is great for learning and growth.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pavya siva"
+          },
+          "datePublished": "2025-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A heartfelt thank you to all the teachers for taking such wonderful care of my little one. Your support and dedication have greatly contributed to her progress, and we truly appreciate it. We look forward to seeing continued growth in the years ahead.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "manoj kumar"
+          },
+          "datePublished": "2025-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent coaching with appropriate curriculum for kids. Approachable and responsive staffs.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Easwar Elango"
+          },
+          "datePublished": "2025-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great exposure for kids and the staff are friendly. I can also see great results from their teaching methods and outcomes in my nephew who did his preschool here at Little Millennium",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Barath N"
+          },
+          "datePublished": "2025-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gayathri Rajendran"
+          },
+          "datePublished": "2025-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Really very good my kid has been studying here for past two years, I could see lot more changes.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "venke cse"
+          },
+          "datePublished": "2025-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are very caring and communicative",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mangaiyarkarasi"
+          },
+          "datePublished": "2025-03-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school with good environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nandhabalan Marimuthu"
+          },
+          "datePublished": "2025-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school, great teachers especially parkavi mam, very nice ajd taking good care of childrens",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Little Millennium - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shobana Ragunathan"
+          },
+          "datePublished": "2025-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We had a great experience in Little Millennium... Really the way of taking care of childrens are awesome... Here we wish Little Millennium to reach all success",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066512898845775f3295c9eae1f1597150666.PNG\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15971511934787313725f3297d961d451597151193.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066512898845775f3295c9eae1f1597150666.PNG",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1775628041780lzjg2q3vw8s.blob\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066512898845775f3295c9eae1f1597150666.PNG\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.9",
+  "views": "855",
+  "reviews_count": "60",
+  "phone": "+919513238818",
+  "locality": "Kelambakkam",
+  "board": "Other Boards\n\nCo",
+  "established": "2008",
+  "category": "Other Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15971506745484037375f3295d2624881597150674.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15971506769221883805f3295d4a91501597150677.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/15971511934787313725f3297d961d451597151193.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/159715067616874246015f3295d4d7bc21597150677.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.digitaloceanspaces.com/schools/1775628041780lzjg2q3vw8s.blob",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066512898845775f3295c9eae1f1597150666.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15971506744130391035f3295d287aed1597150675.PNG"
+  ]
+}

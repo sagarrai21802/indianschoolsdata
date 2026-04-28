@@ -1,0 +1,260 @@
+{
+  "slug": "/school/chennai/evaans-matriculation-higher-secondary-school-nesapakkam",
+  "url": "https://yellowslate.com/school/chennai/evaans-matriculation-higher-secondary-school-nesapakkam",
+  "city": "chennai",
+  "name": "Evaans Matriculation Higher Secondary School - Nesapakkam ",
+  "scraped_at": "2026-04-28T18:10:53.725084",
+  "html_length": 356789,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nesapakkam",
+          "item": "https://yellowslate.com/schools/chennai/nesapakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "STATE BOARD",
+          "item": "https://yellowslate.com/schools/chennai/nesapakkam/state-board"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Evaans Matriculation Higher Secondary School",
+          "item": "https://yellowslate.com/school/chennai/evaans-matriculation-higher-secondary-school-nesapakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Evaans Matriculation Higher Secondary School - Nesapakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/evaans-matriculation-higher-secondary-school-nesapakkam",
+      "telephone": "",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Mahathma Gandhi Nagar, Tharamani, Chennai, Tamil Nadu 600113, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9828279,
+        "longitude": 80.2418899
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Evaans Matriculation Higher Secondary School - Nesapakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Mahathma Gandhi Nagar, Tharamani, Chennai, Tamil Nadu 600113, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/evaans-matriculation-higher-secondary-school-nesapakkam-nesapakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.4",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sai hari haran B"
+          },
+          "datePublished": "2023-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super very nice school good school 🏫🏫🏫🏫🏫🏫🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Evaans Matriculation Higher Secondary School - Nesapakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "YuVa"
+          },
+          "datePublished": "2023-07-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Tharamani",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Evaans Matriculation Higher Secondary School - Nesapakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Depak kumarasan .C"
+          },
+          "datePublished": "2022-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent welcome by school management and marvelous teaching by the staffs .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Evaans Matriculation Higher Secondary School - Nesapakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaswanth Money boy"
+          },
+          "datePublished": "2022-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No good education, very  high fee,bot school,no English education ,and don't join",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Evaans Matriculation Higher Secondary School - Nesapakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Babloo Bhavan"
+          },
+          "datePublished": "2020-08-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Along gaining knowledge... This campus made our childhood a memorable one > friendly staffs, boring spcl classes & many more...... Evaans = love💕",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160267423821148723725f86de3eab12a1602674239.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.4",
+  "views": "546",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Nesapakkam",
+  "board": "State Board\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 25",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/160267423821148723725f86de3eab12a1602674239.PNG"
+  ]
+}

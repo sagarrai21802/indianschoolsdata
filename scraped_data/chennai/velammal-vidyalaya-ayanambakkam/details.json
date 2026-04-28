@@ -1,0 +1,374 @@
+{
+  "slug": "/school/chennai/velammal-vidyalaya-ayanambakkam",
+  "url": "https://yellowslate.com/school/chennai/velammal-vidyalaya-ayanambakkam",
+  "city": "chennai",
+  "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM ",
+  "scraped_at": "2026-04-28T18:07:13.026617",
+  "html_length": 398335,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AYANAMBAKKAM",
+          "item": "https://yellowslate.com/schools/chennai/ayanambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/ayanambakkam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "VELAMMAL VIDYALAYA",
+          "item": "https://yellowslate.com/school/chennai/velammal-vidyalaya-ayanambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/velammal-vidyalaya-ayanambakkam",
+      "telephone": "+91 917 678 6411",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Velammal Vidyalaya Ayanambakkam, Mel Ayanambakkam Main Rd, Mel Ayanambakkam, Kil Ayanambakkam, Chennai, Tamil Nadu 600058, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0818256,
+        "longitude": 80.1517569
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Velammal Vidyalaya Ayanambakkam, Mel Ayanambakkam Main Rd, Mel Ayanambakkam, Kil Ayanambakkam, Chennai, Tamil Nadu 600058, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/velammal-vidyalaya-ayanambakkam-ayanambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raji Shining"
+          },
+          "datePublished": "2024-03-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Iam planning to relocate & seeking well organised disciplined schools nearby ayanampakkem. Please suggest if velammal is not good for children",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A.Praveen"
+          },
+          "datePublished": "2024-02-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "IT IS A VERY BEAUTIFUL PLACE IN MY LIFE AND LOTS OF MEMORY",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pranesh S"
+          },
+          "datePublished": "2024-02-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst School, Very horrible teaching environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anuradha Senthilkumar"
+          },
+          "datePublished": "2023-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good management, teachers and staff. Senior principal and all other teaching and non teaching staff are very helpful in the students career. Very disciplined encouraging many sports activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Giridara Prasath K"
+          },
+          "datePublished": "2023-09-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good teaching. Achived Good results.\nPriority give sports and extra activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arjun Balasubramaniam"
+          },
+          "datePublished": "2023-08-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It so beautiful school but the staff are rude but some staff or not rude parents and students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sri Vishnusaran"
+          },
+          "datePublished": "2023-07-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "By seeing the reviews I can confirm you that 3/4th of the 5 stars reviews are posted by the school teachers and staffs, from this itself u can tell how manipulating the school is, studying in this school depends on entirely on your luck, you may get a airy class or exact opposite of a class with just 1window with no air circulation and tight area, water is not available in restrooms which is a nightmare.Teaching is full of a rush till the schooling end.U are allowed to enter the school only if u wear the low quality blue striped grey socks which is provided by the school at the cost of 240rs.There is nothing to talk about more..Disappointed",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MuthuMayileri G"
+          },
+          "datePublished": "2023-05-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My sister's daughter is studying here. She literally facing torchers every day. Teachers corner student who they don't like and treat them very badly. We raised a complaint to the management but they are not ready to hear.\nReally a worst management, teachers behaves very rude except few. Moreover teachers expects students to join tuitions running by them, otherwise they go extend to fail students to their subjects. This school is like a prison environment. My humble request please don't spoil your child future by joining this school (especially Ayyapakkam branch, I'm not sure about other branches though)\nKindly think twice before getting admission for your kids. Thank you.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ganesh ram"
+          },
+          "datePublished": "2023-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied in this school and I have to say absolute horrible environment to study in. The classroom are jam packed with strength of 63 students and their main motive is to make money. The teacher are some of the most toxic people I met in my life. Not sure about other streams but commerce stream it is this way. I don't not recommend anyone to join here. There are way better school which provide better education!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "VELAMMAL VIDYALAYA - AYANAMBAKKAM"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saiengg Ambattur"
+          },
+          "datePublished": "2023-03-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We went for CBSC exam , Approch to this institution is very horrible . For 1 KM, we should walk or push your two wheeler to reach this place or come out from their venue.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1756198701147686040968ad772d2d8fd1756198701.webp\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.0",
+  "views": "509",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "AYANAMBAKKAM",
+  "board": "CBSE\n\nCo",
+  "established": "2016",
+  "category": "Day Schools",
+  "classes": "150 - 43",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "VELAMMAL VIDYALAYA ?\nAsk a Question\nVELAMMAL VIDYALAYA Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/1756198701147686040968ad772d2d8fd1756198701.webp"
+  ]
+}

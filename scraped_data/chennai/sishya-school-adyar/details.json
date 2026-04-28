@@ -1,0 +1,389 @@
+{
+  "slug": "/school/chennai/sishya-school-adyar",
+  "url": "https://yellowslate.com/school/chennai/sishya-school-adyar",
+  "city": "chennai",
+  "name": "Sishya School - Adyar ",
+  "scraped_at": "2026-04-28T18:10:29.223570",
+  "html_length": 428225,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Adyar",
+          "item": "https://yellowslate.com/schools/chennai/adyar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/chennai/adyar/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sishya School",
+          "item": "https://yellowslate.com/school/chennai/sishya-school-adyar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sishya School - Adyar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158521432718772235795e7c73779dc891585214328.PNG",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/sishya-school-adyar",
+      "telephone": "+91 44 24912652, +91 44 24919544",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "New No. 2, 2nd St, Padmanabha Nagar, Chennai, Tamil Nadu 600020",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0024802,
+        "longitude": 80.2596557
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "New No. 2, 2nd St, Padmanabha Nagar, Chennai, Tamil Nadu 600020",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/sishya-school-adyar-adyar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "9"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ullas Sanghvi"
+          },
+          "datePublished": "2022-10-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of Better school. Better education and other activities. Better teachers. Good attention to students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anand Dev"
+          },
+          "datePublished": "2022-07-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst admission process... Just a waste of time ...appeared entrance exam n finally went for meet up principal mam n Thomas sir...my kids not did English paper up to the mark n principal pati talking in rude manner with lot of makeup that ur son has some problem in mind wise.Immeditely told pati that u have some problem n does not know how to talk wit parents and waked away from the room...if parents are celebrates then pati might smile n talk",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arjun Kumar"
+          },
+          "datePublished": "2022-07-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kishor",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dolby Atoms"
+          },
+          "datePublished": "2022-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "First,They are creating an admission demand followed by high fees structure and my recommendation don't try such a worst and money minded school..better plan for other schools..they are looking and priorities for Christian people..something icant tell in this form...better try some other school...Best of luck...thank god...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ayaan patwari"
+          },
+          "datePublished": "2021-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PUBG player"
+          },
+          "datePublished": "2021-05-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I used to go here as a kid, 2009-2014. Honestly, 2009-2014 were the best years of my life, and the best times in general. My time at this school was so nostalgic.\n\nSishya is a very well funded school; they've got a nice canteen (how's Rajesh doing btw?), a sizeable amount of classrooms and good grounds, and many events.\n\nSchool camp 2013 is one of those things I'll never forget; watching Despicable Me 2 and Chennai Express on a big screen when they first came out.\n\nThey used to have a book fair, a fete, an annual dance that the kids used to prepare for (we used to love skipping classes for that) and some nice theatre productions. Eh, maybe I'm just taking away the kiddy stuff from there because I was a kid when I used to go there.\n\nAnyway, so the teachers were strict (watch out!). If you misbehave, they send you out of class. Sometimes they yell at you. And I don't know if that was the norm in India. I'm pretty sure it was; may still be.\nA lot of the people that used to go and still go to this school are filthy rich (we had occasional visits from Thalapathi and other famous people like Prakash Raj and all that). People used to queue up for autographs and stuff.\n\nAnyway, enough of my rant. Sishya was my childhood.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "I am Me"
+          },
+          "datePublished": "2021-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Hehehehehehehe not good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhuvaneswari Mahalingam"
+          },
+          "datePublished": "2020-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter studied Class XI and XII in the Humanities stream. The best life-changing experience. Thanks to the High Quality Management and Staff. Students are treated with respect. The teaching methods are wholesome kindling their intellectual curiosity and love for life-long learning. The heritage feel of the school I felt as a parents is memorable. Well-defined academic calendar and planned events. Every event was relevant and was highly inspiring and elevating. Everything was planned and nothing ad hoc. Staff and students left school by 3pm. No unnecessary staying back. Only open house on just two Saturdays in the whole year. Neat 5 days working. A small canteen. Good playground. Reasonable fees. Contrary to the popular assumption, the school caters to middle class as well. There is both diversity and inclusion in the classrooms. Parents are well-informed and no scope for panic. Thank you Sishya",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sishya School - Adyar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krishn Bhaiya"
+          },
+          "datePublished": "2020-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lit Place !!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158521399521207706485e7c722b8ca8b1585213996.PNG\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png\\",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158521432718772235795e7c73779dc891585214328.PNG\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Lawn-Tennis.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158521432718772235795e7c73779dc891585214328.PNG",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158521432718772235795e7c73779dc891585214328.PNG\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.6",
+  "views": "2644",
+  "reviews_count": "9",
+  "phone": "+919513238818",
+  "locality": "Adyar",
+  "board": "ICSE\n\nCo",
+  "established": "1972",
+  "category": "Public Schools",
+  "classes": "2009-2014",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Gallery\nLocation\nFaculty\nSports\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158822387110835336835eaa5f7f6962c1588223871.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158822387318584949785eaa5f81ce9921588223874.PNG",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Athletics.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Skating.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennis.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Yoga.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Kho-Kho.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Hockey.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Football.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Tennikoit.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/15852136375809256535e7c70c5309081585213637.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Basketball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/gallery/158822387113488787035eaa5f7f681221588223871.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Volleyball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Throwball.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Karate.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158521432718772235795e7c73779dc891585214328.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Badminton.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Carroms.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/team/158521399521207706485e7c722b8ca8b1585213996.PNG",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Cricket.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/sports/Chess.png",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

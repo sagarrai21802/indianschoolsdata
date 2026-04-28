@@ -1,0 +1,374 @@
+{
+  "slug": "/school/chennai/hiranandani-upscale-school-kelambakkam",
+  "url": "https://yellowslate.com/school/chennai/hiranandani-upscale-school-kelambakkam",
+  "city": "chennai",
+  "name": "Hiranandani Upscale School - Kelambakkam ",
+  "scraped_at": "2026-04-28T18:09:11.814781",
+  "html_length": 393809,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kelambakkam",
+          "item": "https://yellowslate.com/schools/chennai/kelambakkam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IB",
+          "item": "https://yellowslate.com/schools/chennai/kelambakkam/ib"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hiranandani Upscale School",
+          "item": "https://yellowslate.com/school/chennai/hiranandani-upscale-school-kelambakkam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Hiranandani Upscale School - Kelambakkam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/hiranandani-upscale-school-kelambakkam",
+      "telephone": "073580 00736",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Padur, 5/63, Old Mahabalipuram Road, Opp Sipcot IT Park, Egattur Village, Rajiv Gandhi Salai, Kelambakkam, 600130",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.8392195,
+        "longitude": 80.2320006
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Padur, 5/63, Old Mahabalipuram Road, Opp Sipcot IT Park, Egattur Village, Rajiv Gandhi Salai, Kelambakkam, 600130",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/hiranandani-upscale-school-kelambakkam-kelambakkam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "58"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Megha Arora"
+          },
+          "datePublished": "2024-03-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Warm and friendly team of teachers and support staff.Every child is given equal opportunity to learn /express /perform / excel.Keep up the amazing work.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Milind Menon"
+          },
+          "datePublished": "2024-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellence through endeavour - HUS has been true to its motto. Our two sons have been in HUS right from the beginning and their way of teaching has laid a solid foundation for the kids future. I’m sure the teachers invest a lot of time and effort into teaching the kids. A huge thanks to the teachers at Loko Poko and HUS - my younger son (who struggled a lot with reading and writing during COVID) is now confident with reading and writing. My children are extremely happy especially when they come back home and talk about everything they learned. HUS celebrates sports day, graduation day, various festivals and in-house arts and science programs with a lot of fun and fervour and all of us (including the children) truly enjoy it. We as parents are extremely satisfied and not worried about our children’s future when HUS provides the best learning experience for them.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bhavani Varadarajan"
+          },
+          "datePublished": "2024-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Binale was extremely well organised.\nThe 5 elements photo booth was amazing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lhiyah Salim"
+          },
+          "datePublished": "2024-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Binnale was nice .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jhansi Jerlin"
+          },
+          "datePublished": "2024-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The Biennale program by PYP offers a captivating exploration of contemporary art and culture, providing a rich tapestry of exhibitions, performances, and installations.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Santhosh Kumar"
+          },
+          "datePublished": "2024-03-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great school for kids who are looking to enroll in IB curriculum. My kid loves the school environment and eager to learn everyday . Thanks",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sandeep Kumar"
+          },
+          "datePublished": "2024-01-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the edictional sector",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sreesh Kalingaraya"
+          },
+          "datePublished": "2024-01-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fees very costly, all foreigners studying, dunno who is boy and who is girl, spreading western culture.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "karthic sangee"
+          },
+          "datePublished": "2023-12-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Big school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Hiranandani Upscale School - Kelambakkam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saikarthik J"
+          },
+          "datePublished": "2023-09-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Let of people don't even know division in 5 or 4 th grade",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159715066519159187525f3295c9ea9c61597150666.PNG\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.0",
+  "views": "865",
+  "reviews_count": "58",
+  "phone": "+919513238818",
+  "locality": "Kelambakkam",
+  "board": "IB\n\nCo",
+  "established": "2015",
+  "category": "International Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Hiranandani Upscale School ?\nAsk a Question\nHiranandani Upscale School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

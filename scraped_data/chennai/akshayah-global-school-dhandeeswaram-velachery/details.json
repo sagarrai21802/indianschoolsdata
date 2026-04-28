@@ -1,0 +1,373 @@
+{
+  "slug": "/school/chennai/akshayah-global-school-dhandeeswaram-velachery",
+  "url": "https://yellowslate.com/school/chennai/akshayah-global-school-dhandeeswaram-velachery",
+  "city": "chennai",
+  "name": "Akshayah Global School - Velachery ",
+  "scraped_at": "2026-04-28T18:08:00.722781",
+  "html_length": 404177,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Velachery",
+          "item": "https://yellowslate.com/schools/chennai/velachery"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "IGCSE",
+          "item": "https://yellowslate.com/schools/chennai/velachery/igcse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Akshayah Global School",
+          "item": "https://yellowslate.com/school/chennai/akshayah-global-school-dhandeeswaram-velachery"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Akshayah Global School - Velachery",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/akshayah-global-school-dhandeeswaram-velachery",
+      "telephone": "+91 442 243 2755",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Akshayah Matriculation Higher Secondary School, Akshayah Matriculation Higher Secondary School, 8, 1st St, Tansi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9787333,
+        "longitude": 80.2227903
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Akshayah Matriculation Higher Secondary School, Akshayah Matriculation Higher Secondary School, 8, 1st St, Tansi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/akshayah-global-school-dhandeeswaram-velachery-velachery-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "29"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sivanandam velu"
+          },
+          "datePublished": "2024-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is amazing 👏 🤩",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Janardhanan Hariharan"
+          },
+          "datePublished": "2023-08-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Akshayah was one of Chennai's top 3 schools in the late 2000's and early 2010's. It lost its charm and educating prowess and its downfall started after the Principal Mrs. Kumud Raj retired. The correspondent Mr. Venkatesh introduced Global Education and messed up the functioning of the institute due to his personal issues. Teachers weren't paid and in the end the school shut down post COVID. New efforts were made to reopen the premises by the Chettinad group a year or so ago. Now only memories remain of what was once a great institution and a second home for few of us who studied there from Day 1.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "bhagwan ishwar"
+          },
+          "datePublished": "2023-05-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is closed for good. Poor management",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Infanta Anthony"
+          },
+          "datePublished": "2022-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Chennai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sankar Vansan"
+          },
+          "datePublished": "2022-09-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We have supplied CCTV Cameras 2 years back.Maximum effort to collect payment ,no use.Not able to meet the owner.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Real Time"
+          },
+          "datePublished": "2022-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is for sale. Unable to meet venkatesh, always he says  he has meetings with minister. Currently, studying is a bunch of students, and their future is a question mark.  Fees collected no class conducted book fees collected and no books distributed. Venkatesh and saritha are planning to settle down in the USA.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "moses"
+          },
+          "datePublished": "2022-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "iam the student of askhayah and iam proud to be the student of askhayah\nbest memories of my childhood is in this school\ndream big dare big you will do a great thing!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sai Kumari"
+          },
+          "datePublished": "2021-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Honestly, My daughter started her studying in this school at her 3rd grade and now she is 8th. I am really happy that she is in this school. In my opinion in this school the studens doesn't mug up anything they just understand and let it out I realized this thing for my daughter. This is a worthy school. A great thanks to akshayah school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jeeva John"
+          },
+          "datePublished": "2021-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school. Good educated people as Correspondent and Secretary . My son started his education  there  & is still there. They dont trouble parents with unwanted complaints of their wards.If the school exist I would rather happily continue his Education there at Akshayah.\nThe school campus is aesthetically designed. The school's anthem is a wonderful one that I admire a lot.\nThis school helps the students to learn & never try to thrust studies on them.Friendly teachers with good parental care are the gems in the crown of Akshayah.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Akshayah Global School - Velachery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A “At” T"
+          },
+          "datePublished": "2020-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I studied and am still studying here(10th grade)(matriculation board). Truly one of the best schools. I don't know about the Global one though. Great and understanding teachers who know and understand the students. Friendly non teaching staff. Vice principal Mrs Shima Newton mam is very caring and understanding and listens thoroughly to the student's problems and suggests solutions. New turf  with artificial grass has been made which prevents major injuries. Nice library with lots of books and friendly librarian. AV room with AC, giant Toshiba television and super comfy seats  for study presentation and choir class.\nGreat, big,  sports ground with snack shop and coaches for students from 6-9th who go there every Friday for football, cricket, tabletennis, badminton, tennis and basketball. Clean and new age Jaguar fitting toilets with no stench and running water with regular cleaning on 1st 2nd and 3rd floor. Sports room with tons of equipment. Bus service provided.Timings are EXTREMELY convenient (8 00-2 20) (online class 8 00- 1 15 and 15 min break between each class). They don't treat students on mark basis but treat equally.ECA activities are excellent. Overall worth the money.👍👍👌👌I request the people with negative review to reconsider and check again. Awesome place for friendship and all round development.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/15860639961955739705e896a7c9f2aa1586063997.PNG\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.0",
+  "views": "677",
+  "reviews_count": "29",
+  "phone": "+919513238818",
+  "locality": "Velachery",
+  "board": "IGCSE\n\nCo",
+  "established": null,
+  "category": "Day Schools",
+  "classes": "000 - 100",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

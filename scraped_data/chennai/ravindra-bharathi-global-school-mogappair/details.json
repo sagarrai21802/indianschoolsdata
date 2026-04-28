@@ -1,0 +1,259 @@
+{
+  "slug": "/school/chennai/ravindra-bharathi-global-school-mogappair",
+  "url": "https://yellowslate.com/school/chennai/ravindra-bharathi-global-school-mogappair",
+  "city": "chennai",
+  "name": "Ravindra Bharathi Global School - Mogappair ",
+  "scraped_at": "2026-04-28T18:08:43.423564",
+  "html_length": 365575,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mogappair",
+          "item": "https://yellowslate.com/schools/chennai/mogappair"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/mogappair/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ravindra Bharathi Global School",
+          "item": "https://yellowslate.com/school/chennai/ravindra-bharathi-global-school-mogappair"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ravindra Bharathi Global School - Mogappair",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/ravindra-bharathi-global-school-mogappair",
+      "telephone": "+91 7299099155",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "432, Seethakathi Salai, Paneer Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600037, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0848513,
+        "longitude": 80.1807449
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ravindra Bharathi Global School - Mogappair",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "432, Seethakathi Salai, Paneer Nagar, J J Nagar, Mogappair East, Chennai, Tamil Nadu 600037, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/ravindra-bharathi-global-school-mogappair-mogappair-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "P SUDHA"
+          },
+          "datePublished": "2023-08-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent of class 8 child,  I am happy with the teachers and their individual attention given to kids. Thank you teachers. Keep up your good work 👏 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ravindra Bharathi Global School - Mogappair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "K MADHAV RAO"
+          },
+          "datePublished": "2023-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school,Principal and teachers are very good.  Good education is given to students.  Teacher are cordial end ensure students are doing good in all aspects. School Admin is very cordial and give all the required information to parents as and also when they require any information.  School fees is very nominal and affordable.  There is no pressure on students and parents.  Children can educate themselves well.  Overall it is very good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ravindra Bharathi Global School - Mogappair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "karthika prem"
+          },
+          "datePublished": "2023-04-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I’m a parent of kids who were studying here for more that 5 yrs. the school is at its worst post covid.. very irregular teachers. The don’t even give extra coaching even for extremely weak students. So I applied TC for my kids. Thrice I came to this school reg TC. Every time they make us fill a form n us back. I’m a working woman n I took permission every time I came here n the staffs r so irresponsible.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ravindra Bharathi Global School - Mogappair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Janani Mohan"
+          },
+          "datePublished": "2020-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Teachers are very friendly and cooperative.Extra curriculum activities are also given importance. Teachers are very cool in handling our children. Students are not squeezed to study instead they are given a chance to enhance their skills here. Able to see visible difference in behavior and academically also.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ravindra Bharathi Global School - Mogappair"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramasubramanian A"
+          },
+          "datePublished": "2018-06-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good Teachers, They take good care of primary and kindergarten students. There is more to improve in the area of infrastructure compared to other schools in the locality. School provides good transport facilities, however most of the times the buses reaches school only at neck of the prayer.\nWish the management takes attention.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159705151811843299435f31127eae8d71597051519.PNG\\",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159722911214732759715f33c838d631b1597229113.PNG\\",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "3.8",
+  "views": "506",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Mogappair",
+  "board": "CBSE\n\nCo",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "000 - 90",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/159722911214732759715f33c838d631b1597229113.PNG"
+  ]
+}

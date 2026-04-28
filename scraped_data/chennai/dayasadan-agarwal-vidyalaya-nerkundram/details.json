@@ -1,0 +1,259 @@
+{
+  "slug": "/school/chennai/dayasadan-agarwal-vidyalaya-nerkundram",
+  "url": "https://yellowslate.com/school/chennai/dayasadan-agarwal-vidyalaya-nerkundram",
+  "city": "chennai",
+  "name": "Dayasadan Agarwal Vidyalaya - Nerkundram ",
+  "scraped_at": "2026-04-28T18:09:27.732761",
+  "html_length": 362522,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nerkundram",
+          "item": "https://yellowslate.com/schools/chennai/nerkundram"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chennai/nerkundram/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Dayasadan Agarwal Vidyalaya",
+          "item": "https://yellowslate.com/school/chennai/dayasadan-agarwal-vidyalaya-nerkundram"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Dayasadan Agarwal Vidyalaya - Nerkundram",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/dayasadan-agarwal-vidyalaya-nerkundram",
+      "telephone": "+91",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "127, Poonamallee High Rd, Sentamil Nagar, Maduravoyal, Chennai, Tamil Nadu 600107, India",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0677212,
+        "longitude": 80.1788138
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dayasadan Agarwal Vidyalaya - Nerkundram",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "127, Poonamallee High Rd, Sentamil Nagar, Maduravoyal, Chennai, Tamil Nadu 600107, India",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/dayasadan-agarwal-vidyalaya-nerkundram-nerkundram-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5.0",
+              "reviewCount": "5"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manikandan Mohan"
+          },
+          "datePublished": "2023-04-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dayasadan Agarwal Vidyalaya School (DSAV) is doing a great job to provide better and affordable education to the students which they all wanted.This is the school where our students get proper education so that our country could develop in all possible way. The significance of this school is that they provide all the knowledge related to sports, education, moral value, etc. The teachers, staff and other members of this school are honest at their works.The academic result of this school has been great for many years.This shows how good the teachers of this school is! This school provides better facilities for the students. The fee of this school is very much affordable for the students’ parents. From my point of view this is one of the best schools in Chennai which has been serving our nation in the field of education for many years.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dayasadan Agarwal Vidyalaya - Nerkundram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Murugesan P"
+          },
+          "datePublished": "2023-03-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dayasadan Agarwal Vidyala is a very good school. They provide excellent education and all the teachers gives individual attention to each and every child right from KG to class XII. The infrastructure is good and all the class rooms are equipped well maintained.Children enjoy going to school as there are so many extra curricular activities, talents ect...... Fee structure is also reasonable when compared to other reputed schools.\n\nDefinitely i would recommend this school for those who expect their kids to have holistic development!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dayasadan Agarwal Vidyalaya - Nerkundram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kavitha As"
+          },
+          "datePublished": "2023-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent, I am very much pleased.  Very good infrastructure and caring teachers, timely appreciation for the students, Encouraging students to participate in extra curricular activities like bull bull, chess, skating and inter school competition.\nProviding constructive feedback during the parents meeting that indicates the transparency.\nI must thank for the all the teaching staff for their commitment.\nFinally  very safe place for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dayasadan Agarwal Vidyalaya - Nerkundram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Lavanya Srikanth"
+          },
+          "datePublished": "2023-03-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I take this opportunity to thank the principal mam, teachers and management for providing excellent education to the students. Besides studies, co-curricular activities are also given equal importance which helps in grooming the skills of my kids and all other students. Teachers are so friendly and guiding the students to participate in all the activities.\nI wish all the very best to the institution for their bright future ahead.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Dayasadan Agarwal Vidyalaya - Nerkundram"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "dhana lakshmi"
+          },
+          "datePublished": "2023-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My gratitude goes to both principal and teachers for a job well done by setting quality standards for school and stick in it.\nThis school given great value for our money. Extra curricular activities are making school environment fun and desirable for students, iam very much existing to have enrolled my child in this school. Teachers giving priority and give them the best of everything to their students. Iam very much proud my daughter studying in this school. Students learn authentic devotional of moral and humanities in this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/158677352317953521605e943e1364a081586773523.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "5.0",
+  "views": "706",
+  "reviews_count": "5",
+  "phone": "+919513238818",
+  "locality": "Nerkundram",
+  "board": "CBSE\n\nCo",
+  "established": "2015",
+  "category": "Day Schools",
+  "classes": "500 - 40",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Dayasadan Agarwal Vidyalaya ?\nAsk a Question\nDayasadan Agarwal Vidyalaya Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

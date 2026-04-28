@@ -1,0 +1,371 @@
+{
+  "slug": "/school/chennai/vellore-international-school-kayar",
+  "url": "https://yellowslate.com/school/chennai/vellore-international-school-kayar",
+  "city": "chennai",
+  "name": "Vellore International School - Kayar ",
+  "scraped_at": "2026-04-28T18:07:28.617335",
+  "html_length": 389408,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chennai",
+          "item": "https://yellowslate.com/schools/chennai"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kayar",
+          "item": "https://yellowslate.com/schools/chennai/kayar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/chennai/kayar/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vellore International School",
+          "item": "https://yellowslate.com/school/chennai/vellore-international-school-kayar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vellore International School - Kayar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chennai/vellore-international-school-kayar",
+      "telephone": "+91 753 990 2555",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kayar, Near Kelambakkam, Off OMR, Chennai, Tamil Nadu",
+        "addressLocality": "Chennai",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.7182888,
+        "longitude": 80.1886857
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kayar, Near Kelambakkam, Off OMR, Chennai, Tamil Nadu",
+              "addressLocality": "Chennai",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chennai/vellore-international-school-kayar-kayar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "58"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ratna k"
+          },
+          "datePublished": "2024-08-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best boarding school in chennai",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anuj Verma"
+          },
+          "datePublished": "2024-08-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "VIS Chennai offers an excellent environment for students. The infrastructure is impressive, and the curriculum is well-rounded. My only suggestion would be to improve communication with parents. Overall, a fantastic institution for holistic education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Srikanth Manam"
+          },
+          "datePublished": "2024-07-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school , with good discipline, good food, all round development is good.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kirti Verma"
+          },
+          "datePublished": "2024-06-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "VIS in Chennai stands out for its commitment to excellence in education and student well-being. An ideal place for young minds!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "VINAY VERMA"
+          },
+          "datePublished": "2024-06-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing school! VIS balances academics, sports, and arts beautifully. The teachers are caring and supportive. Couldn't ask for more.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravendra Kumar Singh"
+          },
+          "datePublished": "2024-06-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "VIS offers a holistic education with modern amenities and a focus on overall development. My children thrive here. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kuldeep Kumar"
+          },
+          "datePublished": "2024-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Outstanding school with a strong academic program, excellent extracurricular activities, and a nurturing atmosphere. VIS is a fantastic choice for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Akhilesh Verma"
+          },
+          "datePublished": "2024-06-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vellore International School provides exceptional education with dedicated faculty, top-notch facilities, and a supportive learning environment. Highly recommend VIS!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anurag Verma"
+          },
+          "datePublished": "2024-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Choosing Vellore International School for my child was one of the best decisions I've made as a parent. The school's commitment to excellence is evident in everything they do, from the rigorous academic curriculum to the diverse range of extracurricular activities available. I have no doubt that my child is receiving the best possible education here.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vellore International School - Kayar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Verma Yogesh"
+          },
+          "datePublished": "2024-05-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vellore International School sets the standard for CBSE education in Chennai. The faculty members go above and beyond to ensure that every student receives the support and guidance they need to succeed. From the modern classrooms to the extensive extracurricular offerings, this school provides an unparalleled learning environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org",
+    "https://scripts.clarity.ms/0.8.59/clarity.js",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://wa.me/919513238818",
+    "https://schema.org/\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://8views.com/\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg\\",
+    "https://twitter.com/yellow_slate",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64o1",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/"
+  ],
+  "rating": "4.8",
+  "views": "207",
+  "reviews_count": "58",
+  "phone": "+919513238818",
+  "locality": "Kayar",
+  "board": "ICSE, IGCSE\n\nCo",
+  "established": "2021",
+  "category": "Boarding Schools",
+  "classes": "2026-27",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/02/3-6.jpg",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/01/29-2.jpg",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "city": "ghaziabad",
+  "total_schools": 182,
+  "pages_scraped": 16,
+  "listing_only": true,
+  "scraped_at": "2026-04-25T10:32:59.808589",
+  "stop_reason": "reached_end",
+  "completed": true,
+  "max_pages_limited": false,
+  "validation_passed": true,
+  "validation_errors": [],
+  "pages_visited": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "highest_visible_page_seen": 16,
+  "pages_with_zero_new_schools": [],
+  "duplicate_hits": 2,
+  "cross_city_skips": 1,
+  "missing_slug_skips": 0,
+  "saved_school_folders": 182,
+  "page_stats": [
+    {
+      "page": 1,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 2,
+      "cards_found": 18,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 1,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 3,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 11,
+      "duplicate_hits": 1,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        2,
+        3,
+        4,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 4,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 11,
+      "duplicate_hits": 1,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        3,
+        4,
+        5,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 5,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        4,
+        5,
+        6,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 6,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        5,
+        6,
+        7,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 7,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        6,
+        7,
+        8,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 8,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        7,
+        8,
+        9,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 9,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        8,
+        9,
+        10,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 10,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        9,
+        10,
+        11,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 11,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        10,
+        11,
+        12,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 12,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        11,
+        12,
+        13,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 13,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        12,
+        13,
+        14,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 14,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        13,
+        14,
+        15,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 15,
+      "cards_found": 17,
+      "unique_schools_found": 12,
+      "new_schools_saved": 12,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        14,
+        15,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": true,
+      "signature_seen_on_page": null
+    },
+    {
+      "page": 16,
+      "cards_found": 9,
+      "unique_schools_found": 4,
+      "new_schools_saved": 4,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [
+        1,
+        14,
+        15,
+        16
+      ],
+      "visible_last_page": 16,
+      "has_exact_next": false,
+      "signature_seen_on_page": null
+    }
+  ]
+}

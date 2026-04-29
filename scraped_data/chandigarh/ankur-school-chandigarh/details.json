@@ -1,0 +1,372 @@
+{
+  "slug": "/school/chandigarh/ankur-school-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/ankur-school-chandigarh",
+  "city": "chandigarh",
+  "name": "Ankur School - Chandigarh ",
+  "scraped_at": "2026-04-29T00:26:56.930954",
+  "html_length": 327546,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Ankur School",
+          "item": "https://yellowslate.com/school/chandigarh/ankur-school-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Ankur School - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/ankur-school-chandigarh",
+      "telephone": " 0172 254 5792",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector 14, Chandigarh, 160014",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector 14, Chandigarh, 160014",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/ankur-school-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ratanpreet Tiwana"
+          },
+          "datePublished": "2025-03-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very excellent school, infrastructure is very good and special care is taken for the cleanliness of the school, my son studied in class 2 'c' the class teacher is so coperative for parents, we contact the class teacher (Mrs Indu Ruval) for any kind of problem regarding our son's homework or for taking leave etc. Thank you again for good efforts.\n\nFather name - Gurvinder singh tiwana\nMother name - Mandeep kaur\nStudents name - Ratanpreet singh",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "poonam meena"
+          },
+          "datePublished": "2025-02-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school, worst administration\nThey are complete scammers, fraudsters\nThey done scam in 25-26 admission process.\nThey mislead parents and only favour university staff children.\nPlease do not send your child to this fraudulent school.\nThe receptionist will not answer your phone and will not even tell you her name and you will not get any answers of your questions.\nshe talk to you in a very rude manner.\nmy worst experience with this school .\nThanks God my child didn't go in this school.\nNot safe for your child.\nThey never take any responsibility\nTotally froud and scammer administration.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gaurav Sharma"
+          },
+          "datePublished": "2025-02-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "They are scammers.... They did scam in 25-26 session admission...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Muskan Singh"
+          },
+          "datePublished": "2025-01-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best  school Ankur School",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "FITNESS SPORTSS"
+          },
+          "datePublished": "2024-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sushma Rani"
+          },
+          "datePublished": "2024-04-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anupam Ji"
+          },
+          "datePublished": "2024-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaswant Singh"
+          },
+          "datePublished": "2024-04-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst school,teachers have no sense how to talk with parents and children .some teachers are very good in natures .Moreover,classes are overloaded with children.Even notebooks not checked on time.No doubt fees is less but quality is poor.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "shalu verma"
+          },
+          "datePublished": "2024-03-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Chandigarh 🙂😊",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Ankur School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "SULAKSHAN"
+          },
+          "datePublished": "2023-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school best student I have ever see",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.3",
+  "views": "0",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "CBSE\n\nGot Questions About Ankur School",
+  "established": "1976",
+  "category": "Day Schools",
+  "classes": "1 - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Ankur School ?\nAsk a Question\nAnkur School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

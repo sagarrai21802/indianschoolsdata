@@ -1,48 +1,11 @@
 {
   "statistics": {
     "total_cities": 1,
-    "processed_cities": 1,
-    "total_schools": 8,
-    "total_pages": 1,
-    "start_time": "2026-04-29T00:16:35.400215",
-    "end_time": "2026-04-29T00:16:52.396875"
+    "processed_cities": 0,
+    "total_schools": 0,
+    "total_pages": 0,
+    "start_time": "2026-04-29T01:25:50.777944",
+    "end_time": "2026-04-29T01:27:58.923866"
   },
-  "cities": {
-    "agra": {
-      "city": "agra",
-      "total_schools": 8,
-      "pages_scraped": 1,
-      "listing_only": true,
-      "scraped_at": "2026-04-29T00:16:52.396453",
-      "stop_reason": "next_page_unavailable",
-      "completed": false,
-      "max_pages_limited": false,
-      "validation_passed": true,
-      "validation_errors": [],
-      "pages_visited": [
-        1
-      ],
-      "highest_visible_page_seen": null,
-      "pages_with_zero_new_schools": [],
-      "duplicate_hits": 0,
-      "cross_city_skips": 0,
-      "missing_slug_skips": 0,
-      "saved_school_folders": 8,
-      "page_stats": [
-        {
-          "page": 1,
-          "cards_found": 8,
-          "unique_schools_found": 8,
-          "new_schools_saved": 8,
-          "duplicate_hits": 0,
-          "cross_city_skips": 0,
-          "missing_slug_skips": 0,
-          "visible_numbers": [],
-          "visible_last_page": null,
-          "has_exact_next": false,
-          "signature_seen_on_page": null
-        }
-      ]
-    }
-  }
+  "cities": {}
 }

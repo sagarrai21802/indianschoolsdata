@@ -1,0 +1,366 @@
+{
+  "slug": "/school/rajkot/jay-international-school-chhapra",
+  "url": "https://yellowslate.com/school/rajkot/jay-international-school-chhapra",
+  "city": "rajkot",
+  "name": "Jay International School - Chhapra ",
+  "scraped_at": "2026-04-29T00:20:48.887571",
+  "html_length": 314925,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chhapra",
+          "item": "https://yellowslate.com/schools/rajkot/chhapra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/chhapra/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Jay International School",
+          "item": "https://yellowslate.com/school/rajkot/jay-international-school-chhapra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Jay International School - Chhapra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/jay-international-school-chhapra",
+      "telephone": "+91 9904185942",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Opp Arya Bhagwati Bunglows Opp Water Sump, Kalavad Rd, Chhapra, Gujarat 360005",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Opp Arya Bhagwati Bunglows Opp Water Sump, Kalavad Rd, Chhapra, Gujarat 360005",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/jay-international-school-chhapra-chhapra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "reviewCount": "111"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Krupa Rupani"
+          },
+          "datePublished": "2025-02-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sharma Meghna"
+          },
+          "datePublished": "2025-01-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good atmosphere for leaning and includes all the activities for developing oneself",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ADITI DEPANI"
+          },
+          "datePublished": "2024-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school for the best education for the kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Pushpa P H"
+          },
+          "datePublished": "2024-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Kind, supportive and well educated atmosphere. Good guidence i have got from each staf member.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rushirajsinh Solanki"
+          },
+          "datePublished": "2024-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Jay International school works on the skills for the students not just with the books ..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "kinnari k"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Jay International school is one of the best educational institutions in Rajkot. This school has excellent facility equipped with latest technology and infrastructure. Their staff is well trained, professional and knowledgeable. The environment of the school provide 360 degree development of the child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jignasa Raval"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Genius is Best School , Best  Education and Good Staff .Thank You.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hetal Upadhyay"
+          },
+          "datePublished": "2024-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "jay international school is best in Education",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RAJAT PITHADIA"
+          },
+          "datePublished": "2024-08-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The School Has Innovative Approach towards Education... next generation school... Highly Qualified teachers & Staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Jay International School - Chhapra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naren Sarma"
+          },
+          "datePublished": "2024-07-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Rajkot ( Gujrat",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.9",
+  "views": "0",
+  "reviews_count": "111",
+  "phone": "+919513238818",
+  "locality": "Chhapra",
+  "board": "CBSE\n\nGot Questions About Jay International School",
+  "established": "2007",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Jay International School ?\nAsk a Question\nJay International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

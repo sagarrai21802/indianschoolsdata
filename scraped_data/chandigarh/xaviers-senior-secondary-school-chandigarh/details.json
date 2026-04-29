@@ -1,0 +1,370 @@
+{
+  "slug": "/school/chandigarh/xaviers-senior-secondary-school-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/xaviers-senior-secondary-school-chandigarh",
+  "city": "chandigarh",
+  "name": "Xavier's Senior Secondary School - Chandigarh ",
+  "scraped_at": "2026-04-29T00:27:21.309498",
+  "html_length": 329512,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "ICSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/icse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Xavier'S Senior Secondary School",
+          "item": "https://yellowslate.com/school/chandigarh/xaviers-senior-secondary-school-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Xavier's Senior Secondary School - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/xaviers-senior-secondary-school-chandigarh",
+      "telephone": " 0172 260 7079",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "2302, Sarovar Path, 44C, Sector 44, Chandigarh, 160044",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2302, Sarovar Path, 44C, Sector 44, Chandigarh, 160044",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/xaviers-senior-secondary-school-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.7",
+              "reviewCount": "121"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Niharika Moudgil"
+          },
+          "datePublished": "2025-02-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It’s a very good school. I am an ex-xavarian.\nI have studied here for 12 years it’s amazing the education, teachers, infrastructure, everything is perfect",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "V R"
+          },
+          "datePublished": "2024-11-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's good school for study but for games activities not a good school at all. One period is reserved for whole week which is not a good thing.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rocky Sharma"
+          },
+          "datePublished": "2024-09-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school 🏫",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "akanksha Sharma"
+          },
+          "datePublished": "2024-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not good school. No activities no games, nothing. Everything is put on parents head. Whenever we complaint, teachers tells us to go to management. They take plenty of fees from us but still they don't teach their students any activities.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aasman Rana"
+          },
+          "datePublished": "2024-06-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Not a good school for primary schooling because there is no revision at all. The teacher only do the work for one time , and the work is not repeated more than once. No annual function , no games, no trip,no activity is done in the school. Every thing is put on parents head. The teacher do not take any responsibility to encourage the child.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Baljit Kissana"
+          },
+          "datePublished": "2024-03-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Super!! School!! Best school. Students are friendly. Teachers are friendly, lovely. Specially Mrs Roseleen David.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parminder Singh"
+          },
+          "datePublished": "2024-02-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in Chandigarh for study",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravinder Kaur"
+          },
+          "datePublished": "2024-02-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "School is very good in academic as well as other aspects like Infrastructure, cleanliness, activities etc.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Thakur Kashmir Singh Dadhwal"
+          },
+          "datePublished": "2023-11-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school l think it is the best school in chandigarh",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Xavier's Senior Secondary School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Phantom Fight"
+          },
+          "datePublished": "2023-06-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice  school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "3.7",
+  "views": "0",
+  "reviews_count": "121",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "ICSE\n\nGot Questions About Xavier",
+  "established": "1860",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Xavier's Senior Secondary School ?\nAsk a Question\nXavier's Senior Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

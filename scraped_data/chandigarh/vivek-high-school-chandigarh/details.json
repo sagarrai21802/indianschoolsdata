@@ -1,0 +1,370 @@
+{
+  "slug": "/school/chandigarh/vivek-high-school-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/vivek-high-school-chandigarh",
+  "city": "chandigarh",
+  "name": "Vivek High School - Chandigarh ",
+  "scraped_at": "2026-04-29T00:25:31.998917",
+  "html_length": 330072,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vivek High School",
+          "item": "https://yellowslate.com/school/chandigarh/vivek-high-school-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vivek High School - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/vivek-high-school-chandigarh",
+      "telephone": "na",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": " Vivek High School, Sector 38 B Rd, Sector 38B, Sector 38, Chandigarh, 160036",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": " Vivek High School, Sector 38 B Rd, Sector 38B, Sector 38, Chandigarh, 160036",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/vivek-high-school-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "96"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Esra Dhillon"
+          },
+          "datePublished": "2025-02-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I luv ❤️ vivek",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurbir Dhillon"
+          },
+          "datePublished": "2024-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Charu Sharma"
+          },
+          "datePublished": "2024-11-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is shitass and terribly managed when it comes to handling traffic. With each student arriving by car, it causes heavy traffic congestion and contributes significantly to pollution as well as their parents park in the front of the houses also. It would be much better for the environment and people living in this area if the school invested in buses. The traffic jams during drop-off and pick-up times are incredibly frustrating leads to traffic jams for approximately atleast 1-2 hours. Also some of the parents doesn't know how to drive or the basic traffic rules and parking sense. Try to solve it with the trustees or the head of the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shaurya Bansal"
+          },
+          "datePublished": "2024-10-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Abusive and insensitive peers... faculty is changed each year... building is not properly maintained... though sports is good. There are many court cases against the school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rohit thakur"
+          },
+          "datePublished": "2024-09-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Kumar"
+          },
+          "datePublished": "2024-09-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Arjun Dhiman"
+          },
+          "datePublished": "2024-08-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "best school ever . I have been going there for about 11 years\nthey have a lot of opportunities in sports",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mankanwar Bedi"
+          },
+          "datePublished": "2024-08-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great turfs, but the management is quite lagging and just isn’t interested in maintaining this great asset!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurpreet Sandhu"
+          },
+          "datePublished": "2024-08-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school the teachers only scold when needed they’re teaching methods are great and the football turf is so good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vivek High School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saanvi"
+          },
+          "datePublished": "2024-07-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vivek high school is the best place for your child. The teachers are very kind and push you to do your best at everything. Have a lot of amazing memories with my friends here. Playing basketball and badminton with friends is just so memorable. Has alot of extracurricular activities like art, guitar, theatre, singing, dance, etc. This school also has a lot of different ways of entertainment like performance assemblies and founders with different themes every year!! All kids wait for founders all year. There are inter house competitions held as well. In the end I just want to say that I love it here and  wish to have more amazing memories 💗🎀",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "0",
+  "reviews_count": "96",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "CBSE\n\nGot Questions About Vivek High School",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Vivek High School ?\nAsk a Question\nVivek High School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

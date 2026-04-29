@@ -1,0 +1,366 @@
+{
+  "slug": "/school/rajkot/new-era-school-gulab-nagar",
+  "url": "https://yellowslate.com/school/rajkot/new-era-school-gulab-nagar",
+  "city": "rajkot",
+  "name": "New Era School - Gulab Nagar ",
+  "scraped_at": "2026-04-29T00:21:40.255544",
+  "html_length": 314126,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gulab Nagar",
+          "item": "https://yellowslate.com/schools/rajkot/gulab-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/gulab-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "New Era School",
+          "item": "https://yellowslate.com/school/rajkot/new-era-school-gulab-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "New Era School - Gulab Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/new-era-school-gulab-nagar",
+      "telephone": "9825377509",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sojitra Nagar Main Road, Raiya Rd, Opp,Gulab Nagar, Rajkot,",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sojitra Nagar Main Road, Raiya Rd, Opp,Gulab Nagar, Rajkot,",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/new-era-school-gulab-nagar-gulab-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "65"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jenil Gohil"
+          },
+          "datePublished": "2025-02-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderful school and ground",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sapna Jain"
+          },
+          "datePublished": "2024-09-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Bahut hi bekar school h .new era mai bache ko bhejne k bajay bacche ko ghar par rakhna jyada sahi h.. principle m bilkul tameej nhi h to vo apne staff ko to kya hi sikhyehi..bacche k sath khilwad hoga agr aisi school m bhejte h to ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narendra Ghavri"
+          },
+          "datePublished": "2024-08-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "To much talk rudely with students",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hetvi Shah"
+          },
+          "datePublished": "2024-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chandegra Bhavesh"
+          },
+          "datePublished": "2024-06-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prem Dholakia"
+          },
+          "datePublished": "2024-06-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very best environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "naman palan"
+          },
+          "datePublished": "2024-01-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school\nAffiliated to gujarat board\n\nThis school runs both english as well as gujarati medium\n\nCampus is good and clean\nPrincipal and staff are really very good.\n\nFor transportation, they have their buses are also.\n\nCultural activities are also done along with academic activities.\n\nLocation is good in raiya road and this type of campus is only in this area.\n\nTechnically sound\nEquipped with latest technology interms of class tools and sports gears as well including cctv all around.\n\nGood school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "A123 Xxx"
+          },
+          "datePublished": "2023-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "So rude behaviour and poor mengment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "May Ax"
+          },
+          "datePublished": "2023-12-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Don't go to this school 🙏🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "New Era School - Gulab Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sagar chhatrala"
+          },
+          "datePublished": "2023-11-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.0",
+  "views": "0",
+  "reviews_count": "65",
+  "phone": "+919513238818",
+  "locality": "Gulab Nagar",
+  "board": "CBSE\n\nGot Questions About New Era School",
+  "established": "2000",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "New Era School ?\nAsk a Question\nNew Era School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

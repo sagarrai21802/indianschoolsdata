@@ -1,0 +1,370 @@
+{
+  "slug": "/school/chandigarh/sauphins-school-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/sauphins-school-chandigarh",
+  "city": "chandigarh",
+  "name": "Sauphin's School - Chandigarh ",
+  "scraped_at": "2026-04-29T00:26:35.408301",
+  "html_length": 326662,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Sauphin'S School",
+          "item": "https://yellowslate.com/school/chandigarh/sauphins-school-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sauphin's School - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/sauphins-school-chandigarh",
+      "telephone": "+91-0172-2606090",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "aupins School Plot No 14, Sector 32A, Chandigarh, 160030",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "aupins School Plot No 14, Sector 32A, Chandigarh, 160030",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/sauphins-school-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "75"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Satvinder Kaur"
+          },
+          "datePublished": "2025-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in the Chandigarh",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "chandigarh Zaika"
+          },
+          "datePublished": "2025-02-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ginni sharma"
+          },
+          "datePublished": "2025-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dont deserve any star, bad behaviour, rude talks of staff and zero sports activity.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sapna Sharma"
+          },
+          "datePublished": "2025-01-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Futuristic!!!!! Great infrastructure!!!! I would really recommend this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MANMOHAN Kaur"
+          },
+          "datePublished": "2024-08-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I would like to thank Saupins School for arranging this trip. Children felt disheartened when the Dehradun trip was cancelled but you arranged such a wonderful and joyful trip nearby.Jot enjoyed this trip a Thanks to all the teachers who took  care for our kids🙏🏻.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurnoor Singh"
+          },
+          "datePublished": "2024-06-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school i studied here for 10 years very nice teachers",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "NOOB 么 YT"
+          },
+          "datePublished": "2024-06-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vishal Sharma"
+          },
+          "datePublished": "2024-04-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the worst school of Chandigarh, worst management as compared to other schools, their main motive is how to make money. They don't look over the books and study material of publishers. UCHHI DUKAN FEEKA PAKWAN",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Atul Sharma"
+          },
+          "datePublished": "2024-03-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school and very good teachers and helper staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Sauphin's School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sakshi sharma"
+          },
+          "datePublished": "2024-01-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very very bad",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "0",
+  "reviews_count": "75",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "CBSE\n\nGot Questions About Sauphin",
+  "established": "1860",
+  "category": "Day Schools",
+  "classes": "6 - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Sauphin's School ?\nAsk a Question\nSauphin's School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

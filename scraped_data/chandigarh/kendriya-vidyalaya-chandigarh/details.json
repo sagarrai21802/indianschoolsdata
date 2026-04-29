@@ -1,0 +1,370 @@
+{
+  "slug": "/school/chandigarh/kendriya-vidyalaya-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/kendriya-vidyalaya-chandigarh",
+  "city": "chandigarh",
+  "name": "Kendriya Vidyalaya - Chandigarh ",
+  "scraped_at": "2026-04-29T00:26:14.453472",
+  "html_length": 325346,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kendriya Vidyalaya",
+          "item": "https://yellowslate.com/school/chandigarh/kendriya-vidyalaya-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kendriya Vidyalaya - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/kendriya-vidyalaya-chandigarh",
+      "telephone": "0172-2638953",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kendriya Vidyalaya Sector 31D Chandigarh, Near Japani Garden, Sector 31D, Chandigarh PIN -160030",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kendriya Vidyalaya Sector 31D Chandigarh, Near Japani Garden, Sector 31D, Chandigarh PIN -160030",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/kendriya-vidyalaya-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "81"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "satinder yadav"
+          },
+          "datePublished": "2024-11-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school for backbancher and full masti\n😎👍😁😃😆",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DEEPAK Awasthi"
+          },
+          "datePublished": "2024-10-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Reasonable",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nishant Kumar Singh"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school forever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Swasti"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "magan bansal"
+          },
+          "datePublished": "2024-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school, excellent Staff,🙏❤️❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sheenam Arora"
+          },
+          "datePublished": "2024-02-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am in class 6c my name's is aksh I am in kv sec 31 d school it is best school ever",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aditya Chouhan"
+          },
+          "datePublished": "2024-02-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "PERFECT MINDS"
+          },
+          "datePublished": "2024-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good place to be in",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mukesh Gaur"
+          },
+          "datePublished": "2024-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "2009(1st B) - 2014(6th B)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Axita Malik"
+          },
+          "datePublished": "2023-12-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "💪👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.6",
+  "views": "0",
+  "reviews_count": "81",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "CBSE\n\nGot Questions About Kendriya Vidyalaya",
+  "established": "1963",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Kendriya Vidyalaya ?\nAsk a Question\nKendriya Vidyalaya Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

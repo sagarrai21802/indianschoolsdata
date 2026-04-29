@@ -1,0 +1,367 @@
+{
+  "slug": "/school/rajkot/kendriya-vidyalaya-ram-park",
+  "url": "https://yellowslate.com/school/rajkot/kendriya-vidyalaya-ram-park",
+  "city": "rajkot",
+  "name": "Kendriya Vidyalaya - Ram Park ",
+  "scraped_at": "2026-04-29T00:21:11.900809",
+  "html_length": 320817,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ram Park",
+          "item": "https://yellowslate.com/schools/rajkot/ram-park"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/ram-park/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Kendriya Vidyalaya",
+          "item": "https://yellowslate.com/school/rajkot/kendriya-vidyalaya-ram-park"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Kendriya Vidyalaya - Ram Park",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/kendriya-vidyalaya-ram-park",
+      "telephone": "91–0281–2577 350",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kalawad Road Opposite Aatmiya College Near Crystal Mall Rajkot PIN Code : 360001",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kalawad Road Opposite Aatmiya College Near Crystal Mall Rajkot PIN Code : 360001",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/kendriya-vidyalaya-ram-park-ram-park-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "75"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "DINESH PARMAR"
+          },
+          "datePublished": "2025-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "After 10 th section complete i request to open humanities streams for students class 11th because students don't want to change school and school is amazing but students change school cause of doesn't have humanities streams in kv school..i hope response of the problem will taken before the results of class 10th board exam 2024-25. thank you..kv student .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narinder Singh Dhillon"
+          },
+          "datePublished": "2025-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I have passed out in 1990. Average Student. After 25 years of Completing Schol. Started Reunion in 2015. Today Most of Classmates. Schoolmates are in Touch. More then 15 teachers in touch. Feeling proud as KVIAN. Blessed Student. Main thing I Got Is Confidence. Never Gaveup in Life. And today Living Happy n Successful Life. Thanks All My Teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "neeraj agravat"
+          },
+          "datePublished": "2025-01-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best education institute",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bagatharia dhara"
+          },
+          "datePublished": "2024-07-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "the worst part is the cleanliness the washroom is smell so bad when we pick up  the student we have to cover our nose. i had complain so many times. and the teacher is not teaching well as no homework given and they given home work in vacation and nobody is check. i am thinking to complain in KV sangathan.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipen Vasoya"
+          },
+          "datePublished": "2024-04-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education, Supportive Staff.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rehan Hingolaja"
+          },
+          "datePublished": "2024-03-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Link not open",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jayraj bathwar"
+          },
+          "datePublished": "2023-12-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "i am studing in kv rajkot and i love that school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vn Patel"
+          },
+          "datePublished": "2023-11-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The best school for math",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr.Khyati Vyas Pathak"
+          },
+          "datePublished": "2023-10-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the best school in Rajkot",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Kendriya Vidyalaya - Ram Park"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ganesh Chandra"
+          },
+          "datePublished": "2023-08-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Thanks to  Yogesh sir",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1758369719006-639bu3bm.jpg\\",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.1",
+  "views": "0",
+  "reviews_count": "75",
+  "phone": "+919513238818",
+  "locality": "Ram Park",
+  "board": "CBSE\n\nGot Questions About Kendriya Vidyalaya",
+  "established": "1965",
+  "category": "Day Schools",
+  "classes": "3 - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Kendriya Vidyalaya ?\nAsk a Question\nKendriya Vidyalaya Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

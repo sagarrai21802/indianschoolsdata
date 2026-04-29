@@ -1,0 +1,367 @@
+{
+  "slug": "/school/rajkot/delhi-world-public-school-haripar-pal",
+  "url": "https://yellowslate.com/school/rajkot/delhi-world-public-school-haripar-pal",
+  "city": "rajkot",
+  "name": "Delhi World Public School - Haripar Pal ",
+  "scraped_at": "2026-04-29T00:20:34.587513",
+  "html_length": 316857,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Haripar Pal",
+          "item": "https://yellowslate.com/schools/rajkot/haripar-pal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/haripar-pal/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi World Public School",
+          "item": "https://yellowslate.com/school/rajkot/delhi-world-public-school-haripar-pal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi World Public School - Haripar Pal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/delhi-world-public-school-haripar-pal",
+      "telephone": "+91 7572890044",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Survey No. 12, Haripar Pal, behind NRI Bungalows, Rajkot, Gujarat 360005",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Survey No. 12, Haripar Pal, behind NRI Bungalows, Rajkot, Gujarat 360005",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/delhi-world-public-school-haripar-pal-haripar-pal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Asha Prajapati"
+          },
+          "datePublished": "2025-03-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Well development for kids area, Excellent.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kunal Nandan"
+          },
+          "datePublished": "2025-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is like a family school. Really felt too supportive and friendly environment. This school is well disciplined and every students are getting equal opportunities to develop their own skills. Teachers are very cooperative specially Principal Sir.\nYou must send your ward in Delhi World Public School, Rajkot.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hitesh C K"
+          },
+          "datePublished": "2024-11-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One more family member is added according to the schools! Great to hear, and work will be given to the readers effectively amongst all other schools. Best wishes to the management and the team.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhay kumar Singh"
+          },
+          "datePublished": "2024-10-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nice school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Haresh Parmar"
+          },
+          "datePublished": "2024-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DPWS has  a beautiful campus and is part of the Delhi Public School education system....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nipun Raval"
+          },
+          "datePublished": "2024-03-28",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Delhi World Public School in Rajkot is truly a gem in the realm of education. From its state-of-the-art facilities to its dedicated faculty, every aspect of the school speaks volumes about its commitment to excellence. The curriculum is not only comprehensive but also tailored to nurture holistic development in students, ensuring they excel academically, socially, and emotionally.\n\nOne of the school's standout features is its innovative approach to learning, which goes beyond traditional methods to foster creativity, critical thinking, and problem-solving skills among students. The emphasis on extracurricular activities further enriches the overall learning experience, allowing students to explore their interests and talents beyond the classroom.\n\nMoreover, the school's nurturing environment promotes inclusivity and diversity, creating a sense of belonging among students from various backgrounds. The supportive staff and strong community engagement further enhance this inclusive culture, making Delhi World Public School a second home for every student.\n\nOverall, I highly recommend Delhi World Public School Rajkot to parents seeking a top-tier education for their children. With its unwavering commitment to academic excellence, holistic development, and inclusive culture, this school truly stands out as a beacon of educational brilliance in Rajkot.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amritansh Anand"
+          },
+          "datePublished": "2024-01-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is a very below avg one, teacher here teacher at very avg level and the infra is also worse and old and hence need renovation. This school caters a large amount of children and number of buses is extremely less , I have seen that on the seat of 2 there are somehow 3 children. Some sit beside in the driver in the space. Also there are very worthless laws and regulations in the school. Plz if any parent is reading this I would not recommend you to send your child to this school and the good reviews are totally fake and are written by their children forcefully .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "pooja jotangiya"
+          },
+          "datePublished": "2024-01-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent team nd Excellent teaching method and best enthusiastic principal with friendly nature...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dipak Hirani"
+          },
+          "datePublished": "2022-11-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "DWPS is the best CBSE school in the Rajkot city,. Wide Infrastructure,  Big Ground, Students are getting quality education.\n\nOur experience at DWPS has been exceptional. The teachers are truly invested in my children’s education and their growth as learners. my children to gain confidence in their learning abilities\n\nAll the teachers are highly qualified & Very Respective.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi World Public School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ravi Kubavat"
+          },
+          "datePublished": "2022-11-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good infrastructure with best faculty in rajkot.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.8",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Haripar Pal",
+  "board": "CBSE\n\nGot Questions About Delhi World Public School",
+  "established": "2003",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Delhi World Public School ?\nAsk a Question\nDelhi World Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

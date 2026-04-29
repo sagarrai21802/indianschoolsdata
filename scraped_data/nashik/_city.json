@@ -1,0 +1,36 @@
+{
+  "city": "nashik",
+  "total_schools": 6,
+  "pages_scraped": 1,
+  "listing_only": true,
+  "scraped_at": "2026-04-29T00:19:12.466978",
+  "stop_reason": "next_page_unavailable",
+  "completed": false,
+  "max_pages_limited": false,
+  "validation_passed": true,
+  "validation_errors": [],
+  "pages_visited": [
+    1
+  ],
+  "highest_visible_page_seen": null,
+  "pages_with_zero_new_schools": [],
+  "duplicate_hits": 0,
+  "cross_city_skips": 0,
+  "missing_slug_skips": 0,
+  "saved_school_folders": 6,
+  "page_stats": [
+    {
+      "page": 1,
+      "cards_found": 6,
+      "unique_schools_found": 6,
+      "new_schools_saved": 6,
+      "duplicate_hits": 0,
+      "cross_city_skips": 0,
+      "missing_slug_skips": 0,
+      "visible_numbers": [],
+      "visible_last_page": null,
+      "has_exact_next": false,
+      "signature_seen_on_page": null
+    }
+  ]
+}

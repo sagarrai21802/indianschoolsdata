@@ -1,0 +1,369 @@
+{
+  "slug": "/school/patiala/career-defence-school-rakhra",
+  "url": "https://yellowslate.com/school/patiala/career-defence-school-rakhra",
+  "city": "patiala",
+  "name": "Career Defence School - Rakhra ",
+  "scraped_at": "2026-04-29T01:13:37.541820",
+  "html_length": 305315,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Patiala",
+          "item": "https://yellowslate.com/schools/patiala"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Rakhra",
+          "item": "https://yellowslate.com/schools/patiala/rakhra"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/patiala/rakhra/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Career Defence School",
+          "item": "https://yellowslate.com/school/patiala/career-defence-school-rakhra"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Career Defence School - Rakhra",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/patiala/career-defence-school-rakhra",
+      "telephone": "+91 828 408 6743",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Career International School -12 km from Thapar University Opp Rakhra kothi Patiala- Nabha Road Village Rakhra Punjab , 147001, Patiala, Punjab",
+        "addressLocality": "Patiala",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.3564242,
+        "longitude": 76.3647012
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Career International School -12 km from Thapar University Opp Rakhra kothi Patiala- Nabha Road Village Rakhra Punjab , 147001, Patiala, Punjab",
+              "addressLocality": "Patiala",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/patiala/career-defence-school-rakhra-rakhra-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nicky Ghotra"
+          },
+          "datePublished": "2024-10-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good condition and staff is very good behavior in school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Meenu"
+          },
+          "datePublished": "2024-10-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent campus,good playground,excellent labs,library,good hostel",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Asha Deor"
+          },
+          "datePublished": "2024-10-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Campus was quite good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nazam Singh"
+          },
+          "datePublished": "2024-10-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Campus is very excellent because these campus is very beautiful and cleaness and extry prepration",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Renu Kamboj"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "very good campus and hostel and sports facilities. healthy environment.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "GAURAV DIWAN"
+          },
+          "datePublished": "2024-09-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Community where every student feels valued and empowered",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ramneet Kaur"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Career defence group of school 🤞🏻best experience staff are cooperative",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jaswant Singj"
+          },
+          "datePublished": "2024-09-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I visited the camps its beautiful and marvelous. Good fresh environment 👍👍🙏🙏",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashi anand Ashi anand"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This branch gives positivity\nAnd everything is nice here",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Career Defence School - Rakhra"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shru Sharma"
+          },
+          "datePublished": "2024-09-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent school. Best",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://8views.com/\\",
+    "https://schema.org\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://twitter.com/yellow_slate",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://8views.com/",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/schools/1749282218492-w0k55dxi.jpg\\",
+    "https://www.clarity.ms/tag/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64r0h1",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://wa.me/919513238818"
+  ],
+  "rating": "4.6",
+  "views": "102",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Rakhra",
+  "board": "CBSE\n\nCo",
+  "established": "2022",
+  "category": "Boarding Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png"
+  ]
+}

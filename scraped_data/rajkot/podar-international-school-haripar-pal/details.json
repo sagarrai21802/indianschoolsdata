@@ -1,0 +1,366 @@
+{
+  "slug": "/school/rajkot/podar-international-school-haripar-pal",
+  "url": "https://yellowslate.com/school/rajkot/podar-international-school-haripar-pal",
+  "city": "rajkot",
+  "name": "Podar International School - Haripar Pal ",
+  "scraped_at": "2026-04-29T00:21:01.447857",
+  "html_length": 326898,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Haripar Pal",
+          "item": "https://yellowslate.com/schools/rajkot/haripar-pal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/haripar-pal/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Podar International School",
+          "item": "https://yellowslate.com/school/rajkot/podar-international-school-haripar-pal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Podar International School - Haripar Pal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/podar-international-school-haripar-pal",
+      "telephone": "6366437880",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kalawad Road, Opposite Drive in Cinema, Avadh Road, Behind N.R.I. Colony, Haripar Pal Village, Rajkot - 360005. Gujarat.",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kalawad Road, Opposite Drive in Cinema, Avadh Road, Behind N.R.I. Colony, Haripar Pal Village, Rajkot - 360005. Gujarat.",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/podar-international-school-haripar-pal-haripar-pal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "60"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "RUCHITA VARIYA"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Atmosphere is good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushbu Bhatt"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amazing environment",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vinit Gajjar"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Podar International School - Rajkot\nGreat school with dedicated teachers, a supportive environment, and a strong focus on academic and personal growth. The staff is always helpful, and the extracurricular activities offer a well-rounded experience for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suresh Choudhary"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Great infrastructure, great faculty, great facilities, great academics! Overall one of the best schools in Gujarat",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Radhika Phutane"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It's great advice to parents. who are searing the school for their kids .Podar is the best school .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vibha Hadvani"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Wonderfull school.....",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Clive D'silva"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Podar International School, Rajkot is doing excellent in all the fields especially giving a lot of exposure to children. Very nicely planned and organized Academic programme. Wonderful efforts are put in by Principal Madam & all teachers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bharti Chavada"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Principal mam is so cooperative while the accounts staff treats like family to us. Best school in Rajkot",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mehta Mayur"
+          },
+          "datePublished": "2024-09-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "No 1 School of Gujarat..",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Podar International School - Haripar Pal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dhairya Ghaghda"
+          },
+          "datePublished": "2024-07-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "PIS should be considered one of the best schools in rajkot, being a student of the school I feel happy to be studying here as the faculties are very friendly and good, studying doesn't feel boring anymore to me, it's learn with fun here, fees are also reasonable compared to other schools and other than this, there are no safety issues here and also the management is way too good, students are encouraged to take part in co-curricular activities and events that gives a good experience for their future with unforgettable memories, lastly i would like to tell that there are students that are also best in different sports. Thank you PIS for giving the experience and knowledge we need in our lives.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.2",
+  "views": "0",
+  "reviews_count": "60",
+  "phone": "+919513238818",
+  "locality": "Haripar Pal",
+  "board": "CBSE\n\nGot Questions About Podar International School",
+  "established": "1927",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Podar International School ?\nAsk a Question\nPodar International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

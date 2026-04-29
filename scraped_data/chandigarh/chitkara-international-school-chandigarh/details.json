@@ -1,0 +1,370 @@
+{
+  "slug": "/school/chandigarh/chitkara-international-school-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/chitkara-international-school-chandigarh",
+  "city": "chandigarh",
+  "name": "Chitkara International School - Chandigarh ",
+  "scraped_at": "2026-04-29T00:24:45.962924",
+  "html_length": 333261,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Chitkara International School",
+          "item": "https://yellowslate.com/school/chandigarh/chitkara-international-school-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Chitkara International School - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/chitkara-international-school-chandigarh",
+      "telephone": "na",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Udyog Path, Sector 25, Chandigarh, 160014",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Udyog Path, Sector 25, Chandigarh, 160014",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/chitkara-international-school-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "97"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Seema Gupta"
+          },
+          "datePublished": "2025-03-03",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very big infrastructure and so much of cleanliness , so impressive school 🏫🎒🏫🎒.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MERA PUNJAB"
+          },
+          "datePublished": "2025-01-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sukhwinder singh"
+          },
+          "datePublished": "2025-01-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Comfortable and perfect infrastructure for kids",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Robin Gupta"
+          },
+          "datePublished": "2024-12-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Chitkara International School believes in holistic development of the students. I have seen my ward growing with an improved confidence and better approach towards studies. The faculty here is always ready to help the students in every possible way. It is indeed the best school in Tricity!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashman"
+          },
+          "datePublished": "2024-12-26",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Recently, I visited CIS for the Regional Adolescent Summit 2024. It was a 2 day event, which was about mental well-being and holistic development of children and adolescents. As a visitor, my experience at CIS was incredible! Right as we entered their school we were astonished by their infrastructure. They set up a bunch of beautiful stalls, each with a different life skill activity teaching us the importance of hospitality and personal skills like self-discipline, self-reflection, confidence etc. As we move forward, they had a great arrangement for breakfast. We then went to their auditorium, where the Summit began. We were taught about different kinds of therapies. After a long session of studying about the therapies, we were served lunch which was again brilliant. Later, we were divided into groups for different sessions and after those the day was ended with evening snacks. Day 2 was just as thrilling. From the stalls to the food, to sessions, everything was truly remarkable. In short, we had a lovely time at CIS, their hospitality is truly admirable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ritika Saini"
+          },
+          "datePublished": "2024-12-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This is the worst school i have ever seen in my life . Their management and securtiy guards are so vulnerable  yesterday  when they have annual function they just deny the entry I don’t understand if they want to do this then why they invite the parents when we called on reception they also are just weird they are just saying we are calling on gate but they don’t . And on the admission time they pretend to be so nice but the real faces are seen later . So if you are admitted your child here think twice 🙏🏻",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Saroj"
+          },
+          "datePublished": "2024-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school and excellent service",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sarabjeet kaur"
+          },
+          "datePublished": "2024-07-16",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Facing so much issue related to bus services and not getting any response from school administrators.Its is harrassing before taking addmission they told they will provide bus services and now they are can't provide bus facility",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Aashish Raizada"
+          },
+          "datePublished": "2024-06-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "CIS provides a strong educational foundation. The teachers here are dedicated and strive to support student success. The curriculum is thoughtfully designed, ensuring students are well-prepared for higher education and future careers. There’s a diverse range of extracurricular activities that foster a sense of community. The facilities are well-maintained, and the administration is generally supportive and approachable. Overall, the school provides a well-rounded education and a positive environment for students.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Chitkara International School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Narinder"
+          },
+          "datePublished": "2024-06-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a wonderful place to K-12 schooling education in terms of administrative point of view since I visited there only once, so can't remarks on the quality of education. But I heard from locals that it is wonderful school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.5",
+  "views": "0",
+  "reviews_count": "97",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "CBSE\n\nGot Questions About Chitkara International School",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Chitkara International School ?\nAsk a Question\nChitkara International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

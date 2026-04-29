@@ -1,0 +1,366 @@
+{
+  "slug": "/school/haldwani/naini-valley-sr-secondary-school-kathgodam",
+  "url": "https://yellowslate.com/school/haldwani/naini-valley-sr-secondary-school-kathgodam",
+  "city": "haldwani",
+  "name": "Naini Valley Sr. Secondary School - Kathgodam ",
+  "scraped_at": "2026-04-29T01:01:17.627926",
+  "html_length": 307209,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Haldwani",
+          "item": "https://yellowslate.com/schools/haldwani"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kathgodam",
+          "item": "https://yellowslate.com/schools/haldwani/kathgodam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/haldwani/kathgodam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Naini Valley Sr. Secondary School",
+          "item": "https://yellowslate.com/school/haldwani/naini-valley-sr-secondary-school-kathgodam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Naini Valley Sr. Secondary School - Kathgodam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/haldwani/naini-valley-sr-secondary-school-kathgodam",
+      "telephone": "05946-222339",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "12, Panchsheel Kathgodam, Nainital (Uttarakhand), India 263139",
+        "addressLocality": "HALDWANI",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "12, Panchsheel Kathgodam, Nainital (Uttarakhand), India 263139",
+              "addressLocality": "HALDWANI",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/haldwani/naini-valley-sr-secondary-school-kathgodam-kathgodam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.2",
+              "reviewCount": "43"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Teena Kim"
+          },
+          "datePublished": "2025-01-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice school and fees is so amazing and low",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nischay Nayal"
+          },
+          "datePublished": "2024-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Don't judge the school with its infrastructure!The quality of education the school is providing is better than any other school😁.The teachers here are experienced,supportive,knowledgeable and much more.\nBut there exists some drawbacks too .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nirmala Tamta"
+          },
+          "datePublished": "2024-06-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice studies 😃",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Chetan Rawat"
+          },
+          "datePublished": "2024-01-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience ever with this school I will never advice my junior to join this school.My experience was horrible with this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Otaku"
+          },
+          "datePublished": "2023-05-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Low quality of education for high fees",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anshul Kathayat"
+          },
+          "datePublished": "2023-04-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school\nHelpful teachers\nBut fees are very high\nSecurity is good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Savita Sanwal"
+          },
+          "datePublished": "2022-12-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in life I have ever visited",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parth Belwal"
+          },
+          "datePublished": "2022-08-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fine School To Study",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Karan Bisht"
+          },
+          "datePublished": "2022-02-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "All teachers are best in this school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Naini Valley Sr. Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushi Singh"
+          },
+          "datePublished": "2022-02-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best School in Haldwani, it's not a hi-fi school with huge buildings and playground but it's the most expensive school 🏫 nextly, digital classes are there and it is much better than Beersheba\nQueens\nSt Paul\nSt Teresa and all stuffs",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\"
+  ],
+  "rating": "4.2",
+  "views": "0",
+  "reviews_count": "43",
+  "phone": "+919513238818",
+  "locality": "Kathgodam",
+  "board": "CBSE\n\nGot Questions About Naini Valley Sr",
+  "established": "1993",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Naini Valley Sr. Secondary School ?\nAsk a Question\nNaini Valley Sr. Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

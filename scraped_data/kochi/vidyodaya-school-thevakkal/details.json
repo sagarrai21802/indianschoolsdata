@@ -1,0 +1,366 @@
+{
+  "slug": "/school/kochi/vidyodaya-school-thevakkal",
+  "url": "https://yellowslate.com/school/kochi/vidyodaya-school-thevakkal",
+  "city": "kochi",
+  "name": "Vidyodaya School - Thevakkal ",
+  "scraped_at": "2026-04-29T00:23:08.712325",
+  "html_length": 315151,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kochi",
+          "item": "https://yellowslate.com/schools/kochi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Thevakkal",
+          "item": "https://yellowslate.com/schools/kochi/thevakkal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kochi/thevakkal/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vidyodaya School",
+          "item": "https://yellowslate.com/school/kochi/vidyodaya-school-thevakkal"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vidyodaya School - Thevakkal",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kochi/vidyodaya-school-thevakkal",
+      "telephone": " 0484-2410972",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "29X8+GJX, Edappally - Pukkattupady Rd, Thevakkal, Kochi, Kerala 682021",
+        "addressLocality": "Kochi",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "29X8+GJX, Edappally - Pukkattupady Rd, Thevakkal, Kochi, Kerala 682021",
+              "addressLocality": "Kochi",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kochi/vidyodaya-school-thevakkal-thevakkal-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.0",
+              "reviewCount": "80"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nidhi Sajan"
+          },
+          "datePublished": "2025-01-31",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Please do not send your child to this school if their mental health matters to you.\n\nAt first glance, Vidyodaya School seems like a paradise – lush greenery, well-dressed students, and an air of exclusivity. But if your child's mental well-being matters, I strongly advise against sending them here.\n\nAs a former student, I can say with confidence that behind the polished image lies a deeply flawed system. Teachers wield unnecessary power, fabricating stories about students and creating unnecessary trouble for both them and their parents. The school fosters an environment of stress and anxiety rather than learning and growth.\n\nEverything revolves around money. While donations for relief funds are understandable, forcing students—including those who have personally suffered in the disaster—to contribute is beyond insensitive. And despite all the money they collect, the infrastructure remains shockingly inadequate. Some blocks don’t even have proper washrooms, especially for girls, which is unacceptable in any educational institution.\n\nNormal friendships between boys and girls are scrutinized, and having a relationship is treated like a crime. The school creates unnecessary fear and stress instead of fostering a healthy environment.\n\nA school should nurture and protect its students, not exploit them. If you want a place where your child will genuinely thrive, look elsewhere.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "John Mathai"
+          },
+          "datePublished": "2025-01-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "When my sister was studying the school was good in academics and extra curricular activities but now the school is bad. If some children fight the school will cancel the trip that year",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Althaf Mohammed"
+          },
+          "datePublished": "2024-12-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good in sports and studies and well maintained campus plastic free no bit of plastic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ashraf K M"
+          },
+          "datePublished": "2024-10-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Staffs are not at all cooperative... Called them to enquire about an admission, very bad behaviour from their side.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "KALPITA CHAKRABORTTY"
+          },
+          "datePublished": "2024-09-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school support sports",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Wyse"
+          },
+          "datePublished": "2024-08-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vidyodaya School is a truly remarkable institution with an aesthetically pleasing campus and a commendable education system. The teachers are dedicated and genuinely committed to fostering a supportive learning environment. However, there is a significant concern that requires immediate attention.\n\nThe requirement for students to attend school on nearly every Saturday is a considerable burden for families. Weekends are the only opportunity we have for meaningful family interactions and relaxation. This schedule severely restricts our ability to connect as a family unit. This concern has been raised repeatedly during parent-teacher meetings, and it is clear that many other parents share this frustration.\n\nWhile it may be true that other schools follow similar practices, Vidyodaya, as one of the leading schools in Ernakulam, has the unique opportunity to set a progressive standard. A school of this caliber should recognize the importance of balancing academic excellence with respecting family time. Education extends beyond academics; it is also about nurturing well-rounded individuals with strong family ties.\n\nIt is imperative that Vidyodaya reevaluates this policy and considers the well-being of both students and their families. By addressing this issue, the school can enhance its reputation and demonstrate leadership in fostering a more holistic approach to education.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Baby soman"
+          },
+          "datePublished": "2024-08-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good atmosphere to study.\nGives lot of opportunities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navneeth Sarat"
+          },
+          "datePublished": "2024-05-27",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Awesome Campus Life...You won't regret joining...Based on personal experiences",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sun Shine"
+          },
+          "datePublished": "2024-05-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school with a great ambience close to nature totally cut off frm the  noisy city ... Great teachers and a great school for starting early school lkg, ukg and beyond.. Well done team vidyodaya ... Keep the good work on.. 12 yrs a Vidyodian my child got the best teachers and support frm the school... Thanks and leaving with lot of fond Memories...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyodaya School - Thevakkal"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Fawzi S"
+          },
+          "datePublished": "2024-05-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Pathetic communication. Called for admission enquiry and the staffs are barely interested in responding to the queries.1",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.0",
+  "views": "0",
+  "reviews_count": "80",
+  "phone": "+919513238818",
+  "locality": "Thevakkal",
+  "board": "CBSE\n\nGot Questions About Vidyodaya School",
+  "established": "1990",
+  "category": "Day Schools",
+  "classes": "1 - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Vidyodaya School ?\nAsk a Question\nVidyodaya School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

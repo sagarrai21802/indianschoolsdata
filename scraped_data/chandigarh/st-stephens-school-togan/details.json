@@ -1,0 +1,371 @@
+{
+  "slug": "/school/chandigarh/st-stephens-school-togan",
+  "url": "https://yellowslate.com/school/chandigarh/st-stephens-school-togan",
+  "city": "chandigarh",
+  "name": "St. Stephens School - Togan ",
+  "scraped_at": "2026-04-29T00:24:25.712048",
+  "html_length": 325017,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Togan",
+          "item": "https://yellowslate.com/schools/chandigarh/togan"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/togan/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "St. Stephens School",
+          "item": "https://yellowslate.com/school/chandigarh/st-stephens-school-togan"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "St. Stephens School - Togan",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/st-stephens-school-togan",
+      "telephone": "+91 769 602 3030",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Near OMAXE, New Chandigarh Togan, Chandigarh, Punjab",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 30.789744,
+        "longitude": 76.722918
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Near OMAXE, New Chandigarh Togan, Chandigarh, Punjab",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/st-stephens-school-togan-togan-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.6",
+              "reviewCount": "57"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-02-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The quality of study material and teaching methodology is not up to the expected standard. There are frequent holidays, which affects the continuity of learning. There is no proper ERP system for assigning or tracking homework—only in name, not in practice.\nThe school is named St. Stephen’s, but it does not reflect the standards or quality associated with the original St. Stephen’s College.\nThe facilities provided are not justified by the high fees being charged. Additionally, there is no proper follow-up with students regarding pending homework or academic progress. Overall, there is a lack of academic discipline and accountability",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh "
+          },
+          "datePublished": "2026-01-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Dictatorship in school. Own rules, so many holidays, only showoff. Study material is pathetic. A Govt school is far better.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh "
+          },
+          "datePublished": "2025-10-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "2",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Lots of own holidays in school. If your child want to enjoy many more holidays, then take admission in this school. No focus on studies ",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nishant"
+          },
+          "datePublished": "2024-11-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A good Christian school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sarabjeet Singh"
+          },
+          "datePublished": "2024-11-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very bad School Don't waste your money",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "jasveer Singh"
+          },
+          "datePublished": "2024-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My school is my happy zone. I love going to school everyday. And credit goes to all my teachers and Principal Sir. My teachers made my study easy and interesting for me and they also encourge me to participate in all the activities. I am proud to be Stephenian.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MCX Crudeoil"
+          },
+          "datePublished": "2024-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Money minded management. Average studies. Pathetic way to school, which is never found in good condition since last ten years. School always try to find different ways to make funds for school and force students to buy things and asking for five star rating and good reviews like beggers. We don’t recommend this school to anyone. Please save your money and your child’s future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Haseen Ansari"
+          },
+          "datePublished": "2024-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My name ali nazim student of class 8A of st Stephen's school Togan this school is luxury and director of school is very sweet hearted thankyou semper sersum",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Indu"
+          },
+          "datePublished": "2024-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am very pleasured to be the stephanian ... Very marvelous school with all facilities available.... Thankyou St Stephen's ...",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "St. Stephens School - Togan"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Naumaan"
+          },
+          "datePublished": "2024-11-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It is a very good school with all activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "3.6",
+  "views": "181",
+  "reviews_count": "57",
+  "phone": "+919513238818",
+  "locality": "Togan",
+  "board": "CBSE\n\nCo",
+  "established": "2001",
+  "category": "Boarding Schools",
+  "classes": "000 - 70",
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "St. Stephens School ?\nAsk a Question\nSt. Stephens School Reviews\nView All Reviews\nOverall Experience\n 1.3\nTeaching Excellence\n 1.7\nValue for Money\n 1.3\nCampus & Facilities\n 2.3\nCo-curricular Activities\n 1.7\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

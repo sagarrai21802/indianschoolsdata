@@ -1,0 +1,366 @@
+{
+  "slug": "/school/rajkot/rajkot-public-school-mota-mawa",
+  "url": "https://yellowslate.com/school/rajkot/rajkot-public-school-mota-mawa",
+  "city": "rajkot",
+  "name": "Rajkot Public School - Mota Mawa ",
+  "scraped_at": "2026-04-29T00:21:25.624684",
+  "html_length": 315755,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Mota Mawa",
+          "item": "https://yellowslate.com/schools/rajkot/mota-mawa"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/mota-mawa/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rajkot Public School",
+          "item": "https://yellowslate.com/school/rajkot/rajkot-public-school-mota-mawa"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rajkot Public School - Mota Mawa",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/rajkot-public-school-mota-mawa",
+      "telephone": "75750 30761",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Ambika Township, Jivraj Park, Off Nanamauva Main Road, Rajkot - 360 004",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Ambika Township, Jivraj Park, Off Nanamauva Main Road, Rajkot - 360 004",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/rajkot-public-school-mota-mawa-mota-mawa-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "50"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Bapambhar"
+          },
+          "datePublished": "2024-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hardik Pandya"
+          },
+          "datePublished": "2023-11-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good ambience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Suryadeepsinh Zala"
+          },
+          "datePublished": "2023-09-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent place",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Neha Rakholiya"
+          },
+          "datePublished": "2023-05-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school in ambika township and well systematic",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jemin Chitroda"
+          },
+          "datePublished": "2023-04-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mintu Makadiya"
+          },
+          "datePublished": "2023-04-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "That was a great experience. My daughter enjoyed very much that day and their was a great respecting thing to our nation that they have prepared parade that a great thing.and their was a another nice thing that they have given medal 🏅 to each group rankers. And student of 12 and 10 standard get big responsibility to manage the event",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "makwana nikita"
+          },
+          "datePublished": "2023-03-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Anita Gupta"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Fantastic School ...RPS brings out the best in every child by tapping into their individual strengths, while creating an environment of kindness, responsibility and leadership..The teachers are professional, caring and well organized..\nPrincipal Mam here is a very down to earth person who is always ready to listen and clear all your doubts.\nI highly recommend RPS",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rajdeep Khokhri"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Rajkot public school is a great place for education and also for self development of child. School principal and staff is also very cooperative and generous in response. Many activities related to child development is observed. Thanks to RPS for such extended support.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajkot Public School - Mota Mawa"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Prince Fadadu"
+          },
+          "datePublished": "2023-03-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Competition activity less Karavi",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.3",
+  "views": "0",
+  "reviews_count": "50",
+  "phone": "+919513238818",
+  "locality": "Mota Mawa",
+  "board": "CBSE\n\nGot Questions About Rajkot Public School",
+  "established": "2014",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Rajkot Public School ?\nAsk a Question\nRajkot Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

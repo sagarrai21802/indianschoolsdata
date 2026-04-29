@@ -1,0 +1,370 @@
+{
+  "slug": "/school/chandigarh/amity-international-school-sahibzada-ajit-singh-nagar",
+  "url": "https://yellowslate.com/school/chandigarh/amity-international-school-sahibzada-ajit-singh-nagar",
+  "city": "chandigarh",
+  "name": "Amity International School - Sahibzada Ajit Singh Nagar ",
+  "scraped_at": "2026-04-29T00:24:30.453273",
+  "html_length": 337440,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sahibzada Ajit Singh Nagar",
+          "item": "https://yellowslate.com/schools/chandigarh/sahibzada-ajit-singh-nagar"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/sahibzada-ajit-singh-nagar/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Amity International School",
+          "item": "https://yellowslate.com/school/chandigarh/amity-international-school-sahibzada-ajit-singh-nagar"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Amity International School - Sahibzada Ajit Singh Nagar",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/amity-international-school-sahibzada-ajit-singh-nagar",
+      "telephone": "07743000241",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/amity-international-school-sahibzada-ajit-singh-nagar-sahibzada-ajit-singh-nagar-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "94"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dakshil Singh"
+          },
+          "datePublished": "2025-03-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nishtha sharma"
+          },
+          "datePublished": "2025-03-21",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My daughter being a Noida Amitian previously, we chose AIS Mohali for her Grade 3 when we shifted here last year. So far the journey has been great. The transition was very smooth and we did not face any issue. However, the school is still growing and picking up the Amity pace. The infrastructure, curriculum, activities are all up to the minute and very well executed.\n\nThey have an amazing set of teachers who are encouraging and very caring. Especially her class teacher \"Neha Anand ma'am\" who is extremely passionate and loving. She is very cooperative and easily approachable and pays personal attention to each student. She has all the expertise to teach a 3rd grader and very well versed with the abilities and limitations of this age group which is highly important. Thank you so much ma'am we had a wonderful year with you!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Navjot Gill"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Extremely well managed curriculum & kind-loving staff, we love the fact that the school focuses on all round development- academics-cultural activities- sports- & other extracurriculars. Very safe, secure & friendly environment for the kids, feels like a second home for them! Seeing her grow in the past year, we are very content to have chosen Amity for our daughter!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amanjyot Kaur"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "We are happy with our child's enthusiasm for asking thoughtful questions and learn new things.thank you for the guidance, support and all the hard work this year.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Soodd"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My son studies here. Infrastructure perfect.kids pampered perfect. Unfortunately too sweet and sincere with kids to raise warriors.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Khushboo Kaushal"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amity International School Mohali provides safe environment for kids. Focus on Holistic growth and having high class infrastructure.  Wonderful faculty members and administration.\nWishing all the best 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "nidhi dang manocha"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My experience at Amity has been exceptional. The study environment is fabulous and it fostered my child in academic and personal growth. my child, Keshav Manocha, is having a wonderful learning journey here. A special mention to Ms. Navpreet, whose dedication and teaching approach has been truly amazing her support and guidance have made a significant empact on my child, positively. I highly recommend this school to any parent looking for a quality learning experience while offering their child enough time to nurture and develop their hobbies.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Richa Budwal"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My both kids are in AIS. The confidence my kids have built in is next to amazing. The pedagogy teachers adopt is superb.  Ms.Sukhmani and Ms. Shalini are fabulous teachers who come up with fabulous learning activities. Teacher's warmth and passion towards teaching resulted in fabulous growth in my kids.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Parvinder Sidhu"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school has always been my first priority since the very beginning of my son's education. I am truly grateful for the dedication and hard work of the teachers and staff at Amity International School . The commitment to academic excellence and the nurturing environment make this school a wonderful place for learning and growth. The encouragement and support provided to students help shape their future in the best way possible. Thank you for fostering a culture of knowledge, discipline, and kindness!\n\nRegards\nHarshminder\n(Yuvraj's mother\ngrade 2)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Amity International School - Sahibzada Ajit Singh Nagar"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jyoti"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Amity International School is exceptional! Principal Ms. Sangeeta Sekhon is incredibly hardworking and always motivates students to excel. The teaching approach here is equally impressive—especially from Ms. Navpreet Kaur Dhaliwal, whose energetic and caring style makes learning a joy. My daughter’s confidence and communication skills have truly blossomed.She is one of the best teacher. Highly recommended!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.4",
+  "views": "0",
+  "reviews_count": "94",
+  "phone": "+919513238818",
+  "locality": "Sahibzada Ajit Singh Nagar",
+  "board": "CBSE\n\nGot Questions About Amity International School",
+  "established": "2020",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Amity International School ?\nAsk a Question\nAmity International School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

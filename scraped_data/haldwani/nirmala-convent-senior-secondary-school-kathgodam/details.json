@@ -1,0 +1,367 @@
+{
+  "slug": "/school/haldwani/nirmala-convent-senior-secondary-school-kathgodam",
+  "url": "https://yellowslate.com/school/haldwani/nirmala-convent-senior-secondary-school-kathgodam",
+  "city": "haldwani",
+  "name": "Nirmala Convent Senior Secondary School - Kathgodam ",
+  "scraped_at": "2026-04-29T01:00:16.093721",
+  "html_length": 308459,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Haldwani",
+          "item": "https://yellowslate.com/schools/haldwani"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kathgodam",
+          "item": "https://yellowslate.com/schools/haldwani/kathgodam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/haldwani/kathgodam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Nirmala Convent Senior Secondary School",
+          "item": "https://yellowslate.com/school/haldwani/nirmala-convent-senior-secondary-school-kathgodam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Nirmala Convent Senior Secondary School - Kathgodam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/haldwani/nirmala-convent-senior-secondary-school-kathgodam",
+      "telephone": "05946-266108",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Kathgodam, Nainital, Uttarakhand - 263126",
+        "addressLocality": "HALDWANI",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Kathgodam, Nainital, Uttarakhand - 263126",
+              "addressLocality": "HALDWANI",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/haldwani/nirmala-convent-senior-secondary-school-kathgodam-kathgodam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "110"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dimple Farswan"
+          },
+          "datePublished": "2024-10-17",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A very good school in Haldwani .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Ganesh Rautela"
+          },
+          "datePublished": "2024-09-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school with good facilities and supporting teacher",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Advay Bisht"
+          },
+          "datePublished": "2024-09-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Tanuja Tolia"
+          },
+          "datePublished": "2024-08-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "*Best school in haldwani*\nBecause there is a pretty good nature and teacher are also kind and explains very nicely I have joined this year and having lots of fun .the bagless day are the special day lots of activities fun and joy.\nGood facilities almost all classes are having smart boards and lots of thing .",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Rishabh Joshi"
+          },
+          "datePublished": "2024-07-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Amit"
+          },
+          "datePublished": "2024-04-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Nirmala is best school in haldwani",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sam Himani"
+          },
+          "datePublished": "2024-02-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school is good n the teachers are awesome n loving except for the PT teacher Mrs. Poonam, she is very arrogant,  rude n dosen't know how to treat the students with love n care...she teaches YOGA n I bet she doesn't even know anything about it, moreover, she considers herself the best n  is jealous of o ther teachers...rest the management staff is very kind n supportive n the school environment is overall healthy",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "surendra Bohra"
+          },
+          "datePublished": "2024-01-23",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "MAFUTED OFFICIAL"
+          },
+          "datePublished": "2023-12-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "worst school, there is a teacher name Bhuvan joshi who bullies students in  every possible way, there are so many things to say about him but I don't want to waste my time on him",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Nirmala Convent Senior Secondary School - Kathgodam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jasleen Kaur"
+          },
+          "datePublished": "2023-12-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Worst experience of my life, full of bullies and teacher who were not at all empathetic and supported bullying!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://schema.org\\\\\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR&amp;cx=c&amp;gtm=4e64r0",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://schema.org\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://schema.org/",
+    "http://www.w3.org/2000/svg",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://8views.com/\\"
+  ],
+  "rating": "4.4",
+  "views": "0",
+  "reviews_count": "110",
+  "phone": "+919513238818",
+  "locality": "Kathgodam",
+  "board": "CBSE\n\nGot Questions About Nirmala Convent Senior Secondary School",
+  "established": "1968",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Nirmala Convent Senior Secondary School ?\nAsk a Question\nNirmala Convent Senior Secondary School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1"
+  ]
+}

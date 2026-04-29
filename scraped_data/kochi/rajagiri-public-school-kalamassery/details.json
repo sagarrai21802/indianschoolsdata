@@ -1,0 +1,366 @@
+{
+  "slug": "/school/kochi/rajagiri-public-school-kalamassery",
+  "url": "https://yellowslate.com/school/kochi/rajagiri-public-school-kalamassery",
+  "city": "kochi",
+  "name": "Rajagiri Public School - Kalamassery ",
+  "scraped_at": "2026-04-29T00:22:43.394239",
+  "html_length": 312836,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kochi",
+          "item": "https://yellowslate.com/schools/kochi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kalamassery",
+          "item": "https://yellowslate.com/schools/kochi/kalamassery"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kochi/kalamassery/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Rajagiri Public School",
+          "item": "https://yellowslate.com/school/kochi/rajagiri-public-school-kalamassery"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Rajagiri Public School - Kalamassery",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kochi/rajagiri-public-school-kalamassery",
+      "telephone": "0484-2911202",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "South Kalamassery, Kalamassery, Ernakulam, Kerala 683104",
+        "addressLocality": "Kochi",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "South Kalamassery, Kalamassery, Ernakulam, Kerala 683104",
+              "addressLocality": "Kochi",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kochi/rajagiri-public-school-kalamassery-kalamassery-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "80"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Praveen Ranjit"
+          },
+          "datePublished": "2025-03-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I visited Rajagiri Public School Kalamassery for the admission of my grandchild recently. The school authorities welcomed me with a warm smile and explained about the admission formalities. I felt that this school will be the best institution for the overall development of my grandchild, I am sure that my grandchild will be very comfortable here and this school will become his second home.\nIn this esteemed institution, all facilities are there, well equipped classrooms, the most competent teachers, efficient administrative staff, and over and above all an excellent setup for good quality education. Big campus area for children for proper study and the facilities for extra curricular activities are available. A well established school with very good infrastructure.The present director of the school is the gem of a priest with full of broadminded ideas for the future development of this esteemed institution.\nPraveen Ranjit\nRetired professor\nSt. Albert's college,\nErnakulam",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Raghunandan Ramachandran"
+          },
+          "datePublished": "2025-02-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "One of the most reputed school,  Rajagiri Public School us located at South Kalamassery, Ernakulam\nRajagiri Public School was established in 1994 and is a co-ed school. It is affiliated to the Central Board of Secondary Education (CBSE).",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "wilson raji"
+          },
+          "datePublished": "2025-01-12",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "This school is so great 🥰",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Snail Muchin"
+          },
+          "datePublished": "2024-11-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The students passed out of from here are now diagnosed with anxiety and exam stress. Teachers that need anger management classes are ironically taking those classes for students (tall long braided hair)",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Eva Maria Nelvin"
+          },
+          "datePublished": "2024-11-01",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "BEST SCHOOL EVERRR!!!!!!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Darkmind Photography"
+          },
+          "datePublished": "2024-10-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I visited during the Metro Sahodaya Kalotsav, and it was a wonderful experience. The area and the facilities inside the school were excellent, making the event even more enjoyable.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siyansh N"
+          },
+          "datePublished": "2024-09-04",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Even though the school may bring excellent results in board examinations, the behaviour of the students is very bad there, especially the students of higher classes, as I hear.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sajas KK"
+          },
+          "datePublished": "2024-08-10",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Admitting kids through only recommendations. Zero value to kids performance during interview.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shano Jose"
+          },
+          "datePublished": "2024-01-14",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good infrastructure & good standard of education 👍",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Rajagiri Public School - Kalamassery"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Dr.Jijo Paul"
+          },
+          "datePublished": "2024-01-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very nice",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "http://www.w3.org/2000/svg\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "0",
+  "reviews_count": "80",
+  "phone": "+919513238818",
+  "locality": "Kalamassery",
+  "board": "CBSE\n\nGot Questions About Rajagiri Public School",
+  "established": "1994",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Rajagiri Public School ?\nAsk a Question\nRajagiri Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}

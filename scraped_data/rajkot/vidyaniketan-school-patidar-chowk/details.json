@@ -1,0 +1,366 @@
+{
+  "slug": "/school/rajkot/vidyaniketan-school-patidar-chowk",
+  "url": "https://yellowslate.com/school/rajkot/vidyaniketan-school-patidar-chowk",
+  "city": "rajkot",
+  "name": "Vidyaniketan School - Patidar Chowk ",
+  "scraped_at": "2026-04-29T00:21:54.364499",
+  "html_length": 315829,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajkot",
+          "item": "https://yellowslate.com/schools/rajkot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Patidar Chowk",
+          "item": "https://yellowslate.com/schools/rajkot/patidar-chowk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/rajkot/patidar-chowk/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Vidyaniketan School",
+          "item": "https://yellowslate.com/school/rajkot/vidyaniketan-school-patidar-chowk"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Vidyaniketan School - Patidar Chowk",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/rajkot/vidyaniketan-school-patidar-chowk",
+      "telephone": "+91-82382 02099",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "Patidar Chowk, behind Sadhu Vaswani Road, Rajkot, Gujarat 360005",
+        "addressLocality": "Rajkot",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Patidar Chowk, behind Sadhu Vaswani Road, Rajkot, Gujarat 360005",
+              "addressLocality": "Rajkot",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/rajkot/vidyaniketan-school-patidar-chowk-patidar-chowk-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "117"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Nikshu Bansal"
+          },
+          "datePublished": "2024-10-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best education and perfect place for education arts commerce science",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ambani milan"
+          },
+          "datePublished": "2024-05-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good experience",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Jiten Pipliya"
+          },
+          "datePublished": "2024-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "It was best experience in this school. Good teaching methods and activities for children for build their future.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "sahyog jetpur"
+          },
+          "datePublished": "2024-04-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very Good School. Very Co-operative & well educated staff. School premises is also well maintained. Students have many opportunities to learn extra activity with their education. Mr. Kapoor Sir, Veena Medam & Respected Dadiji are very down to earth persons always ready to help people.\nMy son Daivat Nathwani is in this School since last two years.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "V. J Shingala"
+          },
+          "datePublished": "2024-04-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Name:- SHINGALA VIHAAN VIPULBHAI\nDOB:- 06/02/2017",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Yogesh Gami"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Excellent schooling system",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Vipul Patel"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "TULSI P"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Khub Saras",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Maheshwari Parmar"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Vidhyaniketan school is very supportive in every aspects. They r helping my child in grow n they r lending their immence support to him. I am very thankful to the school.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Vidyaniketan School - Patidar Chowk"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Kevin Vidja"
+          },
+          "datePublished": "2024-04-19",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "VidyaNiketan school doing excellent work in Education field, They also accept  special Needs Kids and putting so much efforts for them too. It is the only school in Rajkot who look forward for these kids.\nI am really grateful for you Team VidyaNiketan.\n\nThank You",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.clarity.ms/tag/\\\\\\",
+    "https://schema.org\\\\\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "http://www.w3.org/2000/svg",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://twitter.com/yellow_slate\\",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://wa.me/919513238818",
+    "http://www.w3.org/2000/svg\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0h1",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T"
+  ],
+  "rating": "4.8",
+  "views": "0",
+  "reviews_count": "117",
+  "phone": "+919513238818",
+  "locality": "Patidar Chowk",
+  "board": "CBSE\n\nGot Questions About Vidyaniketan School",
+  "established": "2004",
+  "category": "Day Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Vidyaniketan School ?\nAsk a Question\nVidyaniketan School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null"
+  ]
+}

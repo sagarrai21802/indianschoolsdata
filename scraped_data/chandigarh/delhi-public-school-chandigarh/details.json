@@ -1,0 +1,371 @@
+{
+  "slug": "/school/chandigarh/delhi-public-school-chandigarh",
+  "url": "https://yellowslate.com/school/chandigarh/delhi-public-school-chandigarh",
+  "city": "chandigarh",
+  "name": "Delhi Public School - Chandigarh ",
+  "scraped_at": "2026-04-29T00:26:08.418469",
+  "html_length": 332071,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chandigarh",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/chandigarh/chandigarh/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Delhi Public School",
+          "item": "https://yellowslate.com/school/chandigarh/delhi-public-school-chandigarh"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Delhi Public School - Chandigarh",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+      "@id": "",
+      "url": "https://yellowslate.com/school/chandigarh/delhi-public-school-chandigarh",
+      "telephone": "na",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "lane 2360 Oposite, Delhi Public School, 2357/2, Sector 40C Rd, Sector 40C, Sector 40D, Chandigarh, 160036",
+        "addressLocality": "Chandigarh",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "lane 2360 Oposite, Delhi Public School, 2357/2, Sector 40C Rd, Sector 40C, Sector 40D, Chandigarh, 160036",
+              "addressLocality": "Chandigarh",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/chandigarh/delhi-public-school-chandigarh-chandigarh-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.1",
+              "reviewCount": "150"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "ashish kainthla"
+          },
+          "datePublished": "2025-03-09",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very good school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Mehernaz Kaur"
+          },
+          "datePublished": "2025-02-25",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Best school EVER I LOVE THE KIDS AND PEOPLE IN THIS SCHOOL AMAZING LOVING PEOPLE I LOVE THEM SO MUCH",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gurpreet Kaur"
+          },
+          "datePublished": "2025-01-22",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "3",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Main focus is on completion of course and no focus on improving other co curricular activities or physical activity\nOnly pushes that child who itself is better in a field rather raw is to be polished so that each child excels in separate fields",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shelly Tyagi"
+          },
+          "datePublished": "2024-12-18",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "The school does not even have a proper sporting system and its all about exams and studies like how can a kid be creative smh",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Detective.PrivateLimted."
+          },
+          "datePublished": "2024-12-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Facilities  4 star\nFee 12k without bus\nGood teacher",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harjinder Singh"
+          },
+          "datePublished": "2024-12-05",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "worst school ... they charge so much money and then ask the students to collect money for organ donation ..\nparents r already paying so much fees . why should there children collect money . and after all that they find new ways to get money from parents .... u hope this review will help parents",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Harmeet Kaur"
+          },
+          "datePublished": "2024-11-30",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I am studying in this school right now and I don't think so anything is good about this school..the headmistress don't even solve the case .... most of the teachers r rude... no games r played during pe period ... lot of fees is charged.. so many rules and regulations r there just for students. Teacher wards get so much privilege and they score good marks .I just wish to get out of this school asap ... the teacher wards r allowed to meet their parents but others r not ... if a teacher ward is travelling in bus ,, no fees is charged frim them .... and the councillor such as shangrila mam will never be helping u in any case ..... worst school",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Abhayvir Arora"
+          },
+          "datePublished": "2024-11-02",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Study system is very good but teachers are very bad everyday they keep exams they talk rudely to the parents I studied till 10th except 6th 7th 8th teachers were not that bad but 6,7,8 teachers had pathetic behaviour my parents somehow stopped me leaving the school in 8th but in 10th I couldn't bare it I immediately left the school their teachers abuse also If teachers had a good behaviour this could have been a good my suggestions\nAre to expel ms kamaljeet Kaur",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "CP"
+          },
+          "datePublished": "2024-10-15",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I recently had the pleasure of going on a trip with DPS Chandigarh to Jaipur, and it was truly a wonderful experience. The children were incredibly sweet and respectful, and I learned so much from them. But the teachers were beyond words—despite being tired, they still found ways to lift our spirits and always on their toes to help. Their care and dedication reminded me of the nurturing presence of a mother. I feel so grateful and honored to have been their journey mentor.\n\nTeachers were\nMs Neha,Ms Arpana, Mr Mani,Ms Diksha, Ms Preeti,Ms Kanchan ,Mr Raghav",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Delhi Public School - Chandigarh"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manoj Kr Pokhriyal"
+          },
+          "datePublished": "2024-09-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Good education hub along lots of student engagement activities",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null\\\\\\",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png\\",
+    "http://www.w3.org/2000/svg\\",
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "https://schema.org",
+    "https://twitter.com/yellow_slate\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/thumb.png\\",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://twitter.com/yellow_slate",
+    "https://schema.org/",
+    "https://8views.com/\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://www.clarity.ms/tag/",
+    "https://yellowslate.youcanbook.me/",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg\\",
+    "https://wa.me/919513238818",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://schema.org/\\\\\\",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.1",
+  "views": "0",
+  "reviews_count": "150",
+  "phone": "+919513238818",
+  "locality": "Chandigarh",
+  "board": "CBSE\n\nGot Questions About Delhi Public School",
+  "established": null,
+  "category": "Public Schools",
+  "classes": "Nursery - 12",
+  "gender": null,
+  "fees_range": null,
+  "about": "Delhi Public School ?\nAsk a Question\nDelhi Public School Reviews\nView All Reviews\nOverall Experience\n 0\nTeaching Excellence\n 0\nValue for Money\n 0\nCampus & Facilities\n 0\nCo-curricular Activities\n 0\nWrite a review",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/null",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/03/Bulk-1-Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner.png",
+    "https://yellowslate-blog.blr1.digitaloceanspaces.com/2024/07/Bulk-1-Bulk-1-Bulk-1-Blue-Modern-Dream-Home-For-Sale-Blog-Banner-18.jpg"
+  ]
+}

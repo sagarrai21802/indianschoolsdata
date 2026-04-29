@@ -1,0 +1,367 @@
+{
+  "slug": "/school/kochi/global-public-school-thiruvankulam",
+  "url": "https://yellowslate.com/school/kochi/global-public-school-thiruvankulam",
+  "city": "kochi",
+  "name": "Global Public School - Thiruvankulam ",
+  "scraped_at": "2026-04-29T00:22:24.440859",
+  "html_length": 319288,
+  "structured_data": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://yellowslate.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kochi",
+          "item": "https://yellowslate.com/schools/kochi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Thiruvankulam",
+          "item": "https://yellowslate.com/schools/kochi/thiruvankulam"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "CBSE",
+          "item": "https://yellowslate.com/schools/kochi/thiruvankulam/cbse"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Global Public School",
+          "item": "https://yellowslate.com/school/kochi/global-public-school-thiruvankulam"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Global Public School - Thiruvankulam",
+      "image": "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+      "@id": "",
+      "url": "https://yellowslate.com/school/kochi/global-public-school-thiruvankulam",
+      "telephone": "+91 484 271 3743",
+      "address": {
+        "@type": "PostalAddress",
+        "Address": "P.O, Thiruvaniyoor, Thiruvankulam - Chottanikkara Road, Kochi, Kerala",
+        "addressLocality": "Kochi",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 9.9328715,
+        "longitude": 76.3808323
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "P.O, Thiruvaniyoor, Thiruvankulam - Chottanikkara Road, Kochi, Kerala",
+              "addressLocality": "Kochi",
+              "addressCountry": "IN"
+            },
+            "url": "https://yellowslate.com/kochi/global-public-school-thiruvankulam-thiruvankulam-reviews",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "97"
+            }
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Pamecha"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Justice for mihir ahammed",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Priyanka Pamecha"
+          },
+          "datePublished": "2025-03-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "1",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Justice for mihir ahammed",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "rajani sunny"
+          },
+          "datePublished": "2024-07-29",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "\"Our experience with the school from Stepping Stones to Plus Two has been exceptional.My son thoroughly enjoyed his schooling, as it was filled with engaging activities and fun.The school provided a perfect balance between academics and extracurricular activities. We are grateful for the wonderful journey and the positive impact the school had on him.\"",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Greeshma C Salim"
+          },
+          "datePublished": "2024-07-24",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "As a parent, the first major decision that one has to take is about your child's schooling. I can sincerely say that enrolling my son at GPS is the best thing that I did. The allround development that the school offers is the best. Apart from the academics and extracurricular skills, they strive to instill values in all the little ones.... Beginning from Stepping Stones, they made it easier for my son to achieve his small and mighty successes... Thank you Global Public School...❤️",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Shibi Anand"
+          },
+          "datePublished": "2024-07-20",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "I had the pleasure of visiting Global Public School last year, and I was thoroughly impressed by what I saw. The visionary leadership of the school is evident in every aspect, from the innovative curriculum to the nurturing environment. The culture here is one of excellence and inclusivity, fostering both academic and personal growth. The staff is dedicated and passionate, creating a supportive atmosphere for students. It's clear that Global Public School is committed to shaping future leaders. Highly recommend!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Sreeja Ramachandran"
+          },
+          "datePublished": "2024-07-13",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "My two daughters had a wonderful time studying at GPS. They were amidst a very pleasant cohort of students and I am glad they had good guidance and support from their teachers. The school has a highly accessible and accommodating management and is open to exploring newer avenues to engage both students and faculty.\n\nA shout out to the management and the teachers for enabling strong and meaningful bonds with the kids!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "annie inasu"
+          },
+          "datePublished": "2024-07-11",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "A school where children are the absolute priority.\nTeachers who know that one size doesn’t fit all and who cater to their individual needs with ease !",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Saiju Aravindakshan"
+          },
+          "datePublished": "2024-07-08",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Very progressive school and one of the best in Kerala for holistic development of students. A thought leader in implementing advanced teaching-learning methods.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "George Varghese"
+          },
+          "datePublished": "2024-07-07",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "Global school has the right ambiance and infrastructure for child's overall development",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        },
+        {
+          "@type": "Review",
+          "itemReviewed": {
+            "@type": "School",
+            "name": "Global Public School - Thiruvankulam"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Manjusha N.V."
+          },
+          "datePublished": "2024-07-06",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "reviewBody": "More than just a place to learn, Global Public School is a caring community that helps students get ready for both academic success and life after school. I fervently urge any parent looking for a school where their child may develop intellectually, socially, and emotionally to consider Global Public School. With its exceptional teachers, encouraging community, and commitment to the full development of students, Global Public School is a model of excellence in education.\nThe Success and Integrity of Global Public School's Leaders, Particularly Jacob Sir, Lakshmi Ma'am and Johan Sir, are more important indicators of the accomplishments of the school. School's spirit of excellence is embodied by their leadership, resilience, and passion, which set a high bar for their peers.",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Yellow Slate"
+          }
+        }
+      ]
+    }
+  ],
+  "instagram_posts": [],
+  "instagram_posts_count": 0,
+  "videos": [],
+  "email_candidates": [],
+  "website_urls": [
+    "https://my.hellobar.com/c3e30b36ca904cf24930917abfa3d4cbb11aecfe.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.youtube.com/@yellowslateHyderabad",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\",
+    "https://schema.org/",
+    "https://www.googletagmanager.com/gtm.js?id=",
+    "https://scripts.clarity.ms/0.8.59-beta/clarity.js",
+    "https://www.googletagmanager.com/gtag/js?id=AW-11054822296&amp;cx=c&amp;gtm=4e64r0",
+    "https://twitter.com/yellow_slate",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR\\",
+    "https://www.clarity.ms/tag/syt030gya8",
+    "http://www.w3.org/2000/svg",
+    "https://8views.com/\\",
+    "https://yellowslate.youcanbook.me/",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png\\\\\\",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-5SW2S6T",
+    "https://www.youtube.com/@yellowslateHyderabad\\",
+    "https://www.googletagmanager.com/gtag/js?id=G-BP84H9P9RR",
+    "https://schema.org\\",
+    "https://schema.org\\\\\\",
+    "https://wa.me/919513238818",
+    "https://8views.com/",
+    "https://www.clarity.ms/tag/",
+    "https://twitter.com/yellow_slate\\",
+    "https://schema.org",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "http://www.w3.org/2000/svg\\",
+    "https://schema.org/\\\\\\",
+    "https://www.clarity.ms/tag/\\\\\\"
+  ],
+  "rating": "4.3",
+  "views": "127",
+  "reviews_count": "97",
+  "phone": "+919513238818",
+  "locality": "Thiruvankulam",
+  "board": "CBSE, IB\n\nCo",
+  "established": null,
+  "category": "Boarding Schools",
+  "classes": null,
+  "gender": "Co-Education",
+  "fees_range": null,
+  "about": "Location\nReviews",
+  "images": [
+    "https://www.facebook.com/tr?id=1737704393208569&amp;ev=PageView&amp;noscript=1",
+    "https://yellowslate.sgp1.cdn.digitaloceanspaces.com/schools/profile.png",
+    "https://yellowslate.com/_next/image?url=%2Fimages%2Flogo.png&amp;w=1200&amp;q=75"
+  ]
+}
